@@ -1,14 +1,52 @@
 <!DOCTYPE html>
-<html>
+<html lang="ml">
 <head>
-    <title>My Daily Projects</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="സായാഹ്ന വാർത്ത - E-Paper Archive">
+    <title>സായാഹ്ന വാർത്ത | E-Paper Archive</title>
+    <link rel="stylesheet" href="archive.css">
 </head>
 <body>
 
-    <h1>My Daily Projects</h1>
+<main class="page">
 
-    <a href="03092026/">03-09-2026 Project</a><br>
-    <a href="04092026/">04-09-2026 Project</a><br>
+    <header class="site-header">
+        <img src="images/logo.png" alt="സായാഹ്ന വാർത്ത E-Paper" class="logo">
 
+        <h1>സായാഹ്ന വാർത്ത</h1>
+        <p class="subtitle">E-PAPER ARCHIVE</p>
+        <p class="tagline">നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ</p>
+    </header>
+
+    <section class="latest-section">
+        <div class="section-heading">
+            <h2>ഏറ്റവും പുതിയ പതിപ്പുകൾ</h2>
+            <span>Latest Editions</span>
+        </div>
+        <div id="latest" class="latest-grid"></div>
+    </section>
+
+    <section class="archive-section">
+        <div class="section-heading">
+            <h2>മുൻ പതിപ്പുകൾ</h2>
+            <span>Previous Editions</span>
+        </div>
+
+        <div class="archive-tools">
+            <label for="search">തിരയുക / Search</label>
+            <input id="search" type="search" placeholder="Issue number or date...">
+        </div>
+
+        <div id="archive"></div>
+    </section>
+
+    <footer>
+        <p>© <span id="year"></span> സായാഹ്ന വാർത്ത — All Rights Reserved</p>
+    </footer>
+
+</main>
+
+<script src="archive.js"></script>
 </body>
 </html>

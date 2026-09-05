@@ -1,0 +1,308 @@
+{
+  "site": {
+    "name": "സായാഹ്ന വാർത്തകള്‍",
+    "englishName": "Evening News",
+    "subtitle": "E-PAPER ARCHIVE",
+    "description": "Daily evening e-paper archive"
+  },
+  "settings": {
+    "latestCount": 6,
+    "showLegacyNotice": true
+  },
+  "issues": [
+    {
+      "issue": 439,
+      "date": "2026-08-31",
+      "status": "To be published",
+      "path": "https://www.geocities.ws/e-paper/31082026/"
+    },
+    {
+      "issue": 438,
+      "date": "2026-08-30",
+      "status": "To be published",
+      "path": "https://www.geocities.ws/e-paper/30082026/"
+    },
+    {
+      "issue": 437,
+      "date": "2026-08-29",
+      "status": "To be published",
+      "path": "https://www.geocities.ws/e-paper/29082026/"
+    },
+    {
+      "issue": 436,
+      "date": "2026-08-28",
+      "status": "To be published",
+      "path": "https://www.geocities.ws/e-paper/28082026/"
+    },
+    {
+      "issue": 435,
+      "date": "2026-08-27",
+      "status": "To be published",
+      "path": "https://www.geocities.ws/e-paper/27082026/"
+    },
+    {
+      "issue": 434,
+      "date": "2026-08-26",
+      "status": "To be published",
+      "path": "https://www.geocities.ws/e-paper/26082026/"
+    },
+    {
+      "issue": 433,
+      "date": "2026-08-25",
+      "status": "To be published",
+      "path": "https://www.geocities.ws/e-paper/25082026/"
+    },
+    {
+      "issue": 432,
+      "date": "2026-08-24",
+      "status": "To be published",
+      "path": "https://www.geocities.ws/e-paper/24082026/"
+    },
+    {
+      "issue": 431,
+      "date": "2026-08-23",
+      "status": "To be published",
+      "path": "https://www.geocities.ws/e-paper/23082026/"
+    },
+    {
+      "issue": 430,
+      "date": "2026-08-22",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/22082026/"
+    },
+    {
+      "issue": 429,
+      "date": "2026-08-21",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/21082026/"
+    },
+    {
+      "issue": 428,
+      "date": "2026-08-20",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/20082026/"
+    },
+    {
+      "issue": 427,
+      "date": "2026-08-19",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/19082026/"
+    },
+    {
+      "issue": 426,
+      "date": "2026-08-18",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/18082026/"
+    },
+    {
+      "issue": 425,
+      "date": "2026-08-17",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/17082026/"
+    },
+    {
+      "issue": 424,
+      "date": "2026-08-16",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/16082026/"
+    },
+    {
+      "issue": 423,
+      "date": "2026-08-15",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/15082026/"
+    },
+    {
+      "issue": 422,
+      "date": "2026-04-19",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/19042026/"
+    },
+    {
+      "issue": 421,
+      "date": "2026-04-17",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/17042026/"
+    },
+    {
+      "issue": 420,
+      "date": "2026-04-16",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/16042026/"
+    },
+    {
+      "issue": 419,
+      "date": "2026-04-15",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/15042026/"
+    },
+    {
+      "issue": 418,
+      "date": "2026-04-14",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/14042026/"
+    },
+    {
+      "issue": 417,
+      "date": "2026-04-13",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/13042026/"
+    },
+    {
+      "issue": 416,
+      "date": "2026-04-11",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/11042026/"
+    },
+    {
+      "issue": 415,
+      "date": "2026-04-10",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/10042026/"
+    },
+    {
+      "issue": 414,
+      "date": "2026-04-09",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/09042026/"
+    },
+    {
+      "issue": 413,
+      "date": "2026-04-07",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/07042026/"
+    },
+    {
+      "issue": 412,
+      "date": "2026-04-03",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/03042026/"
+    },
+    {
+      "issue": 411,
+      "date": "2026-04-02",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/02042026/"
+    },
+    {
+      "issue": 410,
+      "date": "2026-04-01",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/01042026/"
+    },
+    {
+      "issue": 409,
+      "date": "2026-03-31",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/31032026/"
+    },
+    {
+      "issue": 408,
+      "date": "2026-03-30",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/30032026/"
+    },
+    {
+      "issue": 407,
+      "date": "2026-03-29",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/29032026/"
+    },
+    {
+      "issue": 406,
+      "date": "2026-03-28",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/28032026/"
+    },
+    {
+      "issue": 405,
+      "date": "2026-03-26",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/26032026/"
+    },
+    {
+      "issue": 404,
+      "date": "2026-03-25",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/25032026/"
+    },
+    {
+      "issue": 403,
+      "date": "2026-03-24",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/24032026/"
+    },
+    {
+      "issue": 402,
+      "date": "2026-03-23",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/23032026/"
+    },
+    {
+      "issue": 401,
+      "date": "2026-03-22",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/22032026/"
+    },
+    {
+      "issue": 400,
+      "date": "2026-03-19",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/19032026/"
+    },
+    {
+      "issue": 399,
+      "date": "2026-03-18",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/18032026/"
+    },
+    {
+      "issue": 398,
+      "date": "2026-03-17",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/17032026/"
+    },
+    {
+      "issue": 397,
+      "date": "2026-03-16",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/16032026/"
+    },
+    {
+      "issue": 396,
+      "date": "2026-03-15",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/15032026/"
+    },
+    {
+      "issue": 395,
+      "date": "2026-03-14",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/14032026/"
+    },
+    {
+      "issue": 394,
+      "date": "2026-03-13",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/13032026/"
+    },
+    {
+      "issue": 393,
+      "date": "2026-03-12",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/12032026/"
+    },
+    {
+      "issue": 392,
+      "date": "2026-03-11",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/11032026/"
+    },
+    {
+      "issue": 391,
+      "date": "2026-03-10",
+      "status": "published",
+      "path": "https://www.geocities.ws/e-paper/10032026/"
+    }
+  ]
+}

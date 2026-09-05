@@ -1,0 +1,256 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background: #f4f4f4;
+    color: #222;
+    font-family: "Noto Sans", "Noto Sans Malayalam", Arial, sans-serif;
+}
+
+.page {
+    width: min(1100px, calc(100% - 28px));
+    margin: 24px auto;
+    background: #fff;
+    min-height: 100vh;
+    border: 1px solid #ddd;
+}
+
+.site-header {
+    text-align: center;
+    padding: 28px 18px 24px;
+    border-bottom: 1px solid #ddd;
+}
+
+.logo {
+    display: block;
+    width: 170px;
+    height: auto;
+    margin: 0 auto 12px;
+}
+
+.site-header h1 {
+    margin: 0;
+    font-size: clamp(28px, 4vw, 44px);
+    font-weight: 800;
+}
+
+.subtitle {
+    margin: 3px 0 0;
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+.tagline {
+    margin: 8px 0 0;
+    font-size: 14px;
+}
+
+.latest-section,
+.archive-section {
+    padding: 22px;
+}
+
+.section-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    border-left: 5px solid #b40000;
+    border-bottom: 1px solid #bbb;
+    padding: 7px 10px;
+    margin-bottom: 18px;
+}
+
+.section-heading h2 {
+    margin: 0;
+    font-size: 21px;
+}
+
+.section-heading span {
+    font-size: 13px;
+    color: #666;
+}
+
+.latest-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+}
+
+.issue-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    background: #fff;
+}
+
+.issue-card.latest {
+    border-top: 4px solid #b40000;
+}
+
+.issue-number {
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.issue-date {
+    margin-top: 4px;
+    color: #555;
+    font-size: 14px;
+}
+
+.issue-card a {
+    display: inline-block;
+    margin-top: 12px;
+    text-decoration: none;
+    font-weight: 700;
+    color: #8a0000;
+}
+
+.issue-card a:hover {
+    text-decoration: underline;
+}
+
+.archive-tools {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 16px;
+}
+
+.archive-tools label {
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.archive-tools input {
+    flex: 1;
+    max-width: 360px;
+    padding: 9px 11px;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    font: inherit;
+}
+
+.year-block {
+    margin: 0 0 22px;
+}
+
+.year-title {
+    margin: 0 0 8px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #222;
+    font-size: 20px;
+}
+
+.issue-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+}
+
+.issue-row {
+    border: 1px solid #ddd;
+    padding: 9px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.issue-row .number {
+    font-weight: 800;
+}
+
+.issue-row .date {
+    color: #666;
+    font-size: 12px;
+}
+
+.issue-row a {
+    color: #8a0000;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.issue-row a:hover {
+    text-decoration: underline;
+}
+
+.empty {
+    padding: 20px 0;
+    color: #666;
+}
+
+footer {
+    border-top: 1px solid #ddd;
+    padding: 18px 22px;
+    text-align: center;
+    color: #666;
+    font-size: 13px;
+}
+
+@media (max-width: 800px) {
+    .latest-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .issue-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 520px) {
+    .page {
+        width: 100%;
+        margin: 0;
+        border: 0;
+    }
+
+    .site-header {
+        padding-top: 20px;
+    }
+
+    .logo {
+        width: 135px;
+    }
+
+    .latest-section,
+    .archive-section {
+        padding: 15px;
+    }
+
+    .latest-grid,
+    .issue-list {
+        grid-template-columns: 1fr;
+    }
+
+    .section-heading {
+        display: block;
+    }
+
+    .section-heading span {
+        display: block;
+        margin-top: 3px;
+    }
+
+    .archive-tools {
+        display: block;
+    }
+
+    .archive-tools label {
+        display: block;
+        margin-bottom: 6px;
+    }
+
+    .archive-tools input {
+        max-width: none;
+        width: 100%;
+    }
+}

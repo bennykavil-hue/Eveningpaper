@@ -1,1 +1,90 @@
+<!doctype html>
+<html lang="ml">
 
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Evening E-Paper</title>
+    <!-- Favicon -->
+    <link rel="icon" href="https://geocities.ws/e-paper/images/logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+Malayalam:wght@400;600;700;800&family=Noto+Serif+Malayalam:wght@600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- Open Graph -->
+    <meta property="og:title" content="Evening News 10/09/2026">
+    <meta property=" og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="308">
+    <meta property="og:image:height" content="300">
+    <meta property="og:url" content="https://geocities.ws/e-paper/images/logo.png">
+    <meta property="og:image:secure_url" content="https://geocities.ws/e-paper/images/logo.png">
+    <meta property="og:description"
+        content="E-Paper covering main news of the day. Computer Tips, GK, Local, National & International news.">
+
+</head>
+
+<body>
+    <div class="paper">
+        <header>
+            <div class="utility"><span id="edition"></span><span id="dateText"></span></div>
+            <div class="masthead">
+
+                <div class="date-block">
+
+                    <b id="day"></b>
+
+                    <div class="date-details">
+                        <strong id="monthYear"></strong>
+                        <span id="malayalamDate"></span>
+                        <span id="hijriDate"></span>
+                        <span id="volumeIssue"></span>
+                    </div>
+
+                </div>
+
+
+                <div class="brand">
+
+                    <img src="images/logo.png" alt="സായാഹ്ന വാർത്ത" class="paper-logo">
+
+                    <div id="paperName"></div>
+                    <small id="tagline"></small>
+
+                </div>
+
+
+                <div class="motto-area">
+
+                    <div class="motto" id="motto"></div>
+
+                    <div class="special-day" id="specialDay"></div>
+
+                </div>
+            </div>
+
+            <nav id="nav"></nav>
+        </header>
+        <div class="redline"></div>
+        <div class="breaking"><b id="breakingLabel">BREAKING</b><span id="breakingNews"></span></div>
+        <main>
+            <section class="lead-area" id="leadArea"></section>
+            <div class="columns">
+                <section class="column" id="col1"></section>
+                <section class="column" id="col2"></section>
+                <section class="column" id="col3"></section>
+            </div>
+        </main>
+        <footer>
+            <div class="footer-notice" id="footerNotice"></div>
+
+            <span id="footerName"></span>
+            <span id="copyright"></span>
+
+            <div id="dailyHits"> test</div>
+        </footer>
+        <script src="script.js"></script>
+</body>
+
+</html>

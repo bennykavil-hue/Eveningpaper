@@ -1,0 +1,746 @@
+{
+  "settings": {
+    "publicationDate": "2026-09-10",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "ചിങ്ങം 25, 1202",
+      "en": "Chingam 25, 1202"
+    },
+    "hijriDate": {
+      "ml": "28 റബീഉൽ അവ്വൽ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 446,
+    "edition": {
+      "ml": "സായാഹ്ന പതിപ്പ്. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Stay loud about what you believe in, stay disciplined about what you build.",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "പിടിച്ചതിനേക്കാൾ വലുത് 'റെഡ് ബുക്കി'ൽ; 25 കോടിയുടെ ഹവാല ഇടപാട് നടന്നെന്ന് ഇ.ഡി.",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "ഐഫോൺ ഡ്യുവോ; ആദ്യ ഫോൾഡബിൾ ഐഫോൺ പുറത്തിറക്കി ആപ്പിൾ",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "ആപ്പിൾ തങ്ങളുടെ ആദ്യത്തെ ഫോൾഡബിൾ സ്മാർട്ട്ഫോണായ 'ഐഫോൺ ഡ്യുവോ' (iPhone Duo) പ്രഖ്യാപിച്ചു. പോക്കറ്റിൽ എളുപ്പത്തിൽ ഒതുങ്ങുന്നതും അതേസമയം ഐപാഡിന് സമാനമായ വലിയ സ്‌ക്രീൻ അനുഭവം നൽകുന്നതുമായ രീതിയിലാണ് ഇത് രൂപകൽപ്പന ചെയ്തിരിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "images/lead.jpg",
+      "link": "https://www.mathrubhumi.com/technology/news/apple-launchs--iphone-duo-rtz2wan4"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "💛 World Suicide Prevention Day 2026",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Today, 10 September, is World Suicide Prevention Day (WSPD). It is observed worldwide to raise awareness that suicide is preventable and to encourage people to talk openly, listen without judgment, and support those who may be struggling.",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.un.org/en/observances/protect-education-day?utm_source=chatgpt.com"
+    },
+    {
+      "id": "002",
+      "type": "news",
+      "order": 2,
+      "category": {
+        "ml": "കേരളം",
+        "en": "Keralam"
+      },
+      "title": {
+        "ml": "പിടിച്ചതിനേക്കാൾ വലുത് 'റെഡ് ബുക്കി'ൽ; 25 കോടിയുടെ ഹവാല ഇടപാട് നടന്നെന്ന് ഇ.ഡി.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സി.എം.ആർ.എൽ. പണമിടപാട് കേസ് അന്വേഷിച്ചുചെന്നപ്പോൾ തുറന്നത് മുൻമന്ത്രി മുഹമ്മദ് റിയാസിനും ഭാര്യ ടി. വീണയ്ക്കും കുരുക്കാവുന്ന കോടിക്കണക്കിന് രൂപയുടെ ഹവാല ഇടപാടാണെന്ന് ഇ.ഡി.യുടെ റിപ്പോർട്ട്. 'റെഡ് ബുക്ക്' തെളിവായി അവതരിപ്പിച്ചാണ് ഇ.ഡി. സംസ്ഥാന പോലീസ് മേധാവിക്ക് റിപ്പോർട്ട് നൽകിയത്. വീണയുടെ താമസസ്ഥലത്തുനടത്തിയ റെയ്ഡിൽ ലഭിച്ച ചുവന്ന ഡയറിയാണിത്. ഇതെക്കുറിച്ചുള്ള അന്വേഷണത്തിൽ കണ്ടെത്തിയ കാര്യങ്ങളും അനുബന്ധ തെളിവുകളായി കൂട്ടിച്ചേർത്താണ് പോലീസ് മേധാവിക്ക് റിപ്പോർട്ട് നൽകിയത്.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.mathrubhumi.com/news/kerala/cmrl-case-hawala-transactions-report-amb07q12"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഒറ്റപ്പെട്ട് പിണറായി, ‘പ്രതിരോധം’ തീർക്കാതെ സിപിഎം, നേതാക്കൾ ‘80കളിലെ’ ചിത്രം പോസ്റ്റ് ചെയ്യാനുള്ള തിരക്കിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം</b> ∙ വിജിലൻസ് കേസെടുക്കാനുള്ള ഇ.ഡി ശുപാർശയിൽ പ്രതിപക്ഷ നേതാവ് <a href='https://www.manoramaonline.com/topics/politics/leaders/pinarayivijayan.html' target='_blank' rel='noopener noreferrer'>പിണറായി വിജയനെ</a> പിന്തുണയ്ക്കാൻ മടിച്ച് പാർട്ടി നേതാക്കളും ഘടകകക്ഷികളും. ദേശീയതലത്തിൽ പ്രതിപക്ഷനിരയിലെ നേതാക്കൾക്കെതിരെ ഇ.ഡി നടപടി വരുമ്പോഴെല്ലാം വിമർശിക്കാറുള്ള സിപിഐ പൂർണമൗനത്തിലാണ്. പിണറായിക്കെതിരെ എവിടെനിന്ന് ആക്രമണം വന്നാലും സമയം പാഴാക്കാതെ പ്രതിരോധിക്കാനിറങ്ങിയിരുന്ന സിപിഎം നേതാക്കൾ, ‘ചാറ്റ് ജിപിടി’യിൽ ‘എൺപതുകളിലെ ട്രെൻഡ് ചിത്രങ്ങൾ’ പോസ്റ്റ് ചെയ്യുന്ന തിരക്കിലായിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/10/pinarayi-vijayan-isolated-as-ed-probe-widens-cpm-and-allies-hesitate.html"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പൊലീസുകാരുടെയും മക്കളുടെയും ജനനേന്ദ്രിയം തകർക്കാൻ പ്രാപ്തിയുള്ള പ്രവർത്തകരുണ്ട്: ഭീഷണിയുമായി സിപിഎം നേതാവ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>അടൂർ ∙ പൊലീസിന്റെയും അവരുടെ മക്കളുടെയും ജനനേന്ദ്രിയം തകർക്കാൻ പ്രാപ്തിയുള്ള പ്രവർത്തകർ തങ്ങൾക്കിടയിലുമുണ്ടെന്നു <a href='https://www.manoramaonline.com/topics/politics/parties/cpim.html' target='_blank' rel='noopener noreferrer'>സിപിഎം</a> ഏരിയ കമ്മിറ്റി അംഗത്തിന്റെ ഭീഷണി പ്രസംഗം. യുവാവിന്റെ ജനനേന്ദ്രിയം തകർത്ത പൊലീസുകാർക്കെതിരെ നടപടി എടുക്കണമെന്നാവശ്യപ്പെട്ട് പട്ടികജാതി ക്ഷേമ സമിതി നടത്തിയ അടൂർ പൊലീസ് സ്റ്റേഷൻ മാർച്ചിലാണ് സിപിഎം ഏരിയ കമ്മിറ്റി അംഗവും പട്ടികജാതി ക്ഷേമ സമിതി ജില്ലാ ട്രഷററുമായ എ.ആർ.അജീഷിന്റെ വിവാദ പ്രസംഗമുണ്ടായത്. പൊലീസ് ഇത്തരത്തിലുള്ള മർദന രീതികൾ നിർത്തണമെന്നും അജീഷ് പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/10/we-can-mutilate-genitals-of-cops-and-their-kids-cpm-leaders-shocking-threat-in-adoor.html"
+    },
+    {
+      "id": "81",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "80 ട്രെൻഡ് കൊള്ളാം; ചെലവ് കേട്ടാൽ ഷോക്കാ!; ഒരു വീടിന്റെ ആറേകാൽ വർഷത്തെ വൈദ്യുതി!",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോട്ടയം ∙ എൺപതുകളിലെ ചിത്രങ്ങളാണു സമൂഹമാധ്യമങ്ങളിലെങ്ങും. ചാറ്റ് ജിപിടി ഉൾപ്പെടെ <a href='https://www.manoramaonline.com/topics/technology/artificialintelligence.html' target='_blank' rel='noopener noreferrer'>എഐ</a> പ്ലാറ്റ്ഫോമുകളിൽ നിർദേശം നൽകി ആളുകൾ എൺപതുകളിലെ ഫാഷ നിൽ സ്വയം അണിനിരത്തുന്നു. എന്നാൽ, എഐ ചിത്രനിർമാണത്തിന് എത്രത്തോളം വൈദ്യുതി വേണമെന്നു മനസ്സിലാകുമ്പോഴേ ഇത്തരം എഐ ട്രെൻഡുകളുടെ സാമൂഹിക, പാരിസ്ഥിതിക ആഘാതം വ്യക്തമാകൂ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/10/the-hidden-cost-of-your-80s-ai-portrait-a-six-year-power-bill.html"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഇ.ഡി. റിപ്പോർട്ട് തനിക്കെതിരായി വ്യക്തിഹത്യ ലക്ഷ്യമിട്ടുള്ള കള്ളക്കഥ; നിയമപരമായി നേരിടുമെന്ന് മുഹമ്മദ് റിയാസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ഇ.ഡി. അന്വേഷണവുമായി ബന്ധപ്പെട്ട് മാധ്യമങ്ങളിൽ പ്രചരിക്കുന്ന വിവരങ്ങൾ തനിക്കെതിരെ വ്യക്തിഹത്യ ലക്ഷ്യമിട്ട് മെനഞ്ഞെടുത്ത കള്ളക്കഥയാണെന്നും വിഷയത്തെ നിയമപരമായിത്തന്നെ നേരിടുമെന്നും പി.എ. മുഹമ്മദ് റിയാസ്. അന്വേഷണവുമായി ബന്ധപ്പെട്ട് മാധ്യമങ്ങളിൽ പുതിയ അസംബന്ധങ്ങൾ ഉണ്ടെന്നും ഇ.ഡി. ചോർത്തി കൊടുത്ത റിപ്പോർട്ടിൽ അത്തരം കാര്യങ്ങൾ ഉണ്ടെങ്കിൽ, അത് വ്യക്തിഹത്യ ചെയ്യാൻ ലക്ഷ്യമിട്ട് ബോധപൂർവ്വം മെനഞ്ഞ കള്ളക്കഥയാണെന്നും റിയാസ് ഫെയ്സ്ബുക്കിൽ കുറിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/p-a-mohamed-riyas-cmrl-bribery-case-ed-report-response-cxyzm4yo"
+    },
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "'പ്രധാനമന്ത്രി വിദ്യാർത്ഥികളോട് മാപ്പ് പറയണം, എന്തുകൊണ്ടാണ് നിശബ്ദത പാലിക്കുന്നത്?' സിജെപി പ്രതിഷേധത്തിലെ ലാത്തിച്ചാർജിനെ വിമർശിച്ച് രാഹുൽ ഗാന്ധി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "രാജ്യത്തെ വിദ്യാഭ്യാസ, പരീക്ഷാ സമ്പ്രദായം പൂർണ്ണമായും തകർന്നുവെന്നും . <a href='https://malayalam.indiatoday.in/national/story/rahul-gandhi-slams-modi-govt-on-sonam-wangchuks-removal-from-jantar-mantar-srs-1426383-2026-07-18?utm_source=Internal_ITML&amp;utm_medium=Article&amp;utm_name=Read_More_1'><span style='color:#3498db;'> ഉള്ളിൽ നിന്ന് പൊള്ളയാണെന്നും കോൺഗ്രസ് നേതാവ് രാഹുൽ ഗാന്ധി</span></a> പ്രധാനമന്ത്രി നരേന്ദ്ര മോദിയുടെ മൗനത്തെ രാഹുൽ ഗാന്ധി ചോദ്യം ചെയ്യുകയും വിദ്യാർത്ഥികൾ മാപ്പ് പറയണമെന്ന് ആവശ്യപ്പെടുകയും ചെയ്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://malayalam.indiatoday.in/national/story/congress-leader-rahul-gandhi-slams-pm-modi-cjp-cockroach-party-protest-jantar-mantar-rrn-1427809-2026-07-21"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'നടന്നത് മഹാപാതകം, ആരെയും വെറുതെ വിടില്ല'; നീറ്റ് ചോദ്യപേപ്പർ ചോർച്ച വിവാദത്തിൽ പ്രതികരിച്ച് പ്രധാനമന്ത്രി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<a href=ടhttps://malayalam.indiatoday.in/national/story/opposition-leader-mallikarjun-kharge-neet-paper-leak-protest-students-parliament-rajya-sabha-rrn-1427227-2026-07-20ട target=ട_blankട><span style=ടcolor:#2980b9;ട><strong>നീറ്റ് പരീക്ഷാ ചോദ്യപേപ്പർ ചോർച്ച വിവാദത്തിൽ</strong></span></a> പാർലമെന്ററി പാർട്ടി യോഗത്തിൽ നിർണായ പ്രസ്താവന നടത്തി പ്രധാനമന്ത്രി നരേന്ദ്ര മോദി. വിഷയത്തിൽ സർക്കാർ ഉടനടി നടപടിയെടുക്കുകയും ഉത്തരവാദികളായവരെ നിയമത്തിന് മുന്നിൽ കൊണ്ടുവരികയും ചെയ്തിട്ടുണ്ടെന്ന് അദ്ദേഹം പ്രസ്താവിച്ചു. ചോദ്യപേപ്പർ ചോർച്ചയെ തുടർന്ന് പരീക്ഷ വീണ്ടും നടത്തുകയും ചെയ്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://malayalam.indiatoday.in/national/story/pm-narendra-modi-addresses-neet-paper-leak-guarantees-strict-action-against-culprits-vkr-1427714-2026-07-21"
+    },
+    {
+      "id": "7",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മൂന്നു മാസം മുൻപ് വിവാഹ നിശ്ചയം, ഏക മകൻ; റഷ്യൻ ആക്രമണത്തിൽ കൊല്ലപ്പെട്ട അഖിലിന്റെ വിയോഗത്തിൽ വിറങ്ങലിച്ച് നാട്"
+      },
+      "summary": {
+        "ml": "മൂന്നു മാസം മുൻപാണ് കാസർഗോഡ് വെള്ളരിക്കുണ്ടിലെ ആ വീട്ടിൽ അഖിലിന്റെ വിവാഹ നിശ്ചയം നടന്നത്. ഏപ്രിലിൽ നടക്കാനിരിക്കുന്ന മകന്റെ വിവാഹത്തിനായുള്ള ഒരുക്കങ്ങളിലായിരുന്ന മാതാപിതാക്കളുടെ ഏക ആശ്രയമാണ് പൊലിഞ്ഞ് പോയത്.  <a href='https://malayalam.indiatoday.in/international/story/4-indians-killed-in-attack-on-cargo-ship-leaving-ukraine-govt-condemns-strike-mhm-1427527-2026-07-20' target='_blank'><span style='color:#2980b9;'><strong>ഉക്രെയ്ൻ തീരത്തിന് സമീപം ചരക്കുകപ്പലിന് നേരെ റഷ്യ നടത്തിയ ആക്രമണത്തിൽ</strong></span></a>കൊല്ലപ്പെട്ട നാല് ഇന്ത്യക്കാരിൽ ഒരാളായ മർച്ചന്റ് നേവി ഉദ്യോഗസ്ഥൻ അഖിൽ ജോയന്റെ വേർപാടിൽ പകച്ച് നിൽക്കുകയാണ് ഒരു നാട് മുഴുവൻ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://malayalam.indiatoday.in/keralam/story/kasargode-native-akhil-joyan-dies-in-russian-attack-on-merchant-vessel-off-ukraine-coast-wedding-engagement-parents-only-child-rrn-1427799-2026-07-21"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 10,
+      "category": {
+        "ml": "കേരളം",
+        "en": "Keralam"
+      },
+      "title": {
+        "ml": "'പകർച്ചവ്യാധി മരണങ്ങൾ കുറഞ്ഞു, ആരോപണങ്ങൾക്ക് കണക്കുകൾ മറുപടി പറയും'; പിണറായിയുടെ വിമർശനത്തിന് മറുപടി നൽകി മുരളീധരൻ"
+      },
+      "summary": {
+        "ml": "സംസ്ഥാനത്ത് പകർച്ചവ്യാധികൾ നേരിടുന്നതിൽ വീഴ്ച സംഭവിച്ചെന്ന <a href='https://malayalam.indiatoday.in/keralam/video/kerala-devaswom-minister-k-muraleedharan-sabarimala-temple-gold-theft-case-sit-report-delay-vkr-1423360-2026-07-13' target='_blank'><span style='color:#2980b9;'><strong>ആരോഗ്യ മന്ത്രി കെ. മുരളീധരൻ</strong></span></a>കഴിഞ്ഞ വർഷത്തെ ഇതേ കാലയളവിനെ അപേക്ഷിച്ച് എലിപ്പനി, ഡെങ്കിപ്പനി മരണങ്ങളിൽ കുറവുണ്ടായതായി ഔദ്യോഗിക കണക്കുകൾ വ്യക്തമാക്കുന്നുണ്ടെന്ന് അദ്ദേഹം പറഞ്ഞു. 10 വർഷം ഭരിച്ച് മറ്റെല്ലാ വകുപ്പുകളെയും പോലെ ആരോഗ്യ വകുപ്പിന്റെയും നട്ടെല്ല് ഒടിച്ചവരാണ് രണ്ടു മാസം മാത്രം പ്രായമുള്ള സർക്കാരിനെതിര വ്യാജ ആരോപണങ്ങൾ ഉന്നയിക്കുന്നതെന്ന് മുരളീധരൻ ഫേസ്ബുക്ക് പോസ്റ്റിൽ കുറ്റപ്പെടുത്തി.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/09/cmrl-exalogic-financial-case-mv-govindan-responds-to-ed-action-says-no-surrender"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ചിറയിന്‍കീഴ് കയ്യാങ്കളിക്കേസ്: രമ്യാ ഹരിദാസിനെതിരെ കടുത്ത നടപടി ഉണ്ടാകില്ല; പരസ്യമായി താക്കീത് ചെയ്‌തേക്കും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</B> ചിറയിന്‍കീഴ് കയ്യാങ്കളിക്കേസില്‍ രമ്യാ ഹരിദാസ് എംഎല്‍എയ്‌ക്കെതിരെ കടുത്ത നടപടി ഉണ്ടാകില്ല. രമ്യാ ഹരിദാസിനെ പരസ്യമായി താക്കീത് ചെയ്‌തേക്കും. അന്വേഷണസമിതി റിപ്പോര്‍ട്ട് ഉടന്‍ പാര്‍ട്ടി നേതൃത്വത്തിന് കൈമാറും. സമിതി അധ്യക്ഷന്‍ എംഎം ഹസന്‍ കെപിസിസി അധ്യക്ഷന്‍ സണ്ണി ജോസഫുമായി കൂടിക്കാഴ്ച നടത്തും. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/10/chirayinkeezhu-clash-case-no-strict-action-likely-against-mla-ramya-haridas"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "CMRL-എക്‌സാലോജിക് സാമ്പത്തിക ഇടപാട്: എഫ്‌ഐആര്‍ രജിസ്റ്റര്‍ ചെയ്താല്‍ കോടതിയെ സമീപിക്കാന്‍ പിണറായി വിജയന്‍",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സിഎംആര്‍എല്‍-എക്‌സാലോജിക് സാമ്പത്തിക ഇടപാടുമായി ബന്ധപ്പെട്ട് എഫ്‌ഐആര്‍ രജിസ്റ്റര്‍ ചെയ്താല്‍ കോടതിയെ സമീപിക്കാന്‍ പ്രതിപക്ഷ നേതാവ് പിണറായി വിജയന്‍. ഇത് സംബന്ധിച്ച് മുതിര്‍ന്ന അഭിഭാഷകരുടെ നിയമോപദേശം പാര്‍ട്ടിക്ക് ലഭിച്ചിട്ടുണ്ട്. വിജിലന്‍സ് കോടതി മുതല്‍ സുപ്രീംകോടതി വരെ തള്ളിയ കാര്യമാണിതെന്നും ചൂണ്ടിക്കാട്ടും. കേസ് റദ്ദാക്കണമെന്നും ആവശ്യപ്പെടും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/10/cmrl-exalogic-financial-transaction-fir-pinarayi-vijayan"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 13,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "CMRL-EXALOGIC ഇടപാട്: ED രാഷ്ട്രീയ വേട്ട തുരുമ്പിച്ച ആയുധം; കേസെടുക്കാനുള്ള നീക്കം പ്രതിരോധിച്ച് CPIM",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സിഎംആര്‍എല്‍-എക്‌സാലോജിക് സാമ്പത്തിക ഇടപാടില്‍ കേസെടുക്കാനുള്ള എന്‍ഫോഴ്‌സ്‌മെന്റ് ഡയറക്ടറേറ്റിന്റെ നീക്കത്തെ പ്രതിരോധിച്ച് സിപിഐഎം. ഇ ഡി രാഷ്ട്രീയ വേട്ട തുരുമ്പിച്ച ആയുധമാണെന്ന് ദേശാഭിമാനിയിലെ മുഖപ്രസംഗത്തില്‍ പറയുന്നു. ഡിജിപിക്ക് ഇ ഡി നല്‍കിയ കത്ത് നേരത്തെയും സര്‍ക്കാരിന് നല്‍കിയിരുന്നു. വിഷയത്തില്‍ പൊലീസ് വസ്തുനിഷ്ഠമായി നടത്തിയ അന്വേഷണത്തിന്റെയും വിജിലന്‍സ് കോടതിയുടെയും ഹൈക്കോടതിയുടെയും സുപ്രീംകോടതിയുടെയും വിധിന്യായങ്ങള്‍ പരിശോധിച്ചതിന്റെയും അടിസ്ഥാനത്തില്‍ ആരോപണങ്ങള്‍ നിലനില്‍ക്കുന്നതല്ലെന്ന് കണ്ടെത്തി. ഇ ഡി നല്‍കിയ കത്ത് തള്ളിക്കളയുകയും ചെയ്തതാണ്. ഭരണം മാറിയപ്പോള്‍ ഇ ഡി പുതിയ കത്ത് നല്‍കിയതാണെന്നും മുഖപ്രസംഗത്തില്‍ പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/10/ed-cmrl-exalogic-financial-deal-cpim-defence"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "भारत सरकार/Government of India संचार मंũालय/Ministry of Communication डाक िवभाग /Department of Posts (जीडीएस अनुभाग/GDS Section)Notification No : 17-12/2026-GDS dated 20th, August ,2026 ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>Gramin Dak Sevak (GDS) Online Engagement Schedule-II, July-2026. </b>  Applications are invited from the eligible candidates to fill vacant posts of Gramin Dak Sevaks (GDSs) [i.e. Branch Postmaster (BPM)/Assistant Branch Postmaster (ABPM)/Dak Sevaks] in different offices of the Department of Posts. The details of the tentative vacant posts in each Circle/Division are given in Annexure-I. The applications are to be submitted online at the following link: <a href='https://indiapost.gov.in/gdsonlineengagement.'> click here </a> ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.indiapost.gov.in/gdsonlineengagement"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "റീജിയണല്‍ ഗ്രാമീണ്‍ ബാങ്കുകളില്‍ തൊഴിലവസരങ്ങള്‍",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>Career opportunities in Regional Rural Banks (Gramin Banks) are available through the IBPS RRB Recruitment 2026 process, which offers over 13,000 openings across participating banks ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://ibpsreg.ibps.in/rrboaxvaug26/"
+    },
+    {
+      "id": "12",
+      "type": "news",
+      "order": 16,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'ജീവിക്കുന്ന മനുഷ്യരുടെ പച്ച ഇറച്ചി തിന്ന് രസിക്കുന്നവരുടെ ആട്ടം തുടരട്ടെ, നിയമപരമായി പോരാടും':മുഹമ്മദ് റിയാസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോഴിക്കോട്:</b> സിഎംആര്‍എല്‍-എക്‌സാലോജിക് സാമ്പത്തിക ഇടപാട് കേസിലെ എന്‍ഫോഴ്‌സ്‌മെന്റ് ഡയറക്ട്രേറ്റ് റിപ്പോര്‍ട്ടുമായി ബന്ധപ്പെട്ട മാധ്യമ വാര്‍ത്തകള്‍ തള്ളി മുന്‍ മന്ത്രി പി എ മുഹമ്മദ് റിയാസ് എംഎല്‍എ. വിവരങ്ങള്‍ അസംബന്ധമാണെന്നും തന്നെ വ്യക്തിഹത്യ ചെയ്യാന്‍ ലക്ഷ്യമിട്ട് ബോധപൂര്‍വ്വം മെനഞ്ഞ കള്ളക്കഥയാണെന്നും പി എ മുഹമ്മദ് റിയാസ് വ്യക്തമാക്കി. പണമിടപാട് വിവരങ്ങള്‍ വീണ ടിയുടെ പക്കലുണ്ടായിരുന്ന ബുക്കിലെ ഏഴ് പേജുകളിലായി രേഖപ്പെടുത്തിയിട്ടുണ്ടെന്നും പണം ദുബായിലേക്ക് കടത്തിയതായി വീണ സമ്മതിച്ചെന്നും ഇ ഡി സംസ്ഥാന പൊലീസ് മേധാവിക്ക് നല്‍കിയ കത്തിലുണ്ടെന്നാണ് മലയാള മനോരമ റിപ്പോര്‍ട്ട് ചെയ്തത്. ഇ ഡി അന്വേഷണം എന്ന പേരില്‍ ചോര്‍ത്തി കൊടുത്ത ഇത്തരം അസംബന്ധ വിവരങ്ങളിലൂടെ ജീവിക്കുന്ന മനുഷ്യരുടെ പച്ച ഇറച്ചി തിന്ന് രസിക്കുന്നവരുടെ ആട്ടം തുടരട്ടെയെന്നും നിയമപരമായി പോരാടും എന്നും റിയാസ് വ്യക്തമാക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/10/cmrl-exalogic-case-p-a-mohammed-riyas-rejects-media-reports-on-ed-report"
+    },
+    {
+      "id": "13",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "‘ഏകോപനമില്ലെന്ന് പറഞ്ഞതിന് നന്ദി’; കെ കൃഷ്ണൻ കുട്ടിയെ പരിഹസിച്ച് മന്ത്രി സണ്ണി ജോസഫ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> വൈദ്യുതി വകുപ്പിൽ ഗുരുതര വീഴ്ചയെന്ന് മുൻ വൈദ്യുതി മന്ത്രി കെ. കൃഷ്ണൻ കുട്ടി.കെഎസ്ഇബിയിൽ മാനേജ്‌മെന്റും മന്ത്രിയുടെ ഓഫീസും റെഗുലേറ്ററി കമ്മീഷനും തമ്മിൽ ഒരു ഏകോപനവുമില്ലെന്നാണ് മുൻ വൈദ്യുതി മന്ത്രി കെ. കൃഷ്ണൻ കുട്ടി ഏഷ്യാനെറ്റ്‌ ന്യൂസിനോട് പ്രതികരിച്ചത്. ഈ വർഷം എൽനിനോ വർഷമാണ് എന്ന് കാലാവസ്ഥ വകുപ്പ് പ്രവചനം ലഭിച്ചിരുന്നു. അത് മുൻകൂട്ടി കണ്ട് കാര്യങ്ങൾ ചെയ്തില്ല .1500 മെഗാവാട്ടിന്റെ ബാറ്ററി സ്റ്റോറേജ് സിസ്റ്റം ആരംഭിച്ചതിന്റെ ആദ്യഘട്ടം സെപ്റ്റംബറിൽ പൂർത്തിയാകേണ്ടതാണ്. അത് ഒന്നുമായില്ല. 2023ൽ സമാനമായ സാഹചര്യം ഉണ്ടായതാണ്. അന്ന് മന്ത്രിയായ താൻ ഓരോ ആഴ്ചയിലും ഉന്നതതല യോഗം നടത്തി. എന്നാൽ ഇന്ന് അങ്ങനെയൊന്നുമില്ല . എൽഡിഎഫ് സർക്കാരിന്റെ അവസാന നാളുകളിൽ ഇക്കഴിഞ്ഞ വേനൽക്കാലത്ത് ചെറിയ വൈദ്യുതി നിയന്ത്രണം വന്നപ്പോൾ എന്ത് ബഹളമായിരുന്നു. ഇന്ന് ഒരു മുന്നറിയിപ്പുമില്ലാതെയാണ് പവർകട്ട്. സൈറ്റുകളിൽ നൽകിയിട്ടുള്ള വൈദ്യുതി മന്ത്രിയുടെ നമ്പർ പോലും മാറ്റിയിട്ടില്ല. രാത്രിയിൽ ഉൾപ്പെടെ പലരും ഇപ്പോഴും പരാതി പറയാൻ തന്നെയാണ് വിളിക്കുന്നത് എന്നും കെ. കൃഷ്ണൻകുട്ടി വിശദമാക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/kseb-didnt-make-enough-preparation-even-after-getting-el-nino-warning-articleshow-xvahehl"
+    },
+    {
+      "id": "14",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "എൽനിനോ വർഷമാണെന്ന് മുന്നറിയിപ്പ് ലഭിച്ചിട്ടും മുന്നൊരുക്കമുണ്ടായില്ല, വൈദ്യുതി വകുപ്പിൽ ഗുരുതര വീഴ്ചയെന്ന് കെ കൃഷ്ണൻ കുട്ടി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ആലപ്പുഴ </b>∙ തൃശൂരിൽ ദേശീയപാതയിലുണ്ടായ അപകടത്തിന്റെ പശ്ചാത്തലത്തിൽ ജില്ലയിലെ ദേശീയപാത മേഖലയുടെ സുരക്ഷ വിലയിരുത്താൻ നടത്തിയ പരിശോധനയിൽ കണ്ടെത്തിയത് ഒട്ടേറെ സുരക്ഷാ വീഴ്ചകൾ. സ്ഥിരമായുള്ള അനധികൃത പാർക്കിങ്, ഡിവൈഡർ അടയ്ക്കുന്നതും തുറക്കുന്നതും മൂലമുള്ള ഗതാഗത നിയന്ത്രണത്തിലെ അസ്ഥിരത, റോഡ് പ്രവൃത്തി മൂലം അതാതു സമയങ്ങളിലുള്ള നിയമലംഘനം, റോഡ് കയ്യേറ്റം, വർക് ഷോപ്പിന് സമീപമുള്ള അനധികൃത പാർക്കിങ് എന്നിവ പരിശോധനയിൽ കണ്ടെത്തി. ആദ്യ ദിനം നിയമലംഘനങ്ങൾ ശ്രദ്ധയിൽപെടുത്തിയ അധികൃതർ അവ പരിഹരിച്ചില്ലെങ്കിൽ ഇന്നു മുതൽ തദ്ദേശസ്ഥാപനം വഴി നോട്ടിസ് നൽകും. എന്നിട്ടും പരിഹരിച്ചില്ലെങ്കിൽ 48 മണിക്കൂറിനുശേഷം കർശന നടപടി സ്വീകരിക്കും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/alappuzha/2026/09/09/alappuzha-highway-safety.html"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "രാ​ത്രി​യി​ൽ കാ​റു​ക​ൾ ത​ട​ഞ്ഞു​നി​ർ​ത്തി യു​വ​തി​യു​ടെ പ​രാ​ക്ര​മം; ത​ട​യാ​ൻ ശ്ര​മി​ച്ച എ​എ​സ്ഐ​ക്കു ക​ടി​യേ​റ്റു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തൃ​ശൂ​ർ:</b> ന​ഗ​ര​ത്തി​ൽ രാ​ത്രി​യി​ൽ കാ​റു​ക​ൾ ത​ട​ഞ്ഞു​നി​ർ​ത്തി പ​ണം ആ​വ​ശ്യ​പ്പെ​ട്ടു യു​വ​തി​യു​ടെ പ​രാ​ക്ര​മം. വി​വ​ര​മ​റി​ഞ്ഞെ​ത്തി​യ വ​നി​താ എ​എ​സ്ഐ​യെ യു​വ​തി മ​ർ​ദി​ക്കു​ക​യും ക​ടി​ച്ചു​പ​രി​ക്കേ​ൽ​പ്പി​ക്കു​ക​യും ചെ​യ്തു. സം​ഭ​വ​ത്തി​ൽ ചാ​ഴൂ​ർ സ്വ​ദേ​ശി റ​ഹ്മ​ത്തി​നെ (21) പൊ​ലി​സ് അ​റ​സ്റ്റ് ചെ​യ്തു. ബുധനാഴ്ച രാ​ത്രി​ 11നു രാ​ഗം തി​യ​റ്റ​റി​നു സ​മീ​പ​മാ​യി​രു​ന്നു സം​ഭ​വം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/woman-stops-cars-at-night-and-demands-money-183212"
+    },
+    {
+      "id": "72",
+      "type": "news",
+      "order": 81,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "വാഴിച്ചലിൽ വൻ കഞ്ചാവ് വേട്ട; 90 കിലോ കഞ്ചാവ് പിടികൂടി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> നെയ്യാർ ഡാമിന് സമീപം വാഴിച്ചലിൽ വൻ കഞ്ചാവ് വേട്ട. 90 കിലോ കഞ്ചാവുമായി രണ്ടുപേർ പിടിയിലായി. വെള്ളറട അഞ്ചുമരങ്കാല സ്വദേശി സുധീഷ്, പൂഴനാട് കുന്നനാട് സ്വദേശി അഖിൽ എന്നിവരാണ് പിടിയിലായത്.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.deepika.com/kerala/massive-cannabis-bust-in-vazhichal-90-kg-seized-183211"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "കോൺക്രീറ്റിന്റെ കരുത്ത് കൂടും, സിമന്റ് ഉപയോഗം കുറയ്ക്കാം; പുതിയ കണ്ടെത്തലുമായി ശാസ്ത്രജ്ഞർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കോൺക്രീറ്റ് നിർമിതികളുടെ കരുത്ത് വർധിപ്പിക്കാൻ സഹായിക്കുന്ന നിർണായക കണ്ടെത്തലുമായി ശാസ്ത്രലോകം. സംസ്‌കരിച്ച&nbsp;മനുഷ്യ വിസർജ്യം ഉപയോഗിച്ചുണ്ടാക്കുന്ന വസ്തു കോൺക്രീറ്റിൽ ഒരു പരിധിവരെ സിമന്റിന് പകരമായി ഉപയോഗിക്കാൻ സാധിക്കുമെന്നും കൃത്യമായ അളവിൽ ചേർത്താൽ കോൺക്രീറ്റിന്റെ ബലം ഗണ്യമായി വർധിക്കുമെന്നും ശാസ്ത്രജ്ഞർ കണ്ടെത്തി. ഇതുസംബന്ധിച്ച പഠനം സയന്റിഫിക് റിപ്പോർട്‌സ്' (Scientific Reports)&nbsp; ജർണലിൽ പ്രസിദ്ധീകരിച്ചിട്ടുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/human-waste-biochar-concrete-strength-jz5o7fi5"
+    },
+    {
+      "id": "14",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സിഎംആർഎൽ മാസപ്പടി കേസ്: വിദേശത്തേക്ക് പണം; ‘ലെറ്റർ റൊഗേറ്ററി’ വഴി തെളിവു ശേഖരിക്കാൻ ഇ.ഡി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം∙</b> സിഎംആർഎൽ മാസപ്പടി കേസിൽ വിദേശത്തെ പണമിടപാടുകളുടെ കൂടുതൽ വിവരങ്ങൾ ശേഖരിക്കാൻ നീക്കവുമായി <a href='https://www.manoramaonline.com/topics/judiciary/lawndorder/enforcementdirectorate.html' target='_blank' rel='noopener noreferrer'>എൻഫോഴ്‌സ്‌മെന്റ് ഡയറക്ടറേറ്റ് (ഇ.ഡി)</a>കൈക്കൂലിയായി വാങ്ങിയ പണം ദുബായിലേക്ക് അയച്ചുവെന്നാണ് ഇ.ഡിയുടെ കണ്ടെത്തൽ. ഈ സാഹചര്യത്തിൽ കോടതി വഴി ലെറ്റർ റൊഗേറ്ററി (എൽആർ) അയച്ച് തെളിവുശേഖരണം നടത്തുകയാണ് ഇ.ഡി. ചെയ്യുന്നത്. സിഎംആർഎൽ കേസിൽ അടുത്തു തന്നെ ഇ.ഡി ഇതിനായി കോടതിയെ സമീപിക്കും. കേരളത്തിൽനിന്നു പണം വിദേശത്ത് ഏതൊക്കെ അക്കൗണ്ടുകളിലേക്ക് എത്തിയെന്നതിന്റെ ചില സൂചനകൾ ഇ.ഡി ശേഖരിച്ചിട്ടുണ്ട്. കൂടുതൽ വിവരങ്ങൾ ശേഖരിക്കാനാണ് കോടതി വഴി നീങ്ങുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/10/enforcement-directorate-intensifies-cmrl-case-probe.html"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "കൊമ്പൻ അകേരി ഗണേശൻ. മുന്നിൽ നടക്കുന്ന നായ  കുക്കുവിനെയും കാണാം.'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കുന്നംകുളം</b> ∙ അപൂർവ സൗഹൃദത്തിന്റെയും സ്നേഹത്തിന്റെയും കൗതുകക്കാഴ്ചയായി ഗണേശനും കുക്കുവും. കൊമ്പൻ അകേരി ഗണേശനെ എഴുന്നള്ളിപ്പിന് ഉൾപ്പെടെ കൊണ്ടുപോകുന്ന എല്ലായിടത്തും നിഴൽ പോലെയുണ്ട് കുക്കു എന്ന നായ..",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/09/10/ganesh-kuku-friendship.html"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :74,902.52<span style=color:green> +46.30 (▲ 0.20%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 23,477.80  <span style='color:green;'>▲  -165.40 (-0.69%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന് ₹14,255 (+110 ▲) <br> വെള്ളി ഗ്രാമിന് ₹255   </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    }
+  ]
+}

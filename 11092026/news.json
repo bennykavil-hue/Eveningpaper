@@ -1,0 +1,746 @@
+{
+  "settings": {
+    "publicationDate": "2026-09-11",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "ചിങ്ങം 26, 1202",
+      "en": "Chingam 26, 1202"
+    },
+    "hijriDate": {
+      "ml": "29 റബീഉൽ അവ്വൽ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 447,
+    "edition": {
+      "ml": "സായാഹ്ന പതിപ്പ്. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Sucesss is not about being better than others; it is about being better than you were Yesterday.",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "കൃത്രിമ വൈദ്യുതി ക്ഷാമം ഉണ്ടാക്കി കമ്മീഷന്‍ തട്ടാനുള്ള നീക്കം; സര്‍ക്കാരിനെതിരെ ഗുരുതര ആരോപണവുമായി എം എം മണി",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "ലോകത്തെ പിടിച്ചുകുലുക്കിയ ഭീകരാക്രമണത്തിന് കാൽനൂറ്റാണ്ട്, എന്തൊക്കെ സംഭവിച്ചു, എത്രപേർ കൊല്ലപ്പെട്ടു?",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "ആധുനിക ലോകചരിത്രത്തെയും രാജ്യാന്തര സുരക്ഷാ സമവാക്യങ്ങളെയും അടിമുടി മാറ്റിമറിച്ച സെപ്റ്റംബർ 11 ഭീകരാക്രമണത്തിന് 25 വർഷം തികയുന്നു. 2001 സെപ്റ്റംബർ 11 ചൊവ്വാഴ്ച രാവിലെ യുഎസിലെ ആഭ്യന്തര വിമാന സർവീസുകൾ റാഞ്ചി അൽഖായിദ ഭീകരർ നടത്തിയ ചാവേർ ആക്രമണങ്ങളിൽ ജീവൻ നഷ്ടമായത് 2,977 നിരപരാധികൾക്കാണ്. അമേരിക്കയുടെ സാമ്പത്തിക, പ്രതിരോധ ആസ്ഥാനങ്ങളെ ലക്ഷ്യമിട്ടു നടത്തിയ ആക്രമണം വൻതോതിലുള്ള നാശനഷ്ടങ്ങൾക്കും ഭൗമരാഷ്ട്രീയ പ്രത്യാഘാതങ്ങൾക്കുമാണ് വഴിവെച്ചത്.",
+        "en": ""
+      },
+      "image": "images/lead.jpg",
+      "link": "https://www.manoramaonline.com/technology/defence/2026/09/11/9-11-attacks-world-history.html"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "🌳 National Forest Martyrs Day — September 11",
+        "en": ""
+      },
+      "summary": {
+        "ml": "National Forest Martyrs Day is observed in India to honour those who have sacrificed their lives protecting forests and wildlife. The day is associated with the historic Khejarli sacrifice of 1730, when Bishnoi villagers in Rajasthan gave their lives while protecting Khejri trees.",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.un.org/en/observances/protect-education-day?utm_source=chatgpt.com"
+    },
+    {
+      "id": "002",
+      "type": "news",
+      "order": 2,
+      "category": {
+        "ml": "കേരളം",
+        "en": "Keralam"
+      },
+      "title": {
+        "ml": "കൃത്രിമ വൈദ്യുതി ക്ഷാമം ഉണ്ടാക്കി കമ്മീഷന്‍ തട്ടാനുള്ള നീക്കം; സര്‍ക്കാരിനെതിരെ ഗുരുതര ആരോപണവുമായി എം എം മണി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഇടുക്കി:</b> സംസ്ഥാനത്തെ രൂക്ഷമായ വൈദ്യുതി പ്രതിസന്ധിയില്‍ സര്‍ക്കാരിനെതിരെ വിമര്‍ശനവുമായി മുന്‍ വൈദ്യുതി മന്ത്രി എം എം മണി രംഗത്ത്. സര്‍ക്കാരിന് ദീര്‍ഘ വീക്ഷണമില്ലാത്തതാണ് പ്രതിസന്ധിക്ക് കാരണമെന്ന് അദ്ദേഹം ആരോപിച്ചു. 40% വൈദ്യുതി മാത്രമാണ് സംസ്ഥാനത്ത് ഉത്പാദിപ്പിക്കുന്നത്. ബക്കി 60% വിവിധ കരാറുകളിലൂടെ സംസ്ഥാനം വാങ്ങുകയാണ് ചെയ്യുന്നത്. താന്‍ മന്ത്രിയായിരുന്ന കാലത്താണ് സമ്പൂര്‍ണ വൈദ്യുതീകരണം നടത്തിയത്. നിലവില്‍ വരാന്‍ സാധ്യത ഉള്ള പ്രതിസന്ധി മുമ്പ് തന്നെ കണ്ടെത്തി പരിഹാരം കാണുകയാണ് സര്‍ക്കാര്‍ ചെയ്യേണ്ടിയിരുന്നതെന്നാണ് എം എം മണി ചൂണ്ടിക്കാട്ടിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/11/mm-mani-criticises-government-kerala-power-crisis"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'രാഷ്ട്രീയം നോക്കണ്ട, നിയമം നോക്കിയാല്‍ മതി'; ഇഡി നീക്കത്തില്‍ പിണറായിയെ പിന്തുണയ്‌ക്കേണ്ടതില്ലെന്ന് സിപിഐ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> പിണറായിക്കെതിരായ ഇഡി നീക്കത്തില്‍ രാഷ്ട്രീയം നോക്കേണ്ടെന്ന് നിലപാടെടുത്ത് സിപിഐ. നിയമം ഏത് വഴിക്ക് പോകുന്നുവെന്നത് മാത്രം നോക്കിയാല്‍ മതിയെന്നാണ് സംസ്ഥാന സെക്രട്ടറിയേറ്റിന്റെ തീരുമാനം. ഇ ഡി നീക്കത്തില്‍ പിണറായി വിജയനെ സിപിഐ പിന്തുണക്കില്ലെന്നാണ് ഇത് നല്‍കുന്ന സൂചന. സിപിഐ സംസ്ഥാന സെക്രട്ടേറിയേറ്റ് യോഗം വിഷയം സംബന്ധിച്ച തീരുമാനം എടുത്തു എന്നാണ് റിപ്പോര്‍ട്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/11/cpi-stand-on-ed-move-against-pinarayi-vijayan-veena-cmrl"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പിണറായിക്കെതിരെ കേസെടുക്കുന്നതിൽ കോൺഗ്രസിൽ രണ്ടഭിപ്രായം; ഇൻഡ്യ സഖ്യത്തിൽ വിള്ളൽ വീഴുമെന്നും ആശങ്ക",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മുൻ മുഖ്യമന്ത്രിയും പ്രതിപക്ഷ നേതാവുമായ പിണറായി വിജയനെതിരെ കേസെടുക്കുന്നതിൽ കോൺഗ്രസിൽ രണ്ടഭിപ്രായം. പിണറായി വിജയനെതിരെ കേസെടുത്താൽ സിപിഐഎം ആയുധമാക്കുമെന്നും ഇൻഡ്യ സഖ്യത്തിൽ വിള്ളൽ വീഴുമെന്നുമുള്ള ആശങ്ക ഒരു വിഭാഗം കോൺഗ്രസ് നേതാക്കൾ പങ്കുവക്കുന്നു. തിരക്കിട്ട് കേസ് എടുക്കരുതെന്ന് ഒരു വിഭാഗവും അതിവേഗത്തിൽ നടപടികളിലേക്ക് കടക്കണമെന്ന് മറുവിഭാഗവും വാദിക്കുന്നുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/11/congress-divided-over-filing-case-against-pinarayi-vijayan"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "CMRLല്‍ നിന്ന് കോടികള്‍ വാങ്ങിയവരില്‍ UDF നേതാക്കളും; കുരുക്കായി സിഎഫ്ഒയുടെ മൊഴി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സിഎംആര്‍എല്ലില്‍ നിന്നും കോടികള്‍ വാങ്ങിയവരില്‍ യുഡിഎഫ് നേതാക്കളും. ആഭ്യന്തര മന്ത്രി രമേശ് ചെന്നിത്തല, വ്യവസായ മന്ത്രി പി കെ കുഞ്ഞാലിക്കുട്ടി, മുന്‍ മുഖ്യമന്ത്രി ഉമ്മന്‍ചാണ്ടി, മുന്‍ മന്ത്രി ഇബ്രാഹിംകുഞ്ഞ് എന്നിവര്‍ക്കെതിരെയാണ് മൊഴി. സിഎംആർഎല്ലിൽ നിന്നും പണം കെെപ്പറ്റിയവരുടെ പട്ടികയിൽ കെ കെ, എ ജി, ഒ സി, പി വി, ഐ കെ, ആര്‍ സി എന്നിങ്ങനെ ചില ചുരുക്കപ്പേരുകള്‍ ഉണ്ടായിരുന്നു. അത് ആരുടേതാണെന്ന് ഇ ഡിക്ക് മുന്നില്‍ വിശദീകരിക്കുകയായിരുന്നു സിഎംആര്‍എല്‍ കമ്പനിയിലെ സിഎഫ്ഒയായ കെ എസ് സുരേഷ് കുമാര്‍. സുരേഷ് കുമാറിന്റെ മൊഴി പകര്‍പ്പ് റിപ്പോര്‍ട്ടര്‍ പുറത്തുവിട്ടു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/11/udf-leaders-among-those-allegedly-received-crores-from-cmrl"
+    },
+    {
+      "id": "6",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "അത്ഭുതങ്ങള്‍ പ്രവര്‍ത്തിക്കാന്‍ ഈ മേഖലയില്‍ സാധ്യമല്ല, ജനം സഹകരിക്കണം: വൈദ്യുതി പ്രതിസന്ധിയില്‍ സണ്ണി ജോസഫ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സംസ്ഥാനത്ത് വൈദ്യുതി നിയന്ത്രണം തുടരുമെന്നും സ്വിച്ച് ഇട്ടതുപോലെ പ്രതിസന്ധി പരിഹരിക്കാന്‍ കഴിയില്ലെന്നും വൈദ്യുതി വകുപ്പ് മന്ത്രി സണ്ണി ജോസഫ്. ഏതെങ്കിലും ഒരു മാര്‍ക്കറ്റില്‍ പോയി വാങ്ങാവുന്ന കാര്യമല്ല. കരാറിൽ ഏര്‍പ്പെടണമെങ്കില്‍ മാസങ്ങള്‍ എടുക്കണം. ദിവസാടിസ്ഥാനത്തില്‍ വാങ്ങുന്ന സംവിധാനം ഉണ്ടെങ്കിലും അവിടെയൊന്നും അവെയിലബിലിറ്റി ഇല്ല. അഖിലേന്ത്യാ തലത്തില്‍ തന്നെ ഉത്പാദനം കുറയുകയും ആവശ്യം കൂടുതയും ചെയ്യുമ്പോള്‍ വിതരണം കുറയുമെന്നും സണ്ണി ജോസഫ് പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/11/power-cut-crisis-cannot-be-resolved-overnight-said-minister-sunny-joseph"
+    },
+    {
+      "id": "7",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'CMRL-Exalogic കേസ്: ED കത്തില്‍ പിണറായിക്കെതിരെ തെളിവുകളില്ല, നിയമോപദേശം നല്‍കുന്നതില്‍ ആശയക്കുഴപ്പത്തില്‍ എജി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സിഎംആര്‍എല്‍- എക്‌സാലോജിക് സാമ്പത്തിക ഇടപാടിലെ ഇഡി കത്തില്‍ പിണറായി വിജയന് എതിരെ തെളിവുകള്‍ ഇല്ലെന്ന് റിപ്പോര്‍ട്ട്. കോടതി തള്ളിയ, ബാങ്ക് രേഖകളാണ് എന്‍ഫോഴ്‌സ്‌മെന്റ് ഡയറക്ടറേറ്റ് തെളിവായി നല്‍കിയത്. വീണയുടെ ഡയറിക്കുറിപ്പുകള്‍ ചൂണ്ടിക്കാട്ടിയാണ് കള്ളപ്പണ ഇടപാട് നടന്നുവെന്ന ഇഡിയുടെ അവകാശ വാദം. മുഹമ്മദ് റിയാസ് വിദേശത്തേക്ക് പണം കടത്തി എന്ന് അവകാശപ്പെടുന്നുണ്ടെങ്കിലും കള്ളപ്പണം വെളുപ്പിച്ചതിന്റെ തെളിവുകളും ഇഡി കൈമാറിയിട്ടില്ല.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/11/cmrl-exalogic-case-ed-letter-no-evidence-against-pinarayi-vijayan-ag-legal-advice"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'രാജവെമ്പാല കടിച്ചാലും മരിക്കില്ല ; ഇനി ഒരു മൂർഖനെയും പേടിക്കണ്ട; കണ്ടെത്തി, കോക്ടെയിൽ ആന്റിവെനം",
+        "en": ""
+      },
+      "summary": {
+        "ml": " വികസിപ്പിച്ചു. ഇന്ത്യൻ ഇൻസ്റ്റിറ്റ്യൂട്ട് ഓഫ് സയൻസിലെ ഗവേഷകർ ജർമനിയിലെ ടെക്നിക്കൽ യൂണിവേഴ്സിറ്റി ഓഫ് ഡെൻമാർക്കിന്റെ സഹായത്തോടെയാണ് ഈ ആന്റിവെനം വികസിപ്പിച്ചത്. നിലവിൽ എല്ലാ മൂർഖൻ പാമ്പുകളുടെയും വിഷം പ്രതിരോധിക്കുന്ന ആന്റിവെനം ഇല്ല.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/11/universal-cobra-anti-venom.html"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'മനുഷ്യന് ഉറങ്ങാന്‍ പറ്റണില്ല, എന്തര് ചെയ്യാന്‍'; പവര്‍കട്ടില്‍ വലഞ്ഞ് സാധാരണക്കാര്‍"
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> കൊടുംചൂട്, കൊതുക്, പവര്‍കട്ട്… സംസ്ഥാനത്ത് അടിക്കടിയുള്ള കറന്റ് പോക്കില്‍ വലഞ്ഞിരിക്കുകയാണ് ജനം. കുട്ടികള്‍ പഠിക്കാനിരുന്നാല്‍ അപ്പോള്‍ കട്ട്, ഭക്ഷണം പാകം ചെയ്യാന്‍ തയ്യാറെടുക്കുമ്പോള്‍ കട്ട്, തയ്യല്‍ക്കടയില്‍ തുന്നാനിരിക്കുമ്പോഴും കട്ട്… ഇതെന്തൊരു കഷ്ടമാണെന്നാണ് രോഗികളടക്കം ചോദിക്കുന്നത്..",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/11/frequent-power-cuts-leave-people-struggling-across-kerala"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "title": {
+        "ml": "'ഭാവി വധുവിനെ ഇംപ്രസ് ചെയ്യിക്കണം; വ്യാജ ഐഡി കാർഡുമായി പ്രധാനമന്ത്രിയുടെ പരിപാടിയിൽ: യുവാവ് പിടിയിൽ"
+      },
+      "summary": {
+        "ml": ". രോഹൻ പരീഖ് (24), ദിലീപ് കുണ്ടെ എന്നിവരാണ് പിടിയിലായത്. തിങ്കളാഴ്ച നിത മുകേഷ് അംബാനി കൾച്ചറൽ സെന്ററിൽ പ്രധാനമന്ത്രി പങ്കെടുക്കുന്ന പരിപാടിയുടെ വേദിക്ക് സമീപമുള്ള ബാന്ദ്ര കുർള കോംപ്ലക്സിൽവച്ച് ഇരുവരെയും സുരക്ഷാ ഉദ്യോഗസ്ഥർ കസ്റ്റഡിയിലെടുക്കുകയായിരുന്നു.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/11/man-held-with-fake-id-at-pm-event-venue-mumbai-claims-he-was-scammed.html"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ചിറയിന്‍കീഴ് കയ്യാങ്കളിക്കേസ്: രമ്യാ ഹരിദാസിനെതിരെ കടുത്ത നടപടി ഉണ്ടാകില്ല; പരസ്യമായി താക്കീത് ചെയ്‌തേക്കും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</B> ചിറയിന്‍കീഴ് കയ്യാങ്കളിക്കേസില്‍ രമ്യാ ഹരിദാസ് എംഎല്‍എയ്‌ക്കെതിരെ കടുത്ത നടപടി ഉണ്ടാകില്ല. രമ്യാ ഹരിദാസിനെ പരസ്യമായി താക്കീത് ചെയ്‌തേക്കും. അന്വേഷണസമിതി റിപ്പോര്‍ട്ട് ഉടന്‍ പാര്‍ട്ടി നേതൃത്വത്തിന് കൈമാറും. സമിതി അധ്യക്ഷന്‍ എംഎം ഹസന്‍ കെപിസിസി അധ്യക്ഷന്‍ സണ്ണി ജോസഫുമായി കൂടിക്കാഴ്ച നടത്തും. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/10/chirayinkeezhu-clash-case-no-strict-action-likely-against-mla-ramya-haridas"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കൊല്ലത്ത് വനിതാ കണ്ടക്ടർക്കുനേരെ ലൈംഗികാതിക്രമം; തമിഴ്നാട് സ്വദേശി പിടിയിൽ: പൊലീസിനെതിരെയും ആക്രമണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊല്ലം∙ </b> <a href='https://www.manoramaonline.com/topics/auto/ksrtc.html' target='_blank' rel='noopener noreferrer'>കെഎസ്ആർടിസി</a>ബസിൽ വനിതാ കണ്ടക്ടർക്കു നേരെ ലൈംഗികാതിക്രമം നടത്തിയയാൾ അറസ്റ്റിൽ. തമിഴ്നാട് കുളച്ചൽ സ്വദേശി സെൽഡൺ പനീർസെൽവം ആണ് പിടിയിലായത്. കൊല്ലം–കുളത്തൂപ്പുഴ റൂട്ടിലോടുന്ന പ്രിയദർശിനി ബസിൽ വച്ചാണ് അതിക്രമമുണ്ടായത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/11/ksrtc-bus-molestation-kollam-female-conductor-assault.html"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 13,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സെക്രട്ടറിയേറ്റ് മാര്‍ച്ചിലെ സംഘര്‍ഷം; എസ്എഫ്‌ഐ നേതാക്കളെ കോടതിയില്‍ ഹാജരാക്കിയത് കൈവിലങ്ങ് അണിയിച്ച്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സെക്രട്ടറിയേറ്റ് മാര്‍ച്ചിലെ സംഘര്‍ഷത്തില്‍ പൊലീസ് കസ്റ്റഡിയിലെടുത്ത എസ്എഫ്‌ഐ നേതാക്കളെ കോടതിയില്‍ ഹാജരാക്കിയത് കൈവിലങ്ങ് അണിയിച്ച്. എസ്എഫ്‌ഐ കേന്ദ്ര കമ്മിറ്റി അംഗം എസ് കെ ആദര്‍ശ്, തിരുവനന്തപുരം ജില്ലാ സെക്രട്ടേറിയറ്റ് അംഗം മനേഷ് എന്നിവരെ വഞ്ചിയൂര്‍ കോടതിയില്‍ ഹാജരാക്കിയപ്പോഴാണ് വിലങ്ങ് അണിയിച്ചത്. പൊലീസിന്റെ നടപടി വിവാദങ്ങള്‍ക്കും വിമര്‍ശങ്ങള്‍ക്കും വഴിവെച്ചിരിക്കുകയാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/09/11/sfi-leaders-detained-in-secretariat-march-clash-produced-in-court-in-handcuffs"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "भारत सरकार/Government of India संचार मंũालय/Ministry of Communication डाक िवभाग /Department of Posts (जीडीएस अनुभाग/GDS Section)Notification No : 17-12/2026-GDS dated 20th, August ,2026 ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>Gramin Dak Sevak (GDS) Online Engagement Schedule-II, July-2026. </b>  Applications are invited from the eligible candidates to fill vacant posts of Gramin Dak Sevaks (GDSs) [i.e. Branch Postmaster (BPM)/Assistant Branch Postmaster (ABPM)/Dak Sevaks] in different offices of the Department of Posts. The details of the tentative vacant posts in each Circle/Division are given in Annexure-I. The applications are to be submitted online at the following link: <a href='https://indiapost.gov.in/gdsonlineengagement.'> click here </a> ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.indiapost.gov.in/gdsonlineengagement"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "റീജിയണല്‍ ഗ്രാമീണ്‍ ബാങ്കുകളില്‍ തൊഴിലവസരങ്ങള്‍",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>Career opportunities in Regional Rural Banks (Gramin Banks) are available through the IBPS RRB Recruitment 2026 process, which offers over 13,000 openings across participating banks ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://ibpsreg.ibps.in/rrboaxvaug26/"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 16,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "പൊൻമുടി യാത്രക്കാരുടെ ശ്രദ്ധയ്ക്ക്: വിതുര ചിറ്റാർ പാലത്തിൽ ഗതാഗത നിരോധനം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വിതുര ∙</B> പൊന്മുടി സംസ്ഥാന ഹൈവേയിലെ ആനപ്പാറ ചിറ്റാർ പാലത്തിന്റെ പണി പൂർത്തീകരിക്കുന്നതുമായി ബന്ധപ്പെട്ട് പാലത്തിലൂടെയുള്ള ഗതാഗതം നിരോധിച്ചു. ടാറിങ് ഉൾപ്പെടെയുള്ള പണി പൂർത്തിയാകുന്നത് വരെ ആയിരിക്കും നിരോധനമെന്ന് അസി.എൻജിനീയർ അറിയിച്ചു. പൊന്മുടിയിലേക്ക് പോകുന്നവർ ഹൈവേയിലെ തേവിയോട് ജംക്‌ഷനിൽ നിന്നും ബോണക്കാട് റോഡിലേക്ക് തിരിഞ്ഞ് മരുതാമല, പേരയം, മുല്ലച്ചിറ എത്തി ഹൈവേയിലേക്ക് തിരിച്ചു കയറി പോകണം. തിരിച്ചും അങ്ങനെ തന്നെ യാത്ര ചെയ്യാം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2026/09/11/ponmudi-highway-diversion.html"
+    },
+    {
+      "id": "33",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "title": {
+        "ml": "കാട്ടുകൊമ്പൻ ബാഹുബലിക്ക് പരുക്ക്; കൊമ്പനെ മയക്കുവെടിവച്ച് പിടികൂടില്ല, മരുന്ന് നൽകുന്നത് തീറ്റയിൽ ചേർത്ത്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോയമ്പത്തൂർ ∙</b> ആകാരംകൊണ്ടും സൗമ്യതകൊണ്ടും ആളുകളെ ആകർഷിച്ച കാട്ടുകൊമ്പൻ ബാഹുബലിക്കു പരുക്ക്. കോയമ്പത്തൂർ ഫോറസ്റ്റ് ഡിവിഷനിലെ ലക്ഷണത്തികവുള്ള കാട്ടാനകളിലൊന്നായ ബാഹുബലിക്ക് മേട്ടുപ്പാളയം ഫോറസ്റ്റ് റേഞ്ചിൽ മറ്റൊരു കാട്ടാനയുമായുള്ള ഏറ്റുമുട്ടലിനെ തുടർന്നാണ് വാലിന്റെ ഭാഗത്തു കുത്തേറ്റ പരുക്കുണ്ടായത്. വേദനയുടെ ലക്ഷണങ്ങളുണ്ടെങ്കിലും മേട്ടുപ്പാളയം, ശിരുമുഖ റേഞ്ചുകളിലെ കാടുകളിലും രാത്രിയിൽ കൃഷിയിടങ്ങളിലും ബാഹുബലി എത്തുന്നുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/palakkad/2026/09/11/bahubali-elephant-injury.html"
+    },
+    {
+      "id": "34",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "title": {
+        "ml": "വിവാഹം കഴിഞ്ഞ് നാളുകളായിട്ടും കുട്ടികളില്ല:പരിശോധയ്‌ക്കെത്തിയ 26കാരന് 'ഗർഭപാത്രം'; ഒടുവിൽ കാൻസറിൽ നിന്നും രക്ഷ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡല്‍ഹി:</b> വിവാഹം കഴിഞ്ഞ് നാളുകളേറെ ആയിട്ടും കുട്ടികള്‍ ഉണ്ടാകാത്തതിനെ തുടര്‍ന്ന് ആശുപത്രിയില്‍ ചികിത്സയ്‌ക്കെത്തിയ 26കാരന്റെ വയറ്റില്‍ ഗര്‍ഭപാത്രവും ഫലോപ്പിയന്‍ ട്യൂബുകളും കണ്ടെത്തി. ഡല്‍ഹിയിലെ ആര്‍ ജി ഹോസ്പിറ്റലിലാണ് അപൂര്‍വമായ സംഭവം റിപ്പോര്‍ട്ട് ചെയ്തത്. ലോകത്ത് ഇതുവരെ 300ല്‍ താഴെ ആളുകളില്‍ മാത്രം റിപ്പോര്‍ട്ട് ചെയ്തിട്ടുള്ള പെര്‍സിസ്റ്റന്റ് മുലേറിയന്‍ ഡക്ട് സിന്‍ഡ്രാം എന്ന ജന്മാ ഉള്ള രോഗാവസ്ഥയാണിയാൾക്കെന്ന് പരിശോധനയിൽ സ്ഥിരീകരിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/national/2026/09/11/26-year-old-man-diagnosed-with-uterus-after-marriage-fertility-check"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "സൈനിക കേന്ദ്രത്തിലെ മോഷണം; മുൻ സൈനികൻ കസ്റ്റഡിയിൽ, കാണാതായ എകെ 47 അടക്കം വീണ്ടെടുത്തു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഹൈദരാബാദ്:</b> സൈനിക കേന്ദ്രത്തിന്റെ കോമ്പൗണ്ടിൽ നിന്ന് എകെ-47 ഉൾപ്പെടെ 11 ആയുധങ്ങൾ കാണാതായ സംഭവത്തിൽ തെലങ്കാന പൊലീസ് ഒരാളെ കസ്റ്റഡിയിലെടുത്തതായി റിപ്പോർട്ട്. സെക്കന്ദരാബാദ് കന്റോൺമെന്റ് ഏരിയയിലെ മദ്രാസ് റെജിമെന്റിൽ കഴിഞ്ഞ ഓഗസ്റ്റ് 30നാണ് ആയുധങ്ങൾ മോഷണം പോയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/national-1802039"
+    },
+    {
+      "id": "72",
+      "type": "news",
+      "order": 81,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "ബ്രിക്‌സ്‌കൊണ്ട് എന്ത് പ്രയോജനമെന്ന് ചിദംബരം; ഇന്ത്യയുടെ നയതന്ത്ര ശേഷി വ്യക്തമാക്കുന്നതെന്ന് തരൂർ, കോൺഗ്രസിൽ ഭിന്നത  &nbsp;",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> ബ്രിക്‌സ് ഉച്ചകോടിയുമായി ബന്ധപ്പെട്ട് കോൺഗ്രസിൽ ഭിന്നാഭിപ്രായം. ബ്രിക്‌സ് ഉച്ചകോടി കൊണ്ട് എന്ത് പ്രയോജനമെന്ന കോൺഗ്രസ് നേതാവ് പി ചിദംബരത്തിന്റെ നിലപാടിനെ തള്ളി ശശി തരൂർ എംപി രംഗത്തെത്തി. ഇന്ത്യയുടെ നയതന്ത്ര ഏകോപന ശേഷി വ്യക്തമാക്കുന്നതാണ് ബ്രിക്‌സ് ഉച്ചകോടിയെന്നാണ് ശശി തരൂ‌ർ പറഞ്ഞത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/shashi-tharoor-about-brics-summit-1802017"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "BRICS",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<bBRICS</b>  is an <a rel='mw:WikiLink' href='https://en.wikipedia.org/wiki/International_organization' title='International organization' id='mwDw'>international organization</a>currently comprising ten countries: Brazil, China, Egypt, Ethiopia, India, Indonesia, Iran, Russia, South Africa and the United Arab Emirates.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://en.wikipedia.org/wiki/BRICS"
+    },
+    {
+      "id": "41",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "ലോകം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "റഷ്യയും ചൈനയുമെല്ലാം വിലവയ്‌ക്കുന്നത് വെറുതെയല്ല, അമേരിക്കൻ റിപ്പോർട്ടിലുള്ളത് ഇന്ത്യയെക്കുറിച്ചുള്ള ഞെട്ടിക്കുന്ന കാര്യങ്ങൾ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</B> ആണവായുധ ശക്തിയിൽ ആദ്യസ്ഥാനങ്ങളിൽ വരുന്ന രാജ്യമാണ് ഇന്ത്യ. 160 ആണവായുധങ്ങളാണ് ഇന്ത്യയിലുള്ളതായി ഇതിനകം പുറത്തുവന്നിട്ടുള്ളത്. എന്നാൽ ഇക്കാര്യത്തിൽ ഇന്ത്യ ഏറെ മുന്നിലാണെന്നതരത്തിലെ റിപ്പോർട്ടാണ് അമേരിക്കയിൽ നിന്ന് കഴിഞ്ഞദിവസം പുറത്തുവന്നത്. ഒരു അമേരിക്കൻ സംഘടന പുറത്തുവിട്ട 'ഇന്ത്യയുടെ ആണവായുധങ്ങൾ-2026' എന്ന ലേഖനത്തിൽ പറയുന്നതുപ്രകാരം 30 പുതിയ ആണവായുധങ്ങൾ കൂടി സ്വന്തമായി. ഇതോടെ ഇന്ത്യയുടെ ആകെ ആണവായുധങ്ങൾ 190 ആയെന്ന് ലേഖനത്തിലുണ്ട്.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://keralakaumudi.com/news-360/defence/india-nuclear-arsenal-190-warheads-30-new-warheads-2026-1802042"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "title": {
+        "ml": "പാകിസ്ഥാനിൽ നിന്നും കിലോമീറ്ററുകൾ മാത്രം അകലെ തയ്യാറായി ഇന്ത്യൻ വജ്രായുധം, റഡാറുകളിൽ കണ്ടെത്താൻ പ്രയാസം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</B> ഹിന്ദുസ്ഥാൻ എയറോനോട്ടിക്കൽസ് ലിമിറ്റ‌ഡ് (എച്ച്എഎൽ) തയ്യാറാക്കിനൽകുന്ന ലൈറ്റ് കോമ്പാക്‌റ്റ് യുദ്ധവിമാന വിഭാഗത്തിൽപെട്ട തേജസ് എംകെ 1എ ആദ്യ ബാച്ച് ഉടൻ വ്യോമസേനയുടെ ഭാഗമാകും. തേജസിന് ഉപയോഗിക്കുന്ന അമേരിക്കൻ നിർമ്മിത ജിഇ എഫ്404-ഐഎൻ20 എഞ്ചിനുകൾ വിതരണം ചെയ്യുന്നതിലെ താമസം കാരണം ഇവ സേനയുടെ ഭാഗമാകുന്നത് അൽപം വൈകിയിരുന്നു. ഈ പ്രശ്‌നം ഇപ്പോൾ പരിഹരിക്കപ്പെടുകയും എഞ്ചിൻ നിർമ്മാണ കമ്പനിയായ ജിഇ എയറോസ്‌പേസ് മൂന്ന് എഞ്ചിനുകൾ കൂടി കഴിഞ്ഞമാസം കയറ്റിയയക്കുകയും ചെയ്‌തതോടെയാണ് തേജസ് എംകെ 1എ യുദ്ധവിമാന നിർമ്മാണത്തിന് എച്ച്എഎൽ വേഗം കൂട്ടിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/defence/tejas-mk1a-first-batch-indian-air-force-1801346"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :74,781.76<span style=color:RED;> -120.84 (▼ 0.16%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 23,398.10  <span style='color:RED;'>▼  -79.70 (-0.34%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന് ₹14,015 (-240 ▼) <br> വെള്ളി ഗ്രാമിന് ₹245 (-10.00 ▼)  </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    }
+  ]
+}

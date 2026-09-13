@@ -1,0 +1,553 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 0;
+    background: #e5e5e5;
+    color: #171717;
+    font-family: "Noto Sans Malayalam", Arial, sans-serif
+}
+
+.paper {
+    max-width: 1180px;
+    margin: auto;
+    background: #fff;
+    min-height: 100vh;
+    padding: 8px 18px 18px
+}
+
+.utility {
+    display: flex;
+    justify-content: space-between;
+    font: 11px Arial;
+    color: #666;
+    padding-bottom: 5px
+}
+
+.masthead {
+    display: grid;
+    grid-template-columns: 205px 1fr 180px;
+    align-items: center;
+    gap: 15px;
+    min-height: 100px
+}
+
+.date-block {
+    display: flex;
+    align-items: center;
+    gap: 9px
+}
+
+.date-block>b {
+    font: 800 65px/.78 Georgia;
+    color: #542080;
+    min-width: 72px
+}
+
+.date-details {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    line-height: 1.35
+}
+
+.english-date {
+    font-size: 13px
+}
+
+.date-details strong {
+    font-size: 13px
+}
+
+.date-details span {
+    font-size: 12px;
+    font-weight: 700
+}
+
+.date-details span:first-of-type {
+    color: #8b0000
+}
+
+.date-details span:last-of-type {
+    font: 600 12px Arial;
+    color: #444
+}
+
+.brand {
+    text-align: center
+}
+
+.brand div {
+    display: inline-block;
+    background: linear-gradient(120deg, #111, #555, #111);
+    color: white;
+    padding: 5px 20px;
+    font: 800 clamp(25px, 4vw, 46px)/1 "Noto Serif Malayalam", serif
+}
+
+.brand small {
+    display: block;
+    color: #174d98;
+    font-size: 11px;
+    font-weight: 700;
+    margin-top: 3px
+}
+
+.motto {
+    border: 2px solid #222;
+    padding: 9px;
+    text-align: center;
+    color: #bd0070;
+    font: bold 12px/1.5 Arial;
+    white-space: pre-line
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    overflow: auto;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #222
+}
+
+nav a {
+    padding: 6px 13px;
+    border-right: 1px solid #ddd;
+    text-decoration: none;
+    color: #222;
+    font-size: 12px;
+    font-weight: 700;
+    white-space: nowrap
+}
+
+.redline {
+    border-top: 4px dotted #c90000;
+    margin: 10px 0 8px
+}
+
+.breaking {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    border: 1px solid #ddd;
+    background: #fafafa;
+    padding: 6px 8px;
+    margin-bottom: 13px;
+    font-size: 12px
+}
+
+.breaking b {
+    background: #c90000;
+    color: #fff;
+    padding: 4px 7px;
+    font: 800 10px Arial
+}
+
+.breaking span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.lead-area {
+    border-bottom: 1px solid #222;
+    padding-bottom: 15px;
+    margin-bottom: 16px
+}
+
+.lead {
+    display: grid;
+    grid-template-columns: 1.15fr 1fr;
+    gap: 18px
+}
+
+.lead img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    border-radius: 6px
+}
+
+.kicker {
+    color: #c90000;
+    font: bold 10px Arial;
+    margin-bottom: 4px
+}
+
+.lead h1 {
+    font: 800 clamp(24px, 3.4vw, 36px)/1.3 "Noto Serif Malayalam", serif;
+    margin: 3px 0 8px
+}
+
+.lead p,
+.card p {
+    line-height: 1.75;
+    text-align: justify
+}
+
+.lead p {
+    font-size: 13px;
+    margin: 0
+}
+
+.read {
+    color: #0755a0;
+    font-size: 11px;
+    font-weight: 700
+}
+
+.columns {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 20px;
+    width: 100%;
+}
+
+.columns>* {
+    min-width: 0;
+}
+
+.column {
+    padding: 0 14px;
+    border-right: 1px solid #aaa
+}
+
+.column:first-child {
+    padding-left: 0
+}
+
+.column:last-child {
+    border: 0;
+    padding-right: 0
+}
+
+.section-title {
+    border: 1px solid #333;
+    border-left: 5px solid #c90000;
+    padding: 6px 8px;
+    margin: 0 0 10px;
+    font-size: 13px
+}
+
+.card {
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+    border-bottom: 1px dotted #999
+}
+
+.card img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    margin-bottom: 7px
+}
+
+.card h2 {
+    font: 700 16px/1.45 "Noto Serif Malayalam", serif;
+    margin: 0 0 5px
+}
+
+.card p {
+    font-size: 12px;
+    margin: 0
+}
+
+.card a {
+    text-decoration: none;
+    color: inherit
+}
+
+.card .read {
+    text-decoration: underline;
+    color: #0755a0;
+    display: inline-block;
+    margin-top: 4px
+}
+
+footer {
+    border-top: 3px double #222;
+    margin-top: 18px;
+    padding-top: 9px;
+    display: flex;
+    justify-content: space-between;
+    color: #666;
+    font: 10px Arial
+}
+
+@media(max-width:850px) {
+    .masthead {
+        grid-template-columns: 180px 1fr 150px
+    }
+
+    .date-block>b {
+        font-size: 52px
+    }
+
+    .columns {
+        grid-template-columns: 1fr 1fr
+    }
+
+    .column:nth-child(2) {
+        border: 0
+    }
+
+    .column:nth-child(3) {
+        grid-column: 1/-1;
+        border-top: 1px solid #aaa;
+        padding: 14px 0 0
+    }
+}
+
+@media(max-width:600px) {
+    body {
+        background: #fff
+    }
+
+    .paper {
+        padding: 5px 10px
+    }
+
+    .masthead {
+        grid-template-columns: 1fr;
+        gap: 8px
+    }
+
+    .date-block {
+        justify-content: center;
+        order: 2
+    }
+
+    .brand {
+        order: 1
+    }
+
+    .motto {
+        order: 3
+    }
+
+    .brand div {
+        font-size: 29px
+    }
+
+    .date-block>b {
+        font-size: 48px
+    }
+
+    .date-details {
+        min-width: 155px
+    }
+
+    nav {
+        justify-content: flex-start
+    }
+
+    .lead {
+        grid-template-columns: 1fr
+    }
+
+    .columns {
+        display: block
+    }
+
+    .column,
+    .column:nth-child(2),
+    .column:nth-child(3) {
+        border: 0;
+        padding: 0;
+        margin-bottom: 18px
+    }
+
+    .column+.column {
+        border-top: 1px solid #aaa;
+        padding-top: 14px
+    }
+
+    footer {
+        display: block;
+        line-height: 1.8
+    }
+}
+
+@media print {
+    body {
+        background: #fff
+    }
+
+    .paper {
+        max-width: none
+    }
+
+    .utility,
+    nav,
+    .breaking {
+        display: none
+    }
+}
+
+/*for logo alignment*/
+.brand {
+    text-align: center;
+}
+
+.paper-logo {
+    display: block;
+    width: 150px;
+    height: auto;
+    margin: 0 auto 5px auto;
+}
+
+@media (max-width: 600px) {
+
+    .paper-logo {
+        width: 100px;
+    }
+
+}
+
+.special-day {
+    margin-top: 8px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-top: 1px solid #ccc;
+}
+
+.motto-area {
+    text-align: center;
+}
+
+.motto {
+    text-align: center;
+}
+
+.special-day {
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #c00000;
+    text-align: center;
+}
+
+header,
+.masthead,
+.motto-area,
+.brand,
+.motto {
+    height: auto !important;
+    min-height: 0 !important;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.news-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.news-card p {
+    text-align: justify;
+}
+
+/*.category-next {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: right;
+    margin-top: 6px;
+    padding-right: 4px;
+}*/
+.category-next {
+    margin-left: 95px;
+    text-align: right;
+}
+
+.news-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 6px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    padding: 8px 15px;
+}
+
+footer {
+    border-top: 3px double #222;
+    margin-top: 18px;
+    padding-top: 9px;
+    display: flex;
+    justify-content: space-between;
+    color: #666;
+    font: 10px Arial;
+    position: relative;
+}
+
+.footer-notice {
+    flex: 1;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    line-height: 1.4;
+}
+
+#footerName,
+#copyright {
+    white-space: nowrap;
+}
+
+#dailyHits {
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    font-size: 13px;
+    font-weight: bold;
+    white-space: nowrap;
+
+    background: #f2f2f2;
+    border: 1px solid #999;
+    border-radius: 20px;
+    padding: 3px 12px;
+}
+
+@media (max-width: 600px) {
+    footer {
+        flex-wrap: wrap;
+    }
+
+    .footer-notice {
+        width: 100%;
+        flex: 100%;
+    }
+
+    #footerName,
+    #copyright {
+        white-space: normal;
+    }
+}
+
+/*hit counter */
+#dailyHits {
+    clear: both;
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 8px;
+    font-size: 13px;
+    font-weight: bold;
+}

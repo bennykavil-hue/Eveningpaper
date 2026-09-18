@@ -72,6 +72,10 @@
       {
         "id": "business",
         "category": "ബിസിനസ്"
+      },
+      {
+        "id": "'നിര്യാതനായി",
+        "category": "'നിര്യാതനായി"
       }
     ]
   },
@@ -181,7 +185,14 @@
         "en": "Business"
       },
       "link": "#business"
-    }
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "Obit"
+      },
+      "link": "#obit"
+    },
   ],
   "breakingNews": [
     {

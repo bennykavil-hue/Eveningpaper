@@ -556,6 +556,25 @@
       "link": "https://www.manoramaonline.com/district-news/kottayam/2026/09/19/kerala-heatwave-alert.html"
     },
     {
+      "id": "16",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'വൈദ്യുതി  പ്രതിസന്ധിയിൽ  യുഡിഎഫ്&nbsp; സർക്കാരിനെ വിമർശിക്കാനില്ല'; സംസ്ഥാന  സർക്കാരിനെ  പ്രകീർത്തിച്ച്  സുരേഷ് ഗോപി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സംസ്ഥാനത്തെ നിലവിലെ വൈദ്യുതി പ്രതിസന്ധിയിൽ യുഡിഎഫ് സർക്കാരിനെ വിമർശിക്കാതെ കേന്ദ്രമന്ത്രി സുരേഷ് ഗോപി. വൈദ്യുതി പ്രതിസന്ധിയിൽ സംസ്ഥാന സർക്കാരിനെ വിമർശിക്കാനില്ലെന്നും ഈ ഒരു അവസ്ഥയിലേക്കെത്തിയതിൽ മുൻസർക്കാരുകൾക്കും ഉത്തരവാദിത്തവുമുണ്ടെന്നും പറഞ്ഞ അദ്ദേഹം യുഡിഎഫ് സർക്കാരിനെ വിമർശിക്കാൻ സമയമായിട്ടില്ലെന്നും പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/suresh-gopi-electricity-crisis-kerala-1805189"
+    },
+    {
       "id": "32",
       "type": "news",
       "order": 19,
@@ -573,6 +592,25 @@
       },
       "image": "",
       "link": "https://www.manoramaonline.com/district-news/ernakulam/2026/09/19/ernakulathappan-temple-land-dispute-supreme-court.html"
+    },
+    {
+      "id": "33",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "2600 പേർക്ക് യാത്ര ചെയ്യാം; പക്ഷേ കയറുന്നത് വെറും 60 യാത്രക്കാർ; ആദ്യത്തെ ഹൈഡ്രജൻ ട്രെയിനിന് സംഭവിച്ചത്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്ഈ വർഷം ജൂലായ് മാസത്തോടെയാണ് ഇന്ത്യയിൽ ഹൈഡ്രജൻ ട്രെയിൻ സർവീസ് ആരംഭിച്ചത്. ഹരിയാനയിലെ ജിന്ദ് റെയിൽവെ സ്‌റ്റേഷനിൽ നിന്ന് പ്രധാനമന്ത്രി നരേന്ദ്ര മോദിയാണ് ട്രെയിൻ ഫ്ളാഗ്ഓഫ് ചെയ്തത്. ജിന്ദിനും സോനിപ്പത്തിനുമിടയിൽ 89 കിലോ മീറ്ററാണ് സർവ്വീസ് ആരഭിച്ചത്. അഞ്ച് രൂപ മുതൽ പരമാവധി 25 രൂപ വരെയാണ് ടിക്കറ്റ് നിരക്ക്. പ്രതിദിനം രണ്ടു സർവീസ്. ഇതിന് 300 കിലോഗ്രാം ഹൈഡ്രജൻ വേണ്ടിവരും. ജിന്ദിൽ ഹൈഡ്രജൻ ഉത്പാദന പ്ലാന്റും പ്രധാനമന്ത്രി ഉദ്ഘാടനം ചെയ്തിരുന്നു. എന്നാൽ ഇപ്പോഴിതാ, ഹൈഡ്രജൻ ട്രെയിൻ സർവീസിൽ നിർണായകമായ ഒരു മാറ്റം ഇന്ത്യൻ റെയിൽവെ നടത്തിയേക്കും.",
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://keralakaumudi.com/news-360/explainer/first-hydrogen-train-2600-passengers-60-1805180"
     },
     {
       "id": "15",
@@ -773,15 +811,15 @@
         "en": "sports"
       },
       "title": {
-        "ml": "Asian Games 2026 Opening Ceremony Live: Pawan Sehrawat, Manu Bhaker lead Indian contingent",
+        "ml": "'മാനത്ത് വിസ്മയം വിരിയിക്കാൻ ഉൽക്കാപ്രവാഹം; സൂര്യഗ്രഹണവും ചന്ദ്രഗ്രഹണവും ഇന്ത്യയിൽ ദൃശ്യമാകില്ല",
         "en": ""
       },
       "summary": {
-        "ml": "The 20th Asian Games will officially open in Nagoya shortly with the Opening Ceremony, where Manu Bhaker and Pawan Sehrawat will lead the Indian contingent out at the athletes’ parade. The organisers of the Aichi-Nagoya Games are already on the defensive after a string of operational gaffes and logistical problems in the lead-up to the Games.",
+        "ml": "<b>നഗോയ</b> ഏഷ്യയുടെ കായികസ്വപ്നങ്ങൾക്ക് പുതിയ ചിറക് നൽകി 20-ാമത് ഏഷ്യൻ ഗെയിംസിന് കൊടിയേറി. നഗോയയിലെ പലോം മിസൂബോ സ്റ്റേഡിയത്തിൽ അത്യാധുനിക സാങ്കേതികവിദ്യകൾ സമന്വയിപ്പിച്ചാണ് ഉദ്ഘാടനച്ചടങ്ങ് നടന്നത്. ജപ്പാൻ ചക്രവർത്തി നരുഹിതോ, ചക്രവർത്തിയുടെ പത്നി മസാകോ, കിരീടാവകാശി അകിഷിനോ, യുവരാജ്ഞി കികോ എന്നിവർ ഉദ്ഘാടത്തിൽ പങ്കെടുത്തു. ഒളിംപിക് കൗൺസിൽ ഓഫ് ഏഷ്യ പ്രസിഡന്റ് ഷെയ്ഖ് ജൊവാൻ ബിൻ ഹമദ് അൽ ഥാനിയും ചടങ്ങിന് സാക്ഷിയായി.",
         "en": ""
       },
       "image": " images/news02.jpg",
-      "link": "https://indianexpress.com/article/sports/asian-games-2026-day-1-live-opening-ceremony-10884451/"
+      "link": "https://keralakaumudi.com/news-360/sports/asian-games-nagoya-opening-ceremony-india-1805191"
     },
     {
       "id": "019",

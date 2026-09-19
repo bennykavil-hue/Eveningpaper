@@ -147,7 +147,6 @@ function card(
 
 
             <h2>
-                // ${escapeHTML(title)}
                 ${title};
             </h2>
 

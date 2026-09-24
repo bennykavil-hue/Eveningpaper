@@ -1,0 +1,918 @@
+{
+  "settings": {
+    "publicationDate": "2026-09-24",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "കന്നി 08, 1202",
+      "en": "Kanni 08, 1202"
+    },
+    "hijriDate": {
+      "ml": "12 റബീഉൽ ആഖീര്‍ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 460,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "<b>The secret of getting ahead is getting started.</b> — Mark Twain",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "27 സെപ്തംബര്‍ 2026 ഞായറാഴ്ച ബാങ്കുകള്‍ പ്രവര്‍ത്തിക്കും.",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "സമാധാനത്തിന്റെ കളിക്കളം",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "നാഗസാക്കി സ്പോർട്സ് സിറ്റി സ്റ്റേഡിയത്തിന്റെ പതിനൊന്നാമത്തെ നിലയിൽനിന്നു പുറത്തേക്കു നോക്കുമ്പോൾ തൊട്ടുമുന്നിലെ ഫുട്ബോൾ ഫീൽഡ് പോലെ മനസ്സ് ശൂന്യമായിരുന്നു. സ്വപ്നങ്ങൾ എരിഞ്ഞടങ്ങിയ മണ്ണാണു നാഗസാക്കി. ഇന്നും വിങ്ങലോടെയല്ലാതെ ആരും നാഗസാക്കിയെക്കുറിച്ച് ഓർമിക്കാറില്ല. വർഷങ്ങൾ പലതു കഴിഞ്ഞിട്ടും ഓരോ ഓഗസ്റ്റ് ഒൻപതിനും കനൽക്കാറ്റേറ്റ പോലെ നാഗസാക്കിയുടെ നെഞ്ചുലയും.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.manoramaonline.com/sports/other-sports/2026/09/20/nagasaki-bombing-peace-stadium-asian-games.html"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "⚓ World Maritime Day & NSS Day",
+        "en": ""
+      },
+      "summary": {
+        "ml": "World Maritime Day is observed annually on the last Thursday of September. It highlights the importance of international shipping, maritime safety, security, and protection of the marine environment. <br> September 24 is also observed as NSS Day (National Service Scheme Day) in India, marking the establishment of the National Service Scheme and its emphasis on community service and youth participation. ",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.imo.org/en/about/events/pages/world-maritime-theme-2026-2027.aspx"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മുതലാളിമാരുടെ സൗജന്യംപറ്റിയുള്ള യാത്ര ഭരണഘടനാവിരുദ്ധം; ആരുടെ സ്‌പോൺസർഷിപ്പെന്ന് വ്യക്തമാക്കണം- ഗോവിന്ദൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മുതലാളിമാരുടെ സൗജന്യത്തിൽ യാത്ര നടത്തുന്നത് തുടരുമെന്ന മുഖ്യമന്ത്രി വി.ഡി. സതീശന്റെ പ്രസ്താവന ഭരണഘടനാ വിരുദ്ധവും സത്യപ്രതിജ്ഞാ ലംഘനവുമാണെന്ന് സിപിഎം സംസ്ഥാന സെക്രട്ടറി എം.വി ഗോവിന്ദൻ മാസ്റ്റർ. ആരാണ് വിമാനങ്ങൾ നൽകുന്നത് എന്ന് മുഖ്യമന്ത്രി പറയുന്നില്ല, ഇത് ഒരു മുഖ്യമന്ത്രിക്ക് ചേരുന്നതല്ല. സ്ഥിരമായി ഇത് തുടരുമെന്ന് പറയാൻ ഒരു മുഖ്യമന്ത്രിക്കും അധികാരമില്ല. അതിനെ പ്രതിപക്ഷം ശക്തമായി എതിർക്കുന്നുവെന്നും അദ്ദേഹം പറഞ്ഞു.&nbsp;ആരുടെ സ്‌പോൺസർഷിപ്പിലാണ് മംഗലാപുരത്തേക്കും മലപ്പുറത്തേക്കും പോയതെന്ന് വ്യക്തമാക്കാൻ മുഖ്യമന്ത്രി തയ്യാറാകണമെന്നും അദ്ദേഹം ആവശ്യപ്പെട്ടു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/mv-govindan-criticizes-cm-vd-satheesan-chartered-flight-controversy-m1yl9g08"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ശബരിമലയിൽ സ്വർണക്കിരീടവും കവർന്നു; സ്ട്രോങ്റൂമിലുള്ളത് മുക്കുപണ്ടം; അന്നുവില 26 ലക്ഷം, ഇന്ന് 62 ലക്ഷം"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ശബരിമല സന്നിധാനത്തെ സ്‌ട്രോങ്‌റൂമിൽ സൂക്ഷിച്ചിരുന്ന 55.72 പവൻ തൂക്കമുള്ള സ്വർണക്കിരീടം കാണാനില്ല. തിരുവാഭരണങ്ങളുടെ കണക്കെടുപ്പിലാണ് ഇക്കാര്യം സ്ഥിരീകരിച്ചത്. തമിഴ്‌നാട്ടിൽനിന്നുള്ള ഭക്തർ 2012 ഓഗസ്റ്റിലാണ് കിരീടം സമർപ്പിച്ചത്. രജിസ്റ്ററിൽ ഇത് രേഖപ്പെടുത്തിയിട്ടുണ്ടെങ്കിലും സ്‌ട്രോങ്‌റൂമിലുള്ളത് അന്നുകിട്ടിയതിന്റെ അതേരൂപത്തിലും വലുപ്പത്തിലുമുള്ള മുക്കുപണ്ടംകൊണ്ടുള്ള കിരീടമാണ്. വജ്രത്തിന് സമാനമായ വെള്ളക്കല്ല് പതിച്ചിട്ടുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/sabarimala-gold-crown-missing-strongroom-investigation-un2ipgqs"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'എന്തുകൊണ്ട് വിജിലൻസ് അന്വേഷണം ഇല്ല?'; മാസപ്പടി ഡയറിയിൽ വി ഡി സതീശന്റെ പേരും, വെളിപ്പെടുത്തലുമായി ഷോൺ ജോർജ്"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b? മാസപ്പടി ഡയറിയിൽ മുഖ്യമന്ത്രി വി ഡി സതീശന്റെ പേരും ഉൾപ്പെട്ടിട്ടുണ്ടെന്ന് ബിജെപി നേതാവ് ഷോൺ ജോർജ്. എസ്എഫ്ഐഒ കോടതിയിൽ സമർപ്പിച്ച രേഖയുടെ ഭാഗം ഫേസ്ബുക്കിൽ പങ്കുവച്ചുകൊണ്ടാണ് ഷോണിന്റെ പ്രതികരണം. സിഎംആർഎൽ എംഡി എൻ ശശിധരൻ കർത്തയുടെ ഡയറിയുടെ പേജും ഫേസ്ബുക്കിൽ പങ്കുവച്ചിട്ടുണ്ട്. പ്രമുഖ യുഡിഎഫ്, എൽഡിഎഫ് നേതാക്കളുടെ പേര് ഡയറിയിൽ ഉണ്ടെന്നാണ് ഷോണിന്റെ ആരോപണം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/masappadi-diary-vd-satheesan-shone-george-1807084"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സ്വർണക്കിരീടം കളവുപോയെങ്കിൽ അത് വലിയ വിഷയം, ശബരിമലയിൽ സിസ്റ്റത്തിന്റെ പരാജയം- കെ. ജയകുമാർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "തിരുവനന്തപുരം: ശബരിമല സന്നിധാനത്തെ സ്‌ട്രോങ്‌റൂമിൽ സൂക്ഷിച്ചിരുന്ന 55.72 പവൻ തൂക്കമുള്ള സ്വർണക്കിരീടം <a href='https://www.mathrubhumi.com/news/kerala/sabarimala-gold-crown-missing-strongroom-investigation-un2ipgqs' target='_blank'>കാണാതായ</a> സംഭവത്തിൽ പ്രതികരിച്ച് തിരുവിതാംകൂർ ദേവസ്വംബോർഡ് പ്രസിഡന്റ് കെ. ജയകുമാർ. കിരീടം കാണാതായെന്ന് മാധ്യമങ്ങളിൽനിന്നാണ് അറിഞ്ഞത്. കിരീടം ശബരിമലയിൽ സൂക്ഷിക്കേണ്ടതാണോ ആറന്മുളയിലേക്ക് കൊണ്ടുപോകേണ്ടതാണോ എന്നൊന്നും റിപ്പോർട്ടിൽനിന്ന് മനസ്സിലാക്കിയിട്ടില്ല. അങ്ങനെ നഷ്ടപ്പെട്ടിട്ടുണ്ടെങ്കിൽ അത് വീണ്ടുമൊരു ഞെട്ടലിലേക്ക് നയിക്കും. വിഷയം പഠിച്ചിട്ടില്ല. പഠിച്ചശേഷം വൈകുന്നേരത്തോടെ പ്രതികരിക്കാമെന്നും അദ്ദേഹം പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/sabarimala-gold-crown-missing-k-jayakumar-response-fug9qmop"
+    },
+    {
+      "id": "6",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സൂര്യ കൃഷ്ണമൂർത്തിയുടെ വിയോഗം; കലാസംഘടനകളുടെ ചരിത്രത്തിലെ സുപ്രധാന അധ്യായത്തിന് അന്ത്യം- എം.എ. ബേബി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> കേരളം കണ്ട കലാസംഘാടകരിൽ ഏറ്റവും ഉന്നതശീർഷനായിരുന്നു സൂര്യ&nbsp;കൃഷ്ണമൂർത്തിയെന്ന് സിപിഎം ജനറൽ സെക്രട്ടറി എം.എ. ബേബി. അദ്ദേഹത്തിന്റെ നിര്യാണം കേരളത്തിലെ കലാസംഘടനകളുടെ ചരിത്രത്തിലെ ഒരധ്യായത്തിന്റെ ഒടുക്കമാണെന്ന് അദ്ദേഹം അനുശോചനക്കുറിപ്പിൽ പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.mathrubhumi.com/news/kerala/ma-baby-condoles-death-of-surya-krishnamoorthy-l5gayc1n"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "'കത്തുന്ന ഗന്ധം' അറിയിച്ചിട്ടും അവഗണിച്ചു, ഡ്രൈവിംഗിനിടെ പുകവലി; സ്വകാര്യ സ്ലീപ്പർ ബസിന് തീപിടിച്ച് ഒമ്പത് യാത്രക്കാർ മരിച്ചു"
+      },
+      "summary": {
+        "ml": "ലക്‌നൗ: സ്വകാര്യ സ്ലീപ്പർ ബസിന് തീപിടിച്ച് ഒമ്പത് യാത്രക്കാർ മരിച്ചു. യമുന എക്‌സ്‌പ്രസ്‌വേയിൽ ഇന്നലെ രാത്രി 11.30യോടെയാണ് അപകടമുണ്ടായത്. 35ഓളം യാത്രക്കാരുമായി ഡൽഹിയിൽനിന്ന് ആഗ്രയിലേക്ക് പോകുകയായിരുന്ന രാജ് കൽപ്പന ട്രാവൽസിന്റെ ബസിനാണ് തീ പിടിച്ചത്. അപകടത്തിൽ നിരവധി യാത്രക്കാർക്ക് പൊള്ളലേറ്റിട്ടുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/near-noida-airport-yamuna-expressway-bus-fire-9-passengers-killed-jevar-1807074"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "തിരഞ്ഞെടുപ്പ് കമ്മീഷനെതിരെ ഉയരുന്ന ആരോപണങ്ങൾ ജനാധിപത്യത്തിന് ഗുരുതര ഭീഷണി- പ്രിയങ്ക ഗാന്ധി"
+      },
+      "summary": {
+        "ml": "<b>നിലമ്പൂർ:</b> രാജ്യത്ത് തിരഞ്ഞെടുപ്പുകൾ നിയന്ത്രിക്കപ്പെടുകയോ, ക്രമക്കേടുകൾ നടത്തുകയോ ചെയ്യപ്പെടുന്നുവെങ്കിൽ അത് ജനാധിപത്യത്തിന് ഗുരുതര ഭീഷണിയാണെന്ന് പ്രിയങ്ക ഗാന്ധി എം.പി. ചോക്കാട് കോട്ടപ്പുഴ മലവെള്ളപ്പാച്ചിലിൽ മരിച്ച സജിതയുടെ മുണ്ടേരി അപ്പൻകാപ്പിലെ വീട്ടിൽ സന്ദർശനം നടത്തിയശേഷം മാധ്യമ പ്രവർത്തകരോട് സംസാരിക്കുകയായിരുന്നു അവർ.",
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://www.mathrubhumi.com/news/kerala/priyanka-gandhi-election-commission-democracy-threat-vid60we6"
+    },
+    {
+      "id": "7",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "റേഷൻ കാർഡ് തരംമാറ്റൽ തുടങ്ങി; ആദായനികുതി അടയ്ക്കുന്നവരും ഉയർന്ന വരുമാനക്കാരും പുറത്തേക്ക്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പാലക്കാട്: ആദായനികുതി റിട്ടേൺ നൽകുന്ന വ്യക്തികൾ ഉൾപ്പെട്ട റേഷൻകാർഡുകളുടെ പരിശോധനയും തരംമാറ്റൽ നടപടികളും തുടങ്ങി. മുൻഗണനാവിഭാഗം (മഞ്ഞ-എ.എ.വൈ.), പിങ്ക് (പി.എച്ച്.എച്ച്.) റേഷൻ കാർഡിൽ ഉൾപ്പെട്ട കുടുംബാംഗങ്ങളിൽ ആരെങ്കിലും ആദായനികുതി അടയ്ക്കുന്നവരോ വാർഷികവരുമാനം നിശ്ചിത പരിധിയിൽ കൂടുതലുള്ളവരോ ആണെന്ന് കണ്ടെത്തിയവരെയാണ് വെള്ളക്കാർഡിലേക്ക് തരം മാറ്റുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/ration-card-verification-income-tax-kerala-cxztgeao"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കാര്യമായി എന്തോ പറ്റിയിട്ടുണ്ട്'; പൃഥിരാജിനെതിരെ പരിഹാസവുമായി ബിജെപി നോതാവ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "പൃഥിരാജ് സുകുമാരന്റെ ബോളിവുഡ് ചിത്രം ദായ്റയുടെ റിലീസിന് പിന്നാലെ താരം മുംബയിലെ പ്രശസ്തമായ ലാൽബാഗ് രാജ ഗണേശ മണ്ഡലിൽ ദർശനം നടത്തിയതിനെ പരിഹസിച്ച് ബിജെപി നേതാവ് യുവരാജ് ഗോകുൽ. കഴിഞ്ഞ തിങ്കളാഴ്ചയാണ് താരം ഭാര്യ സുപ്രിയയുമൊത്ത് ഗണപതി ക്ഷേത്രത്തിലെത്തിയത്. വെളുത്ത കുർത്ത ധരിച്ച എത്തിയ താരത്തിന്റെ നെറ്റിയിൽ തിലകവും ചാർത്തിയിരുന്നു. പൃഥിരാജ് ക്ഷേത്രത്തിൽ കാണിക്കയർപ്പിക്കുന്ന ദൃശ്യങ്ങളും സമൂഹമാദ്ധ്യമങ്ങളിൽ പ്രചരിച്ചിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/social-media/bjp-leader-yuvraj-gokul-sarcastic-remark-on-prithviraj-1807097#google_vignette"
+    },
+    {
+      "id": "34",
+      "type": "news",
+      "order": 13,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "വിശുദ്ധി തെളിയിക്കേണ്ട ബാധ്യതയിൽ തിരഞ്ഞെടുപ്പ് കമ്മിഷൻ; 13 കോടി വോട്ടർമാർ പ്രതിസന്ധിയിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> പുറത്തുയരുന്നതിനെക്കാൾ കടുത്ത കടലിരമ്പമാണ് അകത്തുയരുന്നതെന്ന പ്രത്യക്ഷ വിളംബരമാണ് തിരഞ്ഞെടുപ്പ് കമ്മിഷന്റെ ഉള്ളറകളിൽനിന്ന് പുറത്തുവരുന്നത്. മുഖ്യതിരഞ്ഞെടുപ്പ് കമ്മിഷണറോ തിരഞ്ഞെടുപ്പ് കമ്മിഷണർമാരോ പ്രതികരിക്കാതെ,ഡെപ്യൂട്ടി ഡയറക്ടറുടെ പേരിൽ പുറത്തിറക്കിയ പത്രക്കുറിപ്പിന്റെ പരിചകൊണ്ട് പ്രതിരോധിക്കാനാകുന്നതല്ല വസ്തുതകളെന്നതാണ് യാഥാർഥ്യം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/india/election-commission-voter-list-revision-dissent-mc343ewf"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "SSC invited applicaitons for Combined Higher Secondary Level Eaminaiton (CHSL) - 2026",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>CHSL Combined Higher Secondary Level (10+2) Examination.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://ssc.gov.in/for-candidates/cgl-exam/s40d16nackd16h0"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "ഏഷ്യൻ ഗെയിംസ് തുഴച്ചിൽ; ഡബിൾ സ്‌കൾസിൽ സത്‌നാം സിങ്-സൽമാൻ ഖാൻ സഖ്യത്തിന് വെങ്കലം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>നഗോയ: ഏഷ്യൻ ഗെയിംസ് തുഴച്ചിലിൽ പുരുഷന്മാരുടെ ഡബിൾ സ്‌കൾസ് ഇനത്തിൽ ഇന്ത്യയ്ക്ക് വെങ്കലം. സത്‌നാം സിങ് - സൽമാൻ ഖാൻ സഖ്യമാണ് ഇന്ത്യയ്ക്കായി വെങ്കലം സ്വന്തമാക്കിയത്. നഗരഗാവ ഇന്റർനാഷണൽ റെഗാട്ട കോഴ്‌സിൽ നടന്ന മത്സരത്തിൽ 6:13.25 സെക്കൻഡിൽ മത്സരം പൂർത്തിയാക്കിയാണ് ഇന്ത്യൻ ജോഡി മൂന്നാം സ്ഥാനം കരസ്ഥമാക്കിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/sports/news/asian-games-rowing-satnam-singh-salman-khan-bronze-ur2tnbmg"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 16,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "വുഷുവിൽ വെള്ളിത്തിളക്കത്തിൽ റോഷിബിന ദേവി; തുടർച്ചയായ മൂന്നാം ഏഷ്യൻ ഗെയിംസ് മെഡൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>നാഗോയ:</b> ഏഷ്യൻ ഗെയിംസ് വുഷുവിൽ ഇന്ത്യയുടെ പ്രതീക്ഷകൾ കാത്ത് റോഷിബിന ദേവി വെള്ളി മെഡൽ സ്വന്തമാക്കി. വനിതകളുടെ 60 കിലോഗ്രാം സാൻഡ വിഭാഗത്തിലാണ് റോഷിബിനയുടെ നേട്ടം. ഫൈനലിൽ ചൈനയുടെ ഴാങ് ഷിയാവോയുവിനോട് 0-2 എന്ന സ്‌കോറിന് റോഷിബിന പരാജയപ്പെടുകയായിരുന്നു. ഫൈനലിലേക്കുള്ള യാത്രയിൽ വിയറ്റ്‌നാമിന്റെ 2023 ലോക ചാമ്പ്യനായ എങ്കുയെൻ തി തു തുയിയെ 25-കാരിയായ റോഷിബിന പരാജയപ്പെടുത്തിയിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/sports/news/roshibina-devi-silver-medal-asian-games-wushu-w8bmh4t7"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "അരിക്കൊമ്പൻ മാതൃകയിൽ ചക്കക്കൊമ്പനെയും പിടികൂടും; മയക്കുവെടിവച്ച് മാറ്റിപ്പാർപ്പിക്കാൻ വനംവകുപ്പ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഇടുക്കി:</b> ചിന്നക്കനാലിൽ ചക്കക്കൊമ്പന്റെ ആക്രമണത്തിൽ ആദിവാസി യുവാവ് കൊല്ലപ്പെട്ടതിന് പിന്നാലെ ആനയെ പിടികൂടാൻ വനംവകുപ്പ്. കഴിഞ്ഞദിവസമാണ് ഇടുക്കി പന്നിയാർ പന്തടികളം സ്വദേശി വിജയൻ (47) ചക്കക്കൊമ്പന്റെ ആക്രമണത്തിൽ മരിച്ചത്. പണിസ്ഥലത്തെ ഷെഡിൽ നിന്ന് രാവിലെ വീട്ടിലേക്ക് വരുംവഴി കാട്ടാനയുടെ മുന്നിൽപ്പെടുകയായിരുന്നു. മയക്കുവെടിവച്ച് ചക്കക്കൊമ്പൻ എന്ന കാട്ടാനയെയും മുറിവാലൻ എന്ന പിടിയാനെയെയും പിടികൂടി മാറ്റിപ്പാർപ്പിക്കാനാണ് തീരുമാനം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/chakkakomban-elephant-capture-idukki-forest-department-1807071"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "നെഞ്ചിൽ സ്പർശിക്കുന്നത് ബലാത്സംഗ ശ്രമമല്ല’: പട്ന ഹൈക്കോടതി വിധിക്കെതിരെ സ്വമേധയാ ഹർജി സ്വീകരിച്ച് സുപ്രീംകോടതി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി∙</b> വസ്ത്രം അഴിക്കാൻ ശ്രമിക്കുന്നതും നെഞ്ചിൽ അമർത്തുന്നതും ബലാത്സംഗ ശ്രമമായി കണക്കാക്കാനാവില്ലെന്ന പട്ന ഹൈക്കോടതിയുടെ വിധിക്കെതിരെ സ്വമേധയാ ഹർജീ സ്വീകരിച്ച് <a href='https://www.manoramaonline.com/topics/judiciary/supremecourt.html' target='_blank' rel='noopener noreferrer'>സുപ്രീംകോടതി</a>. ചീഫ് ജസ്റ്റിസ് സൂര്യകാന്ത്, ജഡ്ജിമാരായ ജോയ്മല്യ ബാഗ്ചി, വി.മോഹന എന്നിവരടങ്ങിയ ബെഞ്ചിന്റേതാണ് നടപടി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/23/supreme-court-takes-suo-motu-case-over-patna-high-court-verdict-that-bid-to-remove-salwar-pressing-chest-is-not-rape-attempt.html"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കാലം മാറുന്നതനുസരിച്ച് മുഖ്യമന്ത്രിയുടെ യാത്രയിൽ മാറ്റങ്ങൾ വേണം, ഇതേ കമ്പനിയുടെ വിമാനം പിണറായി ഉപയോഗിച്ചിട്ടുണ്ട്: മന്ത്രി കെ മുരളീധരൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തൃശൂർ:</b> കാലം മാറുന്നതനുസരിച്ച് മുഖ്യമന്ത്രിയുടെ യാത്രയിൽ മാറ്റങ്ങൾ വേണമെന്ന് മന്ത്രി കെ മുരളീധരൻ. ഇതേ കമ്പനിയുടെ വിമാനം പിണറായി ഉപയോഗിച്ചിട്ടുണ്ടെന്നും അദ്ദേഹം പറഞ്ഞു. കരിവണ്ടി മാറി വന്ദേഭാരത് വന്നു. സ്പോൺസർ ആരാണെന്ന് മാധ്യമങ്ങൾക്ക് നന്നായി അറിയാം. സ്പോൺസർ ആരാണെന്ന് മുഖ്യമന്ത്രി വെളിപ്പെടുത്തിക്കൊള്ളുമെന്നും തനിക്ക് ഇത്തരമൊരു വിമാനയാത്ര ഇപ്പോൾ നടത്തേണ്ട ആവശ്യമില്ലെന്നും മുരളീധരൻ പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/09/24/k-muraleedharan-on-cm-v-d-satheeshan-flight-travel.html"
+    },
+    {
+      "id": "37",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "സുഹൃത്തിനൊപ്പം യാത്ര ചെയ്യുകയായിരുന്ന പെൺകുട്ടിയെ കടന്നുപിടിച്ച് യുവാക്കൾ; ലൈംഗികാതിക്രമം: ബിഹാറിൽ വീണ്ടും ക്രൂരത",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പട്ന∙ ജാമുയി സംഭവത്തിന്റെ ഞെട്ടൽ മാറും മുൻപേ&nbsp;<a href='https://www.manoramaonline.com/topics/news/national/states/bihar.html' target='_blank' rel='noopener noreferrer'>ബിഹാറിൽ</a> വീണ്ടും പെൺകുട്ടിക്കുനേരെ ലൈംഗികാതിക്രമം. ജാമുയിക്ക് 131 കിലോമീറ്റർ അകലെയുള്ള സമസ്തിപുരിലാണ് പുതിയ സംഭവം. സമസ്തിപുരിലെ ജഗത്‌സിങ്പുർ ഗ്രാമത്തിലൂടെ യാത്ര ചെയ്യുകയായിരുന്ന പെൺകുട്ടിയെയും ആൺകുട്ടിയെയും മോട്ടർ സൈക്കിളെത്തിയ ഒരു കൂട്ടം പുരുഷന്മാർ ഉപദ്രവിക്കുകയായിരുന്നു. സംഭവത്തിൽ നാലുപേർ അറസ്റ്റിലായി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/24/girl-harassed-youths-samastipur-bihar-viral-video-sparks-outrage.html"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 21,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "‌മുഖ്യമന്ത്രിയുടെ പ്രതികരണം ജനങ്ങളോടുള്ള വെല്ലുവിളി; യാത്രകൾ സുതാര്യമായിരിക്കണം: കെ രാജൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‌തിരുവനന്തപുരം:</b> വിമാനയാത്ര സംബന്ധിച്ച മുഖ്യമന്ത്രിയുടെ പ്രതികരണം ജനങ്ങളോടുള്ള വെല്ലുവിളിയെന്ന് സിപിഐ നേതാവ് കെ രാജൻ. ഭരണാധികാരികൾക്ക് ജനങ്ങളോട് ഉത്തരവാദിത്തമുണ്ട്. വിമാനയാത്ര സംബന്ധിച്ച ദുരൂഹത ഓരോ നിമിഷവും വർധിക്കുന്നു. മുഖ്യമന്ത്രിയുടെ യാത്രകൾ സുതാര്യമായിരിക്കണമെന്നും കെ രാജൻ പറഞ്ഞു. ദുരന്തം ഉണ്ടാകുമ്പോൾ മുഖ്യമന്ത്രിക്ക് എവിടെയും പോകുന്നതിന് തടസ്സമില്ലെന്നും എന്നാൽ മുഖ്യമന്ത്രിയുടെ യാത്രകൾ സുതാര്യമായിരിക്കണമെന്നും അദേഹം കൂട്ടിച്ചേർത്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/09/24/k-rajan-termed-the-cm-response-regarding-flight-travel-a-challenge-to-the-people.html#"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഹരിത എംഎല്‍എ എന്ന് സ്വയം വിളിക്കുന്ന മുഖ്യമന്ത്രി മാലിന്യം ഒഴുക്കുന്ന കമ്പനിയില്‍ നിന്ന് പണം വാങ്ങി,കാപട്യം എന്തെന്ന് അദ്ദേഹത്തെ നോക്കിപഠിക്കണം: ഷോണ്‍ ജോര്‍ജ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സിഎംആര്‍എല്‍ കമ്പനിയില്‍ നിന്ന് പണം വാങ്ങിയ സംഭവത്തില്‍ ആരോപണ വിധേയരായ മുഖ്യമന്ത്രി വി ഡി സതീശനും ആഭ്യന്തരമന്ത്രി രമേശ് ചെന്നിത്തലയ്ക്കും എങ്ങനെ എഫ്‌ഐആര്‍ ഇട്ടുള്ള അന്വേഷണം ഇപ്പോള്‍ വേണ്ടെന്ന് പറയാനാകുന്നുവെന്ന് ബിജെപി നേതാവ് ഷോണ്‍ ജോര്‍ജ്. പ്രതികള്‍ എന്ന് ആരോപിക്കപ്പെടുന്നവര്‍ക്ക് മുന്നില്‍ സല്യൂട്ട് അടിച്ച് നില്‍ക്കുന്നവരാണ് പ്രാഥമിക അന്വേഷണം നടത്തുന്നത്. ഇതോടെ പ്രത്യേക അന്വേഷണ സംഘത്തിന്റെ പ്രസക്തി തന്നെ നഷ്ടമായി. എല്‍ഡിഎഫിന്റേയും യുഡിഎഫിന്റേയും കൂട്ടുകച്ചവടമാണ് നടന്നത്. സര്‍ക്കാര്‍ ഭയക്കുന്നില്ലെങ്കില്‍ അന്വേഷണം സിബിഐയെ ഏല്‍പ്പിക്കുകയാണ് വേണ്ടതെന്നും ഷോണ്‍ ജോര്‍ജ് വാര്‍ത്താ സമ്മേളനത്തില്‍ പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/09/24/shone-george-allegation-against-vd-satheesan-and-ramesh-chennithala-cmrl-deal.html#"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "തൃശൂർ ഗവ. മെ‍ഡിക്കൽ  കോളജ് ക്യാംപസിലെത്താൻ  ഒറ്റവരിപ്പാത; എറണാകുളം,  തൃശൂർ,  മലപ്പുറം,  പാലക്കാട്  ജില്ലകൾക്കാശ്രയം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "മുളങ്കുന്നത്തുകാവ്∙ ആരോഗ്യ സർവകലാശാല ആസ്ഥാനം ഉൾപ്പെടുന്ന തൃശൂർ ഗവ. മെഡിക്കൽ കോളജ് ക്യാംപസ് സംസ്ഥാനത്തെ ഏറ്റവും വലിയ മെഡിക്കൽ വിദ്യാഭ്യാസ ഹബ് ആകുന്നതിനുള്ള വികസനക്കുതിപ്പിന് തയാറെടുക്കുകയാണ്. ഈ ക്യാംപസിൽ യാത്ര ചെയ്ത് എത്തുന്നതിന് സഹായിക്കുന്ന വളവുംതിരിവും അടങ്ങിയ ഒറ്റവരിപ്പാത, ആരോഗ്യ വിദ്യാഭ്യാസ, ചികിത്സാ രംഗത്ത് ഈ സ്ഥാപനം ഉണ്ടാക്കിയെടുത്ത എല്ലാ പ്രൗഢിയും യശസ്സും നിഷ്പ്രഭമാക്കുന്നു. ഈ കളങ്കം മായ്ച്ചു കളയാൻ ബന്ധപ്പെട്ടവർ ആരും തയാറാകുന്നുമില്ല.",
+        "en": ""
+      },
+      "image": " images/news04.jpg",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/09/24/thrissur-medical-college-development.html"
+    },
+    {
+      "id": "22",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "‘മന്ത്രിപ്പണി അറിയില്ലെങ്കില്‍ ഭാര്യയുടെ കൂടെപ്പോയിരിക്കാം, അല്ലെങ്കില്‍ വിശ്രമിക്കാം; ജനീഷിനെതിരെ എം.എം. മണി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തൊടുപുഴ </b>∙ മന്ത്രിമാരുടെ വിദേശയാത്രയുമായി ബന്ധപ്പെട്ട വിവാദത്തില്‍ തന്തവൈബ് പിടിക്കാനില്ലെന്ന മന്ത്രി ഒ.ജെ. ജനീഷിന്റെ പ്രസ്താവനയ്ക്കെതിരെ എം.എം. മണി. അയാള്‍ക്കു വിവരമില്ലാഞ്ഞിട്ടാണ് അങ്ങനെയൊക്കെ സംസാരിക്കുന്നതന്ന് എം.എം. മണി പറയുന്നു. ‘മന്ത്രിപ്പണി അറിയില്ലെങ്കില്‍ ഭാര്യയുടെ കൂടെപ്പോയിരിക്കാം, അല്ലെങ്കില്‍ വിശ്രമിക്കാം, അതുമല്ലെങ്കില്‍ മറ്റെന്തെങ്കിലും ചെയ്യാം’– മണി പറഞ്ഞു. പണി അറിയില്ലെങ്കില്‍ മറ്റെന്തെങ്കിലും പണി നോക്കാമെന്നും മന്ത്രിപ്പണി ഏറ്റെടുത്താല്‍ ആ പണി ചെയ്യണമെന്നും താന്‍ വൈദ്യുതി മന്ത്രി ആയിരുന്നപ്പോള്‍ മനോഹരമായി ഭരിച്ചിരുന്നെന്നും മണി കൂട്ടിച്ചേർത്തു. പത്ത് വര്‍ഷം എംഎല്‍എ ആയിരുന്നപ്പോഴും ഭംഗിയായി കാര്യങ്ങള്‍ കൈകാര്യം ചെയ്തെന്നും മണി പറയുന്നു. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/idukki/2026/09/23/mm-mani-criticizes-oj-janeesh.html"
+    },
+    {
+      "id": "23",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "വീട് പോക്കുവരവ് ചെയ്യാൻ കൈക്കൂലി: പുത്തൂർ വില്ലേജ് ഓഫിസർ വിജിലൻസ് പിടിയിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": "കൊല്ലം∙ കൈക്കൂലി കേസിൽ പുത്തൂർ വില്ലേജ് ഓഫിസർ വിജിലൻസ് പിടിയിൽ. കരീപ്ര സ്വദേശി അഭിലാഷ് ആനന്ദ് (47) ആണ് പിടിയിലായത്. വെണ്ടാർ സ്വദേശി ഷാബുവിന്റെ പക്കൽ നിന്ന് ഇയാൾ 5000 രൂപ കൈക്കൂലി വാങ്ങിയെന്നാണ് കേസ്.&nbsp;"
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/kollam/2026/09/24/kollam-puthoor-village-officer-bribery.html"
+    },
+    {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "എഐ ഇനി കീചെയിനായും! പുതിയ 'മ്യൂസ് ചാം' അവതരിപ്പിച്ച് മെറ്റ, പുതിയ 'മെറ്റ വിആർ ഗ്ലാസുകളും'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "സ്മാർട് ഗ്ലാസുകൾ ധരിക്കാൻ താൽപ്പര്യമില്ലാത്തവർക്കായി പുത്തൻ സാങ്കേതികവിദ്യയുമായി മെറ്റ (Meta). വാർഷിക 'മെറ്റ കണെക്റ്റ്' (Meta Connect) കീനോട്ടിന്റെ അവസാനമാണ് മാർക്ക് സുക്കർബർഗ് കയ്യിൽ കൊണ്ടുനടക്കാവുന്ന 'മ്യൂസ് ചാം' (Muse Charm) എന്ന അത്യാധുനിക ചെറിയ ഉപകരണം ഔദ്യോഗികമായി അവതരിപ്പിച്ചത്. മെറ്റയുടെ സ്വന്തം എഐ അസിസ്റ്റന്റായ 'മ്യൂസ്' (Muse)നെ അടിസ്ഥാനമാക്കിയാണ് ഇത് പ്രവർത്തിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/gadgets/2026/09/24/meta-muse-charm-launch.html"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "വാട്ട്‌സാപ്പിൽ ശല്യം സഹിക്കാൻ വയ്യേ? ഈ നമ്പറുകളെ എളുപ്പത്തിൽ 'പൂട്ടാം'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "രാത്രിയെന്നോ പകലെന്നോ ഇല്ലാതെ ഫോണിലേക്ക് അനാവശ്യ സന്ദേശങ്ങളും കോളുകളും വരുന്നത് ഒരു തലവേദനയായി മാറിയിരിക്കുകയാണ്. പരിചയമില്ലാത്ത നമ്പറുകളിൽ നിന്നുള്ള കോളുകൾ, പരസ്യങ്ങൾ, തട്ടിപ്പ് സന്ദേശങ്ങൾ (Spam) എന്നിവ പലപ്പോഴും നമ്മുടെ സ്വകാര്യതയ്ക്കും സ്വസ്ഥതയ്ക്കും ഭീഷണിയാകാറുണ്ട്. ഇത്തരം ശല്യക്കാരെ എന്നെന്നേക്കുമായി ഒഴിവാക്കാൻ വാട്ട്‌സ്ആപ്പിൽ തന്നെ മാർഗ്ഗങ്ങളുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/01/23/how-to-block-whatsapp-contacts.html"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "World"
+      },
+      "title": {
+        "ml": "വാട്സാപ്പിലെ 'രഹസ്യ' ചാറ്റുകൾ ആരും കാണാതിരിക്കാൻ ഒരു സൂത്രപ്പണി; ഈ 'ലോക്ക്' ഫീച്ചർ ഇനിയും ഉപയോഗിച്ചില്ലേ?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "ഫോൺ അൺലോക്ക് ചെയ്ത് സുഹൃത്തുക്കളുടെയോ വീട്ടുകാരുടെയോ കയ്യിൽ കൊടുക്കുമ്പോൾ നെഞ്ചിൽ തീയാണോ? അവർ വാട്സാപ്പ് തുറന്ന് നിങ്ങളുടെ സ്വകാര്യ ചാറ്റുകൾ വായിക്കുമോ എന്ന പേടിയുള്ളവർക്ക് ഒരു സന്തോഷവാർത്ത. വാട്സാപ്പ് ആപ്പ് മുഴുവനായി ലോക്ക് ചെയ്യാതെ തന്നെ, നിങ്ങൾക്ക് ആവശ്യമുള്ള പ്രത്യേക ചാറ്റുകൾ (വ്യക്തികളുമായുള്ളതോ ഗ്രൂപ്പുകളോ) മാത്രമായി ഇനി പൂട്ടിയിടാം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/gadgets/2026/01/23/whatsapp-chat-lock-feature.html"
+    },
+    {
+      "id": "12",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മു​ഖ്യ​മ​ന്ത്രി​യു​ടെ വി​മാ​ന​യാ​ത്ര; പ​റ​ന്ന​ത് ചി​പ്സ​ണിന്‍റെ 'ചി​റ​കി​ലേ​റി'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തി​രു​വ​ന​ന്ത​പു​രം:</b> മു​ഖ്യ​മ​ന്ത്രി വി.​ഡി.​സ​തീ​ശ​ൻ മ​ല​പ്പു​റ​ത്തേ​ക്ക് ന​ട​ത്തി​യ വി​മാ​ന​യാ​ത്ര​യു​ടെ ചെ​ല​വ് ഹെ​ലി​കോ​പ്റ്റ​ർ ക​രാ​ർ ക​മ്പ​നി​യാ​യ ചി​പ്സ​ൺ ഏ​വി​യേ​ഷ​ൻ വ​ഹി​ച്ച​താ​യി സൂ​ച​ന. കേ​ള​ച​ന്ദ്ര ഏ​വി​യേ​ഷ​ൻ ചി​പ്സ​ൺ ഏ​വി​യേ​ഷ​ന് ന​ൽ​കി​യ ഇ​ൻ​വോ​യി​സി​ൽ യാ​ത്ര​യ്ക്കാ​യി 19,88,595 രൂ​പ ചെ​ല​വാ​യ​താ​യി രേ​ഖ​പ്പെ​ടു​ത്തി​യി​ട്ടു​ണ്ട്. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/reports-indicate-that-chipson-aviation-bore-the-cost-of-chief-minister-v-d-satheesan-s-flight-journey-190893"
+    },
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "what is Wushu (sport)?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "a modern international sport based on traditional Chinese martial arts, featuring two distinct disciplines: judged choreographed routines and full-contact combat.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://en.wikipedia.org/wiki/Wushu_(sport)"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "Asian Games Medals Table",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<div><div><div><div><span>Rank</span><span>R</span></div><div>Country</div><div><span>Gold</span><span>G</span></div><div><span>Silver</span><span>S</span></div><div><span>Bronze</span><span>B</span></div><div><span>Total</span><span>T</span></div></div></div><div><div><div>1</div><div><span><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/china-flag.jpg'><span>China</span></span></div><div>47</div><div>20</div><div>10</div><div>77</div></div><div><div>2</div><div><span><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/japan-flag.jpg'><span>Japan</span></span></div><div>15</div><div>24</div><div>27</div><div>66</div></div><div><div>3</div><div><span><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/south-korea-flag.jpg'><span>South Korea</span></span></div><div>8</div><div>8</div><div>24</div><div>40</div></div><div><div>4</div><div><span><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/kazakhstan-flag.jpg'><span>Kazakhstan</span></span></div><div>7</div><div>4</div><div>8</div><div>19</div></div><div><div>5</div><div><span><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/thailand-flag.jpg'><span>Thailand</span></span></div><div>5</div><div>3</div><div>4</div><div>12</div></div><div><div>6</div><div><span><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/hong-kong-flag.jpg'><span>Hong Kong</span></span></div><div>3</div><div>6</div><div>7</div><div>16</div></div><div><div>7</div><div><span><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/malaysia.jpg'><span>Malaysia</span></span></div><div>3</div><div>0</div><div>5</div><div>8</div></div><div><div>8</div><div><span><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/iran-flag.jpg'><span>Iran</span></span></div><div>2</div><div>3</div><div>2</div><div>7</div></div><div><div>9</div><div><span><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/north-korea-flag.jpg'><span>North Korea</span></span></div><div>2</div><div>1</div><div>3</div><div>6</div></div><div><div>10</div><div><span><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/kuwait-flag.jpg'><span>Kuwait</span></span></div><div>2</div><div>1</div><div>1</div><div>4</div></div><div><div>13</div><div><span><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/India-flag.png'><span>India</span></span></div><div>1</div><div>5</div><div>6</div><div>12</div></div></div></div></div>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/indepth/asian-games-2026.html"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :74,580.54 <span style='color:red;'> - 247.71 (▼ 1.67%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 23,063.10  <span style='color:red;'>▼ -383.70 ( - 1..64%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന് ₹13,995<span style='color:red;'> - 140 ▼</span>) <br> വെള്ളി ഗ്രാമിന് ₹250 (<span style='color:red;'> - 5.00 </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

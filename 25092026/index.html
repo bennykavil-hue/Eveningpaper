@@ -1,1 +1,113 @@
+<!doctype html>
+<html lang="ml">
 
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Evening E-Paper</title>
+    <!-- Favicon -->
+    <link rel="icon" href="https://geocities.ws/e-paper/images/logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+Malayalam:wght@400;600;700;800&family=Noto+Serif+Malayalam:wght@600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- Open Graph -->
+    <meta property="og:title" content="Evening News 25/09/2026">
+    <meta property=" og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="308">
+    <meta property="og:image:height" content="300">
+    <meta property="og:url" content="https://geocities.ws/e-paper/images/logo.png">
+    <meta property="og:image:secure_url" content="https://geocities.ws/e-paper/images/logo.png">
+    <meta property="og:description"
+        content="E-Paper covering main news of the day. Computer Tips, GK, Local, National & International news.">
+
+</head>
+<!-------- updated on 24/09/2026 add WA buttons -->
+<svg width="0" height="0" style="position:absolute">
+    <symbol id="wa-icon" viewBox="0 0 32 32">
+        <path
+            d="M16.003 3C9.374 3 4 8.373 4 15c0 2.116.553 4.18 1.6 6L4 29l8.2-1.57A11.94 11.94 0 0 0 16 28c6.627 0 12-5.373 12-12S22.63 3 16.003 3zm0 21.8c-1.8 0-3.56-.484-5.1-1.4l-.366-.217-4.87.932.96-4.74-.238-.38A9.77 9.77 0 0 1 6.2 15c0-5.41 4.4-9.8 9.803-9.8 5.4 0 9.8 4.39 9.8 9.8s-4.4 9.8-9.8 9.8zm5.38-7.34c-.295-.148-1.746-.862-2.017-.96-.27-.1-.467-.148-.664.148-.197.296-.762.96-.935 1.157-.172.197-.345.222-.64.074-.296-.148-1.25-.46-2.38-1.468-.88-.784-1.473-1.753-1.646-2.05-.172-.295-.018-.455.13-.602.133-.132.296-.345.443-.518.148-.172.197-.296.296-.493.1-.197.05-.37-.024-.518-.074-.148-.664-1.6-.91-2.19-.24-.575-.483-.497-.664-.506l-.566-.01c-.197 0-.517.074-.788.37-.27.296-1.035 1.01-1.035 2.464s1.06 2.86 1.207 3.056c.148.197 2.086 3.185 5.055 4.466.706.305 1.257.487 1.687.623.71.226 1.355.194 1.865.118.57-.085 1.746-.713 1.99-1.4.246-.69.246-1.28.172-1.4-.074-.123-.27-.197-.566-.345z" />
+    </symbol>
+</svg>
+
+<div class="wa-wrap">
+    <a class="wa-item wa-share" id="waShare" target="_blank" rel="noopener" title="Share today's paper on WhatsApp">
+        <span class="wa-label">ഇന്നത്തെ പത്രം ഷെയർ ചെയ്യുക</span>
+        <span class="wa-icon"><svg>
+                <use href="#wa-icon" />
+            </svg></span>
+    </a>
+    <a class="wa-item wa-chat" id="waChat" target="_blank" rel="noopener" title="Send news or ad enquiries on WhatsApp">
+        <span class="wa-label">വാർത്തയോ പരസ്യമോ അറിയിക്കാൻ WhatsApp ചെയ്യുക</span>
+        <span class="wa-icon"><svg>
+                <use href="#wa-icon" />
+            </svg></span>
+    </a>
+</div>
+
+<body>
+    <div class="paper">
+        <header>
+            <div class="utility"><span id="edition"></span><span id="dateText"></span></div>
+            <div class="masthead">
+
+                <div class="date-block">
+
+                    <b id="day"></b>
+
+                    <div class="date-details">
+                        <strong id="monthYear"></strong>
+                        <span id="malayalamDate"></span>
+                        <span id="hijriDate"></span>
+                        <span id="volumeIssue"></span>
+                    </div>
+
+                </div>
+
+
+                <div class="brand">
+
+                    <img src="https://bennykavil-hue.github.io/Eveningpaper/images/logo.png" alt="സായാഹ്ന വാർത്ത"
+                        class="paper-logo">
+
+                    <div id="paperName"></div>
+                    <small id="tagline"></small>
+
+                </div>
+
+
+                <div class="motto-area">
+
+                    <div class="motto" id="motto"></div>
+
+                    <div class="special-day" id="specialDay"></div>
+
+                </div>
+            </div>
+
+            <nav id="nav"></nav>
+        </header>
+        <div class="redline"></div>
+        <div class="breaking"><b id="breakingLabel">BREAKING</b><span id="breakingNews"></span></div>
+        <main>
+            <section class="lead-area" id="leadArea"></section>
+            <div class="columns">
+                <section class="column" id="col1"></section>
+                <section class="column" id="col2"></section>
+                <section class="column" id="col3"></section>
+            </div>
+        </main>
+        <footer>
+            <div class="footer-notice" id="footerNotice"></div>
+
+            <span id="footerName"></span>
+            <span id="copyright"></span>
+
+            <div id="dailyHits"> test</div>
+        </footer>
+        <script src="script.js"></script>
+</body>
+
+</html>

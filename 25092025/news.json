@@ -1,0 +1,955 @@
+{
+  "settings": {
+    "publicationDate": "2026-09-25",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "കന്നി 09, 1202",
+      "en": "Kanni 09, 1202"
+    },
+    "hijriDate": {
+      "ml": "12 റബീഉൽ ആഖീര്‍ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 461,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "<b>Every day is a new opportunity to grow. </b>  🌱",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "27 സെപ്തംബര്‍ 2026 ഞായറാഴ്ച ബാങ്കുകള്‍ പ്രവര്‍ത്തിക്കും.",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "പൊന്മുടി ഹൈവേയോട് ചേർന്ന കാട്ടരുവി മുറിച്ച് കടന്ന കാട്ടാനകളും കുട്ടിയും; കൗതുകത്തിനൊപ്പം ആശങ്കയും",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "വിതുര ∙ പൊന്മുടി സംസ്ഥാന ഹൈവേയിൽ കാട്ടരുവി മുറിച്ച് കടന്ന് ഉൾക്കാട്ടിലേക്ക് പോകുന്ന കാട്ടാനകളും കുട്ടിയാനയും സമൂഹ മാധ്യമങ്ങളിൽ വൈറൽ. പൊന്മുടി ഹൈവേയിൽ ഒന്നാം ഹെയർ പിൻ വളവിനു സമീപം ആയിരുന്നു സംഭവം. ഹൈവേയിൽ ഇറങ്ങിയ കാട്ടാനകൾ റോഡിൽ അൽപ നേരം തമ്പടിച്ച ശേഷം സംരക്ഷണ ഭിത്തി താണ്ടി കാട്ടരുവി മുറിച്ച് കടന്ന് ഉൾക്കാട്ടിലേക്ക് പോകുകയായിരുന്നു. കഴിഞ്ഞ ദിവസം വൈകിട്ട് അഞ്ചോടെ ആയിരുന്നു സംഭവം. പൊന്മുടിയിലേക്ക് നിന്നും വിനോദ സഞ്ചാരികൾ അടക്കം മടങ്ങുന്ന സമയത്ത് ആയിരുന്നു സംഭവം.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2026/09/25/wild-elephants-ponmudi-highway.html"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "👨‍⚕️ World Pharmacists Day,",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Today, September 25, is observed as World Pharmacists Day, which recognizes the contribution of pharmacists to healthcare worldwide. The 2026 theme is 'Empowering pharmacists for healthier'",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.fip.org/world-pharmacists-day"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മുട്ടിൽ മരംമുറി കേസ്: വനംവകുപ്പിന്‍റെ കുറ്റപത്രം മടക്കി ബത്തേരി കോടതി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൽപറ്റ:</b> മുട്ടിൽ മരംമുറിയുമായി ബന്ധപ്പെട്ട വഞ്ചാന കേസിൽ വനംവകുപ്പ് സമർപ്പിച്ച കുറ്റപത്രം ബത്തേരി ഫസ്റ്റ്ക്ലാസ് മജിസ്ട്രേറ്റ് കോടതി മടക്കി. കുറ്റപത്രം വൈകിയതിനുള്ള കാരണം വ്യക്തമാക്കുന്ന രേഖയുടെ അഭാവവും മറ്റ് സാങ്കേതിക പിഴവുകളും ചൂണ്ടിക്കാണിച്ചാണ് കോടതിയുടെ നടപടി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/muttil-tree-felling-case-bathery-court-returns-forest-departments-charge-sheet-191517"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മാ​റി നി​ൽ​ക്ക്; മാ​ധ്യ​മ​പ്ര​വ​ർ​ത്ത​ക​ർ​ക്ക് നേ​രെ ആ​ക്രോ​ശി​ച്ച് മു​ഖ്യ​മ​ന്ത്രി വി.​ഡി. സ​തീ​ശ​ൻ"
+      },
+      "summary": {
+        "ml": "<b>ഇ​ടു​ക്കി:</b> മാ​ധ്യ​മ​പ്ര​വ​ർ​ത്ത​ക​ർ​ക്ക് നേ​രെ ക്ഷു​ഭി​ത​നാ​യി മു​ഖ്യ​മ​ന്ത്രി വി.​ഡി.​സ​തീ​ശ​ൻ. വി​ദേ​ശ​യാ​ത്ര​യു​ടെ സ്പോ​ൺ​സ​ർ​ഷി​പ്പി​നെ​ക്കു​റി​ച്ചും സി​എം​ആ​ർ​എ​ൽ മു​ൻ എം​ഡി ശ​ശി​ധ​ര​ൻ ക​ർ​ത്ത​യു​ടെ ഡ​യ​റി​യി​ൽ പേ​ര് വ​ന്ന​തി​നെ​ക്കു​റി​ച്ചു​മു​ള്ള ചോ​ദ്യ​ങ്ങ​ളാ​ണ് മു​ഖ്യ​മ​ന്ത്രി​യെ ചൊ​ടി​പ്പി​ച്ച​ത്. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/chief-minister-v-d-satheesan-lashes-out-at-journalists-191518"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഡയറി  തിരിച്ചടിച്ചു: ഷോൺ  ജോർ‌ജിന്റെ  വെളിപ്പെടുത്തലിൽ  ബിജെപിയിൽ  അതൃപ്തി, അമർഷം പരസ്യമാക്കി  വി  മുരളീധരൻ"
+      },
+      "summary": {
+        "ml": "<b>തൃശൂർ: മാസപ്പടികേസുമായി ബന്ധപ്പെട്ട് ബിജെപി നേതാവ് ഷോൺ ജോർജ് സിഎംആർഎൽ കമ്പനി ഉടമ ശശിധരൻ കർത്തയുടെ ഡയറി പുറത്തുവിട്ട സംഭവത്തിൽ ബിജെപിയിൽ അതൃപ്തി. ഡയറിയിൽ ബിജെപി നേതാവ് വി മുരളീധരന്റെ പേര് വന്നതാണ് തിരിച്ചടിയായത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/cmrl-diary-shone-george-muraleedharan-bjp-1807528"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഇ​എ​സ്എ പ​ട്ടി​ക​യി​ല്‍ നി​ന്നും ജ​ന​വാ​സ മേ​ഖ​ല​യെ ഒ​ഴി​വാ​ക്ക​ണം; കേ​ന്ദ്ര​ത്തെ ആ​ശ​ങ്ക അ​റി​യി​ച്ചെ​ന്ന് മ​ന്ത്രി സ​ണ്ണി ജോ​സ​ഫ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "തി​രു​വ​ന​ന്ത​പു​രം:</b> പ​രി​സ്ഥി​തി ലോ​ല മേ​ഖ​ല സം​ബ​ന്ധി​ച്ച ക​ര​ട് വി​ജ്ഞാ​പ​ന​ത്തി​ൽ കേ​ര​ള​ത്തി​ന്‍റെ ആ​ശ​ങ്ക​ക​ൾ കേ​ന്ദ്ര​സ​ർ​ക്കാ​രി​നെ അ​റി​യി​ച്ച​താ​യി മ​ന്ത്രി സ​ണ്ണി ജോ​സ​ഫ്. ഇ​എ​സ്എ പ​ട്ടി​ക​യി​ൽ​നി​ന്ന് ജ​ന​വാ​സ മേ​ഖ​ല​ക​ൾ, കൃ​ഷി​യി​ട​ങ്ങ​ൾ, തോ​ട്ട​ങ്ങ​ൾ എ​ന്നി​വ പൂ​ർ​ണ​മാ​യും ഒ​ഴി​വാ​ക്ക​ണ​മെ​ന്നാ​ണ് സം​സ്ഥാ​ന​ത്തി​ന്‍റെ ആ​വ​ശ്യ​മെ​ന്നും മ​ന്ത്രി വ്യ​ക്ത​മാ​ക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/inhabited-areas-should-be-excluded-from-the-esa-list-191515"
+    },
+    {
+      "id": "6",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "റേഞ്ച് റോവർ വിവാദം; മന്ത്രി കെ എം ഷാജിക്കെതിരെ സർക്കാരിനും മോട്ടോർ വാഹന കമ്മീഷണർക്കും പരാതി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> മന്ത്രി കെ എം ഷാജി ഔദ്യോഗിക ആവശ്യത്തിനായി സ്വകാര്യ വ്യക്തിയുടെ പേരിലുള്ള റേഞ്ച് റോവർ കാർ ഉപയോഗിച്ചതിനെതിരെ സർക്കാരിനും മോട്ടോർ വാഹന കമ്മീഷണർക്കും പരാതി. ഹൈക്കോടതി അഭിഭാഷകനായ അതുൽ ടോമാണ് പരാതി നൽകിയത്. സർക്കാർ പദവി ദുരുപയോഗം ചെയ്യുകയും മോട്ടോർ വാഹന ചട്ടലംഘനം നടത്തിയെന്നതുമാണ് പരാതിയിലെ ആരോപണം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/km-shaji-range-rover-complaint-1807524"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "മൂന്ന് പേർക്ക് ഇരിക്കാവുന്ന ഓട്ടോയിൽ കുത്തിനിറച്ചത് 17 വിദ്യാർത്ഥികളെ; ഡ്രൈവർക്കെതിരെ നടപടി"
+      },
+      "summary": {
+        "ml": "മുംബയ്:</b> മൂന്ന് പേർക്ക് ഇരിക്കാൻ കഴിയുന്ന ഓട്ടോറിക്ഷയിൽ 17 വിദ്യാർത്ഥികളെ കുത്തിനിറച്ച് യാത്രനടത്തിയതായി പരാതി. മഹാരാഷ്‌ട്രയിലെ ബിവണ്ടിയിലാണ് സംഭവം. സംഭവത്തിന്റെ ദൃശ്യങ്ങൾ വൈറലായതിനുപിന്നാലെ ഓട്ടോ ഡ്രൈവർക്കെതിരെ ട്രാഫിക്‌ പൊലീസ് നടപടിയെടുത്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/auto-rickshaw-carries-17-students-viral-video-police-action-1807519"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "രൂക്ഷവിമർശനവുമായി രാഹുൽ;  ഗ്യാനേഷ് രാജിവയ്ക്കണം,​  മാപ്പുസാക്ഷിയാകണം"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ ഗ്യാനഷ് കുമാർ ഉടൻ രാജിവയ്‌ക്കണം. തെറ്റ് ഏറ്റുപറഞ്ഞ് മാപ്പുസാക്ഷിയാകണം- എസ്.ഐ.ആർ വിവാദങ്ങൾ കത്തിക്കയറുന്നതിനിടെ ഇന്നലെ നടത്തിയ വാർത്താസമ്മേളനത്തിൽ കോൺഗ്രസ് നേതാവ് രാഹുൽ ഗാന്ധി ആഞ്ഞടിച്ചു. രാജ്യത്തെ തിരഞ്ഞെടുപ്പ് പ്രക്രിയ അട്ടിമറിക്കാൻ ഗൂഢാലോചന നടത്തിയ പ്രധാനമന്ത്രി നരേന്ദ്രമോദിയും ആഭ്യന്തര മന്ത്രി അമിത് ഷായും ദേശദ്രോഹികളാണെന്നും വോട്ട് മോഷണത്തിന്റെ കൂടുതൽ വിവരങ്ങൾ വെളിപ്പെടുത്തുമെന്നും രാഹുൽ പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/national-1807389#google_vignette"
+    },
+    {
+      "id": "7",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഹലോ ടു എ.ഐ.' കാമ്പയിന് കണ്ണൂരിൽ തുടക്കമായി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കണ്ണൂർ:</b> ഹൈസ്‌കൂൾ വിദ്യാർഥികൾക്ക് എ.ഐ. പരിചയപ്പെടുത്തുന്നതിനായി ഡി.വൈ.എഫ്.ഐ. സംസ്ഥാനതലത്തിൽ സംഘടിപ്പിക്കുന്ന 'ഹലോ ടു എ.ഐ.' കാമ്പയിന് കണ്ണൂർ ജില്ലയിൽ തുടക്കമായി. കൂത്തുപറമ്പ് ഗവൺമെന്റ് ഹയർ സെക്കൻഡറി സ്‌കൂളിൽ നടന്ന ഉദ്ഘാടന പരിപാടി വി.കെ. സനോജ് എം.എൽ.എ. ഉദ്ഘാടനം ചെയ്തു. ഡി.വൈ.എഫ്.ഐ. ജില്ലാ പ്രസിഡന്റും ജില്ലാ പഞ്ചായത്തംഗവുമായ അനുശ്രീ അധ്യക്ഷനായി. പ്രൊഫഷണൽ സബ് കമ്മിറ്റി കൺവീനർ ശ്രീനാഥ്. വി.പി. സ്വാഗതം പറഞ്ഞു. എ.ഐ.യെക്കുറിച്ചുള്ള ക്ലാസ് ധനൂപ് ആർ., ഷംസുദ്ധീൻ മരക്കാർ എന്നിവർ നയിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/hello-to-ai-campaign-kannur-dyfi-pv5ve5tk"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "‘എന്റെ മണ്ഡലത്തിലെ ആൾ, കോൺഗ്രസ് നേതാവ്’; മുഖ്യമന്ത്രിയുടെ വിമാനയാത്രാ സ്‌പോൺസറേക്കുറിച്ച് തിരുവഞ്ചൂർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോട്ടയം:</b> മുഖ്യമന്ത്രി വി.ഡി. സതീശന്റെ ചാർട്ടേഡ് വിമാനയാത്രാവിവാദത്തിൽ പ്രതികരിച്ച് സ്പീക്കർ തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ. വിമാനക്കമ്പനിയുടെ ഉടമ തന്റെ നിയോജകമണ്ഡലത്തിലുള്ള ആളാണെന്നും അദ്ദേഹത്തെ വ്യക്തിപരമായി അറിയാമെന്നും അപരിചിതനല്ലെന്നും തിരുവഞ്ചൂർ പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/vd-satheesan-flight-controversy-thiruvanchur-radhakrishnan-response-uogpyj2i"
+    },
+    {
+      "id": "34",
+      "type": "news",
+      "order": 13,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "തൃണമൂൽ ചിഹ്ന തർക്കം തിര. കമ്മിഷൻ ഉടൻ തീരുമാനമെടുക്കണംഎന്ന് സുപ്രീംകോടതി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി: തൃണമൂൽ ചിഹ്ന തർക്കത്തിൽ തിരഞ്ഞെടുപ്പ് കമ്മിഷൻ ഉടൻ തീരുമാനമെടുക്കണമെന്ന് സുപ്രീംകോടതി. സമയക്രമം നിശ്ചയിച്ച് അറിയിക്കണം. തൃണമൂൽ നേതാവും ബംഗാൾ മുൻ മുഖ്യമന്ത്രിയുമായ മമതാ ബാനർജി സമർപ്പിച്ച ഹർജിയിലാണിത്. 'പൂക്കളും പുല്ലും' ചിഹ്നവും ഓൾ ഇന്ത്യ തൃണമൂൽ കോൺഗ്രസ് പാർട്ടി എന്ന പേരും ലഭിക്കണമെന്നാണ് മമത വിഭാഗവും വിമത വിഭാഗവും ആവശ്യപ്പെട്ടിരിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/national-1807469#google_vignette"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "SSC invited applicaitons for Combined Higher Secondary Level Eaminaiton (CHSL) - 2026",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>CHSL Combined Higher Secondary Level (10+2) Examination.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://ssc.gov.in/for-candidates/cgl-exam/s40d16nackd16h0"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "ഷൂട്ടിങ്ങിൽ ഇന്ത്യയ്ക്ക് സുവർണ നേട്ടം; സ്വർണം ‘വെടിവച്ചിട്ട്’ കമൽജീത്, സുരുചി; റൈഫിൾ ടീം ഇനത്തിൽ വെള്ളി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "നഗോയ∙ ഏഷ്യൻ ഗെയിംസിൽ ഇന്ത്യയ്ക്ക് രണ്ടാം സ്വർണം. ഷൂട്ടിങ്ങിൽ 10മീ എയർ പിസ്റ്റൾ മിക്സ്ഡ് ടീം ഇനത്തിൽ കമൽജീത്, സുരുചി ഇന്ദർ എന്നിവരാണ് സുവർണ നേട്ടം സ്വന്തമാക്കിയത്. 50 മീ റൈഫിൾ ടീം ഇനത്തിൽ രുദ്രാൻഷ് പാട്ടീൽ, നീരജ് കുമാർ, എ.പി.എസ്.തോമർ എന്നിവർ വെള്ളിയും സ്വന്തമാക്കി. ആറാം ദിനത്തിലെ ഇരട്ടമെഡൽ നേട്ടത്തോടെ ഇന്ത്യയുടെ ആകെ മെഡൽ നേട്ടം 19 ആയി. റാങ്കിങ്ങിൽ 12–ാം സ്ഥാനത്തേയ്ക്കു കയറുകയും ചെയ്തു. വ്യക്തിഗത ഇനങ്ങളിലെ നിരാശാജനകമായ പ്രകടനങ്ങൾക്ക് ശേഷം ശക്തമായ തിരിച്ചുവരവ് നടത്തിയാണ് കമൽജീത്തും സുരുചിയും സ്വർണം ‘വെടിവച്ചിട്ടത്’. ഫൈനലിൽ, 484.6 എന്ന ആകെ സ്കോറോടെയാണ് കമൽജീതും സുരുചിയും ഒന്നാമതെത്തിയത്. ദക്ഷിണ കൊറിയയുടെ സുഹ്യോൺ ഹോങ് - ഗായുൻ ചൂ സഖ്യം (478.0 സ്കോർ) രണ്ടാം സ്ഥാനം നേടി. 415.8 സ്കോറോടെ ഇറാൻ വെങ്കലം സ്വന്തമാക്കി",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/other-sports/2026/09/25/asian-games-2026-day-6-live-updates.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 16,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "ട്രാക്കിലും ‘മെഡൽ വേട്ട’ തുടങ്ങി; അഞ്ചാം ദിനം ഇന്ത്യയ്ക്ക് ‘ഫൈവ് സ്‌റ്റാർ ഡേ’! റാങ്കിങ്ങിൽ വീണ്ടും പിന്നോട്ട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>നഗോയ </b>∙ ഏഷ്യൻ ഗെയിംസിലെ അഞ്ചാം ദിനം ഇന്ത്യൻ ‘ഫൈവ് സ്റ്റാർ’ ഡേ. രണ്ടു വെള്ളിയും മൂന്നു വെങ്കലവുമടക്കം അഞ്ച് മെഡലുകളാണ് ഇന്ത്യ വ്യാഴാഴ്ച സ്വന്തമാക്കിയത്. ഇതോടെ ഇന്ത്യയുടെ ആകെ മെഡൽ നേട്ടം 17 ആയി. എന്നാൽ റാങ്കിങ്ങിൽ ഇന്ത്യ 15–ാം സ്ഥാനത്തേയ്ക്കു വീണു. സ്വർണ മെഡലുകൾ അകന്നു നിൽക്കുന്നതാണ് ഇന്ത്യയ്ക്കു തിരിച്ചടിയാകുന്നത്. വനിതാ ക്രിക്കറ്റിലാണ് ഇന്ത്യയുടെ ഏക സ്വർണം. വ്യാഴാഴ്ച, ഷൂട്ടിങ്ങിൽ സ്കീറ്റ് താരങ്ങൾ ഒരിക്കൽക്കൂടി ഇന്ത്യയ്ക്ക് രക്ഷകരായപ്പോൾ, പ്രതിസന്ധികളിലൂടെ കടന്നുപോയ റോവിങ് താരങ്ങൾ വെങ്കല മെഡൽ നേടി രാജ്യത്തിന്റെ അഭിമാനം കാത്തു. വുഷു താരം റോഷിബിന ദേവി വെള്ളി നേടിയപ്പോൾ, ട്രാക്കിലും മെഡൽ വേട്ട തുടങ്ങി. 4x 400 മീറ്റർ മിക്സ്ഡ് റിലേയിൽ ഇന്ത്യ വെള്ളി നേടിയപ്പോൾ വനിതകളുടെ 10,000 മീറ്ററിൽ ഇന്ത്യയുടെ സീമ വെങ്കലം നേടി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/other-sports/2026/09/24/asian-games-2026-day-5-live-updates.html"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മുഖ്യമന്ത്രിയുടെ ചാർട്ടേർഡ് ഫ്ലൈറ്റ് യാത്രയിൽ നീങ്ങാത്ത ദുരൂഹത; ഉത്തരം കിട്ടാൻ ബുധനാഴ്ച വരെ കാത്തിരിക്കണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മുഖ്യമന്ത്രിയുടെ വിവാദ വിമാനയാത്രയിൽ ദുരൂഹത നീങ്ങുന്നില്ല. യാത്രാ ചെലവ് വഹിച്ചത് ആരെന്നതിൽ അവ്യക്ത തുടരുന്നു. ഇനി ബുധനാഴ്ചയേ ഇതേക്കുറിച്ച് വിശദീകരണമുള്ളൂവെന്നാണ് മുഖ്യമന്ത്രിയുടെ ഓഫീസിന്‍റെ നിലപാട്. മുതലാളിമാരെ ഉപയോഗിച്ച് കേരളം ഭരിക്കുമെന്ന് ധാര്‍ഷ്ട്യമാണ് മുഖ്യമന്ത്രിക്കെന്ന് സിപിഎം സംസ്ഥാന സെക്രട്ടറി ആരോപിക്കുമ്പോള്‍ കെപിസിസി പ്രസി‍ഡന്‍റ് കൃത്യമായ മറുപടി പറയാതെ ഒഴിഞ്ഞു മാറി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/mystery-behind-the-chief-minister-vd-satheesan-chartered-flight-journey-articleshow-dyvolca"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഗ്യാനേഷ് കുമാറിന്റെ രാജിക്കായി രാജ്യവ്യാപക പ്രതിഷേധം; ജലപീരങ്കി, പ്രതിഷേധക്കാരെ തടഞ്ഞ് പൊലീസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി∙</b><a href='https://www.manoramaonline.com/topics/news/national/organisations0/electioncommissionofindia.html' target='_blank' rel='noopener noreferrer'>മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ</a> ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് രാജ്യവ്യാപക പ്രതിഷേധം. ഡൽഹി, ജമ്മു കശ്മീർ, ബിഹാർ, അസം, ചണ്ഡീഗഡ്, തെലങ്കാന തുടങ്ങി രാജ്യത്തിന്റെ വിവിധ ഭാഗങ്ങളിൽ പ്രതിഷേധം അരങ്ങേറി. വിവിധ പ്രതിപക്ഷ പാർട്ടികളുടെ നേതൃത്വത്തിലാണ് പ്രതിഷേധം അരങ്ങേറിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/25/nationwide-protests-erupt-demanding-resignation-of-cec-gyanesh-kumar.html"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മരുന്ന് ക്ഷാമത്തിൽ വലഞ്ഞ് സംസ്ഥാനത്തെ സർക്കാർ ആശുപത്രികൾ; ജീവിതശൈലീ രോ​ഗങ്ങൾക്കുള്ള മരുന്നിന് കടുത്ത ക്ഷാമം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> സംസ്ഥാനത്തെ സർക്കാർ ആശുപത്രികൾ കടുത്ത മരുന്ന് ക്ഷാമത്തിൽ വലയുന്നു. പ്രമേഹം, ഉയർന്ന രക്തസമ്മർദ്ദം തുടങ്ങിയ ജീവിതശൈലി രോഗങ്ങൾക്കും കീമോതെറാപ്പി, അപസ്മാരം എന്നിവയ്ക്കും ഉപയോഗിക്കുന്ന മരുന്നുകൾക്കാണ് പ്രധാനമായും ക്ഷാമം നേരിടുന്നത്. മരുന്ന് ക്ഷാമം പൊതുജനം അറിയാതിരിക്കാൻ പരമാവധി ലോക്കൽ പർച്ചേസിംഗ് നടത്താനാണ് ആശുപത്രികൾക്ക് സർക്കാർ നൽകിയിരിക്കുന്ന നിർദേശം. എന്നാൽ, ഭീമമായ കുടിശ്ശികയുള്ളതിനാൽ സർക്കാർ ആശുപത്രികൾക്ക് മരുന്നുകളും ഉപകരണങ്ങളും നൽകാൻ സ്വകാര്യ വിതരണക്കാർ വിസമ്മതിക്കുകയാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/government-hospitals-across-the-state-are-grappling-with-a-medicine-shortage-articleshow-hy6c887"
+    },
+    {
+      "id": "37",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഗ്യാനേഷ് കുമാർ പങ്കെടുക്കേണ്ട ജെൻസീ സംഭാഷണ പരിപാടി മാറ്റിവച്ചു; തിരഞ്ഞെടുപ്പ് കമ്മിഷന്റെ തീരുമാനം വിവാദത്തിന് പിന്നാലെ?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി∙</b> ഉത്തർപ്രദേശിൽ നടത്താനിരുന്ന രണ്ട് ഇലക്ട്രൽ ലിറ്ററസി ക്ലബ് (ഇഎൽസി) സമ്മേളനങ്ങൾ മാറ്റിവച്ച് <a href='https://www.manoramaonline.com/topics/news/national/organisations0/electioncommissionofindia.html' target='_blank' rel='noopener noreferrer'>തിര‍ഞ്ഞെടുപ്പ് കമ്മിഷൻ.</a> മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ ഗ്യാനേഷ് കുമാർ പങ്കെടുക്കേണ്ടിയിരുന്ന പരിപാടികളാണ് മാറ്റിവച്ചത്. ഇന്ന് മീററ്റിലും സെപ്റ്റംബർ 28ന് വാരാണാസിയിലുമായിരുന്നു പരിപാടികൾ നടക്കേണ്ടിയിരുന്നത്.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/25/election-commission-postpones-gyanesh-kumars-gen-z-events-in-up.html"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 21,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ചില വ്യക്തികളുടെ തെറ്റായ പ്രവണത പാർട്ടിയെ ബാധിക്കുന്നു, സിപിഎമ്മിൽ സംഘടനാ ദൗർബല്യം വലുത്, സ്വയം വിമർശനവുമായി ഇ പി ജയരാജൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‌കണ്ണൂർ:</b> സിപിഎമ്മിൽ സംഘടനാ ദൗർബല്യം വലുതാണെന്നു ഇ പി ജയരാജൻ. ശത്രുക്കളുടെ കടന്നാക്രമണം പ്രതിരോധിക്കാനായില്ല. ഇടതു പാർട്ടി എന്ന നിലയിൽ സിപിഎമ്മിന്റെ പ്രസക്തിക്കു കോട്ടം തട്ടി. സ്ഥാനാർഥി നിർണയത്തിലും പാളിച്ചയുണ്ടായി. ബ്രാഞ്ചുകളിൽ വലിയൊരു ശതമാനവും ഫലപ്രദമായി പ്രവർത്തിക്കുന്നില്ല.ബ്രാഞ്ച് യോഗങ്ങൾ ചേരുന്നത് പരിമിതമായി. പാർട്ടി അംഗങ്ങൾ ഉത്തരവാദിത്തം നിർവഹിച്ചില്ല. ബ്രാഞ്ച് സെക്രട്ടറിമാർക്ക് ഫലപ്രദമായി നയിക്കാനായില്ല. ലോക്കൽ, ഏരിയാ കമ്മിറ്റികൾ പാളിച്ചകൾ തിരുത്തിയില്ല. ബിജെപിയുമായി ബന്ധമെന്ന പ്രചാരണം പ്രതിരോധിക്കാനായില്ല. ചില വ്യക്തികളുടെ തെറ്റായ പ്രവണത പാർട്ടിയെ ബാധിക്കുന്നു. സി.പി.എം ജനങ്ങളിൽ നിന്ന് അകന്നുപോയി. പണപ്പിരിവുമായി മാത്രം പോകുന്ന പാർട്ടിയെന്ന ആക്ഷേപമുണ്ടായി. പലസ്തീൻ വിഷയത്തിലെ നിലപാട് മുസ്ലിം പ്രീണനമായി പ്രചരിപ്പിച്ചു. ശബരിമല പോലുള്ള വിഷയങ്ങളിൽ എതിരാളികൾ ധ്രുവീകരണം നടത്തി. ന്യൂനപക്ഷങ്ങളുടെ സംരക്ഷകരെന്ന സി.പി.എം പ്രതിച്ഛായ ഇല്ലാതാക്കാൻ പ്രചാരണം നടന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/ep-jayarajan-make-harsh-self-criticism-against-cpms-fault-in-last-years-performance-party-deserted-common-man-articleshow-bhbzgf1"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പറവൂർ താലൂക്ക് ആശുപത്രി മോർച്ചറിയിൽ മൃതദേഹം അഴുകിയ നിലയിൽ കണ്ടെത്തിയ സംഭവം: ഇടപട്ട് ആരോഗ്യമന്ത്രി; പുതിയ ഫ്രീസറുകൾ വാങ്ങാൻ നിർദേശം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> പറവൂർ താലൂക്ക് ആശുപത്രി മോർച്ചറിയിൽ സൂക്ഷിച്ച മൃതദേഹം അഴുകിയ സംഭവത്തിൽ ഇടപെട്ട് ആരോഗ്യമന്ത്രി കെ. മുരളീധരൻ. ആശുപത്രിയിലേക്ക് ആറ് പുതിയ ഫ്രീസറുകൾ ഉടൻ എത്തിക്കാൻ ജില്ലാ മെഡിക്കൽ ഓഫീസർക്ക് മന്ത്രി നിർദ്ദേശം നൽകി. പറവൂർ പരുവതുരുത്ത് സ്വദേശിനി ജെസ്സി പൈലിയുടെ മൃതദേഹമാണ് മോർച്ചറിയിൽ സൂക്ഷിച്ചതിന് ശേഷം അഴുകിയ നിലയിൽ കണ്ടെത്തിയത്. 16 മണിക്കൂർ മോർച്ചറിയിൽ സൂക്ഷിച്ച മൃതദേഹം പോസ്റ്റ്‌മോർട്ടത്തിനായി പുറത്തെടുത്തപ്പോഴാണ് അഴുകിയതായി കണ്ടത്. തുടർന്ന് ജെസ്സിയുടെ മകൻ പരാതിയുമായി രംഗത്തെത്തി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/body-was-found-in-a-decomposed-state-at-the-paravur-taluk-hospital-mortuary-health-minister-intervenes-articleshow-f60mauq"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "തൂഫാൻ ജാഗരൺ സന്ദേശയാത്ര 24ന് തൃശൂർ നഗരത്തിൽ; ഉച്ചയ്ക്കു 2 മുതൽ ഗതാഗത നിയന്ത്രണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "തൃശൂർ ∙ ലഹരിക്കെതിരെ അയ്യായിരത്തിലേറെപ്പേരെ അണിനിരത്തി പൊലീസ് സംഘടിപ്പിക്കുന്ന തൂഫാൻ ജാഗരൺ സന്ദേശ യാത്ര 24ന് സ്വരാജ് റൗണ്ടിൽ. വൈകിട്ടു നാലിനു തെക്കേഗോപുര നടയിൽ നിന്നാരംഭിക്കുന്ന സന്ദേശയാത്ര പാറേമക്കാവ് പുഷ്പാഞ്ജലി ഹാളിൽ സമാപിക്കും. തൃശൂരിന്റെ സാംസ്കാരിക പ്രൗഢി വിളിച്ചോതുന്ന ഘോഷയാത്രയും ഫ്ലോട്ടുകളും ഫ്ളാഷ് മോബും അണിനിരക്കും. മന്ത്രി രമേശ് ചെന്നിത്തല സന്ദേശയാത്രയുടെ ഉദ്ഘാടനം നിർവഹിക്കും. സാംസ്കാരിക പ്രവർത്തകർ, വിദ്യാർഥികൾ, ജനമൈത്രി സമിതി അംഗങ്ങൾ, റസിഡന്റ്സ് അസോസിയേഷനുകൾ, കുടുംബശ്രീ, എസ്പി‌സി, എൻസിസി, സ്കൗട്ട്സ് കെഡറ്റുകൾ തുടങ്ങി 5000 പേർ പങ്കെടുക്കും. ജാഗരൺ യാത്രയുടെ ഭാഗമായി ഉച്ചയ്ക്കു 2 മുതൽ നഗരത്തിൽ ഗതാഗതനിയന്ത്രണം ഏർപ്പെടുത്തുമെന്നു കമ്മിഷണർ നകുൽ ആർ. ദേശ്മുഖ് അറിയിച്ചു. സ്വരാജ് റൗണ്ടിലും സമീപ റോഡുകളിലും പാർക്കിങ് അനുവദിക്കില്ല",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/09/23/thrissur-drug-awareness-yatra-traffic-control.html"
+    },
+    {
+      "id": "22",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "ഗുരുവായൂർ ക്ഷേത്ര ദർശനം: വെർച്വൽ ക്യൂ ബുക്കിങ് വെള്ളിയാഴ്ച മുതൽ, 2400 പേർക്ക് സൗജന്യ ബുക്കിങ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഗുരുവായൂർ </b>∙ ക്ഷേത്രത്തിൽ ഒക്ടോബറിലെ വെർച്വൽ ക്യൂ ബുക്കിങ് വെള്ളിയാഴ്ച രാവിലെ ആരംഭിക്കും. ചൊവ്വ, വ്യാഴം, ശനി ദിവസങ്ങളിൽ ദിവസം 2400 പേർക്കാണ് വെർച്വൽ ക്യൂ സൗജന്യമായി ബുക് ചെയ്യാൻ അവസരമുള്ളത്. ഒരു സ്ലോട്ടിൽ 300 പേർ വീതം 8 സ്ലോട്ടുകളിൽ ഭക്തരെ പ്രവേശിപ്പിക്കും. രാവിലെ 7 മുതൽ ഉച്ചയ്ക്ക് 1 വരെ 6 സ്ലോട്ടുകളും വൈകിട്ട് 4നും 5നും 2 സ്ലോട്ടുകളുമാണുള്ളത്. വെർച്വൽ ക്യൂ ഉള്ള ദിവസങ്ങളിൽ സാധാരണ ക്യൂ നിന്നുള്ള ദർശനവും മുതിർന്ന പൗരന്മാർക്കുള്ള പ്രത്യേക ദർശനവും നെയ് വിളക്ക് ബുക് ചെയ്തുള്ള ദർശനവും ഉണ്ടാകും. ഗുരുവായൂർ ദേവസ്വത്തിന്റെ ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/09/25/guruvayoor-virtual-queue-booking-opens-friday.html"
+    },
+    {
+      "id": "23",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "ഇന്ത്യ- വെസ്റ്റിൻഡീസ് ഏകദിന മത്സരം: ടിക്കറ്റുകൾ കരിഞ്ചന്തയിൽ, കെസിഎ പരാതി നൽകി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": "<b>തിരുവനന്തപുരം </b>∙ കാര്യവട്ടത്തെ തിരുവനന്തപുരം സ്പോർട്സ് ഹബ് സ്റ്റേഡിയത്തിൽ 27ന് നടക്കുന്ന ഇന്ത്യ- വെസ്റ്റിൻഡീസ് ഏകദിന ക്രിക്കറ്റ് മത്സരത്തിന്റെ ടിക്കറ്റുകൾ സമൂഹമാധ്യമങ്ങൾ വഴി ഉയർന്ന വിലയ്ക്ക് കരിഞ്ചന്തയിൽ വിൽക്കുന്നതിനെതിരെ കേരള ക്രിക്കറ്റ് അസോസിയേഷൻ പൊലീസിൽ പരാതി നൽകി."
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2026/09/25/india-west-indies-odi-tickets-black-marketing-alleged.html"
+    },
+    {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": " ഒക്ടോബറിൽ ഇന്ത്യയിൽ എത്തിയേക്കും; ജീവനക്കാരെ നിയമിക്കാൻ നീക്കം; വിശദാംശങ്ങൾ"
+      },
+      "summary": {
+        "ml": "ഇന്ത്യയിൽ ആപ്പിൾ പേ&nbsp;ഒക്ടോബറിൽ അവതരിപ്പിച്ചേക്കുമെന്ന് റിപ്പോർട്ടുകൾ. പേയ്മെന്റ് ആപ്പുകൾ തുറക്കാതെ തന്നെ ഡിവൈസിൽ സൂക്ഷിച്ചിരിക്കുന്ന ടോക്കണൈസ്ഡ് കാർഡ് വിശദാംശങ്ങൾ ഉപയോഗിച്ച് ടാപ്പ്-ആൻഡ്-പേ പർച്ചേസുകൾ നടത്താൻ ഐഫോൺ ഉപയോക്താക്കളെ അനുവദിക്കുന്നതാണ് ആപ്പിൾ പേ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/apple-pay-launch-india-axis-bank-october-g8grbwq6"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ഡാറ്റാ-ഡ്രിവൺ ഗവേണൻസിനൊരുങ്ങി സംസ്ഥാനം; നടപടികൾ തുടങ്ങിയതായി മുഖ്യമന്ത്രി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കൊച്ചി: സംസ്ഥാനത്ത് ഡാറ്റാധിഷ്ഠിത ഭരണനിർവഹണത്തിന് (Data-driven governance) ഒരുങ്ങുകയാണെന്നും ഇതിനായി മുഖ്യമന്ത്രിയുടെ ഓഫീസിൽ ആവശ്യമായ ഡാഷ് ബോർഡുകൾ സ്ഥാപിക്കുന്നതിനുള്ള നടപടികൾ ആരംഭിച്ചതായും മുഖ്യമന്ത്രി വി.ഡി. സതീശൻ. സൈബർ സുരക്ഷിതമായ ഭരണസൗഹൃദ അന്തരീക്ഷം ഉറപ്പാക്കുന്നതിലും വിവരങ്ങൾ സംരക്ഷിക്കുന്നതിലും സൈബർഷെൽട്ടർ പോലുള്ള സ്ഥാപനങ്ങൾക്ക് വലിയ പങ്കുവഹിക്കാനാകുമെന്നും അദ്ദേഹം പറഞ്ഞു. പ്രമുഖ അന്താരാഷ്ട്ര സൈബർ സുരക്ഷാ സ്ഥാപനമായ സൈബർഷെൽട്ടറിന്റെ ഗ്ലോബൽ ഡെലിവറി സെന്ററും (ജി.ഡി.സി) സൈബർ സെക്യൂരിറ്റി സെന്റർ ഓഫ് എക്‌സലൻസും (സി.ഒ.ഇ) കാക്കനാട് സ്മാർട്ട്‌സിറ്റിയിലെ ലുലു ഐ.ടി ട്വിൻ ടവേഴ്‌സിൽ ഉദ്ഘാടനം ചെയ്ത് സംസാരിക്കുകയായിരുന്നു അദ്ദേഹം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/cybershelter-global-delivery-centre-kochi-smartcity-kcam33l0"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "World"
+      },
+      "title": {
+        "ml": "മിനാബ്  Read more at: https://www.mathrubhumi.com/technology/news/us-airstrike-iran-school-ai-errors-pentagon-report-bigo5gv0",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വാഷിങ്ടൺ: ഫെബ്രുവരി 28-ന് തെക്കൻ ഇറാനിലെ മിനാബിലുള്ള ഷജറാ തയ്യിബ സ്‌കൂളിൽ യു.എസ്. നടത്തിയ വ്യോമാക്രമണത്തിലേക്ക് നയിച്ചത് കാലഹരണപ്പെട്ട രഹസ്യാന്വേഷണ വിവരങ്ങളും എ.ഐ. സഹായത്തോടെയുള്ള അതിവേഗ ലക്ഷ്യനിർണയ സംവിധാനത്തിലെ പിഴവുകളും ഉൾപ്പെടെയുള്ള കാരണങ്ങളാലെന്ന് റിപ്പോർട്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/us-airstrike-iran-school-ai-errors-pentagon-report-bigo5gv0"
+    },
+    {
+      "id": "12",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "യുപിഐ ഫീസ്: ഫിൻടെക് കമ്പനികൾക്ക് കോടികളുടെ നേട്ടം, പ്രവർത്തനം വ്യാപിപ്പിക്കാൻ തിരിക്കിട്ട നീക്കം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "ചെെറുപട്ടണങ്ങളിലും ഗ്രാമങ്ങളിലും ഡിജിറ്റൽ പണമിടപാട് സംവിധാനം ശക്തിപ്പെടുത്താൻ നാഷണൽ പേയ്‌മെന്റ് കോർപ്പറേഷൻ ഓഫ് ഇന്ത്യയും (എൻ.പി.സി.ഐ.) റിസർവ് ബാങ്കും ചേർന്ന് 3,000 കോടി രൂപ നീക്കിവെക്കും. മൂന്നുവർഷത്തിനുള്ളിൽ വ്യാപാരികളെ ഡിജിറ്റൽ ശൃംഖലയിലേക്ക് കൊണ്ടുവരികയാണ് ലക്ഷ്യം. പേടിഎം, മൊബിക്വിക്, ഫോൺപേ തുടങ്ങിയ ഫിൻടെക് കമ്പനികൾക്ക് ഇത് വൻനേട്ടമാകും. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/money/news/upi-fee-mdr-framework-fintech-growth-npci-wpszq6u8"
+    },
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "AI innovation is accelerating rapidly.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Major companies including OpenAI, Google, Anthropic, Meta, and Alibaba have released new AI systems focused on advanced reasoning, autonomous "agentic" workflows, and multimodal capabilities that can work with text, audio, and video.",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "Asian Games Medals Table",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<table><thead><tr><th>Rank</th><th>Country</th><th>Gold</th><th>Silver</th><th>Bronze</th><th>Total</th></tr></thead><tbody><tr><td>1</td><td><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/china-flag.jpg' width='16' height='16' alt='China'>China</td><td>47</td><td>20</td><td>10</td><td>77</td></tr><tr><td>2</td><td><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/japan-flag.jpg' width='16' height='16' alt='Japan'>Japan</td><td>15</td><td>24</td><td>27</td><td>66</td></tr><tr><td>3</td><td><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/south-korea-flag.jpg' width='16' height='16' alt='South Korea'>South Korea</td><td>8</td><td>8</td><td>24</td><td>40</td></tr><tr><td>4</td><td><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/kazakhstan-flag.jpg' width='16' height='16' alt='Kazakhstan'>Kazakhstan</td><td>7</td><td>4</td><td>8</td><td>19</td></tr><tr><td>5</td><td><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/thailand-flag.jpg' width='16' height='16' alt='Thailand'>Thailand</td><td>5</td><td>3</td><td>4</td><td>12</td></tr><tr><td>6</td><td><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/hong-kong-flag.jpg' width='16' height='16' alt='Hong Kong'>Hong Kong</td><td>3</td><td>6</td><td>7</td><td>16</td></tr><tr><td>7</td><td><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/malaysia.jpg' width='16' height='16' alt='Malaysia'>Malaysia</td><td>3</td><td>0</td><td>5</td><td>8</td></tr><tr><td>8</td><td><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/iran-flag.jpg' width='16' height='16' alt='Iran'>Iran</td><td>2</td><td>3</td><td>2</td><td>7</td></tr><tr><td>9</td><td><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/north-korea-flag.jpg' width='16' height='16' alt='North Korea'>North Korea</td><td>2</td><td>1</td><td>3</td><td>6</td></tr><tr><td>10</td><td><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/kuwait-flag.jpg' width='16' height='16' alt='Kuwait'>Kuwait</td><td>2</td><td>1</td><td>1</td><td>4</td></tr><tr><td>13</td><td><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/India-flag.png' width='16' height='16' alt='India'>India</td><td>1</td><td>5</td><td>6</td><td>12</td></tr></tbody></table>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/indepth/asian-games-2026.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "‘ക്ഷമയോടെ കാത്തിരിക്കൂ; മെഡലുകൾ വരും’; ഓൾ ദ് ബെസ്റ്റ്, ടീം!",
+        "en": ""
+      },
+      "summary": {
+        "ml": "ഏഷ്യൻ ഗെയിംസിൽ ഇന്ത്യയുടെ പ്രകടനം എങ്ങനെ? ഇന്ത്യൻ ഒളിംപിക് അസോസിയേഷൻ പ്രസിഡന്റ് പി.ടി.ഉഷ വിലയിരുത്തുന്നു <br> ഏഷ്യൻ ഗെയിംസിൽ അത്‌ലറ്റിക്‌സ് മത്സരങ്ങൾ ആരംഭിക്കുമ്പോൾ ഇന്ത്യയുടെ പ്രതീക്ഷ ഏറെയാണ്. കഴിഞ്ഞ ഗെയിംസിനെക്കാൾ കൂടുതൽ മികച്ച പ്രകടനം ഇന്ത്യൻ സംഘത്തിൽനിന്നു പ്രതീക്ഷിക്കുന്നുണ്ട്. പുരുഷ, വനിതാ ലോങ്ജംപ്, ട്രിപ്പിൾ ജംപ്, പുരുഷ വിഭാഗം ഷോട്പുട്ട്, 5000 മീറ്റർ, 10000 മീറ്റർ, ഡെക്കാത്‌ലൺ, 4x400 മീറ്റർ റിലേ... ഇവയൊക്കെ നമുക്കു സ്വർണം ലഭിക്കാൻ സാധ്യതയുള്ള ഇനങ്ങളാണ്. എല്ലാ അത്‌ലീറ്റുകൾക്കും എന്റെ വിജയാശംസകൾ...",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/other-sports/2026/09/24/asian-games-2026-india-performance-pt-usha.html"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :73,895.74<span style='color:greem;'> + 315.20 (▲ 0.43%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 23,063.10  <span style='color:red;'>▼ -383.70 ( - 1..64%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന് ₹14,010 <span style='color:red;'> + 15 ▲ </span>) <br> വെള്ളി ഗ്രാമിന് ₹250 (<span style='color:red;'> </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

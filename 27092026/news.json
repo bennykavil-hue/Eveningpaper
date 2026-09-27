@@ -1,0 +1,1031 @@
+{
+  "settings": {
+    "publicationDate": "2026-09-27",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "കന്നി 11, 1202",
+      "en": "Kanni 11, 1202"
+    },
+    "hijriDate": {
+      "ml": "14 റബീഉൽ ആഖീര്‍ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 463,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "🌎 “Travel opens our eyes to new places, new cultures and new possibilities.”",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "സൂപ്പർ എൽ നിനോ: ആറുമാസത്തിനിടെ ലോകത്ത് 4.51 ലക്ഷം മരണം; കേരളത്തിൽ 1680, ‘ഡെഡ്‌ലി’ ഫെബ്രുവരി വരുന്നു.",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "ഇന്ത്യ-വെസ്റ്റിൻഡീസ് ഏകദിന ക്രിക്കറ്റ് മത്സരം: തിരുവനന്തപുരം നഗരത്തിൽ ഇന്ന് ഗതാഗത ക്രമീകരണം.",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം </b>∙ ഇന്ത്യ വെസ്റ്റ് ഇൻഡീസ് ഏകദിന ക്രിക്കറ്റ് മത്സരവുമായി ബന്ധപ്പെട്ട് നഗരത്തിൽ ഇന്ന് രാവിലെ 10 മുതൽ രാത്രി 12 വരെ ഗതാഗത ക്രമീകരണം ഏർപ്പെടുത്തി. വെട്ടുറോഡ്, കഴക്കൂട്ടം, മുക്കോല, എൻഎച്ച് 66 റോഡ്, സർവീസ് റോഡ്, കഴക്കൂട്ടം അമ്പലത്തിൻകര, കാര്യവട്ടം എൻഎച്ച് ബൈപാസ് റോഡ്, അമ്പലത്തിൻകര കുമിഴിക്കര സ്റ്റേഡിയം ഗേറ്റ് 4, കുരിശടി, കാര്യവട്ടം റോഡ് എന്നിവിടങ്ങളിൽ പാർക്കിങ് അനുവദിക്കില്ല.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2026/09/27/thiruvananthapuram-odi-traffic-diversions.html"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "World Tourism Day 2026 🌏✈️ <br> 🎂 Google officially celebrates its birthday on September 27, marking its 28th birthday in 2026",
+        "en": ""
+      },
+      "summary": {
+        "ml": "World Tourism Day 2026 🌏✈️ is observed today, 27 September. It highlights the social, cultural and economic importance of tourism around the world. <br>The 2026 World Tourism Day celebrations are being hosted by El Salvador, with a focus on digital innovation and the changing role of technology and AI in tourism.",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.timeanddate.com/holidays/un/world-tourism-day?utm_source=chatgpt.com"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "GST ജോയിന്റ് കമ്മീഷണറുടെ വീട്ടിലും ഓഫീസിലും വിജിലൻസ് റെയ്ഡ്; കണക്കിൽപ്പെടാത്ത 14 ലക്ഷം രൂപ പിടിച്ചെടുത്തു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> ജിഎസ്ടി ജോയിന്റ് കമ്മീഷണറുടെ വീട്ടിലും ഓഫീസിലും നടത്തിയ റെയ്ഡിൽ കണക്കിൽപ്പെടാത്ത പതിനാല് ലക്ഷം രൂപ പിടിച്ചെടുത്ത് വിജിലൻസ്. ജോയിന്റ് കമ്മീഷണർ പ്രജനി രാജന്റെ ഓഫീസിലും വീട്ടിലുമായി ഇന്നലെയായിരുന്നു റെയ്ഡ്. തേവരയിലെ ജി.എസ്.ടി ജോയിന്റ് കമ്മീഷണർ ഓഫിസ്,പ്രജനിയുടെ പച്ചാളത്തെ വീടുകൾ എന്നിവിടങ്ങളിലാണ് പരിശോധന നടത്തിയത്. ഇന്നലെ രാവിലെ തുടങ്ങിയ റെയ്ഡ് അവസാനിച്ചത് രാത്രി ഒമ്പതിനാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/09/27/vigilance-raids-gst-joint-commissioners-residence-and-office.html"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "അധികൃതരുടെ വീഴ്ച: കൽക്കരിക്ഷാമം കാരണം താപവൈദ്യുത നിലയങ്ങൾ പ്രതിസന്ധിയിൽ, വൈദ്യുതി ഉത്പാദനത്തെ ബാധിച്ചേക്കും"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> രാജ്യത്തെ താപവൈദ്യുത നിലയങ്ങളിൽ കൽക്കരിശേഖരം കുറയുന്നത് വൈദ്യുതി ഉത്‌പാദനത്തെ ബാധിച്ചേക്കും. സെൻട്രൽ ഇലക്ട്രിസിറ്റി അതോറിറ്റിയുടെ കണക്കനുസരിച്ച് 190 കൽക്കരി താപവൈദ്യുത നിലയങ്ങളിൽ 74 എണ്ണത്തിലും ശേഖരം ഗണ്യമായി കുറഞ്ഞു. പലതിലും ഒരാഴ്ചത്തേക്കുള്ള ശേഖരമാണുള്ളത്. ഓഗസ്റ്റിൽ കൽക്കരിശേഖരം കുറഞ്ഞ നിലയങ്ങളുടെ എണ്ണം 51 ആയിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/india/coal-shortage-thermal-power-plants-india-electricity-crisis-y6pvzzcq"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കൊല്ലത്ത് അമിത് ഷായ്ക്കുനേരെ യൂത്ത് കോൺഗ്രസിന്റെ കരിങ്കൊടി പ്രതിഷേധം; അഞ്ച് പേരെ കസ്റ്റഡിയിലെടുത്തു"
+      },
+      "summary": {
+        "ml": "<b>കൊല്ലം:</b> കേന്ദ്ര ആഭ്യന്തരമന്ത്രി അമിത് ഷായ്ക്ക് നേരെ കൊല്ലത്ത് യൂത്ത് കോൺഗ്രസിന്റെ കരിങ്കൊടി പ്രതിഷേധം. യൂത്ത് കോൺഗ്രസ് സംസ്ഥാന വൈസ് പ്രസിഡന്റ് ബിനു ചുള്ളിയിലിന്റെ നേതൃത്വത്തിലാണ് പ്രതിഷേധം നടന്നത്. പ്രതിഷേധത്തെ തുടർന്ന് ഇദ്ദേഹത്തെയടക്കം അഞ്ച് പേരെ പോലീസ് കസ്റ്റഡിയിലെടുത്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/amit-shah-youth-congress-protest-kollam-rdij89va"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മുൻ സർക്കാരിന്റെ പരിഷ്‌കാരം: 'ജവാനെ' വെട്ടി സ്വകാര്യകമ്പനിയുടെ മദ്യം, വിൽപ്പനയുടെ 50 ശതമാനവും ഒരുകമ്പനിക്ക്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "</b>തിരുവനന്തപുരം:</b> ബെവറജസ് മദ്യക്കച്ചവടം പരിഷ്‌കരിച്ചപ്പോൾ സർക്കാർമദ്യമായ ജവാനെ കടത്തിവെട്ടി സ്വകാര്യകമ്പനിക്ക് കുത്തകനേട്ടം. റം വിഭാഗത്തിൽ മാസം രണ്ടരലക്ഷം കെയ്സ് വരെ വിറ്റിരുന്ന <a href='https://www.mathrubhumi.com/topics/tag/jawan_liquor' target='_blank'>ജവാൻ</a>  രണ്ടാംസ്ഥാനത്തേക്ക്‌ പിന്തള്ളപ്പെട്ടു. സംസ്ഥാനത്തിന് പുറത്തെ മദ്യകമ്പനിക്കാണ് നേട്ടംലഭിച്ചത്. നാലുവർഷത്തിനിടെ ആകെ മദ്യക്കച്ചവടത്തിന്റെ 50 ശതമാനവും ഒരുകമ്പനി െെകയടക്കുകയുംചെയ്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/bevco-software-reform-private-liquor-company-jawan-rum-sales-fpij2boy"
+    },
+    {
+      "id": "41",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "‘മൂന്ന് വ്യവസ്ഥകൾ അസ്വീകാര്യം’: ഇറാൻ നിർദ്ദേശിച്ച സമാധാന നിർദ്ദേശം തള്ളി ട്രംപ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "ഹോർമുസ് കടലിടുക്ക് വീണ്ടും തുറക്കാൻ ഇറാൻ നിർദ്ദേശിച്ച ഏഴ് ദിന സമാധാന നിർദ്ദേശം തള്ളി യുഎസ് പ്രസിഡന്റ് ഡൊണാൾഡ് ട്രംപ്. ഇറാൻ മുന്നോട്ടുവച്ച മൂന്ന് വ്യവസ്ഥകളും അസ്വീകാര്യമാണെന്നും ഇറാനിലേക്ക് പണം ഒഴുകാത്തതിനാലാണ് കരാറിലെത്താൻ ഇറാൻ ആഗ്രഹിക്കുന്നതെന്നും ട്രംപ് വ്യക്തമാക്കി. നിർദ്ദേശങ്ങളോടുള്ള അമേരിക്കയുടെ ഔദ്യോഗിക പ്രതികരണത്തിനായി കാത്തിരിക്കുകയാണെന്ന് ഇറാൻ വിദേശകാര്യ മന്ത്രി അബ്ബാസ് അരഗ്ചി പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/09/27/trump-rejects-peace-proposal-put-forward-by-iran.html"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "‘ഗ്യാനേഷ് കുമാർ രാജി വെക്കണം’: പ്രതിഷേധം ശക്‌തമാക്കാൻ പ്രതിപക്ഷം, ബുധനാഴ്ച ഇന്ത്യ സഖ്യം യോഗം ചേരും"
+      },
+      "summary": {
+        "ml": "<b>ഡൽഹി:</b> തിരഞ്ഞെടുപ്പ് കമ്മീഷനെതിരായ ആരോപണങ്ങളിൽ പ്രതിഷേധം ശക്‌തമാക്കാൻ പ്രതിപക്ഷം. മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മീഷണർ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ടു സംയുക്‌തമായി മുന്നോട്ടു പോകാനാണ് ഇന്ത്യ സഖ്യത്തിന്റെ ലക്ഷ്യം. രണ്ട് തിരഞ്ഞെടുപ്പ് കമ്മീഷണർമാർ ഉയർത്തിയ വിയോജിപ്പുകളിൽ അനുനയത്തിൽ എത്തിയെങ്കിലും വിടാതെ പ്രതിപക്ഷം. വിഷയം ചർച്ച ചെയ്യാൻ ബുധനാഴ്ച ഇന്ത്യ സഖ്യം യോഗം ചേരും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/09/27/opposition-to-intensify-protest-demand-resignation-of-gyanesh-kumar.html"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഏഷ്യൻ ഗെയിംസിൽ നാലാം സ്വർണം; കബഡിയിൽ ഇറാനെ തകർത്ത് ഇന്ത്യ"
+      },
+      "summary": {
+        "ml": "<b>നഗോയ:</b> വനിതകൾക്ക് പിന്നാലെ ഏഷ്യൻ ഗെയിംസ് കബഡിയിൽ പുരുഷൻമാർക്കും സ്വർണം. ഇറാനെ തോൽപ്പിച്ചാണ് ഇന്ത്യയുടെ നേട്ടം. നേരത്തെ വനിതകളുടെ ഫൈനലിലും ഇറാനെ തോൽപ്പിച്ച് ഇന്ത്യ സ്വർണം സ്വന്തമാക്കിയിരുന്നു. ഈ ഏഷ്യൻ ഗെയിംസിൽ ഇന്ത്യയുടെ നാലാമത്തെ സ്വർണമാണിത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/sports/news/asian-games-2026-day-7-schedule-updates-live-blog-l9d98i0l"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "സൂപ്പർ എൽ നിനോ: ആറുമാസത്തിനിടെ ലോകത്ത് 4.51 ലക്ഷം മരണം; കേരളത്തിൽ 1680, ‘ഡെഡ്‌ലി’ ഫെബ്രുവരി വരുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂയോർക്ക് </b>∙ <a href='https://www.manoramaonline.com/topics/environment/El-Nino-Effect.html' target='_blank' rel='noopener noreferrer'>സൂപ്പർ എൽ നിനോ പ്രതിഭാസം</a> മൂലം അടുത്തവർഷം ഫെബ്രുവരി വരെയുള്ള 6 മാസ കാലയളവിൽ കേരളത്തിൽ 1,680 മരണങ്ങളുണ്ടാകാമെന്ന് കാലാവസ്ഥാ പ്രവചന സ്ഥാപനം ക്ലൈമറ്റ് ഇംപാക്ട് ലാബിന്റെ റിപ്പോർട്ട്. ഇക്കാലയളവിൽ ഇന്ത്യയിലാകെ 15,800 പേരും ലോകമാകെ 4.51 ലക്ഷം പേരും പ്രതിഭാസത്തിന്റെ ആഘാതത്താൽ മരണമടയാമെന്നും റിപ്പോർട്ട് ചൂണ്ടിക്കാട്ടുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/27/super-el-nino-kerala-death-toll-prediction-climate-impact-lab-report.html"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മധുവിധു യാത്ര ദുരന്തത്തിൽ കലാശിച്ചു: അനാസ്ഥയിൽ പൊലിഞ്ഞത് ഒരു ജീവൻ, ആ ചോരയ്ക്ക് PWD മറുപടി പറയണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഉപ്പുതറ (ഇടുക്കി):</b> മധുവിധു ആഘോഷിക്കാനാണ് അഭിഷേക് ഭാര്യ കാവ്യക്കൊപ്പം ഹൈറേഞ്ചിലെത്തിയത്. സന്തോഷം നിറഞ്ഞ ആ യാത്രയിലേക്ക് ദുരന്തം പാഞ്ഞുകയറുമെന്ന് ആരും കരുതിയില്ല. അപകടം അഭിഷേകിന്റെ ജീവൻ കവർന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/honeymoon-tragedy-idukki-car-accident-chinar-river-pwd-negligence-iypoqhjo"
+    },
+    {
+      "id": "34",
+      "type": "news",
+      "order": 13,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "വൻലാഭം വാഗ്ദാനം ചെയ്ത് ‘പ്രധാനമന്ത്രി’; വിഡിയോ കെണിയായി, യുവാവിന് 7.66 ലക്ഷം നഷ്ടം.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ബെംഗളൂരു ∙ പ്രധാനമന്ത്രി നരേന്ദ്ര മോദി, കേന്ദ്രധനമന്ത്രി നിർമല സീതാരാമൻ തുടങ്ങിയവരുടെ <a href='https://www.manoramaonline.com/topics/news/common/deepfake.html' target='_blank' rel='noopener noreferrer'>ഡീപ് ഫെയ്ക്</a>  വിഡിയോ ഉപയോഗിച്ചുള്ള നിക്ഷേപ തട്ടിപ്പിൽ ബെംഗളൂരു സ്വദേശിയായ യുവാവിന് 7.66 ലക്ഷം രൂപ നഷ്ടപ്പെട്ടു. ജൂലൈ 10നു സമൂഹമാധ്യമങ്ങളിലാണു മോദി, നിർമല സീതാരാമൻ, സുധ മൂർത്തി തുടങ്ങിയവരുടെ ഡീപ് ഫെയ്ക് വിഡിയോ കണ്ടത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/27/deepfake-scam-bengaluru-youth-loses-7-lakh-rs-fake-pm-modi-investment-video.html"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "സ്ക്വാഷ് സിംഗിൾസിൽ അഭയ്ക്കും അനാഹത്തിനും വെള്ളി; ശ്രീശങ്കർ ഫൈനലിൽ; പി.വി.സിന്ധുവിന് മെഡലില്ലാതെ മടക്കം.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "നഗോയ∙</b> ഏഷ്യൻ ഗെയിംസ് സ്ക്വാഷ് സിംഗിൾസിൽ പുരുഷ, വനിതാ വിഭാഗങ്ങളിൽ ഇന്ത്യയ്ക്ക് വെള്ളി. പുരുഷ വിഭാഗത്തിൽ അഭയ് സിങ്ങും വനിതാ വിഭാഗത്തിൽ അനാഹത് സിങ്ങുമാണ് വെള്ളി മെഡൽ നേടിയത്. ഇരു താരങ്ങളും ഫൈനലിൽ തോറ്റതോടെയാണ് വെള്ളി കൊണ്ട് തൃപ്തിപെടേണ്ടി വന്നത്. പുരുഷ സിംഗിൾസ് ഫൈനലിൽ മലേഷ്യയുടെ ഈൻ യോ എൻഗിനോടാണ് അഭയ് സിങ് പരാജയപ്പെട്ടത്. നിലവിലെ ചാംപ്യനും ലോക 18-ാം നമ്പർ താരവുമായ യോയോട് കടുത്ത വെല്ലുവിളി ഉയർത്താൻ ലോക റാങ്കിങ്ങിൽ 26-ാം സ്ഥാനത്തുള്ള അഭയ്ക്ക് കഴിഞ്ഞില്ല. സ്കോർ: 11-9, 11-5, 11-5. മലേഷ്യൻ താരത്തിനെതിരെ അഭയ് വഴങ്ങുന്ന എട്ടാമത്തെ പരാജയമാണിത്.വനിതാ സിംഗിൾസിൽ മലേഷ്യയുടെ തന്നെ ശിവസംഗരി സുബ്രഹ്മണ്യത്തോട് അനാഹത് സിങ് തോൽവി വഴങ്ങിയത്. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/other-sports/2026/09/27/asian-games-2026-day-8-live-updates.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 16,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "‘മെഡൽ കിട്ടാത്തതിന് മഴയെ പഴി പറഞ്ഞിട്ട് എന്തു കാര്യം? നമുക്കു മാത്രമല്ലല്ലോ മഴ..’: അത്‌ലീറ്റുകളോട് പി.ടി. ഉഷ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "ഏഷ്യൻ ഗെയിംസിൽ മെഡൽ നഷ്ടപ്പെട്ടതിനു മഴയെ പഴി പറയുന്ന തിരക്കിലാണു നമ്മുടെ അത്‌ലീറ്റുകൾ. അതിലെന്താണു കാര്യം? നമുക്കു മാത്രമല്ലല്ലോ മഴ പ്രശ്നമാകേണ്ടത്. എല്ലാവരെയും ബാധിക്കേണ്ടതല്ലേ? വാമപ്പ് നന്നായി ചെയ്താൽ ഒരു മഴയെയും പേടിക്കേണ്ടതില്ല. കഴിഞ്ഞ ഏഷ്യൻ ഗെയിംസിൽ 200 മീറ്ററൊക്കെ നടക്കുമ്പോൾ ഇതിലും വലിയ മഴയായിരുന്നു. എന്നിട്ടും മികച്ച പ്രകടനം നടത്താൻ കഴിഞ്ഞിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/other-sports/2026/09/27/did-rain-cost-indian-athletes-medals-at-the-asian-games-pt-usha-analysis.html"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "സർട്ടിഫിക്കറ്റ് വാങ്ങാനെത്തിയ 22കാരിക്ക് അശ്ലീല സന്ദേശം, രാത്രി വീട്ടിലെത്തി; വില്ലേജ് ഓഫിസർക്കെതിരെ കേസ്.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കണ്ണൂർ </b>∙ യുവതിക്ക് ഫോൺ വഴി <a href='https://www.manoramaonline.com/topics/crime/sexualharassment.html' target='_blank' rel='noopener noreferrer'>അശ്ലീലസന്ദേശം അയച്ചെന്ന</a>  പരാതിയിൽ വില്ലേജ് ഓഫിസർക്കെതിരെ പൊലീസ് കേസെടുത്തു. എടക്കാട് വില്ലേജ് ഓഫിസർ ആലപ്പുഴ സ്വദേശി ജിജു സ്കറിയക്കെതിരെയാണ് (48) താഴെചൊവ്വ സ്വദേശിനിയുടെ പരാതിയിൽ കണ്ണൂർ ടൗൺ പൊലീസ് കേസെടുത്തത്. അതേസമയം, തന്നെ മർദിച്ചെന്ന വില്ലേജ് ഓഫിസറുടെ പരാതിയിൽ യുവതിക്കും ഭർത്താവിനും കണ്ടാലറിയാവുന്ന 12 പേർക്കുമെതിരെയും പൊലീസ് കേസെടുത്തിട്ടുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/27/kannur-village-officer-obscene-messages-woman-complaint-assault.html"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ആരോപണങ്ങൾ ശക്തം, തലയൂരാൻ കമ്മിഷൻ; അന്ന് പ്രധാൻ രാജിവച്ചു, പ്രതിപക്ഷ പ്രതിഷേധം ഫലിക്കുമോ?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി </b>∙ <a href='https://www.manoramaonline.com/topics/news/national/organisations0/electioncommissionofindia.html' target='_blank' rel='noopener noreferrer'>മുഖ്യ തിരഞ്ഞെടുപ്പു കമ്മിഷണർ</a>  ഗ്യാനേഷ് കുമാറിനെതിരെ പുറത്തുവന്ന ആരോപണങ്ങൾ പലതും കമ്മിഷൻ തന്നെ ശരിവയ്ക്കുന്നുവെന്ന് വ്യക്തമാക്കുന്നതാണ് എസ്ഐആറിന്റെ കാര്യത്തിലെ ചുവടുമാറ്റം. ഫലത്തിൽ അതു ഗ്യാനേഷിനും അതിലൂടെ ബിജെപിക്കുമെതിരെ നിലപാടു കടുപ്പിക്കാൻ പ്രതിപക്ഷത്തെ പ്രേരിപ്പിക്കുന്നതാണ്. എന്നാൽ പരീക്ഷാ ക്രമക്കേടുകളുടെ പേരിൽ കേന്ദ്രമന്ത്രി ധർമേന്ദ്ര പ്രധാന്റെ രാജിയിലേക്കു നയിച്ച സാഹചര്യത്തിലേക്ക് ബിജെപിയെയും ഗ്യാനേഷിനെയും എത്തിക്കാൻ പ്രതിപക്ഷത്തിനു സാധിക്കുമോയെന്ന് വ്യക്തമല്ല.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/27/gyanesh-kumar-under-fire-will-mounting-allegations-topple-chief-election-commissioner.html"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "രാഹുൽ ഗാന്ധി പറഞ്ഞതെല്ലാം സത്യമായി എന്ന് മുഖ്യമന്ത്രി; ഗ്യാനേഷ് കുമാർ ബിജെപി ഏജന്‍റ്, സ്ഥാനത്ത് തുടരരുതെന്നും സതീശൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:<b> മുഖ്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷണർ ഗ്യാനേഷ് കുമാറിനെതിരെ മുൻ കേരളം ചീഫ് സെക്രട്ടറി ജിജി തോംസന്‍റെ വെളിപ്പെടുത്തൽ അതീവ ഗൗരവമുള്ളതാണെന്ന് മുഖ്യമന്ത്രി വി ഡി സതീശൻ. ഗ്യാനേഷ് കുമാർ ബിജെപി ഏജന്‍റായി പ്രവർത്തിച്ചു എന്നതിന് ഇനിയും തെളിവുകൾ വേണ്ട. ജനാധിപത്യത്തെ ബിജെപിക്ക് വേണ്ടി അട്ടിമറിക്കുന്ന ഏജന്‍റായിരുന്നു ഗ്യാനേഷ് കുമാറെന്ന് തെളിഞ്ഞു. തെരഞ്ഞെടുപ്പ് കമ്മീഷന്‍റെ വിശ്വാസ്യതയെ ബിജെപിക്ക് കച്ചവടം നടത്തിയ ഗ്യാനേഷ് കുമാറിനെ ഇന്ത്യൻ ജനാധിപത്യത്തിന് വധശിഷ വിധിച്ചയാളെന്ന് ചരിത്രം രേഖപ്പെടുത്തും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/everything-rahul-gandhi-said-is-true-satheesan-says-gyanesh-kumar-is-a-bjp-agent-articleshow-2tdho3z"
+    },
+    {
+      "id": "37",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "രാഹുലിനെ തള്ളി അമിത് ഷാ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> ഇന്ത്യയുടെ സാമ്പത്തിക വളർച്ചയെ അപകീർത്തിപ്പെടുത്താൻ ചിലർ ശ്രമിക്കുന്നുണ്ടെന്ന് കോൺഗ്രസ് നേതാവ് രാഹുൽ ഗാന്ധിയെ തള്ളി കേന്ദ്ര ആഭ്യന്തര മന്ത്രി അമിത് ഷാ പറഞ്ഞു. മൂഡീസ് ഇന്ത്യ സാമ്പത്തിക വളർച്ച ആറ് ശതമാനത്തിൽ നിന്ന് ഏഴാകുമെന്ന് പ്രവചിച്ചതും ജപ്പാനിലെ പ്രമുഖ റേറ്റിംഗ് ഏജൻസിയായ ജെ.സി.ആർ ഇന്ത്യയുടെ സോവറിൻ റേറ്റിംഗ് ഉയർത്തിയതും ചൂണ്ടിക്കാട്ടിയാണ് ഷായുടെ മറുപടി. ആഗോള വെല്ലുവിളികൾക്കിടയിലും ഇന്ത്യ വളർച്ച നിലനിറുത്തുകയും ത്വരിതപ്പെടുത്തുകയും ചെയ്‌തു. 2047 ആഗസ്റ്റ് 15 ആകുമ്പോഴേക്കും ഇന്ത്യ എല്ലാ മേഖലകളിലും ആഗോളതലത്തിൽ ഒന്നാമതാകുമെന്ന പ്രധാനമന്ത്രി മോദിയുടെ ദൃഢനിശ്ചയം നടപ്പിലാകുമെന്നും അദ്ദേഹം പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/national-1807858"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 21,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കെ സി വേണുഗോപാലിനെതിരായ സൈബർ ആക്രമണം: ഒടുവിൽ അന്വേഷണത്തിന് പൊലീസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‌ആലപ്പുഴ:</b> എഐസിസി ജനറൽ സെക്രട്ടറി കെ സി വേണുഗോപാലിനെതിരായ സൈബർ ആക്രമണത്തിൽ ഒടുവിൽ അന്വേഷണത്തിന് പൊലീസ്. കോൺഗ്രസ് നേതാവിന്റെ പരാതിയിൽ ആഭ്യന്തരമന്ത്രി രമേശ് ചെന്നിത്തല അന്വേഷണത്തിന് ഉത്തരവിട്ടു. പരാതിക്കാരനായ കോൺഗ്രസ് നേതാവ് ജോൺസൺ എബ്രഹാമിന്റെ മൊഴിയെടുത്തു. പരാതി നൽകി രണ്ടുമാസത്തിനുശേഷമാണ് പൊലീസ് അന്വേഷണത്തിലേക്ക് കടന്നിരിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/police-begins-probe-on-cyber-attack-against-kc-venugopal-articleshow-3gk9qz5"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "രോഹിത്തിന്റേയും കോലിയുടേയും ബാറ്റിലേക്ക് കണ്ണുംനട്ട് ആരാധകര്‍; കാര്യവട്ടത്ത് ഇന്ന് ഇന്ത്യ-വിന്‍ഡീസ് ആദ്യ ഏകദിനം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ഇന്ത്യ - വെസ്റ്റ് ഇന്‍ഡീസ് ആദ്യ ഏകദിനത്തിന് ഇന്ന് കാര്യവട്ടം, ഗ്രീന്‍ഫീല്‍ഡ് സ്റ്റേഡിയത്തിന് തുടക്കം. ഉച്ചയ്ക്ക് രണ്ട് മണിക്ക് ടോസ് വീഴും. വിരാട് കോലിയുടേയും രോഹിത് ശര്‍മയുടേയും ബാറ്റിംഗ് വിരുന്ന് പ്രതീക്ഷിക്കുകയാണ് ആരാധകര്‍. കാര്യവട്ടം ഗ്രീന്‍ഫീല്‍ഡ് സ്റ്റേഡിയം വേദിയാവുന്ന മൂന്നാമത്തെ അന്താരാഷ്ട്ര ഏകദിനമാണ് ഇന്നത്തേത്. ആദ്യ രണ്ട് കളിയിലും ഇന്ത്യ ആധികാരിക വിജയം നേടി. ഇന്ത്യയുടെ ഭാഗ്യവേദിയായ കാര്യവട്ടം ഗ്രീന്‍ഫീല്‍ഡ് സ്റ്റേഡിയത്തിലെ ആദ്യ ഏകദിനം 2018 നവംബര്‍ ഒന്നിന്.",
+        "en": ""
+      },
+      "image": " images/news04.jpg",
+      "link": "https://www.asianetnews.com/cricket-sports/india-vs-west-indies-first-odi-match-at-greenfield-stadium-record-and-more-articleshow-ta62pqg"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "ബിജെപിക്കായി മത്സരിക്കാൻ ഗ്യാനേഷ് കുമാർ നിർബന്ധിച്ചു: വെളിപ്പെടുത്തലുമായി മുൻ ചീഫ് സെക്രട്ടറി ജിജി തോംസൺ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം∙ </b>മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ (സിഇസി) ഗ്യാനേഷ് കുമാർ തിരഞ്ഞെടുപ്പിൽ മത്സരിക്കാൻ സീറ്റ് വാഗ്ദാനം ചെയ്തിരുന്നതായി മുൻ ചീഫ് സെക്രട്ടറി ജിജി തോംസൺ. ഡൽഹിയിലേക്കുള്ള വിമാനയാത്രയ്ക്കിടെയാണ് കേരളത്തിൽ <a href='https://www.manoramaonline.com/topics/politics/parties/bjp.html' target='_blank' rel='noopener noreferrer'>ബിജെപി</a>  സ്ഥാനാർഥിയായി മത്സരിക്കാനുള്ള സാധ്യതയെക്കുറിച്ച് ഗ്യാനേഷ് കുമാർ തന്നോട് ചോദിച്ചതെന്ന് ജിജി തോംസൺ ‘ഓൺ മനോരമയോട്’ പറഞ്ഞു. എസ്ഐആറുമായി ബന്ധപ്പെട്ട നിലപാടുകളുടെ പേരിൽ‍ വൻ പ്രതിഷേധം നേരിടുന്ന ഗ്യാനേഷ് കുമാർ കേരള കേഡർ ഐഎഎസ് ഉദ്യോഗസ്ഥനാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/26/gyanesh-kumar-offered-kerala-bjp-seat-says-former-chief-secretary-jiji-thomson.html"
+    },
+    {
+      "id": "22",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "ബംപറെടുക്കാൻ ഓട്ടപ്പാച്ചിൽ: ആളുകൾ കൂടിയതോടെ നിയന്ത്രണം വിട്ടു; കരിഞ്ചന്തയിൽ വിറ്റത് 1 ലോട്ടറിക്ക് 700 മുതൽ 800 രൂപ വരെ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മൂവാറ്റുപുഴ ∙</b> കേരളക്കരയെ മുൾമുനയിൽ നിർത്തിയ ഓണം ബംപർ നറുക്കെടുപ്പിനു തൊട്ടുമുൻപുള്ള മണിക്കൂറുകളിൽ ലോട്ടറി വിപണിയിൽ നാടകീയ രംഗങ്ങൾ. കഴിഞ്ഞ തവണത്തെ 25 കോടിയിൽ നിന്ന് ഇത്തവണ ഒന്നാം സമ്മാനം 30 കോടി രൂപയായി കുതിച്ചുയർന്നതോടെ, അവസാന നിമിഷം ഭാഗ്യം പരീക്ഷിക്കാൻ ലോട്ടറി കടകളിലേക്ക് ജനങ്ങളുടെ കുത്തൊഴുക്കായിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/ernakulam/2026/09/27/onam-bumper-lottery-rush.html"
+    },
+    {
+      "id": "23",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "വെളിപ്പെടാതെ ഭാഗ്യവാൻ: കാത്തിരുന്ന് തളിപ്പറമ്പും കേരളവും; ക്രിസ്മസ് ബംപർ 20 കോടി അടിച്ചതും മുത്തു ഏജൻസി വിറ്റ ടിക്കറ്റിന്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": "<b>കണ്ണൂർ, തിരുവനന്തപുരം </b>∙ തിരുവോണം ബംപർ ഭാഗ്യക്കുറിയുടെ ഒന്നാംസമ്മാനം 30 കോടി രൂപ തളിപ്പറമ്പിൽ വിറ്റ ടിഎൽ 360615 ടിക്കറ്റിന്. ഇന്നലെ രാത്രി വരെ സമ്മാനാർഹനെ കണ്ടെത്തിയിട്ടില്ല. എം.വി.അനീഷിന്റെ ഉടമസ്ഥതയിലുള്ള ചക്കരക്കൽ മുത്തു ലോട്ടറി ഏജൻസി, പി.വി.വത്സരാജന്റെ ഉടമസ്ഥതയിലുള്ള തളിപ്പറമ്പിലെ തമ്പുരാൻ ഏജൻസിക്കു വിറ്റ ടിക്കറ്റ് വടക്കാഞ്ചേരി സ്വദേശി എം.വി.സുജിത്ത് തന്റെ സമൃദ്ധി ലോട്ടറി സ്റ്റാളിലാണു വിറ്റത്. ഇതുൾപ്പെടെയുള്ള 30 ടിക്കറ്റുകളാണു സുജിത്ത് ഒരാഴ്ച മുൻപ് തന്റെ സ്റ്റാളിലെത്തിച്ചത്. ആരാണ് ടിക്കറ്റെടുത്തതെന്ന് ഓർമയില്ലെന്നു സുജിത്ത് പറഞ്ഞു. കഴിഞ്ഞ ക്രിസ്മസ് ബംപർ 20 കോടി രൂപ ലഭിച്ചതും മുത്തു ഏജൻസി വിറ്റ ടിക്കറ്റിനാണ്. പി.വി.വത്സരാജനാണ് തമ്പുരാൻ ഏജൻസിയുടെ ഉടമ."
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/kannur/2026/09/27/thiruonam-bumper-winner-mystery.html"
+    },
+    {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "യു.എൻ. വെബ്‌സൈറ്റിലും OpenAI ഏജന്റ് നുഴഞ്ഞുകയറ്റം; യു.എസിലും ഓസ്‌ട്രേലിയയിലും നടന്നതിന് സമാനം"
+      },
+      "summary": {
+        "ml": "<strong>ചാ</strong>റ്റ് ജി.പി.ടി. നിർമാതാക്കളായ ഓപ്പൺഎ.ഐ.യുടെ ഏജന്റുകൾ ഐക്യരാഷ്ട്രസഭയുടെ(യുഎൻ) വെബ്‌സൈറ്റിലും കടന്നുകയറിയെന്ന് സ്വതന്ത്ര ഗവേഷണ റിപ്പോർട്ടിൽ കണ്ടെത്തിയിട്ടുണ്ടെന്ന് ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/openai-agents-breach-un-website-cyber-incident-h1b1ep19"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "യുവാക്കൾക്ക് ഉയർന്ന ശമ്പളമുള്ള തൊഴിലവസരങ്ങൾ; തിരുവനന്തപുരത്തെ മുൻനിര ടെക് ഹബ്ബാക്കാൻ 'ക്വാഡ്'",
+        "en": ""
+      },
+      "summary": {
+        "ml": " തിരുവനന്തപുരത്തിന്റെ സാങ്കേതിക മേഖലയ്ക്ക് പുത്തൻ ഉണർവേകി ടെക്നോപാർക്ക് വികസനവും 'ക്വാഡ്' (QUAD) പദ്ധതിയും മുന്നോട്ട്. കേരളത്തിൽ വളർന്നുവരുന്ന പുതിയ സാങ്കേതികവിദ്യകളെയും ഐടി മേഖലയിലെ അവസരങ്ങളെയും കുറിച്ച് ചർച്ച ചെയ്യുന്നതിനായി കോൺഫെഡറേഷൻ ഓഫ് ഇന്ത്യൻ ഇൻഡസ്ട്രി (CII) കേരള സംഘടിപ്പിച്ച 'സി.ഐ.ഐ ഡിജി നെക്സ്റ്റ് ഉച്ചകോടി 2026 (CII DigiNext Summit 2026) ലാണ് നഗരത്തിന്റെ ഐ.ടി സാധ്യതകൾ ചർച്ചയായത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/trivandrum-tech-hub-technopark-quad-project-2026-epkgx2tb"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "World"
+      },
+      "title": {
+        "ml": "ഓസ്‌ട്രേലിയയ്ക്ക് പിന്നാലെ യു.എസ് സർക്കാർ വെബ്‌സൈറ്റുകളിലും കടന്നുകയറി AI ഏജന്റുകൾ, ആശങ്ക",
+        "en": ""
+      },
+      "summary": {
+        "ml": "ഓപ്പൺഎഐയുടെ എഐ മോഡലുകൾ ഓസ്ട്രേലിയൻ സർക്കാരിന്റെ വെബ്സൈറ്റ് ഹാക്ക് ചെയ്ത വിവരം അടുത്തിടെ പുറത്തുവന്നിരുന്നു. ഒരു സർക്കാർ ഡാറ്റാബേസിന് നേരെ എഐ നടത്തുന്ന അറിയപ്പെടുന്ന ആദ്യത്തെ സൈബർ ആക്രമണങ്ങളിൽ ഒന്നായാണ് ആ സംഭവം വിലയിരുത്തപ്പെട്ടത്. പിന്നാലെയാണ് യു.എസ് സർക്കാർ സൈറ്റുകളിലും എഐ ഏജന്റുകൾ കടന്നുകയറിയെന്ന് സ്ഥിരീകരിക്കപ്പെടുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/openai-agentic-ai-accesses-us-websites-cybersecurity-review-g7gxj2tb"
+    },
+    {
+      "id": "12",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കെഎസ്ആർടിസിക്ക് ബസുകൾ വാങ്ങാൻ ഇനി എംഎൽഎ ഫണ്ടും; പ്രത്യേകാനുമതി നൽകി സർക്കാർ ഉത്തരവ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> കെഎസ്ആർടിസിക്ക് പുതിയ ബസുകൾ വാങ്ങുന്നതിനായി എംഎൽഎമാരുടെ ആസ്തി വികസന ഫണ്ട് ഉപയോഗിക്കാൻ അനുമതി നൽകി സംസ്ഥാന സർക്കാർ ഉത്തരവിറക്കി. പൊതുഗതാഗത സൗകര്യം കൂടുതൽ മെച്ചപ്പെടുത്തുന്നതിന്‍റെ ഭാഗമായാണ് സർക്കാരിന്‍റെ ഈ സുപ്രധാന തീരുമാനം. ഉത്തരവ് അനുസരിച്ച് ഒരു നിയമസഭാ മണ്ഡലത്തിൽ പരമാവധി മൂന്ന് ബസുകൾ വരെ എംഎൽഎ ഫണ്ട് ഉപയോഗിച്ച് വാങ്ങാൻ അനുവാദമുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "hhttps://www.asianetnews.com/kerala-news/mla-funds-will-now-be-used-to-purchase-buses-for-ksrtc-government-orders-special-permission-articleshow-dw9to4m"
+    },
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "Google's Birthday",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ul><li><b>Celebration Date:</b> September 27 (observed annually with a special Google Doodle).</li><li><b>Actual Incorporation Date:</b> September 4, 1998 (when founders Larry Page and Sergey Brin officially incorporated the company)</li><li><b>Early History:</b> Google celebrated its birthday on September 4 for its first seven years before shifting the date to September 27 in 2005 to match a record-setting page indexing announcement.</li><li><b>Origins:</b> The project began in 1996 as a Stanford University research initiative originally named BackRub before being renamed Google (a play on the mathematical term 'googol').</li></ul>",
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://timesofindia.indiatimes.com/etimes/trending/google-turns-27-the-real-birthday-is-not-today-the-untold-origin-story-of-the-worlds-biggest-search-engine/articleshow/124181646.cms"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "Asian Games Medals Table",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<table style='width:100%;border-collapse:collapse;table-layout:auto;font-size:13px;'><thead><tr style='display:table-row;'><th style='padding:5px 2px;text-align:center;font-weight:bold;background:#f2f2f2;border-bottom:1px solid #ccc;'>Rank</th><th style='padding:5px 2px;text-align:left;font-weight:bold;background:#f2f2f2;border-bottom:1px solid #ccc;'>Country</th><th style='padding:5px 2px;text-align:center;font-weight:bold;background:#fef9e7;color:#b7950b;border-bottom:1px solid #ccc;'>Gold</th><th style='padding:5px 2px;text-align:center;font-weight:bold;background:#f2f4f4;color:#5d6d7e;border-bottom:1px solid #ccc;'>Silver</th><th style='padding:5px 2px;text-align:center;font-weight:bold;background:#fbeee6;color:#a04000;border-bottom:1px solid #ccc;'>Bronze</th><th style='padding:5px 2px;text-align:center;font-weight:bold;background:#f2f2f2;border-bottom:1px solid #ccc;'>Total</th></tr></thead><tbody><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>1</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/china-flag.jpg' width='16' height='16' alt='China' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>China</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>107</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>41</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>28</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>176</td></tr><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>2</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/japan-flag.jpg' width='16' height='16' alt='Japan' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>Japan</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>31</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>49</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>49</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>129</td></tr><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>3</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/south-korea-flag.jpg' width='16' height='16' alt='South Korea' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>South Korea</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>16</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>21</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>36</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>73</td></tr><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>4</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/uzbekisthan-flag.jpg' width='16' height='16' alt='Uzbekistan' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>Uzbekistan</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>8</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>17</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>9</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>34</td></tr><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>5</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/kazakhstan-flag.jpg' width='16' height='16' alt='Kazakhstan' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>Kazakhstan</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>8</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>8</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>19</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>35</td></tr><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>6</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/thailand-flag.jpg' width='16' height='16' alt='Thailand' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>Thailand</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>8</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>7</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>9</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>24</td></tr><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>7</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/iran-flag.jpg' width='16' height='16' alt='Iran' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>Iran</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>7</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>14</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>7</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>28</td></tr><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>8</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/bahrain-flag.jpg' width='16' height='16' alt='Bahrain' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>Bahrain</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>7</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>2</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>2</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>11</td></tr><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>9</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/portal/latestnews/fifa-guess-the-player/player-images/AsianGames/north-korea-flag.jpg' width='16' height='16' alt='North Korea' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>North Korea</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>5</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>5</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>4</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>14</td></tr><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>10</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/India-flag.png' width='16' height='16' alt='India' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>India</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>4</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>12</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>14</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>30</td></tr><tr style='display:table-row;'><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>11</td><td style='padding:5px 2px;text-align:left;border-bottom:1px solid #e5e5e5;vertical-align:middle;'><img src='https://specials.manoramaonline.com/News/2026/commonwealth-Games-2026/images/country-flags/hong-kong-flag.jpg' width='16' height='16' alt='Hong Kong' style='width:16px;height:16px;vertical-align:middle;margin-right:6px;object-fit:contain;'>Hong Kong</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fffde7;color:#b7950b;font-weight:bold;'>4</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#f8f9f9;color:#5d6d7e;font-weight:bold;'>11</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;background:#fdf2e9;color:#a04000;font-weight:bold;'>14</td><td style='padding:5px 2px;text-align:center;border-bottom:1px solid #e5e5e5;vertical-align:middle;'>29</td></tr></tbody></table>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/indepth/asian-games-2026.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "‘വെൽകം ടു സ്‌ക്വാഷ്’: നാൽപതാം വയസ്സിൽ ആറാം ഏഷ്യൻ ഗെയിംസ് മ‍െഡൽ നേടിയ ജോഷ്‌ന ചിന്നപ്പ പറയുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<B>നഗോയ∙</b>ഏഴാമത് ഏഷ്യൻ ഗെയിംസിൽ, അതും നാൽപതാം വയസ്സിൽ സ്ക്വാഷ് താരം ജോഷ്ന ചിന്നപ്പയ്ക്കു വെങ്കലമെഡൽ. ഇതുൾപ്പെടെ 6 ഏഷ്യൻ ഗെയിംസ് മെഡലുകളാണു ജോഷ്നയ്ക്കുള്ളത്. സ്വർണമില്ലെന്ന സങ്കടം മാത്രം. ജോഷ്ന ‘മനോരമ’യോടു സംസാരിക്കുന്നു...",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/other-sports/2026/09/27/joshna-chinappa-asian-games-bronze.html"
+    },
+    {
+      "id": "38",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "‘രാത്രി നിലവിളി കേൾക്കുന്നു’; പെൺകുട്ടികളുടെ ഹോസ്റ്റലിൽ പ്രേതബാധയെന്ന് അഭ്യൂഹം: സർവകലാശാലയിൽ വിദ്യാർഥി പ്രതിഷേധം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ചണ്ഡീഗഡ്∙</b> പ്രേതസാന്നിധ്യമുണ്ടെന്ന അഭ്യൂഹം പടർന്നതിനു പിന്നാലെ <a href='https://www.manoramaonline.com/topics/news/national/states/punjab.html' target='_blank' rel='noopener noreferrer'>പഞ്ചാബിലെ</a> സ്വകാര്യ സർവകലാശാലയിൽ വിദ്യാർഥികളുടെ പ്രതിഷേധം. പട്യാലയിലെ ചിത്കാര സർവകലാശാലയിൽ വെള്ളിയാഴ്ച രാത്രിയായിരുന്നു സംഭവം. പ്രതിഷേധത്തിനിടെ വിദ്യാർഥികൾ പൊലീസ് വാഹനത്തിന് കേടുപാടുണ്ടാക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/26/ghost-rumors-spark-student-protest-at-punjab-university.html  "
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "ദേഹമാസകലം പരിക്ക്, സ്വകാര്യഭാഗം ഛേദിക്കപ്പെട്ട നിലയിൽ; ആശ്രമ കെട്ടിടത്തിൽനിന്ന് വീണ് യുവസന്യാസി മരിച്ചു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ലഖ്‌നൗ:</b> ഉത്തർപ്രദേശിലെ വൃന്ദാവനത്തിലുള്ള ഗുരുകൃപാ കുഞ്ച് ആശ്രമത്തിൽ സന്യാസി&nbsp; കെട്ടിടത്തിൽനിന്ന് വീണുമരിച്ചു. സംഭവം ആത്മഹത്യയാണ് എന്നാണ് പോലീസിന്റെ പ്രാഥമികനിഗമനം.&nbsp;സന്ത് പ്രേമാനന്ദ് മഹാരാജിന്റെ ശിഷ്യൻ രസിക് ദുലാരി ശരൺ എന്നപേരിൽ അറിയപ്പെടുന്ന ദീപക് ലോധി (25) ആണ് മരിച്ചത്.&nbsp;വെള്ളിയാഴ്ച ആശ്രമത്തിന്റെ നാലാം നിലയിൽനിന്ന് താഴേക്കുവീണാണ് അന്ത്യം.ലഖ്‌നൗ: ഉത്തർപ്രദേശിലെ വൃന്ദാവനത്തിലുള്ള ഗുരുകൃപാ കുഞ്ച് ആശ്രമത്തിൽ സന്യാസി&nbsp; കെട്ടിടത്തിൽനിന്ന് വീണുമരിച്ചു. സംഭവം ആത്മഹത്യയാണ് എന്നാണ് പോലീസിന്റെ പ്രാഥമികനിഗമനം.&nbsp;സന്ത് പ്രേമാനന്ദ് മഹാരാജിന്റെ ശിഷ്യൻ രസിക് ദുലാരി ശരൺ എന്നപേരിൽ അറിയപ്പെടുന്ന ദീപക് ലോധി (25) ആണ് മരിച്ചത്.&nbsp;വെള്ളിയാഴ്ച ആശ്രമത്തിന്റെ നാലാം നിലയിൽനിന്ന് താഴേക്കുവീണാണ് അന്ത്യം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/crime/news/vrindavan-disciple-death-premanand-maharaj-lowtxqdv"
+    },
+    {
+      "id": "14",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഇന്ത്യ-വെസ്റ്റ് ഇൻഡീസ് ഏകദിന പരമ്പര: ടോസ് നേടിയ ഇന്ത്യ ബൗളിംഗ് തെരഞ്ഞെടുത്തു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം: </b>കാര്യവട്ടം ഗ്രീൻ ഫീൽഡ് സ്റ്റേഡിയത്തിൽ നടക്കുന്ന ഇന്ത്യ-വെസ്റ്റ് ഇൻഡീസ് ആദ്യ ഏകദിന മത്സരത്തിൽ ടോസ് നേടിയ ഇന്ത്യ ബൗളിംഗ് തെരഞ്ഞെടുത്തു. ശുഭ്മാൻ ഗില്ലിന്റെ നേതൃത്വത്തിലാണ് ഇന്ത്യ പോരാട്ടത്തിനിറങ്ങുന്നത്. ഷായ് ഹോപ്പാണ് വെസ്റ്റ് ഇൻഡീസിന്റെ നായകൻ. ഏകദിന ക്രിക്കറ്റിലെ ഇതിഹാസ ജോഡിയായ രോഹിത് ശർമ്മയും വിരാട് കൊഹ്‌ലിയുടെയും തകർപ്പൻ പോരാട്ടമുണ്ടാകുമെന്ന പ്രതീക്ഷയിലാണ് ആരാധകർ. അതേസമയം കരിയറിലെ 563-ാം രാജ്യാന്തര മത്സരത്തിനാണ് വിരാട് കൊഹ്‌ലി ഇന്നിറങ്ങുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/sports/india-west-indies-odi-india-win-toss-and-elected--to-bowl-1808286"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :73,895.74<span style='color:greem;'> + 315.20 (▲ 0.43%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 23,140.50  <span style='color:red;'>▲ +77.40 ( + 0.34%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന് ₹13,995.00 <span style='color:greem;'> - 15 ▼ </span>) <br> വെള്ളി ഗ്രാമിന് ₹250 (<span style='color:red;'> </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

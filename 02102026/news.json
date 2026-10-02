@@ -398,7 +398,7 @@
         "ml": "<b>ന്യൂ‍ഡൽഹി ∙ </b><a href='https://www.manoramaonline.com/topics/news/common/terrorists.html' target='_blank' rel='noopener noreferrer'>തീവ്രവാദികളുടെ</a> മുന്നിൽ പതറാതെ നിന്ന് യാത്രക്കാരുടെ ജീവൻ രക്ഷിച്ച എയർഹോസ്റ്റസ് നീരജ ഭാനോട്ടിന്റെ വിയോഗത്തിന് 40 വർഷം. 1986 സെപ്‌റ്റംബർ 5 നാണ് മുംബൈയിൽ നിന്നു പുറപ്പെട്ട പാൻ അമേരിക്ക വിമാനം കറാച്ചി വിമാനത്താവളത്തിൽ വച്ച് 4 പലസ്‌തീൻ തീവ്രവാദികൾ കീഴടക്കുന്നത്. യുഎസ് പൗരന്മാരുടെ പാസ്പോർട്ട് പരിശോധിച്ച് തിരഞ്ഞുപിടിച്ച് തീവ്രവാദികൾ വെടിയുതിർത്തു. സാഹചര്യം മനസ്സിലാക്കിയ നീരജ യുഎസ് പൗരൻമാരായ 44 പേരുടെ പാസ്‌പോർട്ട് കൈക്കലാക്കി ഒളിപ്പിച്ചു. ഇതിനിടെ എമർജൻസി വാതിലിലൂടെ പലരെയും പുറത്തെത്തിച്ചു.",
         "en": ""
       },
-      "image": "",
+      "image": " images/news02.jpg",
       "link": "https://www.manoramaonline.com/news/latest-news/2026/10/02/remembering-neerja-bhanot-the-courageous-flight-attendant-who-faced-terrorists-during-pan-american-flight-73-hijacking.html"
     },
     {
@@ -417,7 +417,7 @@
         "ml": "<b>നാഷ്‌വിൽ ∙</b><a href='https://www.manoramaonline.com/topics/news/world/countries/unitedstates.html' target='_blank' rel='noopener noreferrer'>യുഎസിലെ</a>  ടെന്നീസിയിൽ വനിതാ തടവുകാരി ക്രിസ്റ്റ പൈക്കിന്റെ (50) <a href='https://www.manoramaonline.com/topics/judiciary/capitalpunishment.html' target='_blank' rel='noopener noreferrer'>വധശിക്ഷ</a> നടപ്പാക്കാനുള്ള ശ്രമം പരാജയപ്പെട്ടു. വധശിക്ഷ നടപ്പാക്കാനായി രണ്ടു തവണ മാരകമായ വിഷം കുത്തിവെച്ചിട്ടും ക്രിസ്റ്റ പൈക്ക് മരണത്തെ അതിജീവിക്കുകയായിരുന്നു. ഇവരെ പിന്നാലെ ആശുപത്രിയിലേക്ക് മാറ്റി. കഴിഞ്ഞ 200 വർഷത്തിനിടയിൽ ടെന്നീസിയിൽ വധശിക്ഷയ്ക്ക് വിധിക്കപ്പെടുന്ന ആദ്യത്തെ സ്ത്രീയാണ് ക്രിസ്റ്റ. യുഎസ് സുപ്രീംകോടതിയുടെ അനുമതി ലഭിച്ചതിനെ തുടർന്നാണ് ശിക്ഷ നടപ്പാക്കാനുള്ള നടപടികൾ ആരംഭിച്ചത്.",
         "en": ""
       },
-      "image": " images/news02.jpg",
+      "image": "",
       "link": "https://www.manoramaonline.com/news/latest-news/2026/10/01/us-death-row-inmate-christa-pike-survives-execution-attempt-after-two-lethal-injections.html"
     },
     {
@@ -741,25 +741,6 @@
       },
       "image": "",
       "link": "https://www.mathrubhumi.com/news/world/benjamin-netanyahu-on-flydubai-flight-incident-omani-pilot-dmhs4rje"
-    },
-    {
-      "id": "72",
-      "type": "news",
-      "order": 29,
-      "category": {
-        "ml": "കുറ്റകൃത്യം",
-        "en": "crime"
-      },
-      "title": {
-        "ml": "വയോധികയുടെ ദേഹത്ത് തിളച്ച വെള്ളം ഒഴിച്ചു; ചെറുമകൾ പൊലീസ് പിടിയിൽ.",
-        "en": ""
-      },
-      "summary": {
-        "ml": "<b>കൊല്ലം∙</b> സ്വത്തുതർക്കത്തെ തുടർന്ന് വയോധികയുടെ മേൽ തിളച്ച വെള്ളം ഒഴിച്ച സംഭവത്തിൽ ചെറുമകൾ ",
-        "en": ""
-      },
-      "image": "",
-      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/30/granddaughter-arrested-for-boiled-water-attack-on-grandmother-in-kollam.html"
     },
     {
       "id": "101",

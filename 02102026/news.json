@@ -1,0 +1,1088 @@
+{
+  "settings": {
+    "publicationDate": "2026-10-02",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "കന്നി 16, 1202",
+      "en": "Kanni 16, 1202"
+    },
+    "hijriDate": {
+      "ml": "20 റബീഉൽ ആഖീര്‍ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 468,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "“Peace begins with the choice to respond with understanding rather than violence.” ",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "44 വർഷത്തെ കാത്തിരിപ്പ് അവസാനിച്ചു; ഏഷ്യൻ ഗെയിംസ് വനിതാ ഹോക്കിയിൽ ഇന്ത്യയ്ക്ക് സ്വർണം; ചൈനയെ കീഴടക്കി (1–0)",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "ഗാന്ധി സ്മരണയിൽ രാജ്യം; ഇന്ന് ഗാന്ധിജയന്തി",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "ഇന്ന് ഗാന്ധിജയന്തി. മഹാത്മാഗാന്ധിയുടെ 157-ാം ജന്മവാർഷികദിനം. അഹിംസ ആയുധമാക്കി അധിനിവേശഭരണകൂടത്തെ അടിയറവ് പറയിച്ച ഗാന്ധിജി അടങ്ങാത്ത സ്വാതന്ത്ര്യദാഹത്തിന്റെ എക്കാലത്തെയും വലിയ പ്രതീകമാണ്. മഹാത്മാഗാന്ധിയോടുള്ള ആദരസൂചകമായി ഐക്യരാഷ്ട്ര സഭയുടെ നേതൃത്വത്തിൽ ഇന്ന് അന്താരാഷ്ട്ര അഹിംസാ ദിനമായി ആചരിക്കുകയാണ്.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.twentyfournews.com/2026/10/02/today-is-mahatma-gandhis-157th-birth-anniversary.html"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "Mahatma Gandhi Jayanti->🕊️ International Day of Non-Violence",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b><ul><li><b>Birth Anniversary of Mahatma Gandhi</b> <br> Mahatma Gandhi was born on 2 October 1869. Gandhi Jayanti is observed throughout India and is a gazetted national holiday.<br></li><li><b>🕊️ International Day of Non-Violence</b><br>The United Nations International Day of Non-Violence is also observed on 2 October, commemorating Gandhi's birth and highlighting the principles of non-violence, peace and tolerance.</li></ul>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.timeanddate.com/holidays/india/mahatma-gandhi-jayanti%26lang%3Den?utm_source=chatgpt.com"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സർക്കാരിന്റെ നയപരമായ തീരുമാനങ്ങളിൽ കൂടിയാലോചന ഇല്ല; വി ഡി സതീശനെതിരെ കോൺഗ്രസിനുളളിൽ പടയൊരുക്കം ശക്തമാകുന്നു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> യുഡിഎഫ് കൺവീനർ അടൂർ പ്രകാശിന്റെ പരസ്യ പ്രതികരണത്തോടെ മുഖ്യമന്ത്രി വി.ഡി.സതീശനെതിരെ കോൺഗ്രസിനുളളിൽ പടയൊരുക്കം ശക്തമാകുന്നു. സർക്കാരിന്റെ നയപരമായ തീരുമാനങ്ങളിൽ പാർട്ടിയുമായും മുന്നണി നേതൃത്വവുമായും കൂടിയാലോചന ഇല്ലാത്തതാണ് സതീശനെതിരായ വിമർശനം ശക്തിപ്പെടാൻ കാരണം. മുസ്ലീംലീഗ് അടക്കമുളള ഘടകകക്ഷികൾക്ക് കാബിനറ്റ് പദവി നൽകിയതും സാംസ്കാരിക സ്ഥാപനങ്ങളുടെ തലപ്പത്തെ നിയമനങ്ങളും ആസൂത്രണ ബോർഡ് പുനഃസംഘടിപ്പിച്ചതും കേരളത്തിന്റെ ചുമതലയുളള എഐസിസി ജനറൽ സെക്രട്ടറി ദീപാദാസ് മുൻഷി പോലും അറിഞ്ഞില്ല.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/02/moves-against-v-d-satheesan-are-intensifying-within-the-congress.html#"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "യൂണിവേഴ്സിറ്റി മെൻസ് ഹോസ്റ്റൽ സംഘർഷം; യൂത്ത് കോൺഗ്രസ് നേതാവ് പൊലീസിന്റെ കസ്റ്റഡിയിൽ"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> യൂണിവേഴ്സിറ്റി മെൻസ് ഹോസ്റ്റൽ പരിസരത്ത് ഇന്നലെ രാത്രിയുണ്ടായ സംഘർഷത്തിൽ യൂത്ത് കോൺഗ്രസ് നേതാവ് പൊലീസിന്റെ കസ്റ്റഡിയിൽ. യൂത്ത് കോൺഗ്രസ് നേതാവ് ഹൈദർ ആണ് മ്യൂസിയം പൊലീസിന്റെ കസ്റ്റഡിയിലുള്ളത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/01/clash-at-university-mens-hostel-youth-congress-leader-in-police-custody.html"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ശബരിമലയിലെ മാലിന്യങ്ങൾ നീക്കം ചെയ്യൽ; ക്ലീൻ കേരള കമ്പനിയുമായി ധാരണ പത്രം ഒപ്പിട്ടു"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം :</b> ശബരിമലയിലെയും പമ്പയിലെയും മാലിന്യങ്ങൾ നീക്കം ചെയ്യുന്നതിന് തിരുവിതാംകൂർ ദേവസ്വം ബോർഡും തദ്ദേശസ്വയംഭരണ വകുപ്പിന് കീഴിൽ പ്രവർത്തിക്കുന്ന ക്ലീൻ കേരള കമ്പനിയുമായി ധാരണ പത്രം ഒപ്പിട്ടു. തിരുവനന്തപുരത്ത് തിരുവിതാംകൂർ ദേവസ്വം ബോർഡ് ആസ്ഥാനത്ത് പ്രസിഡൻറ് കെ. ജയകുമാറിന്റെ സാന്നിധ്യത്തിലാണ് ധാരണ പത്രം ഒപ്പിട്ടത്. തിരുവിതാംകൂർ ദേവസ്വം ബോർഡിനു വേണ്ടി ദേവസ്വം കമ്മീഷണർ ബി. സുനിൽകുമാർ, ക്ലീൻ കേരള കമ്പനിക്കായി മാനേജിംഗ് ഡയറക്ടർ ജി.കെ സുരേഷ് കുമാർ എന്നിവരാണ് ധാരണാ പത്രത്തിൽ ഒപ്പിട്ടത്. ഉടൻ തന്നെ മാലിന്യം നീക്കം ചെയ്യാൻ ആരംഭിക്കും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/01/removal-of-waste-at-sabarimala-mou-signed-with-clean-kerala-company.html#https://www.twentyfournews.com/2026/10/01/removal-of-waste-at-sabarimala-mou-signed-with-clean-kerala-company.html#"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സ്ഥലം വാങ്ങിയ ആളോട് 10 ലക്ഷം രൂപ കൈക്കൂലി ആവശ്യപ്പെട്ടു; CPIM കൗൺസിലറിനെതിരെ ആരോപണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> തൃക്കണ്ണാപുരത്ത് സ്ഥലം വാങ്ങിയ ആളോട് കൗൺസിലർ 10 ലക്ഷം രൂപ കൈക്കൂലി ആവശ്യപ്പെട്ടു എന്ന് പരാതി. സിപിഐഎം കൗൺസിലർ അജിനെതിരെയാണ് ആരോപണം. പണം നൽകിയില്ലെങ്കിൽ ഡിവൈഎഫ്ഐക്കാരെക്കൊണ്ട് ഭൂമിയിൽ കൊടി കുത്തിക്കും എന്നും സിപിഐഎം കൗൺസിലറുടെ ഭീഷണി. പണം ആവശ്യപ്പെടുന്ന വീഡിയോയും ഓഡിയോയും പരാതിക്കാരൻ പുറത്ത് വിട്ടു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/02/allegation-that-cpim-councillor-seeks-10-lakh-bribe-demanded-from-land-buyer.html"
+    },
+    {
+      "id": "41",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "ഫ്‌ളൈദുബായ് സംഭവത്തിൽ ഇറാന് ബന്ധമുണ്ടെന്ന് കണ്ടാൽ ശക്തമായ തിരിച്ചടി, സംഭവം അന്വേഷിക്കുന്നതായി ട്രംപ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>റിയാദ്:</b> ഒരു ഇന്ത്യന്‍ പൈലറ്റിന്റെ മനസാന്നിധ്യവും കരുത്തുമാണ് സൗദിയില്‍ അടിയന്തരമായി ലാന്‍ഡ് ചെയ്യണ്ടിവന്ന ഫ്‌ലൈദുബായ് വിമാനത്തിലെ നൂറ്റി എഴുപതിലധകം ജീവനുകള്‍ രക്ഷിച്ചത്. മുംബൈ സ്വദേശിയായ ക്യാപ്റ്റന്‍ സ്മിത്ത് മച്ചാര്‍. സഹപൈലറ്റിന്റെ കുത്തുകൊണ്ട് ചോര വാര്‍ന്നപ്പോഴും വിമാനം നിയന്ത്രിച്ച് താഴെയിറക്കിയത് അദ്ദേഹമായിരുന്നു. സ്മിത് മച്ചാറിന്റെ ആരോഗ്യനില നിരീക്ഷിച്ചുവരിയാണെന്ന് സൗദിയിലെ ഇന്ത്യന്‍ എംബസി അറിയിച്ചു. സ്മിത് മച്ചാര്‍ വീരനായകനെന്ന് പ്രധാനമന്ത്രി നരേന്ദ്രമോദി പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/01/who-is-captain-smit-machchhar-indian-flydubai-captain-stabbed-by-omani-co-pilot.html"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് പ്രതിഷേധം; ഡൽഹിയിൽ സമര പരമ്പര തീർക്കാൻ പ്രതിപക്ഷം"
+      },
+      "summary": {
+        "ml": "<b>ഡൽഹി:</b> മുഖ്യതിരഞ്ഞെടുപ്പ് കമ്മിഷണർ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യത്തിൽ ഡൽഹിയിൽ സമര പരമ്പര തീർക്കാൻ പ്രതിപക്ഷം. യൂത്ത് കോൺഗ്രസ്‌, ഡിവൈഎഫ്ഐ, എസ്എഫ്ഐ, എംഎസ്എഫ്, യൂത്ത് ലീഗ്, ഐസ എന്നീ സംഘടനകളാണ് ജന്തർ മന്തർ കേന്ദ്രീകരിച്ച് പ്രതിഷേധിക്കുന്നത്. ഇന്ത്യാ സഖ്യത്തിന്റെ നേതൃത്വത്തിലുള്ള രാജ്യവ്യാപക കലക്ടറേറ്റ് മാർച്ചിനും ഇന്ന് തുടക്കമാകും. ജില്ലാ മജിസ്‌ട്രേറ്റ് ആസ്ഥാനങ്ങളിലേക്ക് ‘ജനാധിപത്യ സംരക്ഷണ മാർച്ച്’ നടത്തും",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/02/opposition-plans-a-series-of-protests-in-delhi-demanding-gyanesh-kumars-resignation.html"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "അന്ന് തീവ്രവാദികളുടെ മുന്നിൽ നീരജ പൊരുതി അവസാനം വരെ; രാജ്യം ആദരിച്ചത് അശോക ചക്ര നൽകി"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂ‍ഡൽഹി ∙ </b><a href='https://www.manoramaonline.com/topics/news/common/terrorists.html' target='_blank' rel='noopener noreferrer'>തീവ്രവാദികളുടെ</a> മുന്നിൽ പതറാതെ നിന്ന് യാത്രക്കാരുടെ ജീവൻ രക്ഷിച്ച എയർഹോസ്റ്റസ് നീരജ ഭാനോട്ടിന്റെ വിയോഗത്തിന് 40 വർഷം. 1986 സെപ്‌റ്റംബർ 5 നാണ് മുംബൈയിൽ നിന്നു പുറപ്പെട്ട പാൻ അമേരിക്ക വിമാനം കറാച്ചി വിമാനത്താവളത്തിൽ വച്ച് 4 പലസ്‌തീൻ തീവ്രവാദികൾ കീഴടക്കുന്നത്. യുഎസ് പൗരന്മാരുടെ പാസ്പോർട്ട് പരിശോധിച്ച് തിരഞ്ഞുപിടിച്ച് തീവ്രവാദികൾ വെടിയുതിർത്തു. സാഹചര്യം മനസ്സിലാക്കിയ നീരജ യുഎസ് പൗരൻമാരായ 44 പേരുടെ പാസ്‌പോർട്ട് കൈക്കലാക്കി ഒളിപ്പിച്ചു. ഇതിനിടെ എമർജൻസി വാതിലിലൂടെ പലരെയും പുറത്തെത്തിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/02/remembering-neerja-bhanot-the-courageous-flight-attendant-who-faced-terrorists-during-pan-american-flight-73-hijacking.html"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "രണ്ടു തവണ മാരക വിഷം കുത്തിവച്ചിട്ടും മരിച്ചില്ല, കൂർക്കം വലിച്ച് ഉറക്കം; ക്രിസ്റ്റ പൈക്കിന്റെ വധശിക്ഷ നടപ്പാക്കാനായില്ല.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>നാഷ്‌വിൽ ∙</b><a href='https://www.manoramaonline.com/topics/news/world/countries/unitedstates.html' target='_blank' rel='noopener noreferrer'>യുഎസിലെ</a>  ടെന്നീസിയിൽ വനിതാ തടവുകാരി ക്രിസ്റ്റ പൈക്കിന്റെ (50) <a href='https://www.manoramaonline.com/topics/judiciary/capitalpunishment.html' target='_blank' rel='noopener noreferrer'>വധശിക്ഷ</a> നടപ്പാക്കാനുള്ള ശ്രമം പരാജയപ്പെട്ടു. വധശിക്ഷ നടപ്പാക്കാനായി രണ്ടു തവണ മാരകമായ വിഷം കുത്തിവെച്ചിട്ടും ക്രിസ്റ്റ പൈക്ക് മരണത്തെ അതിജീവിക്കുകയായിരുന്നു. ഇവരെ പിന്നാലെ ആശുപത്രിയിലേക്ക് മാറ്റി. കഴിഞ്ഞ 200 വർഷത്തിനിടയിൽ ടെന്നീസിയിൽ വധശിക്ഷയ്ക്ക് വിധിക്കപ്പെടുന്ന ആദ്യത്തെ സ്ത്രീയാണ് ക്രിസ്റ്റ. യുഎസ് സുപ്രീംകോടതിയുടെ അനുമതി ലഭിച്ചതിനെ തുടർന്നാണ് ശിക്ഷ നടപ്പാക്കാനുള്ള നടപടികൾ ആരംഭിച്ചത്.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/01/us-death-row-inmate-christa-pike-survives-execution-attempt-after-two-lethal-injections.html"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "തിരുവനന്തപുരത്തെ സംഘര്‍ഷം: ആഭ്യന്തരമന്ത്രിയെ നേരിട്ട് കണ്ട് പരാതി നല്‍കി എസ്എഫ്‌ഐ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> തിരുവനന്തപുരത്തെ സംഘര്‍ഷത്തില്‍ ആഭ്യന്തരമന്ത്രിയെ നേരിട്ട് കണ്ട് പരാതി നല്‍കാന്‍ എസ്എഫ്‌ഐ. രമേശ് ചെന്നിത്തല ചികിത്സയില്‍ കഴിയുന്ന കിംസ് ആശുപത്രിയില്‍ എസ്എഫ്‌ഐ നേതാക്കളെത്തി. മുന്‍മന്ത്രി വി ശിവന്‍കുട്ടിയും എസ്എഫ്‌ഐ പ്രവര്‍ത്തകര്‍ക്കൊപ്പമുണ്ടായിരുന്നു. വിദ്യാര്‍ഥികളെ മര്‍ദ്ദിച്ച പൊലീസ് ഉദ്യോഗസ്ഥര്‍ക്കെതിരെ നടപടിയെടുക്കണം എന്നാവശ്യപ്പെട്ടാണ് പരാതി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/02/clash-in-thiruvananthapuram-sfi-meets-home-minister.html#"
+    },
+    {
+      "id": "34",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പാർട്ടികാര്യങ്ങൾ പാർട്ടി വേദികളിൽ മാത്രം പറയണം; അടൂർ പ്രകാശിനെ തള്ളി കെ സി വേണുഗോപാൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മുഖ്യമന്ത്രി വി ഡി സതീശന്റെ ശൈലിക്കെതിരെ യുഡിഎഫ് കൺവീനർ അടൂർ പ്രകാശിന്റെ പരസ്യപ്രതികരണത്തോടെ കോൺഗ്രസ് പ്രക്ഷുബ്ധം. അടൂർ പ്രകാശിനെ തള്ളി എഐസിസി ജനറൽ സെക്രട്ടറി കെ സി വേണുഗോപാൽ രംഗത്തെത്തി. പാർട്ടി കാര്യങ്ങൾ പാർട്ടി വേദികളിൽ മാത്രം പറയണം. അതിനവസരം ഇല്ലെങ്കിൽ പാർട്ടി നേതാക്കളുടെ ശ്രദ്ധയിൽപ്പെടുത്തണം.അതാണ് എന്റെ ശൈലി. കഴിഞ്ഞ നാലു മാസവും സർക്കാരിന് ഒപ്പമാണ് താൻ. എന്തു കിട്ടിയാലും തന്നെ പ്രതിയാക്കാൻ ആണ് ശ്രമം എന്നും കെ സി വേണുഗോപാൽ പ്രതികരിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/02/k-c-venugopal-disowns-adoor-prakash.html"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "വിഖ്യാത ഏഴാം നമ്പർ ജെഴ്‌സി റാഫേൽ ലിയാവോയ്ക്ക്; പോർച്ചുഗലിനായി ഇനി റോണോ കളിക്കില്ല?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോപ്പൻഹേഗൻ:</b> പോർച്ചുഗൽ ജെഴ്‌സിയിൽ ഇനി ക്രിസ്റ്റിയാനോ റൊണാൾഡോയുടെ ഭാവി അനിശ്വിതത്വത്തിൽ. താരം ഇനി പോർച്ചുഗലിനായി കളിക്കാൻ സാധ്യതയില്ലെന്നാണ് പൊതുവേയുള്ള വിലയിരുത്തൽ. താരം പോർച്ചുഗൽ പരിശീലന ക്യാമ്പ് വിട്ടതിന് പിന്നാലെ ഏഴാം നമ്പർ ജെഴ്‌സി റാഫേൽ ലിയാവോയ്ക്ക് നൽകി. വ്യാഴാഴ്ച ഡെൻമാർക്കിനെതിരായ നേഷൻസ് ലീഗ് മത്സരത്തിന് മുന്നോടിയായി യുവേഫ പുറത്തുവിട്ട ഔദ്യോഗിക ടീം പട്ടികയിലാണ് ലിയാവോ ഏഴാം നമ്പർ ജെഴ്‌സി അണിയുന്നതായി വ്യക്തമാക്കിയത്. നേരത്തെ 17-ാം നമ്പറായിരുന്നു ലിയാവോയുടെ ജെഴ്‌സി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/sports/football/cristiano-ronaldo-portugal-future-rafael-leao-number-7-jersey-nstep1j9"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 16,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "‘മാപ്പ് പറയാമെന്ന് വാക്ക് നൽകി, പറഞ്ഞത് ക്രിസ്റ്റ്യാനോ വെറുമൊരു കളിക്കാരൻ മാത്രമെന്ന്’; പുതിയ വെളിപ്പെടുത്തൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മദീര:</b> യുവേഫ നേഷൻസ് ലീഗ് മത്സരത്തിന് മുന്നോടിയായി പോർച്ചൂഗീസ് സൂപ്പർ താരം ക്രിസ്റ്റ്യാനോ റൊണാൾഡോ ദേശീയ ടീമിന്റെ ക്യാമ്പ് വിട്ടത് ഞെട്ടലോടെയാണ് ആരാധകർ കേട്ടത്. പോർച്ചുഗൽ കോച്ച് ജോർജ് ജീസസുമായുണ്ടായ കടുത്ത ഭിന്നതയാണ് അസാധാരണ നീക്കത്തിലേക്ക് റൊണാൾഡോയെ നയിച്ചത്. ജീസസിന്റെ വാർത്താസമ്മേളനത്തിന് പിന്നാലെ താരം പ്രൈവറ്റ് ജെറ്റിൽ പോർച്ചുഗൽ ക്യാമ്പ് വിടുകയായിരുന്നു. അടുത്തുതന്നെ പ്രതികരണം നടത്തുമെന്ന് റോണോ പോസ്റ്റ് ചെയ്തിട്ടുമുണ്ട്. ഇപ്പോഴിതാ സംഭവവുമായി ബന്ധപ്പെട്ട കൂടുതൽ വിവരങ്ങൾ പുറത്തുവരികയാണ്. ജീസസ് വാക്ക് പാലിച്ചില്ലെന്നും അതിന് പിന്നാലെ റൊണാൾഡോയ്ക്ക് ചതിക്കപ്പെട്ടതായി തോന്നിയെന്നും സ്പാനിഷ് മാധ്യമപ്രവർത്തകനും റൊണാൾഡോയുടെ അടുത്ത സുഹൃത്തുമായ എഡു അഗ്വിറെ പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/sports/football/cristiano-ronaldo-leaves-portugal-camp-jorge-jesus-clash-sj4vwb8p"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "'ബാർ ചോദിച്ച് വണ്ടി നിർത്തി; മറുപടി പറയും മുൻപേ ഡോർ തുറന്ന് ആഞ്ഞടിച്ചു വീഴ്ത്തി': ജ്വല്ലറി ഉടമയെ ആക്രമിച്ച് ബാഗ് കവർന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തുറവൂർ ∙</b> ജ്വല്ലറി പൂട്ടിയിറങ്ങിയ ഉടമയെ കാറിടിച്ചു വീഴ്ത്തിയശേഷം ആക്രമിച്ചു ബാഗ് കവർന്ന കേസിൽ വെളുത്ത നിറത്തിലുള്ള കാറിലെത്തിയവർ സ്ഥലത്തെ ബാർ ചോദിച്ചാണു വണ്ടി നിർത്തിയതെന്ന് ആക്രമിക്കപ്പെട്ട ജ്വല്ലറി ഉടമ സലീപൻ പൊലീസിനെ അറിയിച്ചിരുന്നു. മറുപടി പറയും മുൻപേ ഡോർ തുറന്ന് ആഞ്ഞടിച്ചു വീഴ്ത്തുകയായിരുന്നു. ആ സമയത്ത് സർവീസ് റോഡിൽ കാര്യമായ തിരക്കുണ്ടായിരുന്നില്ല. ബാഗ് പിടിച്ചുപറിച്ച ശേഷം സംഘം കടന്നുകളയുകയും ചെയ്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/alappuzha/2026/10/02/jewellery-owner-robbery-arrest.html"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഫ്ലൈദുബായ് ആക്രമണം: കത്തിക്കുത്തിൽ പരുക്കേറ്റ ഇന്ത്യൻ പൈലറ്റിനെ ദുബായിലേക്കു മാറ്റി; അടിയന്തര ശസ്ത്രക്രിയ നടത്തി.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ജറുസലം ∙</b> വിമാനത്തിൽ അക്രമം നടത്തിയ സഹപൈലറ്റിനെ നിലവിൽ സൗദി അറേബ്യയിൽ ചോദ്യംചെയ്തുവരികയാണ്. പ്രാഥമിക അന്വേഷണത്തിനുശേഷം ഇയാളെ യുഎഇക്കു കൈമാറുമെന്നാണു റിപ്പോർട്ടുകൾ. ഇസ്രയേൽ, ഇന്ത്യ, യുഎഇ പൗരരാണു വിമാനത്തിലുണ്ടായിരുന്നതെന്ന് ഇസ്രയേൽ വിദേശകാര്യ മന്ത്രാലയം അറിയിച്ചു. 4 യുഎസ് പൗരരും ഉണ്ടായിരുന്നു. സംഭവത്തിനു പിന്നാലെ ഫ്ലൈദുബായ് ഇസ്രയേലിലേക്കും തിരിച്ചുമുള്ള സർവീസുകൾ താൽക്കാലികമായി റദ്ദാക്കി.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/02/heroic-indian-pilot-smit-machchhar-injured-in-the-flydubai-flight-incident-transferred-to-dubai.html"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "വിമർശനം താൻ സ്വന്തം നിലയ്‌ക്ക് നടത്തിയതെന്ന് അടൂർ പ്രകാശ്, ആരുടെയും പിന്തുണ തേടിയില്ലെന്ന് വീണ്ടും പ്രതികരണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പത്തനംതിട്ട: മുഖ്യമന്ത്രി വി ഡി സതീശനെതിരെ പരസ്യ വിമർശനമുന്നയിച്ച യുഡിഎഫ് കൺവീനർ അടൂർ പ്രകാശ് നിലപാടിൽ ഉറച്ചുതന്നെ. വിമർശനം താൻ സ്വന്തം നിലയിൽ നടത്തിയതാണെന്നും അതിന് ആരുടെയും പിന്തുണ തേടിയിട്ടില്ലെന്നും അടൂർ പ്രകാശ് വ്യക്തമാക്കി. പറഞ്ഞ അഭിപ്രായത്തിൽ ഉറച്ചുനിൽക്കുന്നെന്നും എന്നാൽ ലീഗിന് ഭരണപരിഷ്‌കരണ കമ്മിഷൻ സ്ഥാനം നൽകിയതിൽ എതിർപ്പില്ലെന്നും അദ്ദേഹം വ്യക്തമാക്കി. നിലവിൽ അടൂരിലെ വീട്ടിലാണ് യുഡിഎഫ് കൺവീനർ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/udf-convener-again-against-govt-1810210"
+    },
+    {
+      "id": "37",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "രെയിനുകളിൽ പരിശോധന; തിരിച്ചറിയൽ രേഖ കരുതണം.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ടിക്കറ്റില്ലാതെ യാത്ര ചെയ്യുന്നവരെയടക്കം കണ്ടെത്താൻ ഈ മാസം 31വരെ ട്രെയിനുകളിൽ കർശന പരിശോധനയ്ക്ക് റെയിൽവേ. പ്രത്യേക ക്വാട്ടയിലെ റിസർവേഷൻ, റെയിൽവേ പാസ്, ഗ്രൂപ്പ് ബുക്കിംഗ് എന്നിവയടക്കം പരിശോധിക്കും. അതിനാൽ യാത്രക്കാർ ആധാർ കാർഡ് പോലുള്ള തിരിച്ചറിയൽ രേഖ കരുതണം. നിരക്ക് ഇളവുള്ളതിനടക്കം അതിന് അർഹതയുണ്ടെന്ന് തെളിയിക്കുന്ന ഒറിജിനൽ തിരിച്ചറിയൽ രേഖ കരുതണം. ഗ്രൂപ്പ് ടിക്കറ്റിൽ ഉൾപ്പെട്ടവരിൽ ഒരാളെങ്കിലും നിർദ്ദേശിക്കപ്പെട്ട ഒറിജിനൽ തിരിച്ചറിയൽ രേഖ കൈവശം കരുതണം. അൺ റിസർവ്ഡ് ടിക്കറ്റുകളും പരിശോധനയ്ക്ക് വിധേയമാക്കും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/national-1810060"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 21,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കലാപത്തിന് ശ്രമിച്ചാൽ കർശന നടപടി: മുഖ്യമന്ത്രി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‌തിരുവനന്തപുരം: </b>നാട്ടിൽ കലാപാന്തരീക്ഷം സൃഷ്ടിച്ച് ജനങ്ങളുടെ സമാധാന ജീവിതം ഇല്ലാതാക്കാൻ ശ്രമിച്ചാൽ ശക്തമായ നടപടി ഉണ്ടാവുമെന്ന് മുഖ്യമന്ത്രി വി.ഡി.സതീശൻ. മുഖ്യതിരഞ്ഞെടുപ്പ് കമ്മിഷണർ ഗ്യാനേഷ് കുമാറിനും രാജ്യത്ത് തിരഞ്ഞെടുപ്പ് അട്ടിമറിക്കുന്ന ബി.ജെ.പിക്കും എതിരെയാണ് യൂത്ത് കോൺഗ്രസ് സമരം നടത്തിയത്. സംഘപരിവാറിനെതിരെ കോൺഗ്രസ് ആർജവത്തോടെ സമരം നടത്തുമ്പോൾ സി.പി.എമ്മിന് പൊള്ളുന്നത് എന്തുകൊണ്ടാണ്?. സി.പി.എം നേതൃത്വത്തിന്റെ അറിവോടെയാണ് ബുധനാഴ്ച തിരുവനന്തപുരത്ത് അക്രമ സംഭവങ്ങളുണ്ടായത്. കരുതിക്കൂട്ടിയുള്ള നീക്കമാണ് സി.പി.എം നടത്തിയത്. എസ്.എഫ്.ഐക്കാർ മനഃപൂർവം പ്രകോപനം സൃഷ്ടിച്ചു. ഏതാനും ദിവസങ്ങളായി യുവമോർച്ചയും ബി.ജെ.പിയും നാട്ടിലെ സമാധാന അന്തരീക്ഷം തകർക്കാൻ ശ്രമിക്കുകയാണ്. സി.പി.എമ്മും ബി.ജെ.പിയും ഒരേ തൂവൽ പക്ഷികളാണെന്ന് ഒരിക്കൽ കൂടി തെളിഞ്ഞിരിക്കുകയാണെന്നും മുഖ്യമന്ത്രി പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/vd-1810003"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "പെട്രോൾ പമ്പ് ജീവനക്കാരനെ വെട്ടിയ കേസിൽ രണ്ട് പ്രതികൾ കൂടി അറസ്റ്റിൽ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കാട്ടാക്കട:</b> കുറ്റിച്ചൽ–ആര്യനാട് റോഡിലെ പെട്രോൾ പമ്പിലെ ജീവനക്കാരനെ വെട്ടിപ്പരിക്കേല്പിച്ച കേസിൽ രണ്ട് പ്രതികളെക്കൂടി നെയ്യാർഡാം പൊലീസ് അറസ്റ്റുചെയ്തു. കോട്ടൂർ കൊട്ടാരത്തുനട വിശ്വകർമ ഭവനിൽ ആകാശ്(21,വിച്ചു),കുറ്റിച്ചൽ വലിയവിള ലക്ഷംവീട്ടിൽ അനീഷ്(19) എന്നിവരാണ് പിടിയിലായത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/case-diary/kerala/kerala-1810095"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "കനത്ത മഴ; തൃശൂരിൽ സംസ്ഥാന സ്കൂൾ കായികമേളയുടെ നീന്തൽ മത്സരത്തിന്റെ വേദി തകർന്നു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തൃശൂർ:</b> കനത്തമഴയിൽ , തൃശൂരിൽ സംസ്ഥാന സ്കൂൾ കായികമേളയുടെ നീന്തൽ മത്സരത്തിന്റെ വേദി തകർന്നു. അക്വാട്ടിക് കോംപ്ലക്സിലെ താത്ക്കാലിക മേൽക്കൂരയാണ് തകർന്നത്. നാലു കുട്ടികൾക്കും, രണ്ട് രക്ഷിതാക്കൾക്കും ഗുരുതരമായി പരുക്കേറ്റിട്ടുണ്ട്. വേദിയുടെ മേൽക്കൂര കാറ്റിൽ പറന്നുപോയി. വൈകീട്ട് 6.30 ഓടെയായിരുന്നു സംഭവം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/01/heavy-rain-swimming-competition-venue-for-the-state-school-sports-meet-collapses-in-thrissur.html"
+    },
+    {
+      "id": "22",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "കോതമംഗലത്ത് സ്ഥിരമായി മദ്യലഹരിയിൽ അമ്മയെ ക്രൂരമായി മർദ്ദിച്ച് മകൻ, യുവാവിനെ പിടികൂടി പൊലീസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോതമംഗലം:</b> മദ്യലഹരിയിൽ അമ്മയ്‌ക്ക് നേരെ നിരന്തരം ആക്രമണം നടത്തിവന്ന മകൻ പിടിയിൽ. കോതമംഗലം കുടമുണ്ടയിലാണ് സംഭവം. പോത്താനിക്കാട് സ്വദേശി പൊന്നമ്മയെ (70)​യാണ് മകൻ കുട്ടായി നിരന്തരം മർദ്ദിച്ചിരുന്നത്. കഴിഞ്ഞദിവസവും ഇയാൾ മാതാവിനെ ക്രൂരമായി മർദ്ദിക്കുന്നതിന്റെ ദൃശ്യങ്ങൾ പുറത്തുവന്നിരുന്നു. സംഭവം അറിഞ്ഞിട്ടും പൊലീസ് വേണ്ട നടപടിയെടുക്കുന്നില്ല എന്ന് അയൽവാസികളും നാട്ടുകാരും മുൻപ് ആരോപിച്ചിരുന്നു. തുടർന്ന് പോത്താനിക്കാട് പൊലീസ് വീട്ടിലെത്തി പൊന്നമ്മയെ അഭയ കേന്ദ്രത്തിലേക്ക് മാറ്റി. പൊലീസ്‌ വരുന്നതറിഞ്ഞ കുട്ടായി സ്ഥലത്ത്‌ നിന്നും മുങ്ങിയിരുന്നു. അന്വേഷണത്തിനൊടുവിൽ കുട്ടായിയെ പൊലീസ് പിടികൂടിയെന്നാണ് വിവരം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "കോതമംഗലം: മദ്യലഹരിയിൽ അമ്മയ്‌ക്ക് നേരെ നിരന്തരം ആക്രമണം നടത്തിവന്ന മകൻ പിടിയിൽ. കോതമംഗലം കുടമുണ്ടയിലാണ് സംഭവം. പോത്താനിക്കാട് സ്വദേശി പൊന്നമ്മയെ (70)​യാണ് മകൻ കുട്ടായി നിരന്തരം മർദ്ദിച്ചിരുന്നത്. കഴിഞ്ഞദിവസവും ഇയാൾ മാതാവിനെ ക്രൂരമായി മർദ്ദിക്കുന്നതിന്റെ ദൃശ്യങ്ങൾ പുറത്തുവന്നിരുന്നു. സംഭവം അറിഞ്ഞിട്ടും പൊലീസ് വേണ്ട നടപടിയെടുക്കുന്നില്ല എന്ന് അയൽവാസികളും നാട്ടുകാരും മുൻപ് ആരോപിച്ചിരുന്നു. തുടർന്ന് പോത്താനിക്കാട് പൊലീസ് വീട്ടിലെത്തി പൊന്നമ്മയെ അഭയ കേന്ദ്രത്തിലേക്ക് മാറ്റി. പൊലീസ്‌ വരുന്നതറിഞ്ഞ കുട്ടായി സ്ഥലത്ത്‌ നിന്നും മുങ്ങിയിരുന്നു. അന്വേഷണത്തിനൊടുവിൽ കുട്ടായിയെ പൊലീസ് പിടികൂടിയെന്നാണ് വിവരം."
+    },
+    {
+      "id": "23",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "ചാലക്കുടിയുടെ പൂവമ്മയ്ക്ക് ഏഷ്യൻ സ്വർണം;'മരുമകൾ'വീണ്ടും പൊന്നണിഞ്ഞു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": "<b>ചാലക്കുടി:</b> ഏഷ്യൻ ഗെയിംസിലെ ഓട്ടത്തിന്റെ ട്രാക്കിൽ പൂവമ്മ കുതിച്ചപ്പോൾ ചാലക്കുടിയിലും അഭിമാനത്തിന്റെ നിമിഷം. 4x400 മീറ്റർ റിലേയിൽ ഇന്ത്യയ്ക്ക് സ്വർണം സമ്മാനിച്ച സംഘത്തിൽ ചാലക്കുടിയുടെ മരുമകളും. നോർത്ത് ചാലക്കുടി കൂനന്മാവ് സ്വദേശി ജിതിന്റെ ഭാര്യയും രാജ്യാന്തര താരവുമായ പൂവമ്മയാണ് ബുധനാഴ്ച നടന്ന 4x400 മീറ്റർ റിലേയിൽ സ്വർണം നേടിയത്. കഴിഞ്ഞ ദിവസം ഇതേ ഇനത്തിലെ മിക്‌സിഡ് റിലേയിൽ പൂവമ്മ വെള്ളിയും നേടിയിരുന്നു. കഴിഞ്ഞ ഏഷ്യൻ ഗെയിംസിലും സ്വർണ മെഡൽ നേടിയ പൂവമ്മയുടെ ഇത് നാലാമത്തെ ഏഷ്യൻ ഗെയിംസാണ്. ഡൽഹി ഒ.എൻ.ജി.സിയിൽ ഉദ്യോഗസ്ഥയായ പൂവമ്മ 1990 ജൂൺ അഞ്ചിന് കർണാടകയിലെ കൊടകിലാണ് ജനിച്ചത്. ഇന്ത്യയ്ക്കായി നിരവധി രാജ്യാന്തര നേട്ടങ്ങളും സ്വന്തമാക്കിയിട്ടുണ്ട്."
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/local/thrissur/local-news-thrissur-1810047#google_vignette"
+    },
+    {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "കൗമാരക്കാരുടെ വാട്സാപ്പ് ഉപയോഗം രക്ഷിതാക്കൾക്ക് നിയന്ത്രിക്കാം; പുതിയ പാരന്റൽ കൺട്രോളുകൾ അവതരിപ്പിച്ചു"
+      },
+      "summary": {
+        "ml": "<strong>മെ</strong>റ്റയുടെ ഉടമസ്ഥതയിലുള്ള ജനപ്രിയ മെസേജിങ് പ്ലാറ്റ്‌ഫോമായ വാട്‌സ്ആപ്പ് കൗമാരക്കാരായ ഉപയോക്താക്കളുടെ (Teen Accounts) സുരക്ഷ മുൻനിർത്തി പുതിയ പാരന്റൽ കൺട്രോളുകൾ പുറത്തിറക്കി. കൗമാരക്കാരായ കുട്ടികൾ അവരുടെ പഠനാവശ്യങ്ങൾക്കോ മറ്റോ&nbsp;സ്മാർട്ട്‌ഫോൺ ഉപയോഗിക്കുന്നുണ്ടെങ്കിൽ അവരുടെ വാട്സാപ്പ് ഉപയോഗം രക്ഷിതാക്കളുടെ നിയന്ത്രണത്തിലും നിരീക്ഷണത്തിലുമാക്കാൻ ഈ സംവിധാനത്തിലൂടെ സാധിക്കും. സോഷ്യൽ മീഡിയ അഡിക്ഷനും കുട്ടികളുടെ ഓൺലൈൻ സുരക്ഷയും സംബന്ധിച്ച് ആഗോളതലത്തിൽ ആശങ്കകൾ ഉയരുകയും വിവിധ സർക്കാരുകൾ നിയന്ത്രണങ്ങൾ കടുപ്പിക്കുകയും ചെയ്യുന്ന പശ്ചാത്തലത്തിലാണ് വാട്‌സ്ആപ്പിന്റെ ഈ നീക്കം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/whatsapp-parental-controls-teen-accounts-safety-g2b1xl1p"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ബഹിരാകാശത്തെ AI ലാബ്; ഓർബിറ്റൽ കമ്പ്യൂട്ടിങ് ഉപഗ്രഹവുമായി ഇന്ത്യൻ സ്റ്റാർട്ടപ്പ്, ഫാൽക്കൺ 9-ൽ വിക്ഷേപണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "ബഹിരാകാശത്തെ എഐ ലാബ് എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ഇന്ത്യയുടെ ഓർബിറ്റൽ കമ്പ്യൂട്ടിങ് ഉപഗ്രഹം MOI-1A-ഭ്രമണപഥത്തിലേക്ക്. ഹൈദരാബാദ് ആസ്ഥാനമായുള്ള സ്റ്റാർട്ടപ്പ് ടേക്ക്മീടൂസ്‌പേസ് (TakeMe2Space) വികസിപ്പിച്ചെടുത്തതാണ് ഈ ഉപഗ്രഹം. ഒക്ടോബർ 1-ന് (വ്യാഴാഴ്ച) സ്‌പെയ്‌സ് എക്‌സിന്റെ (SpaceX) ഫാൽക്കൺ 9 റോക്കറ്റ് ഉപയോഗിച്ച് കാലിഫോർണിയയിലെ വാൻഡെൻബെർഗ് സ്‌പെയ്‌സ് ഫോഴ്‌സ് ബേസിൽനിന്ന് ഉപഗ്രഹം വിക്ഷേപിക്കും. ഇന്ത്യയിലെ ആദ്യത്തെ ഓർബിറ്റൽ കമ്പ്യൂട്ടിങ് ഉപഗ്രഹം എന്നാണ് കമ്പനി ഇതിനെ വിശേഷിപ്പിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/takeme2space-moi-1a-orbital-computing-satellite-2026-irxzp0dk"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "‘കീഴ്‌പ്പെടുത്തിയതിന് പിന്നാലെ അലറിവിളിച്ചു’; ഒമാനി പൈലറ്റിന് ഇറാൻബന്ധമുണ്ടോയെന്ന് വൈകാതെ അറിയാം- നെതന്യാഹു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ടെൽ അവീവ്:</b> ഫ്‌ളൈ ദുബായ് വിമാനത്തിൽ&nbsp;പെെലറ്റ് ഇൻ കമാൻഡിനെ ആക്രമിച്ച&nbsp;ഒമാനി പൈലറ്റ്, തീവ്രവാദ ആശയങ്ങളാൽ സ്വാധീനിക്കപ്പെട്ട വ്യക്തിയായിരുന്നെന്ന് ഇസ്രയേൽ പ്രധാനമന്ത്രി ബെഞ്ചമിൻ നെതന്യാഹു.&nbsp;യോഗ്യതാനിർണയത്തിലെ പിഴവുകാരണമാണ് വിമാനം ദുബായിൽനിന്ന് ടെൽ അവീവിലേക്ക് പറത്താനുള്ള അവസരം അയാൾക്ക് ലഭിച്ചതെന്നും ഫോക്‌സ് ആൻഡ് ഫ്രണ്ട്‌സിന് നൽകിയ പ്രത്യേക അഭിമുഖത്തിൽ അദ്ദേഹം പറഞ്ഞു. ഇന്ത്യക്കാരനായ&nbsp;സ്മിത് മച്ചാറിനെയാണ് ഒമാനി പെെലറ്റ് ആക്രമിച്ചത്.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/world/benjamin-netanyahu-on-flydubai-flight-incident-omani-pilot-dmhs4rje"
+    },
+    {
+      "id": "72",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "വയോധികയുടെ ദേഹത്ത് തിളച്ച വെള്ളം ഒഴിച്ചു; ചെറുമകൾ പൊലീസ് പിടിയിൽ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊല്ലം∙</b> സ്വത്തുതർക്കത്തെ തുടർന്ന് വയോധികയുടെ മേൽ തിളച്ച വെള്ളം ഒഴിച്ച സംഭവത്തിൽ ചെറുമകൾ ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/30/granddaughter-arrested-for-boiled-water-attack-on-grandmother-in-kollam.html"
+    },
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "Land of the Red Dragon",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>China</b> is widely known as the 'Land of the Red Dragon' due to its rich cultural symbolism and modern national identity",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.slideshare.net/slideshow/unit-ii-china-the-red-dragon-east-asia-pptx/253389054"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "Asian Games Medals Table",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<table><thead><tr><th>Rank</th><th>Country / NOC</th><th style=\"background-color:#fff8e1;color:#b78103;\">Gold</th><th style=\"background-color:#f5f5f5;color:#5c6bc0;\">Silver</th><th style=\"background-color:#fbe9e7;color:#a04000;\">Bronze</th><th>Total</th></tr></thead><tbody><tr><td>1</td><td>China</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">161</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">79</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">71</td><td>311</td></tr><tr><td>2</td><td>Japan</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">69</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">82</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">85</td><td>236</td></tr><tr><td>3</td><td>South Korea</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">33</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">39</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">61</td><td>133</td></tr><tr><td>4</td><td>Uzbekistan</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">19</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">21</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">22</td><td>62</td></tr><tr><td>5</td><td>India</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">15</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">25</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">35</td><td>75</td></tr><tr><td>6</td><td>Thailand</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">15</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">11</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">17</td><td>43</td></tr><tr><td>7</td><td>Iran</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">12</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">17</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">13</td><td>42</td></tr><tr><td>8</td><td>Bahrain</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">11</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">5</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">5</td><td>21</td></tr><tr><td>9</td><td>Kazakhstan</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">10</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">20</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">41</td><td>71</td></tr><tr><td>10</td><td>Malaysia</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">9</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">5</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">16</td><td>30</td></tr></tbody></table>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/indepth/asian-games-2026.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "44 വർഷത്തെ കാത്തിരിപ്പ് അവസാനിച്ചു; ഏഷ്യൻ ഗെയിംസ് വനിതാ ഹോക്കിയിൽ ഇന്ത്യയ്ക്ക് സ്വർണം; ചൈനയെ കീഴടക്കി (1–0)",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കഖമിഗഹാര ∙ ഏഷ്യൻ ഗെയിംസ് വനിതാ ഹോക്കിയിലെ 44 വർഷത്തെ സ്വർണവരൾച്ച അവസാനിപ്പിച്ച് ടീം ഇന്ത്യയ്ക്ക് ചരിത്ര സ്വർണം. ഫൈനൽ പോരാട്ടത്തിൽ ചൈനയെ 1–0നു കീഴടക്കിയാണ് ഇന്ത്യൻ വനിതകൾ സ്വർണ മെഡൽ നേടിയത്. ഇതോടെ 2028 ലൊസാഞ്ചലസ് ഒളിംപിക്സിനും ഇന്ത്യൻ വനിതാ ടീം യോഗ്യത നേടി. സെമിയിൽ ദക്ഷിണ കൊറിയയെ 2–0നു തോൽപിച്ചാണ് ഇന്ത്യ കലാശക്കളിക്കു യോഗ്യത നേടിയത്.",
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://www.manoramaonline.com/sports/other-sports/2026/10/02/india-vs-china-live-score-asian-games-2026-womens-hockey-final.html"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    {
+      "id": "14",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കോടിയേരിയെ തിരിച്ചറിയാത്തവർക്ക് എന്ത് ഗ്യാനേഷ് കുമാർ; വാഹനം പത്തിടത്ത് ആക്രമിച്ചു: മന്ത്രി ജനീഷ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‌കൊല്ലം∙</b> കേരള യൂണിവേഴ്‌സിറ്റി സംഘർഷം സുവർണാസരമാക്കി മാറ്റാൻ പിണറായി വിജയനും എം.വി.ഗോവിന്ദനും ശ്രമിച്ചുവെന്ന് മന്ത്രി ഒ.ജെ.ജനീഷ്. എസ്എഫ്ഐ സംഘർഷം ആസൂത്രണം ചെയ്തു. 10 സ്ഥലത്ത് തന്റെ വാഹനത്തിനു നേരെ ആക്രമണമുണ്ടായി എന്നും ജനീഷ് കൊല്ലത്ത് പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/02/kerala-university-conflict-sfi-dyfi-oj-janeesh-pinarayi-vijayan-amit-shah.html"
+    },
+    {
+      "id": "53",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "സ്വർണത്തിളക്കത്തിൽ ഇന്ത്യ; ഷൂട്ടിംഗിലും ഒന്നാമത്, ഏഷ്യൻ ഗെയിംസിൽ മെഡൽ നേട്ടം 56 ആയി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>നഗോയ:</b> ഏഷ്യൻ ഗെയിംസിൽ ഇന്ത്യയുടെ മെഡൽ നേട്ടം 56 ആയി ഉയർന്നു. ഇന്ന് മൂന്ന് സ്വർണവും ഒരു വെങ്കലവും കൂടി സ്വന്തമാക്കിയതോടെയാണ് ഇന്ത്യയുടെ ആകെ മെഡൽ നേട്ടം 56 ആയത്. നിലവിൽ ഇന്ത്യയ്ക്ക് ഒമ്പത് സ്വർണം, 21 വെള്ളി, 26 വെങ്കലം എന്നിങ്ങനെയാണ് മെഡലുകൾ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/sports/india-shooting-gold-asian-games-medals-1809445#google_vignette"
+    },
+    {
+      "id": "39",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ശബരിമല യുവതീപ്രവേശനം :  ബെഞ്ചിലെ  വനിതാ ജഡ്‌ജി വിധി എഴുതിത്തുടങ്ങി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> ശബരിമല യുവതീപ്രവേശനം അടക്കം വിശ്വാസ വിഷയങ്ങളിൽ സുപ്രീംകോടതിയുടെ ഒൻപതംഗ ഭരണഘടനാ ബെഞ്ച് ഈ മാസം വിധി പറഞ്ഞേക്കും. ഏക വനിതാ ജഡ്‌ജി ബി.വി. നാഗരത്ന വിധിയെഴുതി തുടങ്ങിയെന്നാണ് സൂചന. 10നും 50നുമിടയ്‌ക്കു പ്രായമുള്ള യഥാർത്ഥ സ്ത്രീ ഭക്തർ ശബരിമലയിൽ പോകില്ലെന്നും വീട്ടിലിരിക്കുമെന്നും വാദം കേൾക്കവേ ജസ്റ്റിസ് നാഗരത്ന നിരീക്ഷിച്ചിരുന്നു. മറ്റു ജഡ്ജിമാർ സ്വന്തം നിലയിലോ കൂട്ടായോ വിധി എഴുതിയേക്കാം. ഭൂരിപക്ഷ വിധിയാവും പ്രാബല്യത്തിൽ വരുക.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/sabarimala-1810141"
+    },
+    {
+      "id": "40",
+      "type": "news",
+      "order": 33,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "അനുമതി നിഷേധിച്ചപ്പോൾ നിർത്തിയിട്ട ലോറി വേദിയാക്കി; മുംബൈയിൽ സിജെപി ജയിൽനിറയ്ക്കൽ സമരം ആരംഭിച്ചു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മുംബൈ∙</b> മുഖ്യതിരഞ്ഞെടുപ്പ് കമ്മിഷനർ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ടുകൊണ്ടുള്ള കോക്രോച്ച് ജനത പാർട്ടിയുടെ (സിജെപി) ജയിൽ നിറയ്ക്കൽ സമരം മുംബൈയിൽ ആരംഭിച്ചു. ശിവാജി പാർക്കിൽ സമരം നടത്താൻ പൊലീസ് അനുമതി നിഷേധിച്ചതിനെ തുടർന്ന് ലോറിയിൽ താൽക്കാലിക വേദി നിർമിച്ചാണ് പ്രതിഷേധം. ശിവാജി പാർക്കിന്റെ ആറാം നമ്പർ ഗേറ്റിനു മുന്നിൽ നിർത്തിയിട്ട ലോറിയിൽ ഗ്യാനേഷ് കുമാറിനെതിരെയുള്ള മുദ്രാവാക്യങ്ങൾ എഴുതിയിട്ടുണ്ട്. ലോറിയിലെ വേദിയിൽനിന്നാവും അഭിജീത് ദിപ്കെ പ്രവർത്തകരെ അഭിസംബോധന ചെയ്യുക. ഡൽഹിയിലെ പ്രക്ഷോഭത്തിനു സമാനമായി വിവിധ സംസ്ഥാനങ്ങളിൽനിന്നു വിദ്യാർഥികൾ ഇവിടേക്കു പ്രതിഷേധിക്കാൻ എത്തിയിട്ടുണ്ട്.&nbsp;ഗ്യാനേഷ് കുമാർ രാജിവയ്ക്കുന്നതുവരെ പ്രതിഷേധം തുടരാനാണ് സിജെപി ലക്ഷ്യമിടുന്നത്.",
+        "en": ""
+      },
+      "image": " images/news04.jpg",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/02/gyanesh-kumar-resignation-demand-cjp-protest-mumbai-updates.html"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :71,909.70<span style='color:red;'> -570.59(▼ 0.79%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 22,421.95  <span style='color:red;'>▼ -198..50 ( - 0.88%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:green;'> ₹13,775  + 95 ▲ </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:red;'>₹245 + 5 ▲</span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Happy Birthday Aunty.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "We are deeply owed to you.",
+        "en": ""
+      },
+      "image": " images/soba.jpg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

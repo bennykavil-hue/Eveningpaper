@@ -1,0 +1,993 @@
+{
+  "settings": {
+    "publicationDate": "2026-10-03",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "കന്നി 17, 1202",
+      "en": "Kanni 17, 1202"
+    },
+    "hijriDate": {
+      "ml": "21 റബീഉൽ ആഖീര്‍ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 469,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "കാര്യങ്ങൾ മാറണമെന്നില്ല; പലപ്പോഴും മാറേണ്ടത് നമ്മളാണ്. 🌱— Henry David Thoreau ",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "44 വർഷത്തെ കാത്തിരിപ്പ് അവസാനിച്ചു; ഏഷ്യൻ ഗെയിംസ് വനിതാ ഹോക്കിയിൽ ഇന്ത്യയ്ക്ക് സ്വർണം; ചൈനയെ കീഴടക്കി (1–0)",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "അഭിഷേക് തുടങ്ങി, തിലക് തീർത്തു; ഏഷ്യൻ ഗെയിംസിൽ പാകിസ്ഥാനെ വീഴ്ത്തി ഇന്ത്യയ്ക്ക് സ്വർണം.",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "നിസ്ഷിൻ: ഏഷ്യൻ ഗെയിംസ് പുരുഷ ക്രിക്കറ്റ് ഫൈനലിൽ പാകിസ്ഥാനെ 19 റൺസിന് പരാജയപ്പെടുത്തി ഇന്ത്യ സ്വർണമെഡൽ നിലനിർത്തി. കൊറോഗി സ്പോർട്സ് പാർക്കിൽ നടന്ന ആവേശകരമായ പോരാട്ടത്തിൽ ആദ്യം ബാറ്റ് ചെയ്ത ഇന്ത്യ 20 ഓവറിൽ ആറ് വിക്കറ്റ് നഷ്ടത്തിൽ 211 റൺസാണ് നേടിയത്. മറുപടി ബാറ്റിംഗിൽ പാകിസ്ഥാന് 20 ഓവറിൽ ആറ് വിക്കറ്റ് നഷ്ടത്തിൽ 192 റൺസെടുക്കാനേ കഴിഞ്ഞുള്ളൂ.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://keralakaumudi.com/news-360/sports/abhishek-tilak-india-pakistan-asian-games-gold-1810616"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b><ul><li><b>Birth Anniversary of Mahatma Gandhi</b> <br> Mahatma Gandhi was born on 2 October 1869. Gandhi Jayanti is observed throughout India and is a gazetted national holiday.<br></li><li><b>🕊️ International Day of Non-Violence</b><br>The United Nations International Day of Non-Violence is also observed on 2 October, commemorating Gandhi's birth and highlighting the principles of non-violence, peace and tolerance.</li></ul>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://keralakaumudi.com/cartoon/pocket-cartoon/cartoon-1809838"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'രാഷ്ട്രീയ &nbsp;പാർട്ടിയുടെ &nbsp;സമ്മർദ്ദങ്ങൾക്ക്&nbsp; വഴങ്ങുന്നയാളല്ല;  ശ്രീലേഖ സൂചിപ്പിച്ച അസൗകര്യങ്ങൾ &nbsp;പരിഹരിക്കാൻ ശ്രമിക്കും'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> വ്യക്തിപരമായ അസൗകര്യങ്ങൾ സൂചിപ്പിച്ചുകൊണ്ട് ബിജെപി സംസ്ഥാന വൈസ് പ്രസിഡന്റും ശാസ്‌തമംഗലം കൗൺസിലറുമായ ആർ ശ്രീലേഖ രാജിക്കത്ത് നൽകിയിരുന്നതായി മേയർ വി വി രാജേഷ്. സെക്രട്ടറിക്കാണ് രാജിക്കത്ത് നൽകേണ്ടത്. അസൗകര്യങ്ങൾ പരിഹരിക്കാനുള്ള മാർഗങ്ങൾ പരിശോധിക്കുകയാണ്. പാർട്ടിയിൽ ആർക്കും ഒരു പദവിയും വാഗ്ദാനം ചെയ്യാനാകില്ലെന്നും മേയർ വ്യക്തമാക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/r-sreekhala-resignation-personal-reasons-1810615"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "തിരുവനന്തപുരം കോർപറേഷനിൽ   ബിജെപിക്ക് വൻ തിരിച്ചടി; ആർ ശ്രീലേഖ കൗൺസിലർ സ്ഥാനം രാജിവച്ചു"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ബിജെപി സംസ്ഥാന വൈസ് പ്രസിഡന്റും ശാസ്‌തമംഗലം കൗൺസിലറും മുൻ ഡിജിപിയുമായ ആർ ശ്രീലേഖ കൗൺസിലർ സ്ഥാനം രാജിവച്ചു. തിരുവനന്തപുരം മേയർ വി വി രാജേഷിന് സെപ്തംബർ 30ന് രാജിക്കത്ത് നൽകിയതായാണ് വിവരം. ജില്ലാ കളക്‌ടർക്കും ഉടൻ വിവരം കൈമാറും. ബിജെപി നേതൃത്വവുമായുള്ള അതൃപ്തിയാണ് രാജിക്ക് കാരണമെന്നാണ് വിവരം. എന്നാൽ സ്വകാര്യ കാരണങ്ങളെത്തുടർന്നാണ് രാജിയെന്നാണ് ശ്രീലേഖയുടെ വിശദീകരണം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/r-sreekala-resigns-councillor-trivandrum-1810611#google_vignette"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'മേയർ &nbsp;കെയർ  പദ്ധതികൾക്ക് &nbsp;പിന്നിൽ&nbsp; വൻ &nbsp;അഴിമതി, ശ്രീലേഖ കൗൺസിലർ &nbsp;സ്ഥാനത്ത്&nbsp; കംഫർട്ടബിൾ &nbsp;ആയിരുന്നില്ല'"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ബിജെപിയുടെ കോർപറേഷൻ ഭരണത്തിൽ തിരുവനന്തപുരം ജനങ്ങൾ പെരുവഴിയിലാണെന്ന് കോൺഗ്രസ് നേതാവും കൗൺസിലറുമായ കെ എസ് ശബരീനാഥൻ. കൗൺസിലർ സുഗതൻ ജയിലിലാണ്, കൗൺസിലർ ശ്രീലേഖ രാജിവച്ചിട്ട് ഒളിവിലാണ്. എന്തൊക്കെയാണ് ഈ കൊച്ചു തിരുവനന്തപുരത്ത് നടക്കുന്നതെന്ന് അദ്ദേഹം ഫേസ്ബുക്കിൽ കുറിച്ചു. ആറുമാസമായി കോർപറേഷൻ ഭരണം തകർന്നെന്നും മേയർ പരാജയമാണെന്നും ശബരീനാഥൻ മാദ്ധ്യമങ്ങളോട് പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/k-s-sabarinathan-talk-about-sreelakha-1810632#google_vignette"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'വീട്ടിലേക്ക്&nbsp; മാർച്ച്&nbsp; നടത്തിയാൽ&nbsp;  പാർട്ടി&nbsp; ഓഫീസിൽ &nbsp;കയറും'; എസ്എഫ്ഐ &nbsp;ജില്ലാ &nbsp;സെക്രട്ടറിക്ക്  എസ്ഐയുടെ ഭീഷണി, ഓഡിയോ പുറത്ത്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> തലസ്ഥാനത്തെ സംഘർഷത്തിനിടെ യൂണിവേഴ്സിറ്റി ഹോസ്റ്റലിൽ കയറി വിദ്യാർത്ഥികളെ തല്ലിയ പൊലീസ് നടപടിക്കെതിരെ വലിയ പ്രതിഷേധമാണ് സിപിഎം നടത്തുന്നത്. കന്റോൺമെന്റ് എസ്എച്ച്ഒ സതീഷ്, എസ് ഐ ഗോകുൽ എന്നിവരുടെ വീടുകളിലേക്ക് സിപിഎം മാർച്ചും പ്രഖ്യാപിച്ചിരുന്നു. ഇതിനിടെ എസ് ഐ ഗോകുലിന്റെ ഒരു ഓഡിയോയാണ് സിപിഎം ഇപ്പോൾ പുറത്തുവിട്ടിരിക്കുന്നത്. വീട്ടിലേക്ക് മാർച്ച് നടത്തിയാൽ പാർട്ടി ഓഫീസിൽ കയറുമെന്നാണ് ഗോകുലിന്റെ ഭീഷണി. എസ്എഫ്ഐ ജില്ലാ സെക്രട്ടറി നന്ദനെ വിളിച്ച് ഭീഷണിപ്പെടുത്തിയ ഓഡിയോയാണ് പുറത്തുവന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/si-gokul-audio-controversy-1810610"
+    },
+    {
+      "id": "41",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "ഫ്ളൈദുബായ് ആക്രമണം, സഹപൈലറ്റിനെ തിരിച്ചറിഞ്ഞു; തീവ്രവാദ സ്വാധീനമുള്ളതിനാൽ  വിമാനം പറത്താൻ സ്വന്തം രാജ്യത്തിൽ വിലക്ക്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>അബുദാബി:</b> ഫ്ലൈദുബായ് വിമാനത്തിൽ ആക്രമണം നടത്തിയ സഹപൈലറ്റിന്റെ വിവരങ്ങൾ പുറത്ത്. ഒമാൻ പൗരനായ ഹമാം അൽഹമാമിയാണ് സഹപൈലറ്റ് എന്ന് വാൾ സ്ട്രീറ്റ് ജേണലിന്റെ റിപ്പോർട്ടിൽ പറയുന്നു. യുഎഇയിൽ ജനിച്ച ഹമാമിന്റെ പിതാവ് ഒമാൻ സ്വദേശിയും മാതാവ് സിറിയക്കാരിയുമാണ്. തീവ്രവാദപരമായ കാഴ്ചപ്പാടുകളുണ്ടെന്ന് കണ്ടെത്തിയതിനാൽ സ്വന്തം രാജ്യമായ ഒമാൻ ഇയാളെ വിമാനം പറത്തുന്നതിൽ നിന്ന് വിലക്കിയിട്ടുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/world/flydubai-co-pilot-hamam-alhamami-1810586#google_vignette"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "രാജ്യതലസ്ഥാനം സംഘർഷഭരിതം; ഗ്യാനേഷ് കുമാറിന്റെ രാജിക്കായി മുറവിളി, വിദ്യാർത്ഥികളെ ബലമായി കസ്റ്റഡിയിലെടുത്ത് പൊലീസ്,"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി: മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മീഷണർ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ടുള്ള പ്രതിഷേധം ഡൽഹിയിലെ ജന്തർ മന്തറിൽ ശക്തമാകുന്നു. രാജി ആവശ്യപ്പെട്ട് ഐസയുടെയും (ഓൾ ഇന്ത്യ സ്റ്റുഡന്റ്സ് അസോസിയേഷൻ) എഐഎസ്എഫിന്റെയും നേതൃത്വത്തിൽ നടന്ന പ്രതിഷേധത്തിൽ കടുത്ത നടപടിയുമായി പൊലീസ് രംഗത്തെത്തി.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://keralakaumudi.com/news-360/national/delhi-protest-gyanesh-kumar-student-detention-1810624"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ജമ്മു &nbsp;കാശ്മീരിലെ നിയന്ത്രണരേഖ മറികടന്ന പാക് പെൺകുട്ടി പിടിയിൽ;&nbsp; അന്വേഷണം ആരംഭിച്ചു"
+      },
+      "summary": {
+        "ml": "<b>ശ്രീനഗർ:</b> ജമ്മു കാശ്മീരിലെ രജൗരിയിലെ നിയന്ത്രണരേഖ അബദ്ധവശാൽ മറികടന്ന 17കാരിയെ ഇന്ത്യൻ സൈന്യം കസ്റ്റഡിയിലെടുത്തു. നൗഷേറയിലുള്ള ലാം സെക്ടറിൽ ഇന്നലെ രാത്രിയാണ് സംഭവം നടന്നത്. പാക് അധീന കാശ്മീരിൽ നിന്നുള്ള പെൺകുട്ടിയാണ് നിയന്ത്രണരേഖ മറികടന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/pok--girl-detained-after-crossing-loc-1810606"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "വിമാനവാഹിനി പുറപ്പെട്ടു : പശ്ചിമേഷ്യയിൽ യു.എസിന്റെ പുതിയ പടയൊരുക്കം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വാഷിംഗ്ടൺ:</b> പശ്ചിമേഷ്യൻ യുദ്ധം അവസാനിപ്പിക്കാനുള്ള ചർച്ചകൾ നീളുന്നതിനിടെ, പുതിയ പടയൊരുക്കവുമായി യു.എസ്. മേഖലയിലേക്ക് കൂടുതൽ സൈനികരെ യു.എസ് വിന്യസിക്കാൻ തീരുമാനമായി. പതിനായിരത്തോളം സൈനികരെയും വഹിച്ച് യു.എസ്.എസ് തിയഡോർ റൂസ്‌വെൽറ്റ് വിമാനവാഹിനിയുടെ നേതൃത്വത്തിൽ യു.എസിന്റെ കപ്പൽപ്പട മിഡിൽ ഈസ്റ്റിലേക്ക് പുറപ്പെട്ടു. ഈ മാസം അവസാനമോ നവംബർ ആദ്യമോ മിഡിൽ ഈസ്റ്റിലെത്തും. നിലവിൽ യു.എസിന്റെ ജോർജ് വാഷിംഗ്ടൺ, ജോർഡ് എച്ച്.ഡബ്ല്യു. ബുഷ് എന്നീ വിമാനവാഹിനികൾ മേഖലയിലുണ്ട്. തിയഡോർ എത്തിയ ശേഷം ജോർജ് വാഷിംഗ്ടൺ മടങ്ങും. നവംബർ ആദ്യം നടക്കുന്ന മിഡ് ടേം തിരഞ്ഞെടുപ്പിന് ശേഷം ഇറാനിൽ ബോംബാക്രമണം പുനരാരംഭിക്കാൻ യു.എസ് പ്രസിഡന്റ് ഡൊണാൾഡ് ട്രംപിന് പദ്ധതിയുണ്ടെന്ന അഭ്യൂഹം ശക്തമാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/world/world-1810584"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ആർ ശ്രീലേഖയെ അനുനയിപ്പിക്കാൻ BJP; രാജീവ് ചന്ദ്രശേഖർ ചർച്ച നടത്തും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> കൗൺസിലർ സ്ഥാനം രാജിവെച്ച ആർ ശ്രീലേഖയെ അനുനയിപ്പിക്കാൻ ബിജെപി. ആർ ശ്രീലേഖയുമായി ഫോണിൽ സംസാരിച്ച് ബിജെപി സംസ്ഥാന അധ്യക്ഷൻ രാജീവ് ചന്ദ്രശേഖർ. നേരിട്ട് കണ്ട് കാര്യങ്ങൾ ചർച്ച ചെയ്യാൻ തീരുമാനമായി. തിങ്കളാഴ്ച കൂടിക്കാഴ്ച നടത്തും. വ്യക്തിപരമായ കാരണങ്ങൾ ചൂണ്ടിക്കാട്ടിയാണ് മേയർക്ക് ആർ ശ്രീലേഖ രാജിക്കത്ത് നൽകിയത്. എന്നാൽ രാജി ഔദ്യോഗികമായി നൽകേണ്ടിയിരുന്നത് നഗരസഭാ സെക്രട്ടറിക്കാണ്. കത്ത് കിട്ടിയ വിവരം മേയർ സ്ഥിരീകരിച്ചപ്പോൾ, ഔദ്യോഗിക അറിയിപ്പ് ലഭിച്ചില്ലെന്ന് സെക്രട്ടറി അറിയിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/03/bjp-moves-to-placate-r-sreelekha-rajeev-chandrasekhar-to-hold-talks.html"
+    },
+    {
+      "id": "34",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പിഎം ശ്രീ പദ്ധതിയുമായി തല്‍ക്കാലം മുന്നോട്ട് പോകേണ്ടെന്ന് വിദ്യാഭ്യാസ വകുപ്പ്; തീരുമാനം ലീഗിന്റെ എതിര്‍പ്പ് രൂക്ഷമായതോടെ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> പിഎം ശ്രീ പദ്ധതിയുമായി തല്‍ക്കാലം മുന്നോട്ടുപോകേണ്ടെന്ന് വിദ്യാഭ്യാസ വകുപ്പ്. മുസ്ലീം ലീഗിന്റെ എതിര്‍പ്പ് രൂക്ഷമായതോടെയാണ് തീരുമാനം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/03/education-department-decides-not-to-proceed-with-pm-shri-now.html#"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "ഏഷ്യൻ ഗെയിംസിൽ ഇന്ത്യയ്ക്ക് 20-ാം പൊന്ന്; ലോക ചാമ്പ്യനെ മലർത്തിയടിച്ച് അമൻ,​ ഗുസ്തിയിൽ സ്വർണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>നഗോയ:</b> ഏഷ്യൻ ഗെയിംസിൽ 14-ാം ദിനത്തിൽ ഇന്ത്യയ്ക്ക് വീണ്ടും സ്വർണം. പുരുഷന്മാരുടെ 57 കിലോഗ്രാം ഫ്രീസ്റ്റൈൽ ഗുസ്തിയിൽ അമൻ സെഹ്‌റാവത്താണ് സ്വർണം നേടിയത്. ഫൈനലിൽ നിലവിലെ ലോക ചാമ്പ്യനായ ഉത്തരകൊറിയയുടെ ഹാൻ ചോങ്-സോങ്ങിനെ 11-7ന് തോൽപ്പിച്ചാണ് അമൻ സ്വർണം സ്വന്തമാക്കിയത്. ഇതോടെ ഏഷ്യൻ ഗെയിംസിൽ ഈ വിഭാഗത്തിൽ സ്വർണം നേടുന്ന ആദ്യ ഇന്ത്യൻ താരമെന്ന നേട്ടവും അമൻ സ്വന്തമാക്കി.",
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://keralakaumudi.com/news-360/sports/asian-games-aman-sehrawat-gold-medal-1810629"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 16,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "ക്യാച്ച് ‘കളഞ്ഞു’, പക്ഷേ മെഡൽ ‘വിട്ടുകളഞ്ഞില്ല’: നവാസിന്റെ പോരാട്ടവും പാക്കിസ്ഥാനെ രക്ഷിച്ചില്ല; ഇന്ത്യയ്ക്ക് സ്വർണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>നീഷിൻ ∙</b> ഐസിസി ടൂർണമെന്റായാലും ശരി, ഏഷ്യൻ ഗെയിംസായാലും ശരി; പാക്കിസ്ഥാനെ മുന്നിൽ കിട്ടിയാൽ ഇന്ത്യ വിട്ടുകൊടുക്കില്ല. നീഷിനിലെ കൊറോഗി സ്പോർട്സ് പാർക്കിൽ നടന്ന ഏഷ്യൻ ഗെയിംസ് കലാശപ്പോരിൽ പാക്കിസ്ഥാനെ 19 റൺസിന് തോൽപ്പിച്ച് ഇന്ത്യയ്ക്ക് സ്വർണ മെഡൽ. ഇന്ത്യ ഉയർത്തിയ 212 റൺസ് വിജയലക്ഷ്യം പിന്തുടർന്ന പാക്കിസ്ഥാന്റെ ഇന്നിങ്സ് 20 ഓവറിൽ ആറു വിക്കറ്റ് നഷ്ടത്തിൽ 192 റൺസിൽ അവസാനിച്ചു. അർധസെഞ്ചറി നേടിയ ഹസൻ നവാസ് (51 പന്തിൽ 96) പാക്കിസ്ഥാനു വേണ്ടി പൊരുതിയെങ്കിലും വിജയത്തിലെത്തിക്കാനായില്ല. വ്യക്തിഗത സ്കോർ 4ൽ നിൽക്കെ വൈഭവ് സൂര്യവംശി താരത്തിന്റെ ക്യാച്ച് വിട്ടുകളഞ്ഞിരുന്നു. അതു സംഭവിച്ചില്ലായിരുന്നെങ്കിൽ ഒരു പക്ഷേ ഇന്ത്യ വിജയം വളരെ നേരത്തെ സംഭവിച്ചേനേ. ഇന്ത്യയ്ക്കായി അക്ഷർ പട്ടേൽ, വാഷിങ്ടൻ സുന്ദർ, ശിവം ദുബെ എന്നിവർ രണ്ടു വിക്കറ്റ് വീതം വീഴ്ത്തി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/indepth/asian-games-2026.html"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "'നോർത്ത് പറവൂരിൽ 37 കിലോ കഞ്ചാവ് പിടികൂടിയ കേസ്: ഒളിവിലായിരുന്ന പ്രതി അറസ്റ്റിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പറവൂർ ∙</b> നോർത്ത് പറവൂരിൽ നിന്ന് 37 കിലോ കഞ്ചാവ് പിടികൂടിയ കേസിൽ ഒളിവിലായിരുന്ന പ്രതി അറസ്റ്റിൽ. ബംഗാൾ മുർഷിദാബാദ് സ്വദേശി സുമൻ ഷെയ്ഖിനെ (23) ആണ് നോർത്ത് പറവൂർ പൊലീസ് അറസ്റ്റ് ചെയ്തത്. ഓപ്പറേഷൻ തൂഫാന്റെ ഭാഗമായി കഴിഞ്ഞ ഓഗസ്റ്റ് ഒന്നിനായിരുന്നു കഞ്ചാവ് പിടികൂടിയത്. കഞ്ചാവുമായി വന്ന ബംഗാൾ മുർഷിദാബാദ് സ്വദേശികളായ സാബൂജ് ഷെയ്ഖ് (19), രാജ ഷെയ്ഖ് എന്നിവരെ റൂറൽ ജില്ലാ ഡാൻസാഫ് ടീമും മുനമ്പം ഡിവൈഎസ്പിയുടെ പ്രത്യേക അന്വേഷണ സംഘവും പറവൂർ പൊലീസും ചേർന്ന് പിടികൂടിയിരുന്നു.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/ernakulam/2026/10/03/north-paravur-ganja-bust-arrest.html"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഇന്ത്യാ സഖ്യത്തിന്റെ ഭാഗമായി ടിവികെ; വിജയിച്ചത് ഡിഎംകെയുടെ ഒഴിവ് നികത്താനുള്ള കോൺഗ്രസിന്റെ നീക്കം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി ∙ വിജയ് നയിക്കുന്ന ടിവികെ  <a href='https://www.manoramaonline.com/topics/politics/parties/indiannationaldevelopmentalinclusivealliance.html' target='_blank' rel='noopener noreferrer'>ഇന്ത്യാ സഖ്യത്തിന്റെ</a> ഭാഗമായി. ടിവികെ നേതാക്കളുമായി നടത്തിയ കൂടിക്കാഴ്ചയ്ക്കു ശേഷം കോൺഗ്രസ് തമിഴ്നാട് അധ്യക്ഷൻ മാണിക്കം ടാഗോറാണ് ഇക്കാര്യം പ്രഖ്യാപിച്ചത്. ഇന്ത്യാ സഖ്യത്തിലെ വലിയ പാർട്ടികളിലൊന്നായിരുന്ന ഡിഎംകെ, സഖ്യം ഉപേക്ഷിച്ചതു കോൺഗ്രസിന്റെ പിടിപ്പുകേടുണ്ടാണെന്ന് സഖ്യത്തിൽ പൊതുവിമർശനം നിലനിൽക്കെയാണ് ടിവികെയുടെ സഖ്യപ്രവേശം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/03/tvk-joins-india-alliance-a-strategic-move-by-congress.html"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "‘മതമൗലിക വർഗീയ വാദികളുടെ കൂട്’; മലപ്പുറത്തിനെതിരെ പി.നന്ദകുമാറിന്റെ അധിക്ഷേപം; വർഗീയ പരാമർശം പിണറായി വേദിയിലിരിക്കെ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മലപ്പുറം∙</b> മലപ്പുറത്തിനെതിരെ വർഗീയ പരാമർശവുമായി സിപിഎമ്മിന്റെ മുതിർന്ന നേതാവും മുൻ എംഎൽഎയുമായ പി.നന്ദകുമാർ. മത മൗലിക വർഗീയ വാദികളുടെ കൂടാണ് മലപ്പുറമെന്ന് പൊന്നാനിയിൽ നടന്ന സിപിഎം മലപ്പുറം ജില്ല വിപുലീകൃത കമ്മിറ്റിയുടെ പ്രതിനിധി സമ്മേളനത്തിൽ പി.നന്ദകുമാർ പറഞ്ഞു. സമ്മേളനത്തിൽ സ്വാഗത പ്രസംഗം നടത്തുകയായിരുന്നു അദ്ദേഹം. പ്രതിപക്ഷ നേതാവ് പിണറായി വിജയൻ, കെ.കെ.ശൈലജ എന്നിവരടക്കമുള്ള മുതിർന്ന നേതാക്കൾ വേദിയിൽ ഇരിക്കവേയാണ് നന്ദകുമാറിന്റെ അധിക്ഷേപ പരാമർശം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/03/cpm-leader-p-nanda-kumar-communal-remarks-against-malappuram-spark-outrage.html"
+    },
+    {
+      "id": "37",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "കുരുക്കില്ല, സമയം പോകില്ല, ടോൾ അടയ്ക്കാൻ നിർത്തേണ്ട: പരനൂരിൽ ‘മൾട്ടി ലൈൻ ഫ്രീ ട്രാവൽ’; ബാലൻസില്ലെങ്കിൽ പിഴ കനക്കും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ചെന്നൈ ∙</b> നിർത്താതെ സഞ്ചരിക്കാവുന്ന തമിഴ്നാട്ടിലെ ആദ്യ ടോൾ പ്ലാസയായി പരനൂർ. ചെന്നൈ– തിരുച്ചിറപ്പള്ളി ഹൈവേയിലെ ടോൾ പ്ലാസയിൽ മനുഷ്യ സാന്നിധ്യമില്ലാതെ പ്രവർത്തിക്കുന്ന ‘മൾട്ടി ലൈൻ ഫ്രീ ട്രാവൽ’ (എംഎൽഎഫ്എഫ്) എന്ന സംവിധാനമാണു ദേശീയപാത അതോറിറ്റി അവതരിപ്പിച്ചിരിക്കുന്നത്. ഫാസ്റ്റ്ടാഗിലൂടെ ‘ഓട്ടമാറ്റിക് നമ്പർ പ്ലേറ്റ് റെക്കഗ്നിഷൻ’ (എഎൻപിആർ) വഴി ഓൺലൈനായി ടോൾ നിരക്ക് ഈടാക്കും. ഗതാഗതക്കുരുക്കില്ലാത്ത സഞ്ചാരം ഇതിലൂടെ ഉറപ്പാക്കാം. യാത്രക്കാർക്കു 15 മിനിറ്റിലധികം സമയം ലാഭിക്കാമെന്നാണു നിഗമനം. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/chennai/2026/10/03/paranur-toll-plaza-tamil-nadu.html"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 21,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ദേശീയപാത: തലപ്പാടി – ചെങ്കള ഒന്നാം റീച്ച് ഉദ്ഘാടനം നടന്നിട്ട് മാസങ്ങൾ; ബാക്കി പ്രദേശങ്ങളിൽ നിർമാണം ഇഴയുന്നു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‌കാസർകോട് ∙</b> ദേശീയപാത തലപ്പാടി – ചെങ്കള ഒന്നാം റീച്ച് ഉദ്ഘാടനം നടന്നിട്ടു മാസങ്ങൾ പിന്നിട്ടിട്ടും ജില്ലയുടെ ബാക്കി പ്രദേശങ്ങളിൽ നിർമാണം ഇഴയുന്നു. തലപ്പാടിയിൽനിന്നു മിന്നൽ വേഗത്തിൽ ചെർക്കളയിലെത്തുമ്പോൾ വേഗപ്പാതയ്ക്ക് താൽക്കാലിക ബ്രേക്കാണ്. ചെർക്കള മേൽപാലത്തിലും സമീപത്തു ബേവിഞ്ച ഭാഗങ്ങളിലും നിർമാണം നീളുന്നതാണ് പ്രധാന കാരണം.2025 നവംബറിൽ പാലത്തിന്റെ ഒരു ഭാഗം താൽക്കാലികമായി ഗതാഗതത്തിനായി തുറന്നെങ്കിലും അനുബന്ധ പ്രവൃത്തികൾ ഉൾപ്പെടെ പദ്ധതി പൂർണമായി പൂർത്തിയായിട്ടില്ല.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/kasargod/2026/10/03/national-highway-kasargod-delays.html"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "തലസ്ഥാനത്തെ സംഘർഷം: നടപടി കടുപ്പിച്ച് പൊലീസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<bതിരുവനന്തപുരം ∙</b> തലസ്ഥാനനഗരത്തിൽ കഴിഞ്ഞദിവസമുണ്ടായ യൂത്ത്കോൺഗ്രസ് – എസ്എഫ്ഐ സംഘർഷത്തിൽ പ്രതിപ്പട്ടികയിലുള്ളവർക്കെതിരെ കർശനനടപടി വേണമെന്ന നിലപാടിൽ പൊലീസ്. ജാമ്യമില്ലാവകുപ്പു പ്രകാരം 160 പേർക്കെതിരെയെടുത്ത കേസിൽ അറസ്റ്റ് നടപടികളിലേക്കു പൊലീസ് കടന്നു. 80 എസ്എഫ്ഐ പ്രവർത്തകർക്കും ജില്ലാ ഭാരവാഹികളടക്കം 80 യൂത്ത്കോൺഗ്രസ്, കെഎസ്‌‌യു പ്രവർത്തകർക്കുമെതിരെയാണു കേസ്. എസ്എഫ്ഐയിലും യൂത്ത്കോൺഗ്രസിലും നിന്ന് ഒരാളെവീതം അറസ്റ്റ്ചെയ്തു. മുഖ്യമന്ത്രിയെയും മന്ത്രിമാരെയും നഗരത്തിൽ തടഞ്ഞവർക്കെതിരായ അന്വേഷണവും കടുപ്പിച്ചു. മുഖ്യമന്ത്രിയെ കരിങ്കൊടി കാണിച്ചതിന് 5 പേരെയും മന്ത്രി കെ.എം.ഷാജിയെ തടഞ്ഞതിന് 2 പേരെയും അറസ്റ്റ്ചെയ്തു. ഇവർ ബിജെപി, യുവമോർച്ച പ്രവർത്തകരാണ്.>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/03/thiruvananthapuram-political-clash.html"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "കൊടുങ്ങല്ലൂർ ഉപജില്ലാ കലോത്സവം നവംബർ 10 മുതൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കൊടുങ്ങല്ലൂർ ∙</b> ഉപജില്ലാ കലോത്സവം നവംബർ 10 മുതൽ 13 വരെ എറിയാട് കെവിഎച്ച്എസ് സ്കൂളിൽ നടത്തും.സംഘാടക സമിതി രൂപീകരിച്ചു. ജില്ലാ പഞ്ചായത്ത് അംഗം നൗഷാദ് കറുകപ്പാടത്ത് ഉദ്ഘാടനം ചെയ്തു. പഞ്ചായത്ത് പ്രസിഡന്റ് കെ.പി. രാജൻ അധ്യക്ഷത വഹിച്ചു. എടവിലങ്ങ് പഞ്ചായത്ത് പ്രസിഡന്റ്‌ എം.ആർ. കൈലാസൻ, മതിലകം പഞ്ചായത്ത് പ്രസിഡന്റ് സുമതി സുന്ദരൻ, ഉപജില്ല വികസന സമിതി കൺവീനർ ഒ.എസ്.ഷൈൻ, റിയാസ്, പ്രിൻസിപ്പൽ വി. സ്മിത, പ്രധാന അധ്യാപിക ലാലി ആന്റണി എന്നിവർ പ്രസംഗിച്ചു. ഭാരവാഹികൾ : പഞ്ചായത്ത് പ്രസിഡന്റ് കെ.പി.രാജൻ (ചെയർമാൻ), ഹയർ സെക്കൻഡറി സ്കൂൾ പ്രിൻസിപ്പൽ വി.സ്മിത ( ജനറൽ കൺവീനർ ), എഇഒപി.മൊയ്തീൻകുട്ടി (ട്രഷറർ ). എറിയാട് പ്രദേശത്തെ വിവിധ മേഖലകളിൽ നിന്നുള്ള അംഗങ്ങൾ പങ്കെടുത്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/10/02/announcement.html"
+    },
+    {
+      "id": "22",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "തൃശൂർ കോർപറേഷൻ കൗൺസിലിൽ സംഘർഷം; ഭരണ–പ്രതിപക്ഷ അംഗങ്ങൾ തമ്മിൽ കയ്യാങ്കളി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തൃശൂർ ∙ സ്കൂൾ കായികമേളയുടെ സംഘാടകർക്ക് എതിരെ കേസെടുക്കണം എന്ന് ആവശ്യപ്പെട്ട് <a href='https://www.manoramaonline.com/topics/news/kerala/districts/thrissur/thrissur-corporation.html' target='_blank' rel='noopener noreferrer'>തൃശൂർ കോർപറേഷൻ</a> കൗൺസിലിൽ പ്രതിപക്ഷ ബഹളം. സ്കൂൾ കായികമേളയുടെ നടത്തിപ്പുമായി ബന്ധപ്പെട്ട് നിർമിച്ച പന്തൽ കനത്ത മഴയിൽ തകർന്നതുമായി ബന്ധപ്പെട്ടാണ് പ്രതിപക്ഷം ബഹളം വച്ചത്. പന്തൽ നിർമിക്കാൻ കോർപറേഷനിൽ അനുമതി ചോദിച്ചിട്ടില്ലെന്നും കാരണക്കാരായവർക്കു എതിരെ കേസ് എടുക്കണമെന്നും സിപിഎം കൗൺസിലർമാർ ആവശ്യപ്പെട്ടു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/03/thrissur-corporation-council-erupts-over-sports-meet-pandal-collapse.html"
+    },
+    {
+      "id": "23",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "ഫലത്തിന്  ഒരു ലക്ഷം വിലയുള്ള മിയാസാക്കി മാവ്; 90 വയസ്സുള്ള ഡോക്ടര്‍ക്കും ഭാര്യയ്ക്കും ഒപ്പം കംബോഡിയൻ മുന്തിരിവള്ളികൾ തളിർക്കുമ്പോൾ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": "<b>തൃശൂർ ∙</B> നമുക്കിനി മുന്തിരിത്തോട്ടങ്ങളിൽ ചെന്നു രാപാർക്കാം എന്നായിരിക്കണം ഡോ.ഇ.ജെ.തോമസ് മുന്തിരി നട്ടുപിടിപ്പിച്ചപ്പോൾ ഭാര്യ റോസിലിയോട് അന്ന് പറഞ്ഞിട്ടുണ്ടാവുക. 90 വയസ്സുള്ള ഡോക്ടറും 80 വയസ്സുള്ള ഭാര്യയും ഇപ്പോൾ മിക്കവാറും സമയങ്ങളിൽ മുന്തിരിത്തോട്ടത്തിലാണ്. വെറും മുന്തിരിയല്ല, കംബോഡിയൻ മുന്തിരി. തൃശൂരിലെ വീട്ടുവളപ്പിലെ 10 സെന്റ് സ്ഥലത്ത് കെട്ടിയ പന്തലിൽ മുന്തിരിക്കുലകളെ തഴുകിയും കൊച്ചുവർത്തമാനം പറഞ്ഞും നടക്കുന്ന ആ ദമ്പതികളെ കാണുന്നതു തന്നെ ഒരു ചന്തമാണ്. "
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/10/03/cambodian-grapes-thrissur.html"
+    },
+    {
+      "id": "24",
+      "type": "news",
+      "order": 50,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "മന്ത്രിമാരുടെ വാഹനത്തിന് നേരെ  കരിങ്കൊടി കാണിക്കുന്നത്  ആദ്യമല്ല; പ്രതിഷേധിക്കാനുള്ള അവകാശം എല്ലാവർക്കുമുണ്ട്: ശിവൻകുട്ടി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": "<b>തിരുവനന്തപുരം∙</b> എസ്എഫ്ഐ നേതാക്കളെയും പ്രവർത്തകരെയും പൊലീസ് അതിക്രൂരമായി വേട്ടയാടുകയാണെന്ന് സിപിഎം നേതാവ് വി.ശിവൻകുട്ടി. വിദ്യാർഥി വേട്ടയ്ക്ക് പൊലീസിനെ സർക്കാർ കയറൂരി വിട്ടിരിക്കുകയാണ്. കോളജിലും ഹോസ്റ്റലിലും കടന്നുകയറി അക്രമം അഴിച്ചുവിട്ട യൂത്ത് കോൺഗ്രസുകാർ ഹോസ്റ്റലിലേക്ക് തീപ്പന്തമെറിഞ്ഞ് കലാപമുണ്ടാക്കാൻ ശ്രമിച്ചു. ഹോസ്റ്റലിലുണ്ടായിരുന്ന പിജി വിദ്യാർഥിയുടെ വാഹനം കത്തിച്ചു.  "
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2026/10/03/sfi-activists-police-brutality-kerala.html"
+    },
+    {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ഫോണിൽ ഫുൾ സിഗ്നലോടുകൂടി 5ജി സിംബലുണ്ട്, പക്ഷേ ഇന്റർനെറ്റിന് സ്പീഡ് ഇല്ല; കാരണം അറിയാം, പരിഹരിക്കാം!"
+      },
+      "summary": {
+        "ml": "ഫോണിൽ എപ്പോഴും 5ജി സിഗ്നല്‍ കാണിക്കും, അതുകണ്ടാണ് എച്ച്ഡി സിനിമ കാണാനും ഡൗൺലോഡ് ചെയ്യാനും തുടങ്ങുക. പക്ഷേ 3ജിയുടെ പോലും സ്പീഡ് ഇല്ലാതെ നിരാശയിലാകും. ഈ അനുഭവം ഉണ്ടായിട്ടുണ്ടോ? എങ്കിൽ നിങ്ങൾ ഒറ്റയ്ക്കല്ല. നിരവധി ആളുകൾ നമ്മള്‍ക്കൊപ്പമുണ്ട്!",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/10/03/5g-internet-disappointment.html"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "കണ്ണുമടച്ച് എഐ വിവരങ്ങൾ പ്രസിദ്ധീകരിക്കുന്നതിന് മുൻപ് കർശന ഫാക്ട്ചെക്കിങ് വേണമെന്ന് ഗൂഗിൾ; പുതിയ സെർച്ച് ഗൈഡ്‌ലൈനുകൾ പുറത്ത്!",
+        "en": ""
+      },
+      "summary": {
+        "ml": "ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് നിർമിതമായ വിവരങ്ങൾ&nbsp; ഉപയോഗിക്കുന്നവർക്കായി ഗൂഗിൾ തങ്ങളുടെ സെർച്ച് ഗൈഡ്‌ലൈനുകളിൽ നിർണായക മാറ്റങ്ങൾ വരുത്തി. എഐ വഴി തയ്യാറാക്കുന്ന വിവരങ്ങൾ പ്രസിദ്ധീകരിക്കുന്നതിന് മുൻപ് അവ പൂർണമായും മാനുവലായി ഫാക്ട്ചെക്ക് ചെയ്ത് സത്യസന്ധത ഉറപ്പുവരുത്തണമെന്ന് ഗൂഗിൾ പുതിയ ഡോക്യുമെന്റിൽ വ്യക്തമാക്കുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/10/02/google-ai-content-guidelines.html"
+    },
+    {
+      "id": "25",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "കൊച്ചി വാട്ടർ മെട്രോ: പുതിയ ടെർമിനലുകൾ അവസാനഘട്ടത്തിൽ; മൂന്നര വർഷത്തിനിടെ 77.70 ലക്ഷം യാത്രക്കാർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി ∙</b> കൊച്ചി വാട്ടർ മെട്രോ പദ്ധതിയിലെ പുതിയ ടെർമിനലുകളുടെ നിർമാണം അവസാനഘട്ടത്തിലേക്ക്. കടമക്കുടി, പാലിയംതുരുത്ത് ടെർമിനലുകളുടെ നിർമാണം പൂർത്തിയായി. ഈ ടെർമിനലുകളിലേക്കുള്ള അപ്രോച്ച് റോഡുകളുടെ നിർമാണവും അവസാന ഘട്ടത്തിലാണ്. ഒരു മാസത്തിനകം പൂർത്തിയാക്കും. കെഎംആർഎൽ കൊച്ചി കോർപറേറ്റ് ഓഫിസിൽ മാനേജിങ് ഡയറക്ടർ ജി.പ്രിയങ്കയുടെ നേതൃത്വത്തിൽ നടന്ന അവലോകന യോഗത്തിലാണ് തീരുമാനം.&nbsp;",
+        "en": " images/news04.jpg"
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/ernakulam/2026/10/03/kerala-water-metro-passenger-growth.html"
+    },
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "🇯🇵 Japan — 'Land of the Rising Sun'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>Japan</b> is popularly known as the “Land of the Rising Sun” because it lies to the east of the Asian continent, where the sun appears to rise first from the perspective of many mainland Asian countries.<br>The name also has a historical connection to Japan's Japanese name, Nihon (日本) or Nippon, which can be interpreted as “origin of the sun” or “where the sun originates.”<br>Japan is called the “Land of the Rising Sun” because it is located in the eastern part of Asia, where the sun rises.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.japan-experience.com/plan-your-trip/to-know/understanding-japan/japan-land-of-the-rising-sun-meaning"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "Asian Games Medals Table",
+        "en": ""
+      },
+      "summary": {
+        "ml":  "<table><thead><tr><th>Rank</th><th>Country / NOC</th><th style=\"background-color:#fff8e1;color:#b78103;\">Gold</th><th style=\"background-color:#f5f5f5;color:#5c6bc0;\">Silver</th><th style=\"background-color:#fbe9e7;color:#a04000;\">Bronze</th><th>Total</th></tr></thead><tbody><tr><td>1</td><td>China</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">162</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">81</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">73</td><td>316</td></tr><tr><td>2</td><td>Japan</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">70</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">84</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">85</td><td>239</td></tr><tr><td>3</td><td>South Korea</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">33</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">39</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">62</td><td>134</td></tr><tr><td>4</td><td>Uzbekistan</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">20</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">23</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">22</td><td>65</td></tr><tr><td>5</td><td>India</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">16</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">25</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">35</td><td>76</td></tr><tr><td>6</td><td>Iran</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">15</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">17</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">13</td><td>45</td></tr><tr><td>7</td><td>Thailand</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">15</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">11</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">17</td><td>43</td></tr><tr><td>8</td><td>Kazakhstan</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">12</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">21</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">44</td><td>77</td></tr><tr><td>9</td><td>Bahrain</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">11</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">5</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">6</td><td>22</td></tr><tr><td>10</td><td>Malaysia</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">9</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">5</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">16</td><td>30</td></tr><tr><td>11</td><td>Hong Kong</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">7</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">17</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">22</td><td>46</td></tr></tbody></table>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/indepth/asian-games-2026.html"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :71,909.70<span style='color:red;'> -570.59(▼ 0.79%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 22,421.95  <span style='color:red;'>▼ -198..50 ( - 0.88%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:red'> ₹13,775  - 135 ▲ </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:red;'>₹245 +0 ▲</span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Happy Birthday Aunty.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "We are deeply owed to you.",
+        "en": ""
+      },
+      "image": " images/soba.jpg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

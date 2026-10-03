@@ -952,25 +952,6 @@
       "link": "https://onlineserviceshub.in/"
     },
     {
-      "id": "906",
-      "type": "news",
-      "order": 30,
-      "category": {
-        "ml": "പരസ്യം",
-        "en": "Advertisement"
-      },
-      "title": {
-        "ml": "Happy Birthday Aunty.",
-        "en": ""
-      },
-      "summary": {
-        "ml": "We are deeply owed to you.",
-        "en": ""
-      },
-      "image": " images/soba.jpg",
-      "link": "https://onlineserviceshub.in/"
-    },
-    {
       "id": "905",
       "type": "news",
       "order": 31,

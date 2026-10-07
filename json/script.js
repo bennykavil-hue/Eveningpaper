@@ -1065,10 +1065,10 @@ function render() {
             const data =
                 await response.json();
 
-            console.log(
-                "Today's e-paper hits:",
-                data.value
-            );
+            /* console.log(
+                 "Today's e-paper hits:",
+                 data.value
+             );*/
 
             const hitsElement =
                 document.getElementById("dailyHits");

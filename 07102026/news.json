@@ -807,24 +807,6 @@
       "link": ""
     },
     {
-      "id": "52",
-      "type": "news",
-      "order": 24,
-      "category": {
-        "ml": "കായികം",
-        "en": "sports"
-      },
-      "title": {
-        "ml": "Asian Games Medals Table",
-        "en": ""
-      },
-      "summary": {
-        "ml": "<table><thead><tr><th>Rank</th><th>Nation / Team</th><th style=\"background-color:#fff8e1;color:#b78103;\">Gold</th><th style=\"background-color:#f5f5f5;color:#5c6bc0;\">Silver</th><th style=\"background-color:#fbe9e7;color:#a04000;\">Bronze</th><th>Total</th></tr></thead><tbody><tr><td>1</td><td>China</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">154</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">71</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">63</td><td>288</td></tr><tr><td>2</td><td>Japan</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">59</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">79</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">79</td><td>217</td></tr><tr><td>3</td><td>South Korea</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">30</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">30</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">53</td><td>113</td></tr><tr><td>4</td><td>India</td><td style=\"background-color:#fffde7;color:#b78103;font-weight:bold;\">21</td><td style=\"background-color:#fafafa;color:#5c6bc0;font-weight:bold;\">27</td><td style=\"background-color:#fbe9e7;color:#a04000;font-weight:bold;\">37</td><td>85</td></tr></tbody></table>"
-      },
-      "image": "",
-      "link": "https://www.google.com/search?q=asian+games+2026+medal+tally&oq=asian+games+&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgYIAhBFGDsyDwgDEEUYOxiDARixAxiABDIGCAQQIxgnMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEJMTIyOTBqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8"
-    },
-    {
       "id": "92",
       "type": "news",
       "order": 25,

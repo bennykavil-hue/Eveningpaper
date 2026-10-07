@@ -1,6 +1,7 @@
 fetch("https://bennykavil-hue.github.io/Eveningpaper/json/knowledgeTips.json")
     .then(response => response.json())
     .then(data => {
+        console.log("trest");
 
         newspaperData = data;
 
@@ -42,9 +43,8 @@ function displayDailyKnowledgeTip() {
     if (!knowledgeTips || knowledgeTips.length === 0) {
         return;
     }
-
     const tip = getDailyKnowledgeTip();
-
+    console.debug("test");
     document.getElementById("knowledgeTipCategory").textContent =
         tip.category;
 

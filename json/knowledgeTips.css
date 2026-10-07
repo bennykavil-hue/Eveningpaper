@@ -1,0 +1,150 @@
+    #knowledgeTipSection {
+        --kt-ink: #123c3a;
+        /* deep teal text */
+        --kt-paper: #f1f6f4;
+        /* pale sage background */
+        --kt-line: #bcd3cd;
+        /* soft border */
+        --kt-accent: #c98a00;
+        /* amber accent bar */
+        --kt-muted: #4b6663;
+        /* secondary text */
+
+        /* stay inside the column */
+        box-sizing: border-box;
+        width: 100%;
+        max-width: 100%;
+        min-width: 0;
+
+        /* layout: icon + category on one row, everything else below */
+        display: grid;
+        grid-template-columns: auto minmax(0, 1fr);
+        grid-template-areas:
+            "number   number"
+            "icon     category"
+            "title    title"
+            "desc     desc"
+            "why      why";
+        column-gap: 10px;
+        align-items: center;
+
+        margin: 16px 0;
+        padding: 18px 20px 14px 24px;
+        background: var(--kt-paper);
+        border: 1px solid var(--kt-line);
+        border-left: 6px solid var(--kt-accent);
+        border-radius: 4px 14px 14px 4px;
+        color: var(--kt-ink);
+        line-height: 1.55;
+        text-align: left;
+    }
+
+    /* every piece of text wraps inside the box */
+    #knowledgeTipSection * {
+        box-sizing: border-box;
+        min-width: 0;
+        max-width: 100%;
+        white-space: normal;
+        overflow-wrap: anywhere;
+        word-break: break-word;
+    }
+
+    #knowledgeTipNumber {
+        grid-area: tipNumber;
+        justify-self: start;
+        margin-bottom: 10px;
+        padding: 3px 12px;
+        font-weight: bold;
+        color: blue;
+        background: #dcebe6;
+        border-radius: 999px;
+    }
+
+    /* icon badge */
+    #knowledgeTipIcon {
+        grid-area: icon;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 38px;
+        height: 38px;
+        margin-bottom: 10px;
+        font-size: 20px;
+        line-height: 1;
+        background: #fff;
+        border: 1px solid var(--kt-line);
+        border-radius: 50%;
+    }
+
+    /* category pill */
+    #knowledgeTipCategory {
+        grid-area: category;
+        justify-self: start;
+        margin-bottom: 10px;
+        padding: 3px 12px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        color: var(--kt-ink);
+        background: #dcebe6;
+        border-radius: 999px;
+    }
+
+    /* title */
+    #knowledgeTipTitle {
+        grid-area: title;
+        margin: 0 0 8px;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 1.3rem;
+        font-weight: 700;
+        line-height: 1.25;
+        color: var(--kt-ink);
+    }
+
+    /* the tip */
+    #knowledgeTipDescription {
+        grid-area: desc;
+        margin: 0 0 12px;
+        font-size: 1.02rem;
+        color: #1d2f2e;
+    }
+
+    /* the "why" note, label added automatically */
+    #knowledgeTipWhy {
+        grid-area: why;
+        margin: 0 0 10px;
+        padding: 8px 12px;
+        font-size: 0.95rem;
+        color: var(--kt-muted);
+        background: #fff;
+        border-left: 3px solid var(--kt-line);
+        border-radius: 0 8px 8px 0;
+    }
+
+    #knowledgeTipWhy::before {
+        content: "Why it matters: ";
+        font-weight: 700;
+        color: var(--kt-ink);
+    }
+
+    /* tip number, bottom right */
+    #knowledgeTipNumber {
+        grid-area: number;
+        display: block;
+        padding-top: 8px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        text-align: right;
+        color: var(--kt-muted);
+        border-top: 1px dashed var(--kt-line);
+    }
+
+    /* small screens */
+    @media (max-width: 480px) {
+        #knowledgeTipSection {
+            padding: 14px 14px 12px 16px;
+        }
+
+        #knowledgeTipTitle {
+            font-size: 1.15rem;
+        }
+    }

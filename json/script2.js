@@ -1,4 +1,4 @@
-fetch("knowledgeTips.json")
+fetch("https://bennykavil-hue.github.io/Eveningpaper/json/knowledgeTips.json")
     .then(response => response.json())
     .then(data => {
 
@@ -11,9 +11,12 @@ fetch("knowledgeTips.json")
         displayDailyKnowledgeTip();
 
         // Your existing newspaper code continues here
-        renderNews(data);
-
+    })
+    .catch(error => {
+        // 2. Handles network errors, custom throws, and JSON parsing errors
+        console.error('Error fetching data:', error);
     });
+
 function getDailyKnowledgeTip() {
 
     const today = new Date();

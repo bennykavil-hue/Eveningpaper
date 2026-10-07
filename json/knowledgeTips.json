@@ -2,2196 +2,2926 @@
   "title": "Daily Knowledge Tips",
   "description": "365 practical tips covering technology, education, health, safety, productivity, finance and everyday life.",
   "totalTips": 365,
-  "tips": [
+  "knowledgeTips": [
     {
-      "day": 1,
+      "id": 1,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Use Win+L to lock your Windows PC whenever you step away."
+      "title": "Lock Your PC Fast",
+      "tip": "Use Win+L to lock your Windows PC whenever you step away.",
+      "why": "A locked screen stops others from reading or changing your work while you are away."
     },
     {
-      "day": 2,
+      "id": 2,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Keep important files inside clearly named folders instead of scattering them on the desktop."
+      "title": "Organise Your Files",
+      "tip": "Keep important files inside clearly named folders instead of scattering them on the desktop.",
+      "why": "Named folders save search time and lower the chance of losing something important."
     },
     {
-      "day": 3,
+      "id": 3,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Use Ctrl+Shift+Esc to open Windows Task Manager quickly."
+      "title": "Open Task Manager",
+      "tip": "Use Ctrl+Shift+Esc to open Windows Task Manager quickly.",
+      "why": "You can close a frozen program without waiting for menus to respond."
     },
     {
-      "day": 4,
+      "id": 4,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Use Ctrl+Z to undo an accidental edit in many Windows applications."
+      "title": "Undo Mistakes",
+      "tip": "Use Ctrl+Z to undo an accidental edit in many Windows applications.",
+      "why": "One shortcut can reverse a deleted paragraph or a wrong change."
     },
     {
-      "day": 5,
+      "id": 5,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Use Ctrl+Shift+S when you want to save a document with a different name or location."
+      "title": "Save a Copy",
+      "tip": "Use Ctrl+Shift+S when you want to save a document with a different name or location.",
+      "why": "It keeps the original safe while you experiment with a new version."
     },
     {
-      "day": 6,
+      "id": 6,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Empty the Recycle Bin only after checking that it contains nothing you still need."
+      "title": "Check Before Emptying",
+      "tip": "Empty the Recycle Bin only after checking that it contains nothing you still need.",
+      "why": "Once the Recycle Bin is emptied, recovering files becomes difficult."
     },
     {
-      "day": 7,
+      "id": 7,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Keep at least one backup of important documents on a separate drive or trusted cloud service."
+      "title": "Always Keep a Backup",
+      "tip": "Keep at least one backup of important documents on a separate drive or trusted cloud service.",
+      "why": "Drives fail and devices get lost, but a separate copy keeps your work safe."
     },
     {
-      "day": 8,
+      "id": 8,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Restart a computer that has become unusually slow before trying complicated fixes."
+      "title": "Restart First",
+      "tip": "Restart a computer that has become unusually slow before trying complicated fixes.",
+      "why": "Restarting clears temporary problems and often fixes slowness at once."
     },
     {
-      "day": 9,
+      "id": 9,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Keep Windows and installed applications updated to receive security and bug fixes."
+      "title": "Install Updates",
+      "tip": "Keep Windows and installed applications updated to receive security and bug fixes.",
+      "why": "Updates close security holes that attackers actively try to use."
     },
     {
-      "day": 10,
+      "id": 10,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Use descriptive filenames such as invoice_2026_10.pdf instead of names like document1.pdf."
+      "title": "Name Files Clearly",
+      "tip": "Use descriptive filenames such as invoice_2026_10.pdf instead of names like document1.pdf.",
+      "why": "A good name tells you what the file is without opening it."
     },
     {
-      "day": 11,
+      "id": 11,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Create separate folders for Documents, Photos, Projects and Downloads to make files easier to find."
+      "title": "Build a Folder System",
+      "tip": "Create separate folders for Documents, Photos, Projects and Downloads to make files easier to find.",
+      "why": "Sorting by type keeps your computer tidy and easy to search."
     },
     {
-      "day": 12,
+      "id": 12,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Use Win+Shift+S to capture a selected area of your screen."
+      "title": "Take Quick Screenshots",
+      "tip": "Use Win+Shift+S to capture a selected area of your screen.",
+      "why": "You can capture just what you need and share it in seconds."
     },
     {
-      "day": 13,
+      "id": 13,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Use Alt+Tab to switch quickly between open applications."
+      "title": "Switch Apps Quickly",
+      "tip": "Use Alt+Tab to switch quickly between open applications.",
+      "why": "It saves time compared with reaching for the mouse again and again."
     },
     {
-      "day": 14,
+      "id": 14,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Press Win+E to open File Explorer quickly."
+      "title": "Open File Explorer",
+      "tip": "Press Win+E to open File Explorer quickly.",
+      "why": "One shortcut takes you to your files from anywhere."
     },
     {
-      "day": 15,
+      "id": 15,
       "category": "Computer",
       "icon": "💻",
-      "tip": "Review the Downloads folder regularly and remove files you no longer need."
+      "title": "Clean Up Downloads",
+      "tip": "Review the Downloads folder regularly and remove files you no longer need.",
+      "why": "Old installers and duplicates waste space and hide useful files."
     },
     {
-      "day": 16,
+      "id": 16,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Check the website address carefully before entering a password or payment information."
+      "title": "Check the Web Address",
+      "tip": "Check the website address carefully before entering a password or payment information.",
+      "why": "Fake sites often copy a real address with small changes to steal logins."
     },
     {
-      "day": 17,
+      "id": 17,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Use a different strong password for every important online account."
+      "title": "One Password Per Account",
+      "tip": "Use a different strong password for every important online account.",
+      "why": "If one site is breached, your other accounts stay protected."
     },
     {
-      "day": 18,
+      "id": 18,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Turn on two-step verification wherever an account supports it."
+      "title": "Enable Two-Step Login",
+      "tip": "Turn on two-step verification wherever an account supports it.",
+      "why": "A stolen password alone is not enough to open your account."
     },
     {
-      "day": 19,
+      "id": 19,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Never share an OTP, PIN or banking password with a caller, even if the caller sounds official."
+      "title": "Never Share Your OTP",
+      "tip": "Never share an OTP, PIN or banking password with a caller, even if the caller sounds official.",
+      "why": "Real banks never ask for these codes, but scammers always do."
     },
     {
-      "day": 20,
+      "id": 20,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Treat unexpected links in messages as suspicious until you verify the sender independently."
+      "title": "Doubt Surprise Links",
+      "tip": "Treat unexpected links in messages as suspicious until you verify the sender independently.",
+      "why": "One careless click can install malware or lead to a fake login page."
     },
     {
-      "day": 21,
+      "id": 21,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Do not trust a message merely because it contains a familiar logo or official-looking language."
+      "title": "Logos Can Be Faked",
+      "tip": "Do not trust a message merely because it contains a familiar logo or official-looking language.",
+      "why": "Anyone can copy a logo, so look at the sender and the request itself."
     },
     {
-      "day": 22,
+      "id": 22,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Before downloading an attachment, confirm that you were expecting it and know who sent it."
+      "title": "Think Before Downloading",
+      "tip": "Before downloading an attachment, confirm that you were expecting it and know who sent it.",
+      "why": "Attachments are a common way to spread viruses and ransomware."
     },
     {
-      "day": 23,
+      "id": 23,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Use a password manager to create and store unique passwords safely."
+      "title": "Use a Password Manager",
+      "tip": "Use a password manager to create and store unique passwords safely.",
+      "why": "It remembers long random passwords so you do not have to."
     },
     {
-      "day": 24,
+      "id": 24,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Review the privacy and permission settings of apps installed on your phone."
+      "title": "Review App Permissions",
+      "tip": "Review the privacy and permission settings of apps installed on your phone.",
+      "why": "Many apps ask for more access than they really need."
     },
     {
-      "day": 25,
+      "id": 25,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Keep your browser updated to receive security fixes."
+      "title": "Update Your Browser",
+      "tip": "Keep your browser updated to receive security fixes.",
+      "why": "Browsers are a main target, and updates repair newly found weaknesses."
     },
     {
-      "day": 26,
+      "id": 26,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Do not use public Wi-Fi for sensitive transactions unless you understand the network and use appropriate protection."
+      "title": "Careful on Public Wi-Fi",
+      "tip": "Do not use public Wi-Fi for sensitive transactions unless you understand the network and use appropriate protection.",
+      "why": "Open networks can let strangers watch or interfere with your traffic."
     },
     {
-      "day": 27,
+      "id": 27,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Log out of accounts on shared computers after finishing your work."
+      "title": "Log Out on Shared PCs",
+      "tip": "Log out of accounts on shared computers after finishing your work.",
+      "why": "The next person could otherwise open your email, files or bank account."
     },
     {
-      "day": 28,
+      "id": 28,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Check the sender address, not just the display name, when evaluating an email."
+      "title": "Check the Real Sender",
+      "tip": "Check the sender address, not just the display name, when evaluating an email.",
+      "why": "Display names are easy to fake, but the actual address often gives it away."
     },
     {
-      "day": 29,
+      "id": 29,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Be cautious of urgent messages demanding immediate payment or secrecy."
+      "title": "Beware of False Urgency",
+      "tip": "Be cautious of urgent messages demanding immediate payment or secrecy.",
+      "why": "Scammers rush you so that you do not stop and think."
     },
     {
-      "day": 30,
+      "id": 30,
       "category": "Internet & Cyber Safety",
       "icon": "🛡️",
-      "tip": "Report suspicious financial or cyber-fraud activity promptly through the appropriate official channel."
+      "title": "Report Fraud Quickly",
+      "tip": "Report suspicious financial or cyber-fraud activity promptly through the appropriate official channel.",
+      "why": "Fast reporting can stop losses and help protect other people."
     },
     {
-      "day": 31,
+      "id": 31,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Keep your phone's operating system and apps updated."
+      "title": "Update Your Phone",
+      "tip": "Keep your phone's operating system and apps updated.",
+      "why": "Updates fix security flaws and improve battery and performance."
     },
     {
-      "day": 32,
+      "id": 32,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Use a strong screen lock instead of an easy-to-guess pattern or PIN."
+      "title": "Use a Strong Screen Lock",
+      "tip": "Use a strong screen lock instead of an easy-to-guess pattern or PIN.",
+      "why": "A weak lock lets anyone who finds your phone open it."
     },
     {
-      "day": 33,
+      "id": 33,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Review which apps can access your location, microphone and camera."
+      "title": "Check Sensitive Permissions",
+      "tip": "Review which apps can access your location, microphone and camera.",
+      "why": "Location, microphone and camera access should be given only when needed."
     },
     {
-      "day": 34,
+      "id": 34,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Remove apps you no longer use, especially those that no longer receive updates."
+      "title": "Delete Unused Apps",
+      "tip": "Remove apps you no longer use, especially those that no longer receive updates.",
+      "why": "Old apps take space and can carry unpatched security risks."
     },
     {
-      "day": 35,
+      "id": 35,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Turn off Bluetooth when you do not need it in crowded or unfamiliar places."
+      "title": "Switch Off Bluetooth",
+      "tip": "Turn off Bluetooth when you do not need it in crowded or unfamiliar places.",
+      "why": "It reduces unwanted connection attempts and saves a little battery."
     },
     {
-      "day": 36,
+      "id": 36,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Use your phone's built-in battery usage screen to find apps consuming unusual power."
+      "title": "Find Battery Drainers",
+      "tip": "Use your phone's built-in battery usage screen to find apps consuming unusual power.",
+      "why": "A single misbehaving app can empty your battery quickly."
     },
     {
-      "day": 37,
+      "id": 37,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Back up important contacts and photos regularly."
+      "title": "Back Up Your Phone",
+      "tip": "Back up important contacts and photos regularly.",
+      "why": "A lost or broken phone should not mean lost memories."
     },
     {
-      "day": 38,
+      "id": 38,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Use the official app store whenever possible when installing mobile apps."
+      "title": "Use Official App Stores",
+      "tip": "Use the official app store whenever possible when installing mobile apps.",
+      "why": "Official stores screen apps, which lowers the risk of malware."
     },
     {
-      "day": 39,
+      "id": 39,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Check an app's developer name and reviews before installing it."
+      "title": "Check Before Installing",
+      "tip": "Check an app's developer name and reviews before installing it.",
+      "why": "Copycat apps often imitate popular ones to trick users."
     },
     {
-      "day": 40,
+      "id": 40,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Keep emergency contacts accessible even when your phone is locked if your device supports it."
+      "title": "Set Up Emergency Contacts",
+      "tip": "Keep emergency contacts accessible even when your phone is locked if your device supports it.",
+      "why": "Helpers can reach your family quickly if you cannot unlock your phone."
     },
     {
-      "day": 41,
+      "id": 41,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Clean your phone screen with a suitable soft cloth rather than spraying liquid directly onto the device."
+      "title": "Clean the Screen Safely",
+      "tip": "Clean your phone screen with a suitable soft cloth rather than spraying liquid directly onto the device.",
+      "why": "Liquid sprayed on the phone can seep inside and damage it."
     },
     {
-      "day": 42,
+      "id": 42,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Avoid charging a phone under pillows or blankets because heat can build up."
+      "title": "Charge in Open Air",
+      "tip": "Avoid charging a phone under pillows or blankets because heat can build up.",
+      "why": "Trapped heat can damage the battery and may create a fire risk."
     },
     {
-      "day": 43,
+      "id": 43,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Use the original or reputable compatible charger and cable for your device."
+      "title": "Use a Good Charger",
+      "tip": "Use the original or reputable compatible charger and cable for your device.",
+      "why": "Poor chargers can harm the battery and may be unsafe."
     },
     {
-      "day": 44,
+      "id": 44,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Enable Find My Device or the equivalent tracking feature before the phone is lost."
+      "title": "Turn On Find My Device",
+      "tip": "Enable Find My Device or the equivalent tracking feature before the phone is lost.",
+      "why": "It must be switched on beforehand to locate or lock a lost phone."
     },
     {
-      "day": 45,
+      "id": 45,
       "category": "Mobile",
       "icon": "📱",
-      "tip": "Review notification previews if private messages might appear on a shared screen."
+      "title": "Hide Private Previews",
+      "tip": "Review notification previews if private messages might appear on a shared screen.",
+      "why": "Others nearby can read messages that pop up on your screen."
     },
     {
-      "day": 46,
+      "id": 46,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Start your day by identifying the three tasks that matter most."
+      "title": "Pick Your Top Three",
+      "tip": "Start your day by identifying the three tasks that matter most.",
+      "why": "Focusing on key tasks keeps small matters from taking over the day."
     },
     {
-      "day": 47,
+      "id": 47,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Break a large task into smaller actions that can each be completed in one sitting."
+      "title": "Break Big Tasks Down",
+      "tip": "Break a large task into smaller actions that can each be completed in one sitting.",
+      "why": "Small steps feel manageable and make progress easy to see."
     },
     {
-      "day": 48,
+      "id": 48,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Keep a simple to-do list instead of relying entirely on memory."
+      "title": "Write It Down",
+      "tip": "Keep a simple to-do list instead of relying entirely on memory.",
+      "why": "A list frees your mind and stops tasks from being forgotten."
     },
     {
-      "day": 49,
+      "id": 49,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Group similar tasks together to reduce repeated context switching."
+      "title": "Batch Similar Tasks",
+      "tip": "Group similar tasks together to reduce repeated context switching.",
+      "why": "Switching between different kinds of work wastes time and energy."
     },
     {
-      "day": 50,
+      "id": 50,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Use calendar reminders for deadlines rather than trying to remember every date."
+      "title": "Set Deadline Reminders",
+      "tip": "Use calendar reminders for deadlines rather than trying to remember every date.",
+      "why": "Reminders help you act before a deadline instead of after it."
     },
     {
-      "day": 51,
+      "id": 51,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Keep frequently used documents in clearly labelled folders or shortcuts."
+      "title": "Keep Key Files Handy",
+      "tip": "Keep frequently used documents in clearly labelled folders or shortcuts.",
+      "why": "Quick access saves minutes that add up over a week."
     },
     {
-      "day": 52,
+      "id": 52,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Write the purpose of an email in a clear subject line."
+      "title": "Write Clear Subject Lines",
+      "tip": "Write the purpose of an email in a clear subject line.",
+      "why": "The reader knows what to expect and can find the email later."
     },
     {
-      "day": 53,
+      "id": 53,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Proofread important messages once before sending them."
+      "title": "Proofread Before Sending",
+      "tip": "Proofread important messages once before sending them.",
+      "why": "A quick check catches errors that can hurt your credibility."
     },
     {
-      "day": 54,
+      "id": 54,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Use templates for repetitive letters, reports and routine documents."
+      "title": "Use Templates",
+      "tip": "Use templates for repetitive letters, reports and routine documents.",
+      "why": "Reusing a good format saves time and keeps your work consistent."
     },
     {
-      "day": 55,
+      "id": 55,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Take short breaks during long periods of screen work."
+      "title": "Take Screen Breaks",
+      "tip": "Take short breaks during long periods of screen work.",
+      "why": "Short rests ease eye strain and help you stay focused."
     },
     {
-      "day": 56,
+      "id": 56,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Turn off unnecessary desktop notifications while doing focused work."
+      "title": "Silence Distractions",
+      "tip": "Turn off unnecessary desktop notifications while doing focused work.",
+      "why": "Every pop-up interrupts your thinking and slows the work."
     },
     {
-      "day": 57,
+      "id": 57,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Keep a running list of ideas so they do not interrupt the task you are doing."
+      "title": "Park Your Ideas",
+      "tip": "Keep a running list of ideas so they do not interrupt the task you are doing.",
+      "why": "Noting an idea lets you continue without losing it."
     },
     {
-      "day": 58,
+      "id": 58,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Finish small tasks that take only a minute or two when they can be safely completed immediately."
+      "title": "Do Quick Tasks Now",
+      "tip": "Finish small tasks that take only a minute or two when they can be safely completed immediately.",
+      "why": "Small tasks left undone pile up and create stress."
     },
     {
-      "day": 59,
+      "id": 59,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Set a specific end time for work when possible to avoid endless task expansion."
+      "title": "Set an End Time",
+      "tip": "Set a specific end time for work when possible to avoid endless task expansion.",
+      "why": "Work tends to fill all available time unless you set a limit."
     },
     {
-      "day": 60,
+      "id": 60,
       "category": "Office & Productivity",
       "icon": "📋",
-      "tip": "Review unfinished tasks at the end of the day and choose the next action for each."
+      "title": "Plan the Next Step",
+      "tip": "Review unfinished tasks at the end of the day and choose the next action for each.",
+      "why": "Knowing tomorrow's first step makes starting much easier."
     },
     {
-      "day": 61,
+      "id": 61,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+C copies selected content."
+      "title": "Copy with Ctrl+C",
+      "tip": "Ctrl+C copies selected content.",
+      "why": "Copying is the base of fast editing and saves retyping."
     },
     {
-      "day": 62,
+      "id": 62,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+V pastes copied or cut content."
+      "title": "Paste with Ctrl+V",
+      "tip": "Ctrl+V pastes copied or cut content.",
+      "why": "It places copied text or files exactly where you need them."
     },
     {
-      "day": 63,
+      "id": 63,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+X cuts selected content."
+      "title": "Cut with Ctrl+X",
+      "tip": "Ctrl+X cuts selected content.",
+      "why": "It moves content instead of duplicating it."
     },
     {
-      "day": 64,
+      "id": 64,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+A selects all content in the active field or document."
+      "title": "Select All with Ctrl+A",
+      "tip": "Ctrl+A selects all content in the active field or document.",
+      "why": "It lets you copy, format or delete everything in one step."
     },
     {
-      "day": 65,
+      "id": 65,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+F opens Find in many applications and web pages."
+      "title": "Find with Ctrl+F",
+      "tip": "Ctrl+F opens Find in many applications and web pages.",
+      "why": "You can locate a word on a long page in seconds."
     },
     {
-      "day": 66,
+      "id": 66,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+S saves the current document in many applications."
+      "title": "Save with Ctrl+S",
+      "tip": "Ctrl+S saves the current document in many applications.",
+      "why": "Saving often protects you from losing work to a crash."
     },
     {
-      "day": 67,
+      "id": 67,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+P opens the print dialog in many applications."
+      "title": "Print with Ctrl+P",
+      "tip": "Ctrl+P opens the print dialog in many applications.",
+      "why": "It opens printing options without hunting through menus."
     },
     {
-      "day": 68,
+      "id": 68,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+N creates a new document, window or item in many applications."
+      "title": "Create New with Ctrl+N",
+      "tip": "Ctrl+N creates a new document, window or item in many applications.",
+      "why": "It starts a fresh file or window instantly."
     },
     {
-      "day": 69,
+      "id": 69,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+W closes the current browser tab or document in many applications."
+      "title": "Close with Ctrl+W",
+      "tip": "Ctrl+W closes the current browser tab or document in many applications.",
+      "why": "It closes the current tab quickly without reaching for the mouse."
     },
     {
-      "day": 70,
+      "id": 70,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+Shift+T reopens a recently closed browser tab in many browsers."
+      "title": "Reopen a Closed Tab",
+      "tip": "Ctrl+Shift+T reopens a recently closed browser tab in many browsers.",
+      "why": "It rescues a tab you closed by accident."
     },
     {
-      "day": 71,
+      "id": 71,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+Tab moves to the next browser tab in many browsers."
+      "title": "Move to the Next Tab",
+      "tip": "Ctrl+Tab moves to the next browser tab in many browsers.",
+      "why": "You can browse through tabs without touching the mouse."
     },
     {
-      "day": 72,
+      "id": 72,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+Shift+Tab moves to the previous browser tab in many browsers."
+      "title": "Go Back a Tab",
+      "tip": "Ctrl+Shift+Tab moves to the previous browser tab in many browsers.",
+      "why": "It takes you to the tab on your left quickly."
     },
     {
-      "day": 73,
+      "id": 73,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+Plus usually zooms in on a web page."
+      "title": "Zoom In",
+      "tip": "Ctrl+Plus usually zooms in on a web page.",
+      "why": "Larger text is easier to read, especially on small screens."
     },
     {
-      "day": 74,
+      "id": 74,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+Minus usually zooms out on a web page."
+      "title": "Zoom Out",
+      "tip": "Ctrl+Minus usually zooms out on a web page.",
+      "why": "Smaller zoom shows more of the page at once."
     },
     {
-      "day": 75,
+      "id": 75,
       "category": "Keyboard Shortcuts",
       "icon": "⌨️",
-      "tip": "Ctrl+0 usually resets browser zoom to its default level."
+      "title": "Reset the Zoom",
+      "tip": "Ctrl+0 usually resets browser zoom to its default level.",
+      "why": "One shortcut returns the page to its normal size."
     },
     {
-      "day": 76,
+      "id": 76,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Keep one clear header row when creating a simple spreadsheet."
+      "title": "Use a Clear Header Row",
+      "tip": "Keep one clear header row when creating a simple spreadsheet.",
+      "why": "Clear headers make sorting, filtering and reading much easier."
     },
     {
-      "day": 77,
+      "id": 77,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Use consistent date formats throughout a spreadsheet."
+      "title": "Keep Dates Consistent",
+      "tip": "Use consistent date formats throughout a spreadsheet.",
+      "why": "Mixed date styles break sorting and calculations."
     },
     {
-      "day": 78,
+      "id": 78,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Use filters to inspect large lists without deleting or rearranging data."
+      "title": "Filter Instead of Delete",
+      "tip": "Use filters to inspect large lists without deleting or rearranging data.",
+      "why": "Filters let you focus on what matters while keeping all your data."
     },
     {
-      "day": 79,
+      "id": 79,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Freeze the header row when working with a long table."
+      "title": "Freeze the Header",
+      "tip": "Freeze the header row when working with a long table.",
+      "why": "Headers stay visible as you scroll through hundreds of rows."
     },
     {
-      "day": 80,
+      "id": 80,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Use formulas instead of manually calculating repeated totals."
+      "title": "Let Formulas Do the Math",
+      "tip": "Use formulas instead of manually calculating repeated totals.",
+      "why": "Formulas update automatically and avoid typing mistakes."
     },
     {
-      "day": 81,
+      "id": 81,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Keep raw data separate from summary calculations when building a report."
+      "title": "Separate Data from Summary",
+      "tip": "Keep raw data separate from summary calculations when building a report.",
+      "why": "It keeps original data safe and the report easy to follow."
     },
     {
-      "day": 82,
+      "id": 82,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Use descriptive worksheet names instead of Sheet1, Sheet2 and Sheet3."
+      "title": "Name Your Sheets",
+      "tip": "Use descriptive worksheet names instead of Sheet1, Sheet2 and Sheet3.",
+      "why": "Clear tab names help you and others find information fast."
     },
     {
-      "day": 83,
+      "id": 83,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Check for duplicate records before preparing totals."
+      "title": "Remove Duplicates First",
+      "tip": "Check for duplicate records before preparing totals.",
+      "why": "Duplicates inflate totals and lead to wrong conclusions."
     },
     {
-      "day": 84,
+      "id": 84,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Keep numbers as numbers rather than storing them as text when calculations are needed."
+      "title": "Numbers Should Be Numbers",
+      "tip": "Keep numbers as numbers rather than storing them as text when calculations are needed.",
+      "why": "Numbers stored as text will not add up correctly."
     },
     {
-      "day": 85,
+      "id": 85,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Use data validation lists to reduce spelling variations in repeated entries."
+      "title": "Use Drop-Down Lists",
+      "tip": "Use data validation lists to reduce spelling variations in repeated entries.",
+      "why": "Choosing from a list keeps entries consistent and easy to count."
     },
     {
-      "day": 86,
+      "id": 86,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Format percentages as percentages rather than typing the percent symbol into text."
+      "title": "Format Percentages Properly",
+      "tip": "Format percentages as percentages rather than typing the percent symbol into text.",
+      "why": "Proper formatting keeps the value usable in calculations."
     },
     {
-      "day": 87,
+      "id": 87,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Use SUM for totals instead of adding many cells manually."
+      "title": "Use SUM for Totals",
+      "tip": "Use SUM for totals instead of adding many cells manually.",
+      "why": "It is faster and less error-prone than typing cell after cell."
     },
     {
-      "day": 88,
+      "id": 88,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Use COUNT or COUNTA when you need to count entries."
+      "title": "Count with COUNT and COUNTA",
+      "tip": "Use COUNT or COUNTA when you need to count entries.",
+      "why": "They count numbers or filled cells in an instant."
     },
     {
-      "day": 89,
+      "id": 89,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Use conditional formatting to highlight values that need attention."
+      "title": "Highlight What Matters",
+      "tip": "Use conditional formatting to highlight values that need attention.",
+      "why": "Colour cues help you spot problems and trends at a glance."
     },
     {
-      "day": 90,
+      "id": 90,
       "category": "Excel & Data",
       "icon": "📊",
-      "tip": "Make a backup before making major changes to an important workbook."
+      "title": "Back Up Before Big Changes",
+      "tip": "Make a backup before making major changes to an important workbook.",
+      "why": "If something goes wrong, you can go back to the earlier version."
     },
     {
-      "day": 91,
+      "id": 91,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Study a difficult topic when your concentration is strongest."
+      "title": "Study at Your Best Time",
+      "tip": "Study a difficult topic when your concentration is strongest.",
+      "why": "Hard topics need your sharpest mind."
     },
     {
-      "day": 92,
+      "id": 92,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "After reading a section, close the book and recall the main points from memory."
+      "title": "Recall After Reading",
+      "tip": "After reading a section, close the book and recall the main points from memory.",
+      "why": "Pulling information from memory strengthens learning."
     },
     {
-      "day": 93,
+      "id": 93,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Explain a concept in your own words to test whether you really understand it."
+      "title": "Explain It Simply",
+      "tip": "Explain a concept in your own words to test whether you really understand it.",
+      "why": "If you cannot explain it, you may not understand it yet."
     },
     {
-      "day": 94,
+      "id": 94,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Use spaced repetition to review important facts over several days."
+      "title": "Space Out Your Reviews",
+      "tip": "Use spaced repetition to review important facts over several days.",
+      "why": "Reviewing at intervals moves facts into long-term memory."
     },
     {
-      "day": 95,
+      "id": 95,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Practice with questions instead of only rereading notes."
+      "title": "Practise with Questions",
+      "tip": "Practice with questions instead of only rereading notes.",
+      "why": "Testing yourself shows what you really know."
     },
     {
-      "day": 96,
+      "id": 96,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Write down questions you cannot answer and return to them later."
+      "title": "Collect Your Questions",
+      "tip": "Write down questions you cannot answer and return to them later.",
+      "why": "Open questions guide what you should learn next."
     },
     {
-      "day": 97,
+      "id": 97,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Break a long study session into focused blocks with short breaks."
+      "title": "Study in Short Blocks",
+      "tip": "Break a long study session into focused blocks with short breaks.",
+      "why": "Breaks help your brain absorb information and stay fresh."
     },
     {
-      "day": 98,
+      "id": 98,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Remove distracting notifications while studying."
+      "title": "Study Without Distractions",
+      "tip": "Remove distracting notifications while studying.",
+      "why": "Each interruption takes minutes to recover from."
     },
     {
-      "day": 99,
+      "id": 99,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Use examples to connect an abstract concept with a real situation."
+      "title": "Learn with Examples",
+      "tip": "Use examples to connect an abstract concept with a real situation.",
+      "why": "Real examples make ideas easier to understand and remember."
     },
     {
-      "day": 100,
+      "id": 100,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Teach a topic to someone else; explaining often reveals gaps in understanding."
+      "title": "Teach to Learn",
+      "tip": "Teach a topic to someone else; explaining often reveals gaps in understanding.",
+      "why": "Explaining to others shows exactly what you are missing."
     },
     {
-      "day": 101,
+      "id": 101,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Keep a simple study log showing what you learned each day."
+      "title": "Keep a Study Log",
+      "tip": "Keep a simple study log showing what you learned each day.",
+      "why": "Seeing progress builds motivation and shows what to review."
     },
     {
-      "day": 102,
+      "id": 102,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Before searching for an answer, make your own guess and then check it."
+      "title": "Guess Before You Search",
+      "tip": "Before searching for an answer, make your own guess and then check it.",
+      "why": "A guess makes the correct answer stick better."
     },
     {
-      "day": 103,
+      "id": 103,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Compare information from more than one reliable source for important topics."
+      "title": "Check More Than One Source",
+      "tip": "Compare information from more than one reliable source for important topics.",
+      "why": "Different sources help you spot errors and bias."
     },
     {
-      "day": 104,
+      "id": 104,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Check who wrote educational material and when it was published."
+      "title": "Check Author and Date",
+      "tip": "Check who wrote educational material and when it was published.",
+      "why": "Outdated or anonymous material may be wrong."
     },
     {
-      "day": 105,
+      "id": 105,
       "category": "Education & Learning",
       "icon": "📚",
-      "tip": "Create a small glossary for unfamiliar technical terms."
+      "title": "Build a Mini Glossary",
+      "tip": "Create a small glossary for unfamiliar technical terms.",
+      "why": "Knowing key terms makes new subjects far less confusing."
     },
     {
-      "day": 106,
+      "id": 106,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Drink water regularly according to your needs and local conditions."
+      "title": "Drink Water Regularly",
+      "tip": "Drink water regularly according to your needs and local conditions.",
+      "why": "Your body needs water to work well, especially in hot weather."
     },
     {
-      "day": 107,
+      "id": 107,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Include a variety of vegetables, fruits, grains and protein foods in your meals."
+      "title": "Eat a Varied Diet",
+      "tip": "Include a variety of vegetables, fruits, grains and protein foods in your meals.",
+      "why": "Different foods supply different nutrients your body needs."
     },
     {
-      "day": 108,
+      "id": 108,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Try to keep a consistent sleep and wake schedule."
+      "title": "Keep a Sleep Routine",
+      "tip": "Try to keep a consistent sleep and wake schedule.",
+      "why": "Regular sleep times improve rest and daytime energy."
     },
     {
-      "day": 109,
+      "id": 109,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Take short movement breaks during long periods of sitting."
+      "title": "Move Every Hour",
+      "tip": "Take short movement breaks during long periods of sitting.",
+      "why": "Moving around eases stiffness and helps circulation."
     },
     {
-      "day": 110,
+      "id": 110,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Wash your hands with soap and water at appropriate times."
+      "title": "Wash Your Hands",
+      "tip": "Wash your hands with soap and water at appropriate times.",
+      "why": "It is one of the simplest ways to prevent infections."
     },
     {
-      "day": 111,
+      "id": 111,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Do not ignore persistent or worsening symptoms; seek professional medical advice."
+      "title": "See a Doctor Early",
+      "tip": "Do not ignore persistent or worsening symptoms; seek professional medical advice.",
+      "why": "Early advice makes many problems easier to treat."
     },
     {
-      "day": 112,
+      "id": 112,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Keep a list of medicines you take and share it with your healthcare professional when relevant."
+      "title": "Keep a Medicine List",
+      "tip": "Keep a list of medicines you take and share it with your healthcare professional when relevant.",
+      "why": "It helps doctors avoid harmful drug combinations."
     },
     {
-      "day": 113,
+      "id": 113,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Read medicine labels and follow the directions provided by a qualified professional."
+      "title": "Read Medicine Labels",
+      "tip": "Read medicine labels and follow the directions provided by a qualified professional.",
+      "why": "Correct dose and timing matter for safety."
     },
     {
-      "day": 114,
+      "id": 114,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Keep routine health checkups appropriate to your age and personal needs."
+      "title": "Go for Regular Checkups",
+      "tip": "Keep routine health checkups appropriate to your age and personal needs.",
+      "why": "Checkups can catch problems before symptoms appear."
     },
     {
-      "day": 115,
+      "id": 115,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Use sunscreen and protective clothing when spending extended time in strong sunlight."
+      "title": "Protect Your Skin",
+      "tip": "Use sunscreen and protective clothing when spending extended time in strong sunlight.",
+      "why": "Sun protection lowers the risk of burns and long-term skin damage."
     },
     {
-      "day": 116,
+      "id": 116,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Maintain good posture and adjust your chair and screen for comfortable computer work."
+      "title": "Sit Comfortably",
+      "tip": "Maintain good posture and adjust your chair and screen for comfortable computer work.",
+      "why": "Good posture reduces back, neck and shoulder pain."
     },
     {
-      "day": 117,
+      "id": 117,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Take slow, comfortable breaths for a minute when you feel tense."
+      "title": "Breathe Slowly",
+      "tip": "Take slow, comfortable breaths for a minute when you feel tense.",
+      "why": "Slow breathing can help calm your body and mind."
     },
     {
-      "day": 118,
+      "id": 118,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Make regular physical activity part of your routine if it is safe for you."
+      "title": "Stay Active",
+      "tip": "Make regular physical activity part of your routine if it is safe for you.",
+      "why": "Regular activity supports the heart, mood and energy."
     },
     {
-      "day": 119,
+      "id": 119,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Choose water over sugary drinks more often."
+      "title": "Choose Water Over Sugar",
+      "tip": "Choose water over sugary drinks more often.",
+      "why": "It cuts extra sugar and calories from your day."
     },
     {
-      "day": 120,
+      "id": 120,
       "category": "Health & Wellbeing",
       "icon": "❤️",
-      "tip": "Eat slowly enough to notice when you are becoming comfortably full."
+      "title": "Eat Slowly",
+      "tip": "Eat slowly enough to notice when you are becoming comfortably full.",
+      "why": "Your body needs time to signal that it has had enough."
     },
     {
-      "day": 121,
+      "id": 121,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Wash hands before preparing or eating food."
+      "title": "Wash Before Cooking",
+      "tip": "Wash hands before preparing or eating food.",
+      "why": "Clean hands keep germs out of your food."
     },
     {
-      "day": 122,
+      "id": 122,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Keep raw meat, poultry and seafood separate from ready-to-eat foods."
+      "title": "Keep Raw and Cooked Apart",
+      "tip": "Keep raw meat, poultry and seafood separate from ready-to-eat foods.",
+      "why": "It prevents harmful bacteria from spreading to safe food."
     },
     {
-      "day": 123,
+      "id": 123,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Use separate or thoroughly cleaned cutting surfaces for raw and cooked foods."
+      "title": "Use Clean Cutting Boards",
+      "tip": "Use separate or thoroughly cleaned cutting surfaces for raw and cooked foods.",
+      "why": "Cross-contamination is a common cause of food poisoning."
     },
     {
-      "day": 124,
+      "id": 124,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Refrigerate perishable food promptly rather than leaving it out for long periods."
+      "title": "Refrigerate Promptly",
+      "tip": "Refrigerate perishable food promptly rather than leaving it out for long periods.",
+      "why": "Bacteria multiply quickly at room temperature."
     },
     {
-      "day": 125,
+      "id": 125,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Label leftovers with the date so older food can be used first."
+      "title": "Label Your Leftovers",
+      "tip": "Label leftovers with the date so older food can be used first.",
+      "why": "You will know what to eat first and what to throw out."
     },
     {
-      "day": 126,
+      "id": 126,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Clean kitchen surfaces regularly, especially after handling raw foods."
+      "title": "Keep Surfaces Clean",
+      "tip": "Clean kitchen surfaces regularly, especially after handling raw foods.",
+      "why": "Clean surfaces cut the risk of germs spreading."
     },
     {
-      "day": 127,
+      "id": 127,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Keep knives sharp and use a stable cutting board to reduce slipping."
+      "title": "Keep Knives Sharp",
+      "tip": "Keep knives sharp and use a stable cutting board to reduce slipping.",
+      "why": "Dull knives slip more easily and cause more injuries."
     },
     {
-      "day": 128,
+      "id": 128,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Turn pot handles inward on the stove where children cannot easily reach them."
+      "title": "Turn Handles Inward",
+      "tip": "Turn pot handles inward on the stove where children cannot easily reach them.",
+      "why": "It prevents hot pots from being pulled or knocked over."
     },
     {
-      "day": 129,
+      "id": 129,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Check food packages for damage, unusual swelling or leakage before use."
+      "title": "Inspect Food Packages",
+      "tip": "Check food packages for damage, unusual swelling or leakage before use.",
+      "why": "Damaged packaging can mean spoiled or unsafe food."
     },
     {
-      "day": 130,
+      "id": 130,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Store dry foods in clean, dry, tightly closed containers."
+      "title": "Store Dry Foods Well",
+      "tip": "Store dry foods in clean, dry, tightly closed containers.",
+      "why": "It keeps out moisture, pests and spoilage."
     },
     {
-      "day": 131,
+      "id": 131,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Use a clean spoon each time you take food from a shared container."
+      "title": "Use a Clean Spoon",
+      "tip": "Use a clean spoon each time you take food from a shared container.",
+      "why": "It stops germs from entering the container."
     },
     {
-      "day": 132,
+      "id": 132,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Do not taste food with the same spoon and return it to the cooking pot."
+      "title": "Never Double-Dip",
+      "tip": "Do not taste food with the same spoon and return it to the cooking pot.",
+      "why": "It adds germs to food others will eat."
     },
     {
-      "day": 133,
+      "id": 133,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Keep a simple list of staple foods before shopping to reduce forgotten items."
+      "title": "Make a Shopping List",
+      "tip": "Keep a simple list of staple foods before shopping to reduce forgotten items.",
+      "why": "A list saves extra trips and avoids impulse buying."
     },
     {
-      "day": 134,
+      "id": 134,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Measure ingredients when trying a new recipe so you can reproduce the result."
+      "title": "Measure Your Ingredients",
+      "tip": "Measure ingredients when trying a new recipe so you can reproduce the result.",
+      "why": "Accurate amounts give consistent results."
     },
     {
-      "day": 135,
+      "id": 135,
       "category": "Food & Kitchen",
       "icon": "🍳",
-      "tip": "Let cooked food cool appropriately before storing it according to safe food-handling guidance."
+      "title": "Cool Food Safely",
+      "tip": "Let cooked food cool appropriately before storing it according to safe food-handling guidance.",
+      "why": "Proper cooling and storage helps prevent bacterial growth."
     },
     {
-      "day": 136,
+      "id": 136,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Keep emergency exits and doorways free from clutter."
+      "title": "Keep Exits Clear",
+      "tip": "Keep emergency exits and doorways free from clutter.",
+      "why": "Clear paths help everyone get out quickly in an emergency."
     },
     {
-      "day": 137,
+      "id": 137,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Check smoke alarms regularly according to the manufacturer's instructions."
+      "title": "Test Your Smoke Alarms",
+      "tip": "Check smoke alarms regularly according to the manufacturer's instructions.",
+      "why": "A working alarm gives early warning that can save lives."
     },
     {
-      "day": 138,
+      "id": 138,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Keep a basic first-aid kit where family members can find it."
+      "title": "Keep a First-Aid Kit",
+      "tip": "Keep a basic first-aid kit where family members can find it.",
+      "why": "Quick treatment of minor injuries prevents bigger problems."
     },
     {
-      "day": 139,
+      "id": 139,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Store medicines and cleaning chemicals out of children's reach."
+      "title": "Store Chemicals Safely",
+      "tip": "Store medicines and cleaning chemicals out of children's reach.",
+      "why": "Children can mistake medicines and cleaners for food or drink."
     },
     {
-      "day": 140,
+      "id": 140,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Do not overload electrical sockets or extension boards."
+      "title": "Do Not Overload Sockets",
+      "tip": "Do not overload electrical sockets or extension boards.",
+      "why": "Overloading is a common cause of electrical fires."
     },
     {
-      "day": 141,
+      "id": 141,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Replace damaged electrical cords instead of continuing to use them."
+      "title": "Replace Damaged Cords",
+      "tip": "Replace damaged electrical cords instead of continuing to use them.",
+      "why": "Frayed wires can cause shocks and fires."
     },
     {
-      "day": 142,
+      "id": 142,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Keep matches and lighters away from children."
+      "title": "Hide Matches and Lighters",
+      "tip": "Keep matches and lighters away from children.",
+      "why": "Fire play by children can cause serious accidents."
     },
     {
-      "day": 143,
+      "id": 143,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Dry wet floors promptly to reduce slip hazards."
+      "title": "Dry Wet Floors",
+      "tip": "Dry wet floors promptly to reduce slip hazards.",
+      "why": "Slips are a leading cause of falls at home."
     },
     {
-      "day": 144,
+      "id": 144,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Use a stable step stool rather than a chair when reaching high shelves."
+      "title": "Use a Proper Step Stool",
+      "tip": "Use a stable step stool rather than a chair when reaching high shelves.",
+      "why": "Chairs tip easily and falls can cause serious injury."
     },
     {
-      "day": 145,
+      "id": 145,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Keep a torch and spare batteries available for power outages."
+      "title": "Keep a Torch Ready",
+      "tip": "Keep a torch and spare batteries available for power outages.",
+      "why": "It is safer than candles when the lights go out."
     },
     {
-      "day": 146,
+      "id": 146,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Know where your home's main electrical switch and water shut-off are located."
+      "title": "Know Your Main Switches",
+      "tip": "Know where your home's main electrical switch and water shut-off are located.",
+      "why": "You can act fast during a leak or electrical problem."
     },
     {
-      "day": 147,
+      "id": 147,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Do not leave cooking unattended when using high heat."
+      "title": "Never Leave Cooking Unattended",
+      "tip": "Do not leave cooking unattended when using high heat.",
+      "why": "Unattended cooking is a leading cause of home fires."
     },
     {
-      "day": 148,
+      "id": 148,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Keep flammable materials away from stoves, heaters and other heat sources."
+      "title": "Keep Flammables Away",
+      "tip": "Keep flammable materials away from stoves, heaters and other heat sources.",
+      "why": "Curtains, paper and cloth can catch fire quickly."
     },
     {
-      "day": 149,
+      "id": 149,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Test door and window locks periodically."
+      "title": "Check Your Locks",
+      "tip": "Test door and window locks periodically.",
+      "why": "Working locks are the first line of home security."
     },
     {
-      "day": 150,
+      "id": 150,
       "category": "Home Safety",
       "icon": "🏠",
-      "tip": "Keep important documents in a protected place and maintain backups."
+      "title": "Protect Key Documents",
+      "tip": "Keep important documents in a protected place and maintain backups.",
+      "why": "Replacing lost papers is slow and stressful."
     },
     {
-      "day": 151,
+      "id": 151,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Track your regular expenses for at least a month to understand where money goes."
+      "title": "Track Your Spending",
+      "tip": "Track your regular expenses for at least a month to understand where money goes.",
+      "why": "You cannot control spending you cannot see."
     },
     {
-      "day": 152,
+      "id": 152,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Build an emergency fund gradually if your income and circumstances allow."
+      "title": "Build an Emergency Fund",
+      "tip": "Build an emergency fund gradually if your income and circumstances allow.",
+      "why": "A cushion helps you handle surprises without borrowing."
     },
     {
-      "day": 153,
+      "id": 153,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Compare recurring subscriptions and cancel those you no longer use."
+      "title": "Cancel Unused Subscriptions",
+      "tip": "Compare recurring subscriptions and cancel those you no longer use.",
+      "why": "Small monthly charges add up to a lot over a year."
     },
     {
-      "day": 154,
+      "id": 154,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Review bank statements and transaction notifications regularly."
+      "title": "Review Your Statements",
+      "tip": "Review bank statements and transaction notifications regularly.",
+      "why": "Regular checks help you spot errors and fraud quickly."
     },
     {
-      "day": 155,
+      "id": 155,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Never share a banking PIN or OTP with another person."
+      "title": "Keep PINs Private",
+      "tip": "Never share a banking PIN or OTP with another person.",
+      "why": "Anyone with your PIN or OTP can access your money."
     },
     {
-      "day": 156,
+      "id": 156,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Keep a separate record of important financial account contact details."
+      "title": "Record Key Contacts",
+      "tip": "Keep a separate record of important financial account contact details.",
+      "why": "You can reach the right office fast if a card or account is lost."
     },
     {
-      "day": 157,
+      "id": 157,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Set spending limits for non-essential purchases when you are trying to save."
+      "title": "Set Spending Limits",
+      "tip": "Set spending limits for non-essential purchases when you are trying to save.",
+      "why": "Limits keep small treats from derailing your goals."
     },
     {
-      "day": 158,
+      "id": 158,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Wait before making an expensive impulse purchase."
+      "title": "Pause Before Big Purchases",
+      "tip": "Wait before making an expensive impulse purchase.",
+      "why": "Time often shows whether you really need the item."
     },
     {
-      "day": 159,
+      "id": 159,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Compare total cost, not just monthly payment, when evaluating a purchase."
+      "title": "Look at Total Cost",
+      "tip": "Compare total cost, not just monthly payment, when evaluating a purchase.",
+      "why": "Low monthly payments can hide high overall costs."
     },
     {
-      "day": 160,
+      "id": 160,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Keep receipts or digital records for important purchases and warranties."
+      "title": "Keep Your Receipts",
+      "tip": "Keep receipts or digital records for important purchases and warranties.",
+      "why": "You will need them for returns, repairs and warranty claims."
     },
     {
-      "day": 161,
+      "id": 161,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Pay attention to transaction alerts so unauthorized activity can be spotted quickly."
+      "title": "Watch Transaction Alerts",
+      "tip": "Pay attention to transaction alerts so unauthorized activity can be spotted quickly.",
+      "why": "Quick action can limit damage from fraud."
     },
     {
-      "day": 162,
+      "id": 162,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Use official banking websites or apps rather than links received in unexpected messages."
+      "title": "Bank Only Through Official Channels",
+      "tip": "Use official banking websites or apps rather than links received in unexpected messages.",
+      "why": "Fake links are a favourite trick of fraudsters."
     },
     {
-      "day": 163,
+      "id": 163,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Do not make an investment decision solely because someone promises guaranteed high returns."
+      "title": "Beware of Guaranteed Returns",
+      "tip": "Do not make an investment decision solely because someone promises guaranteed high returns.",
+      "why": "Real investments carry risk, and guaranteed high returns are a warning sign."
     },
     {
-      "day": 164,
+      "id": 164,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Understand fees and charges before signing up for a financial product."
+      "title": "Understand the Fees",
+      "tip": "Understand fees and charges before signing up for a financial product.",
+      "why": "Hidden charges can cost you far more than expected."
     },
     {
-      "day": 165,
+      "id": 165,
       "category": "Money & Finance",
       "icon": "💰",
-      "tip": "Keep nominee and beneficiary information up to date where applicable."
+      "title": "Update Nominees",
+      "tip": "Keep nominee and beneficiary information up to date where applicable.",
+      "why": "It makes sure your savings reach the right people."
     },
     {
-      "day": 166,
+      "id": 166,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Keep a digital and physical copy of important travel documents when appropriate."
+      "title": "Copy Travel Documents",
+      "tip": "Keep a digital and physical copy of important travel documents when appropriate.",
+      "why": "Copies make replacement easier if originals are lost."
     },
     {
-      "day": 167,
+      "id": 167,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Check the official source for current travel requirements before a journey."
+      "title": "Check Travel Rules",
+      "tip": "Check the official source for current travel requirements before a journey.",
+      "why": "Requirements change and being unprepared can ruin a trip."
     },
     {
-      "day": 168,
+      "id": 168,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Keep emergency contact information accessible while travelling."
+      "title": "Carry Emergency Contacts",
+      "tip": "Keep emergency contact information accessible while travelling.",
+      "why": "Help is faster when your contacts are at hand."
     },
     {
-      "day": 169,
+      "id": 169,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Share your itinerary with a trusted person for longer or unfamiliar trips."
+      "title": "Share Your Itinerary",
+      "tip": "Share your itinerary with a trusted person for longer or unfamiliar trips.",
+      "why": "Someone will know where you are if plans change."
     },
     {
-      "day": 170,
+      "id": 170,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Arrive early when an airport, station or appointment has strict check-in times."
+      "title": "Arrive Early",
+      "tip": "Arrive early when an airport, station or appointment has strict check-in times.",
+      "why": "Buffer time covers delays and avoids missed departures."
     },
     {
-      "day": 171,
+      "id": 171,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Keep valuables secure and avoid displaying large amounts of cash in crowded places."
+      "title": "Keep Valuables Secure",
+      "tip": "Keep valuables secure and avoid displaying large amounts of cash in crowded places.",
+      "why": "It reduces the chance of theft."
     },
     {
-      "day": 172,
+      "id": 172,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Use licensed transport services where applicable."
+      "title": "Use Licensed Transport",
+      "tip": "Use licensed transport services where applicable.",
+      "why": "Licensed services are generally safer and more accountable."
     },
     {
-      "day": 173,
+      "id": 173,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Check your booking details carefully before travelling."
+      "title": "Check Your Bookings",
+      "tip": "Check your booking details carefully before travelling.",
+      "why": "Wrong dates or names can cause serious problems."
     },
     {
-      "day": 174,
+      "id": 174,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Carry essential medicines in their original labelled packaging when appropriate."
+      "title": "Carry Medicines Properly",
+      "tip": "Carry essential medicines in their original labelled packaging when appropriate.",
+      "why": "Original packaging helps at checks and in emergencies."
     },
     {
-      "day": 175,
+      "id": 175,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Keep a small amount of local cash as a backup where cards or digital payments may fail."
+      "title": "Carry Backup Cash",
+      "tip": "Keep a small amount of local cash as a backup where cards or digital payments may fail.",
+      "why": "Networks fail, and cash can save the day."
     },
     {
-      "day": 176,
+      "id": 176,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Save important addresses and booking references offline before leaving."
+      "title": "Save Details Offline",
+      "tip": "Save important addresses and booking references offline before leaving.",
+      "why": "You can still find them when there is no signal."
     },
     {
-      "day": 177,
+      "id": 177,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Check weather conditions before outdoor travel."
+      "title": "Check the Weather",
+      "tip": "Check weather conditions before outdoor travel.",
+      "why": "Knowing the forecast helps you pack and plan safely."
     },
     {
-      "day": 178,
+      "id": 178,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Respect local rules, customs and protected areas."
+      "title": "Respect Local Rules",
+      "tip": "Respect local rules, customs and protected areas.",
+      "why": "It keeps you safe and protects places for others."
     },
     {
-      "day": 179,
+      "id": 179,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Keep children and vulnerable travellers within sight in crowded places."
+      "title": "Keep Children in Sight",
+      "tip": "Keep children and vulnerable travellers within sight in crowded places.",
+      "why": "Crowds make it easy to get separated."
     },
     {
-      "day": 180,
+      "id": 180,
       "category": "Travel",
       "icon": "✈️",
-      "tip": "Do not leave bags unattended in public transport areas."
+      "title": "Never Leave Bags Alone",
+      "tip": "Do not leave bags unattended in public transport areas.",
+      "why": "Unattended bags can be stolen or raise security alarms."
     },
     {
-      "day": 181,
+      "id": 181,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Carry a reusable bag when shopping."
+      "title": "Carry a Reusable Bag",
+      "tip": "Carry a reusable bag when shopping.",
+      "why": "It cuts down on single-use plastic."
     },
     {
-      "day": 182,
+      "id": 182,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Switch off lights when they are not needed."
+      "title": "Switch Off Unused Lights",
+      "tip": "Switch off lights when they are not needed.",
+      "why": "It saves electricity and money."
     },
     {
-      "day": 183,
+      "id": 183,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Use energy-efficient lighting where practical."
+      "title": "Choose Efficient Lighting",
+      "tip": "Use energy-efficient lighting where practical.",
+      "why": "LED bulbs use much less power and last longer."
     },
     {
-      "day": 184,
+      "id": 184,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Repair or reuse items before replacing them."
+      "title": "Repair Before Replacing",
+      "tip": "Repair or reuse items before replacing them.",
+      "why": "It reduces waste and saves money."
     },
     {
-      "day": 185,
+      "id": 185,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Separate recyclable materials according to your local waste system."
+      "title": "Sort Your Recyclables",
+      "tip": "Separate recyclable materials according to your local waste system.",
+      "why": "Proper sorting lets more materials be recycled."
     },
     {
-      "day": 186,
+      "id": 186,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Never burn plastic waste in the open."
+      "title": "Do Not Burn Plastic",
+      "tip": "Never burn plastic waste in the open.",
+      "why": "It releases toxic fumes that harm health and the environment."
     },
     {
-      "day": 187,
+      "id": 187,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Use water carefully while washing, cleaning and gardening."
+      "title": "Use Water Wisely",
+      "tip": "Use water carefully while washing, cleaning and gardening.",
+      "why": "Water is a limited resource worth saving."
     },
     {
-      "day": 188,
+      "id": 188,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Fix dripping taps promptly."
+      "title": "Fix Leaky Taps",
+      "tip": "Fix dripping taps promptly.",
+      "why": "A small drip wastes a surprising amount of water over time."
     },
     {
-      "day": 189,
+      "id": 189,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Plant suitable native or locally adapted plants when possible."
+      "title": "Plant Local Species",
+      "tip": "Plant suitable native or locally adapted plants when possible.",
+      "why": "They need less water and support local wildlife."
     },
     {
-      "day": 190,
+      "id": 190,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Use public transport, walking or cycling when practical and safe."
+      "title": "Travel Greener",
+      "tip": "Use public transport, walking or cycling when practical and safe.",
+      "why": "It reduces pollution, traffic and fuel costs."
     },
     {
-      "day": 191,
+      "id": 191,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Choose durable products instead of disposable alternatives when appropriate."
+      "title": "Choose Durable Products",
+      "tip": "Choose durable products instead of disposable alternatives when appropriate.",
+      "why": "They last longer and create less waste."
     },
     {
-      "day": 192,
+      "id": 192,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Compost suitable kitchen and garden waste where local conditions allow."
+      "title": "Compost Your Waste",
+      "tip": "Compost suitable kitchen and garden waste where local conditions allow.",
+      "why": "It turns scraps into soil nutrients and cuts garbage."
     },
     {
-      "day": 193,
+      "id": 193,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Keep batteries and electronic waste out of ordinary household garbage."
+      "title": "Dispose of E-Waste Properly",
+      "tip": "Keep batteries and electronic waste out of ordinary household garbage.",
+      "why": "They contain materials that can harm the environment."
     },
     {
-      "day": 194,
+      "id": 194,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Carry a refillable water bottle when practical."
+      "title": "Carry a Refillable Bottle",
+      "tip": "Carry a refillable water bottle when practical.",
+      "why": "It reduces plastic bottles and saves money."
     },
     {
-      "day": 195,
+      "id": 195,
       "category": "Environment",
       "icon": "🌱",
-      "tip": "Use natural light during the day when possible."
+      "title": "Use Daylight",
+      "tip": "Use natural light during the day when possible.",
+      "why": "It saves electricity and feels better to work in."
     },
     {
-      "day": 196,
+      "id": 196,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Choose plants that match the sunlight available in your garden or balcony."
+      "title": "Match Plants to Sunlight",
+      "tip": "Choose plants that match the sunlight available in your garden or balcony.",
+      "why": "Plants thrive when they get the light they need."
     },
     {
-      "day": 197,
+      "id": 197,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Check soil moisture before watering instead of watering automatically every day."
+      "title": "Check Soil Before Watering",
+      "tip": "Check soil moisture before watering instead of watering automatically every day.",
+      "why": "Overwatering can harm plants as much as underwatering."
     },
     {
-      "day": 198,
+      "id": 198,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Water plants near the soil rather than constantly wetting the leaves."
+      "title": "Water at the Soil",
+      "tip": "Water plants near the soil rather than constantly wetting the leaves.",
+      "why": "It reduces leaf diseases and wasted water."
     },
     {
-      "day": 199,
+      "id": 199,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Use mulch around suitable plants to help retain soil moisture."
+      "title": "Mulch Your Plants",
+      "tip": "Use mulch around suitable plants to help retain soil moisture.",
+      "why": "Mulch keeps soil moist and limits weeds."
     },
     {
-      "day": 200,
+      "id": 200,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Remove dead leaves and damaged plant material regularly."
+      "title": "Remove Dead Leaves",
+      "tip": "Remove dead leaves and damaged plant material regularly.",
+      "why": "It keeps plants healthy and discourages pests."
     },
     {
-      "day": 201,
+      "id": 201,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Use clean pots with drainage holes for container gardening."
+      "title": "Use Pots with Drainage",
+      "tip": "Use clean pots with drainage holes for container gardening.",
+      "why": "Standing water rots roots."
     },
     {
-      "day": 202,
+      "id": 202,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Label seedlings so you remember what you planted."
+      "title": "Label Your Seedlings",
+      "tip": "Label seedlings so you remember what you planted.",
+      "why": "Young plants look alike and are easy to confuse."
     },
     {
-      "day": 203,
+      "id": 203,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Introduce compost or other suitable organic matter according to the needs of your soil."
+      "title": "Feed Soil with Compost",
+      "tip": "Introduce compost or other suitable organic matter according to the needs of your soil.",
+      "why": "Healthy soil grows healthier plants."
     },
     {
-      "day": 204,
+      "id": 204,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Do not over-fertilize; more fertilizer is not always better."
+      "title": "Do Not Over-Fertilize",
+      "tip": "Do not over-fertilize; more fertilizer is not always better.",
+      "why": "Too much fertilizer can burn roots and harm plants."
     },
     {
-      "day": 205,
+      "id": 205,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Observe leaves for early signs of pests or nutrient problems."
+      "title": "Watch Your Leaves",
+      "tip": "Observe leaves for early signs of pests or nutrient problems.",
+      "why": "Leaves show trouble early, when it is easiest to fix."
     },
     {
-      "day": 206,
+      "id": 206,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Use natural pest-management methods where practical before resorting to stronger treatments."
+      "title": "Try Natural Pest Control",
+      "tip": "Use natural pest-management methods where practical before resorting to stronger treatments.",
+      "why": "Gentle methods protect helpful insects and the environment."
     },
     {
-      "day": 207,
+      "id": 207,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Choose containers large enough for the mature size of the plant."
+      "title": "Pick the Right Pot Size",
+      "tip": "Choose containers large enough for the mature size of the plant.",
+      "why": "Roots need room to grow."
     },
     {
-      "day": 208,
+      "id": 208,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Rotate containers periodically when plants grow unevenly toward light."
+      "title": "Rotate Your Containers",
+      "tip": "Rotate containers periodically when plants grow unevenly toward light.",
+      "why": "It keeps plants growing evenly."
     },
     {
-      "day": 209,
+      "id": 209,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Keep gardening tools clean and stored safely."
+      "title": "Care for Your Tools",
+      "tip": "Keep gardening tools clean and stored safely.",
+      "why": "Clean tools last longer and do not spread disease."
     },
     {
-      "day": 210,
+      "id": 210,
       "category": "Gardening",
       "icon": "🌿",
-      "tip": "Harvest vegetables and herbs at the appropriate stage for best quality."
+      "title": "Harvest at the Right Time",
+      "tip": "Harvest vegetables and herbs at the appropriate stage for best quality.",
+      "why": "Timing affects taste, texture and yield."
     },
     {
-      "day": 211,
+      "id": 211,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Listen fully before preparing your reply."
+      "title": "Listen First",
+      "tip": "Listen fully before preparing your reply.",
+      "why": "People feel respected, and you understand better."
     },
     {
-      "day": 212,
+      "id": 212,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Use simple language when explaining something complicated."
+      "title": "Keep It Simple",
+      "tip": "Use simple language when explaining something complicated.",
+      "why": "Plain words help everyone follow."
     },
     {
-      "day": 213,
+      "id": 213,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Ask a clarifying question when a request is ambiguous."
+      "title": "Ask When Unsure",
+      "tip": "Ask a clarifying question when a request is ambiguous.",
+      "why": "A short question prevents wasted effort."
     },
     {
-      "day": 214,
+      "id": 214,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Read important messages once before sending them."
+      "title": "Reread Before Sending",
+      "tip": "Read important messages once before sending them.",
+      "why": "It catches mistakes and unclear wording."
     },
     {
-      "day": 215,
+      "id": 215,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Put the main purpose of a message near the beginning."
+      "title": "Lead with the Point",
+      "tip": "Put the main purpose of a message near the beginning.",
+      "why": "Readers see what matters first."
     },
     {
-      "day": 216,
+      "id": 216,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Avoid writing angry replies immediately; wait until you can respond calmly."
+      "title": "Cool Down Before Replying",
+      "tip": "Avoid writing angry replies immediately; wait until you can respond calmly.",
+      "why": "A calm reply solves more than an angry one."
     },
     {
-      "day": 217,
+      "id": 217,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Use bullet points when a message contains several separate items."
+      "title": "Use Bullet Points",
+      "tip": "Use bullet points when a message contains several separate items.",
+      "why": "Lists are easier to scan and act on."
     },
     {
-      "day": 218,
+      "id": 218,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Confirm dates and times in writing for important appointments."
+      "title": "Confirm in Writing",
+      "tip": "Confirm dates and times in writing for important appointments.",
+      "why": "It prevents misunderstandings about when and where."
     },
     {
-      "day": 219,
+      "id": 219,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Use respectful language even when disagreeing."
+      "title": "Disagree Respectfully",
+      "tip": "Use respectful language even when disagreeing.",
+      "why": "Respect keeps discussions productive."
     },
     {
-      "day": 220,
+      "id": 220,
       "category": "Communication",
       "icon": "💬",
-      "tip": "On a phone call, repeat critical numbers or names to confirm accuracy."
+      "title": "Repeat Key Details",
+      "tip": "On a phone call, repeat critical numbers or names to confirm accuracy.",
+      "why": "It avoids costly mistakes on calls."
     },
     {
-      "day": 221,
+      "id": 221,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Do not forward private messages without permission."
+      "title": "Respect Privacy",
+      "tip": "Do not forward private messages without permission.",
+      "why": "Trust is hard to rebuild once broken."
     },
     {
-      "day": 222,
+      "id": 222,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Give specific feedback about the work rather than attacking the person."
+      "title": "Give Specific Feedback",
+      "tip": "Give specific feedback about the work rather than attacking the person.",
+      "why": "It helps people improve without feeling attacked."
     },
     {
-      "day": 223,
+      "id": 223,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Say what action you need and by when when making a work request."
+      "title": "Make Clear Requests",
+      "tip": "Say what action you need and by when when making a work request.",
+      "why": "Clear asks get faster, better results."
     },
     {
-      "day": 224,
+      "id": 224,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Use a subject line that helps the recipient understand the email quickly."
+      "title": "Write Helpful Subjects",
+      "tip": "Use a subject line that helps the recipient understand the email quickly.",
+      "why": "Readers can prioritise and find it later."
     },
     {
-      "day": 225,
+      "id": 225,
       "category": "Communication",
       "icon": "💬",
-      "tip": "Keep routine group messages concise so important information is easy to find."
+      "title": "Keep Group Messages Short",
+      "tip": "Keep routine group messages concise so important information is easy to find.",
+      "why": "Short messages are read and not missed."
     },
     {
-      "day": 226,
+      "id": 226,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Keep your résumé or professional profile updated as you gain new skills."
+      "title": "Update Your Profile",
+      "tip": "Keep your résumé or professional profile updated as you gain new skills.",
+      "why": "You are ready when opportunities appear."
     },
     {
-      "day": 227,
+      "id": 227,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Maintain a simple record of completed projects and measurable results."
+      "title": "Record Your Results",
+      "tip": "Maintain a simple record of completed projects and measurable results.",
+      "why": "Proof of results strengthens applications and reviews."
     },
     {
-      "day": 228,
+      "id": 228,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Learn one useful skill related to your work every month."
+      "title": "Learn Something Monthly",
+      "tip": "Learn one useful skill related to your work every month.",
+      "why": "Small steady learning compounds over time."
     },
     {
-      "day": 229,
+      "id": 229,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Keep professional documents in a consistent folder structure."
+      "title": "Organise Work Documents",
+      "tip": "Keep professional documents in a consistent folder structure.",
+      "why": "You find what you need in seconds."
     },
     {
-      "day": 230,
+      "id": 230,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Confirm project requirements before starting major work."
+      "title": "Confirm Requirements First",
+      "tip": "Confirm project requirements before starting major work.",
+      "why": "It prevents rework and disappointment."
     },
     {
-      "day": 231,
+      "id": 231,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Write down agreed deadlines and responsibilities after important discussions."
+      "title": "Document Agreements",
+      "tip": "Write down agreed deadlines and responsibilities after important discussions.",
+      "why": "Written notes avoid later disputes."
     },
     {
-      "day": 232,
+      "id": 232,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Keep a backup of business-critical files."
+      "title": "Back Up Business Files",
+      "tip": "Keep a backup of business-critical files.",
+      "why": "Losing key files can halt a business."
     },
     {
-      "day": 233,
+      "id": 233,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Use a professional email address for formal business communication."
+      "title": "Use a Professional Email",
+      "tip": "Use a professional email address for formal business communication.",
+      "why": "It builds trust with clients."
     },
     {
-      "day": 234,
+      "id": 234,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Respond to genuine customer questions clearly and courteously."
+      "title": "Answer Customers Well",
+      "tip": "Respond to genuine customer questions clearly and courteously.",
+      "why": "Good service earns loyalty and referrals."
     },
     {
-      "day": 235,
+      "id": 235,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Track income and business expenses separately when appropriate."
+      "title": "Separate Income and Expenses",
+      "tip": "Track income and business expenses separately when appropriate.",
+      "why": "It makes profit, taxes and planning clearer."
     },
     {
-      "day": 236,
+      "id": 236,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Create a simple checklist for repetitive client work."
+      "title": "Use Checklists",
+      "tip": "Create a simple checklist for repetitive client work.",
+      "why": "Checklists reduce errors and save time."
     },
     {
-      "day": 237,
+      "id": 237,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Review your pricing and costs periodically instead of guessing."
+      "title": "Review Your Pricing",
+      "tip": "Review your pricing and costs periodically instead of guessing.",
+      "why": "Costs change, and prices should keep up."
     },
     {
-      "day": 238,
+      "id": 238,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Protect customer data and share it only when necessary and authorized."
+      "title": "Protect Customer Data",
+      "tip": "Protect customer data and share it only when necessary and authorized.",
+      "why": "Customers trust you with their information."
     },
     {
-      "day": 239,
+      "id": 239,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Keep written records of important business agreements."
+      "title": "Keep Written Agreements",
+      "tip": "Keep written records of important business agreements.",
+      "why": "Written records protect both sides."
     },
     {
-      "day": 240,
+      "id": 240,
       "category": "Career & Business",
       "icon": "💼",
-      "tip": "Ask for feedback after completing a project."
+      "title": "Ask for Feedback",
+      "tip": "Ask for feedback after completing a project.",
+      "why": "It shows what to improve and what to repeat."
     },
     {
-      "day": 241,
+      "id": 241,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Give every important web page a clear, descriptive title."
+      "title": "Write Clear Page Titles",
+      "tip": "Give every important web page a clear, descriptive title.",
+      "why": "Titles help people and search engines understand the page."
     },
     {
-      "day": 242,
+      "id": 242,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Use one clear main heading for the page topic."
+      "title": "Use One Main Heading",
+      "tip": "Use one clear main heading for the page topic.",
+      "why": "It tells readers what the page is about."
     },
     {
-      "day": 243,
+      "id": 243,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Write meaningful link text instead of generic text such as click here."
+      "title": "Write Meaningful Links",
+      "tip": "Write meaningful link text instead of generic text such as click here.",
+      "why": "Descriptive links help users and accessibility tools."
     },
     {
-      "day": 244,
+      "id": 244,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Compress large images before uploading them to improve page speed."
+      "title": "Compress Your Images",
+      "tip": "Compress large images before uploading them to improve page speed.",
+      "why": "Smaller images make pages load faster."
     },
     {
-      "day": 245,
+      "id": 245,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Use descriptive alt text for meaningful images."
+      "title": "Add Alt Text",
+      "tip": "Use descriptive alt text for meaningful images.",
+      "why": "It helps visually impaired users and search engines."
     },
     {
-      "day": 246,
+      "id": 246,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Make sure important pages are reachable through normal navigation."
+      "title": "Make Pages Easy to Reach",
+      "tip": "Make sure important pages are reachable through normal navigation.",
+      "why": "Hidden pages are rarely visited or indexed."
     },
     {
-      "day": 247,
+      "id": 247,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Test your website on a mobile phone as well as a desktop."
+      "title": "Test on Mobile",
+      "tip": "Test your website on a mobile phone as well as a desktop.",
+      "why": "Most visitors use phones."
     },
     {
-      "day": 248,
+      "id": 248,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Keep contact information easy to find on business pages."
+      "title": "Show Contact Details",
+      "tip": "Keep contact information easy to find on business pages.",
+      "why": "Visitors trust sites they can reach."
     },
     {
-      "day": 249,
+      "id": 249,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Use HTTPS for websites that handle accounts, forms or sensitive information."
+      "title": "Use HTTPS",
+      "tip": "Use HTTPS for websites that handle accounts, forms or sensitive information.",
+      "why": "It encrypts data and builds trust."
     },
     {
-      "day": 250,
+      "id": 250,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Check broken links periodically."
+      "title": "Fix Broken Links",
+      "tip": "Check broken links periodically.",
+      "why": "Broken links frustrate visitors and hurt credibility."
     },
     {
-      "day": 251,
+      "id": 251,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Write useful page descriptions that accurately summarize the content."
+      "title": "Write Honest Descriptions",
+      "tip": "Write useful page descriptions that accurately summarize the content.",
+      "why": "Good descriptions attract the right visitors."
     },
     {
-      "day": 252,
+      "id": 252,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Use readable font sizes and sufficient contrast."
+      "title": "Make Text Readable",
+      "tip": "Use readable font sizes and sufficient contrast.",
+      "why": "Everyone benefits from clear text."
     },
     {
-      "day": 253,
+      "id": 253,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Do not hide important information only behind hover effects."
+      "title": "Avoid Hover-Only Content",
+      "tip": "Do not hide important information only behind hover effects.",
+      "why": "Touch screens and keyboards cannot hover."
     },
     {
-      "day": 254,
+      "id": 254,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Keep URLs short and descriptive when you control the URL structure."
+      "title": "Keep URLs Short",
+      "tip": "Keep URLs short and descriptive when you control the URL structure.",
+      "why": "Clean URLs are easier to read and share."
     },
     {
-      "day": 255,
+      "id": 255,
       "category": "Web & SEO",
       "icon": "🌐",
-      "tip": "Add structured data only when it accurately represents the page."
+      "title": "Use Structured Data Honestly",
+      "tip": "Add structured data only when it accurately represents the page.",
+      "why": "Misleading data can lead to penalties."
     },
     {
-      "day": 256,
+      "id": 256,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Treat AI output as a draft that should be checked before important use."
+      "title": "Treat AI Output as a Draft",
+      "tip": "Treat AI output as a draft that should be checked before important use.",
+      "why": "AI can sound confident and still be wrong."
     },
     {
-      "day": 257,
+      "id": 257,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Do not paste passwords, OTPs or confidential personal data into an AI tool."
+      "title": "Keep Secrets Out of AI",
+      "tip": "Do not paste passwords, OTPs or confidential personal data into an AI tool.",
+      "why": "Sensitive data should not leave your control."
     },
     {
-      "day": 258,
+      "id": 258,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Give an AI tool clear context and a specific task when asking for help."
+      "title": "Give Clear Prompts",
+      "tip": "Give an AI tool clear context and a specific task when asking for help.",
+      "why": "Clear context gives better answers."
     },
     {
-      "day": 259,
+      "id": 259,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Ask for a structured answer when you need a checklist, table or step-by-step guide."
+      "title": "Ask for Structure",
+      "tip": "Ask for a structured answer when you need a checklist, table or step-by-step guide.",
+      "why": "The format you request shapes how useful the result is."
     },
     {
-      "day": 260,
+      "id": 260,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Verify important factual claims using reliable sources."
+      "title": "Verify Important Facts",
+      "tip": "Verify important factual claims using reliable sources.",
+      "why": "It guards against mistakes and misinformation."
     },
     {
-      "day": 261,
+      "id": 261,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Use AI to generate ideas, then apply your own judgment to choose the best one."
+      "title": "Use AI for Ideas",
+      "tip": "Use AI to generate ideas, then apply your own judgment to choose the best one.",
+      "why": "AI offers options, and you make the final call."
     },
     {
-      "day": 262,
+      "id": 262,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Keep a human review step for customer-facing or high-impact content."
+      "title": "Keep a Human in the Loop",
+      "tip": "Keep a human review step for customer-facing or high-impact content.",
+      "why": "Important content deserves a human check."
     },
     {
-      "day": 263,
+      "id": 263,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Save useful prompts that consistently produce good results."
+      "title": "Save Your Best Prompts",
+      "tip": "Save useful prompts that consistently produce good results.",
+      "why": "Reusing good prompts saves time."
     },
     {
-      "day": 264,
+      "id": 264,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Break complex tasks into smaller AI-assisted steps."
+      "title": "Work in Small Steps",
+      "tip": "Break complex tasks into smaller AI-assisted steps.",
+      "why": "Smaller steps give better, easier-to-check results."
     },
     {
-      "day": 265,
+      "id": 265,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Ask AI to identify assumptions and possible errors in a draft."
+      "title": "Ask AI to Review",
+      "tip": "Ask AI to identify assumptions and possible errors in a draft.",
+      "why": "It can reveal blind spots you may miss."
     },
     {
-      "day": 266,
+      "id": 266,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Use AI for practice and explanation, not as a substitute for learning the fundamentals."
+      "title": "Learn the Basics Yourself",
+      "tip": "Use AI for practice and explanation, not as a substitute for learning the fundamentals.",
+      "why": "Fundamentals let you judge whether AI is right."
     },
     {
-      "day": 267,
+      "id": 267,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Check generated code before using it on a production website."
+      "title": "Test Generated Code",
+      "tip": "Check generated code before using it on a production website.",
+      "why": "Untested code can break your live site."
     },
     {
-      "day": 268,
+      "id": 268,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Back up important files before making major automated changes."
+      "title": "Back Up Before Automating",
+      "tip": "Back up important files before making major automated changes.",
+      "why": "Automation can change many files at once."
     },
     {
-      "day": 269,
+      "id": 269,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Do not assume an AI-generated image or text is automatically free of legal restrictions."
+      "title": "Mind the Legal Side",
+      "tip": "Do not assume an AI-generated image or text is automatically free of legal restrictions.",
+      "why": "Copyright and usage rules may still apply."
     },
     {
-      "day": 270,
+      "id": 270,
       "category": "AI & Digital Skills",
       "icon": "🤖",
-      "tip": "Use official documentation when learning how an important software feature works."
+      "title": "Read Official Documentation",
+      "tip": "Use official documentation when learning how an important software feature works.",
+      "why": "It is the most accurate source."
     },
     {
-      "day": 271,
+      "id": 271,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Give frequently used items a consistent storage location."
+      "title": "Give Items a Home",
+      "tip": "Give frequently used items a consistent storage location.",
+      "why": "You never waste time searching for them."
     },
     {
-      "day": 272,
+      "id": 272,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Keep a small donation or discard box for things you no longer need."
+      "title": "Keep a Donation Box",
+      "tip": "Keep a small donation or discard box for things you no longer need.",
+      "why": "Clutter leaves your home steadily and helps others."
     },
     {
-      "day": 273,
+      "id": 273,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Clean one small area at a time instead of waiting for the whole house to become messy."
+      "title": "Clean a Little at a Time",
+      "tip": "Clean one small area at a time instead of waiting for the whole house to become messy.",
+      "why": "Small daily efforts beat big cleaning days."
     },
     {
-      "day": 274,
+      "id": 274,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Store cleaning supplies together and safely away from food."
+      "title": "Store Cleaners Safely",
+      "tip": "Store cleaning supplies together and safely away from food.",
+      "why": "It prevents accidental contamination or poisoning."
     },
     {
-      "day": 275,
+      "id": 275,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Use labels on boxes that contain items you rarely access."
+      "title": "Label Your Boxes",
+      "tip": "Use labels on boxes that contain items you rarely access.",
+      "why": "You find stored items fast."
     },
     {
-      "day": 276,
+      "id": 276,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Keep frequently used documents in one accessible but secure place."
+      "title": "Keep Documents Together",
+      "tip": "Keep frequently used documents in one accessible but secure place.",
+      "why": "They are easy to find and safe from loss."
     },
     {
-      "day": 277,
+      "id": 277,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Check expiry dates on medicines and household products periodically."
+      "title": "Check Expiry Dates",
+      "tip": "Check expiry dates on medicines and household products periodically.",
+      "why": "Expired items may be ineffective or unsafe."
     },
     {
-      "day": 278,
+      "id": 278,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Clean refrigerator shelves before restocking groceries."
+      "title": "Clean the Fridge",
+      "tip": "Clean refrigerator shelves before restocking groceries.",
+      "why": "A clean fridge keeps food fresher and safer."
     },
     {
-      "day": 279,
+      "id": 279,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Keep a small household repair kit together."
+      "title": "Keep a Repair Kit",
+      "tip": "Keep a small household repair kit together.",
+      "why": "Quick fixes prevent bigger repairs later."
     },
     {
-      "day": 280,
+      "id": 280,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Photograph important household equipment labels so model and serial information is easy to find."
+      "title": "Photograph Equipment Labels",
+      "tip": "Photograph important household equipment labels so model and serial information is easy to find.",
+      "why": "Warranty and repair calls become much easier."
     },
     {
-      "day": 281,
+      "id": 281,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Create a simple list of regular household maintenance tasks."
+      "title": "List Maintenance Tasks",
+      "tip": "Create a simple list of regular household maintenance tasks.",
+      "why": "Regular upkeep prevents expensive breakdowns."
     },
     {
-      "day": 282,
+      "id": 282,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Wash reusable water bottles and containers regularly."
+      "title": "Wash Reusable Bottles",
+      "tip": "Wash reusable water bottles and containers regularly.",
+      "why": "Germs build up in damp containers."
     },
     {
-      "day": 283,
+      "id": 283,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Keep cables organized and label chargers if several look similar."
+      "title": "Organise Your Cables",
+      "tip": "Keep cables organized and label chargers if several look similar.",
+      "why": "It prevents tangles and wrong-charger mistakes."
     },
     {
-      "day": 284,
+      "id": 284,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Store batteries so loose terminals cannot accidentally contact conductive objects."
+      "title": "Store Batteries Safely",
+      "tip": "Store batteries so loose terminals cannot accidentally contact conductive objects.",
+      "why": "Contact with metal can cause heat or fire."
     },
     {
-      "day": 285,
+      "id": 285,
       "category": "Home Organization",
       "icon": "🧹",
-      "tip": "Keep spare keys in a secure location rather than an obvious hiding place."
+      "title": "Hide Spare Keys Wisely",
+      "tip": "Keep spare keys in a secure location rather than an obvious hiding place.",
+      "why": "Obvious hiding places are the first ones thieves check."
     },
     {
-      "day": 286,
+      "id": 286,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Wear a helmet that fits properly when riding a two-wheeler."
+      "title": "Wear a Helmet",
+      "tip": "Wear a helmet that fits properly when riding a two-wheeler.",
+      "why": "A properly fitted helmet greatly lowers the risk of head injury."
     },
     {
-      "day": 287,
+      "id": 287,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Always wear a seat belt in a car."
+      "title": "Buckle Up",
+      "tip": "Always wear a seat belt in a car.",
+      "why": "Seat belts save lives in crashes."
     },
     {
-      "day": 288,
+      "id": 288,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Do not use a handheld phone while driving."
+      "title": "No Phone While Driving",
+      "tip": "Do not use a handheld phone while driving.",
+      "why": "Distraction is a major cause of accidents."
     },
     {
-      "day": 289,
+      "id": 289,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Slow down near schools, markets and residential areas."
+      "title": "Slow Down in Busy Areas",
+      "tip": "Slow down near schools, markets and residential areas.",
+      "why": "Children and pedestrians can appear suddenly."
     },
     {
-      "day": 290,
+      "id": 290,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Use indicators before turning or changing lanes."
+      "title": "Signal Before Turning",
+      "tip": "Use indicators before turning or changing lanes.",
+      "why": "Other road users cannot guess your plans."
     },
     {
-      "day": 291,
+      "id": 291,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Keep a safe following distance from the vehicle ahead."
+      "title": "Keep Your Distance",
+      "tip": "Keep a safe following distance from the vehicle ahead.",
+      "why": "It gives you time to brake safely."
     },
     {
-      "day": 292,
+      "id": 292,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Check mirrors before changing lanes."
+      "title": "Check Your Mirrors",
+      "tip": "Check mirrors before changing lanes.",
+      "why": "It reveals vehicles in your blind areas."
     },
     {
-      "day": 293,
+      "id": 293,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Do not drive when impaired by alcohol, drugs or severe fatigue."
+      "title": "Never Drive Impaired",
+      "tip": "Do not drive when impaired by alcohol, drugs or severe fatigue.",
+      "why": "Impaired driving endangers everyone."
     },
     {
-      "day": 294,
+      "id": 294,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Use headlights appropriately in low-visibility conditions."
+      "title": "Use Headlights in Poor Light",
+      "tip": "Use headlights appropriately in low-visibility conditions.",
+      "why": "Being seen is as important as seeing."
     },
     {
-      "day": 295,
+      "id": 295,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Check tyre pressure according to the vehicle manufacturer's guidance."
+      "title": "Check Tyre Pressure",
+      "tip": "Check tyre pressure according to the vehicle manufacturer's guidance.",
+      "why": "Correct pressure improves safety and fuel economy."
     },
     {
-      "day": 296,
+      "id": 296,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Keep important vehicle documents accessible as required."
+      "title": "Carry Vehicle Documents",
+      "tip": "Keep important vehicle documents accessible as required.",
+      "why": "You must produce them when asked."
     },
     {
-      "day": 297,
+      "id": 297,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Give pedestrians adequate space at crossings."
+      "title": "Respect Pedestrians",
+      "tip": "Give pedestrians adequate space at crossings.",
+      "why": "Giving space prevents accidents."
     },
     {
-      "day": 298,
+      "id": 298,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Do not assume another driver has seen you; make your intentions clear."
+      "title": "Do Not Assume",
+      "tip": "Do not assume another driver has seen you; make your intentions clear.",
+      "why": "Defensive driving prevents collisions."
     },
     {
-      "day": 299,
+      "id": 299,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Keep children in age-appropriate restraints when travelling by car."
+      "title": "Use Child Restraints",
+      "tip": "Keep children in age-appropriate restraints when travelling by car.",
+      "why": "Adult seat belts do not protect small children properly."
     },
     {
-      "day": 300,
+      "id": 300,
       "category": "Road Safety",
       "icon": "🚗",
-      "tip": "Stop in a safe location before handling navigation or messages."
+      "title": "Stop Before Using Your Phone",
+      "tip": "Stop in a safe location before handling navigation or messages.",
+      "why": "Safe stops prevent distracted driving."
     },
     {
-      "day": 301,
+      "id": 301,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Keep emergency numbers saved in your phone and accessible offline."
+      "title": "Save Emergency Numbers",
+      "tip": "Keep emergency numbers saved in your phone and accessible offline.",
+      "why": "Seconds matter in an emergency."
     },
     {
-      "day": 302,
+      "id": 302,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Learn the location of the nearest appropriate hospital or emergency facility for your household."
+      "title": "Know Your Nearest Hospital",
+      "tip": "Learn the location of the nearest appropriate hospital or emergency facility for your household.",
+      "why": "You will not waste time searching in a crisis."
     },
     {
-      "day": 303,
+      "id": 303,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Keep a first-aid kit stocked with basic supplies and check it periodically."
+      "title": "Check Your First-Aid Kit",
+      "tip": "Keep a first-aid kit stocked with basic supplies and check it periodically.",
+      "why": "Supplies expire or run out."
     },
     {
-      "day": 304,
+      "id": 304,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Call emergency services promptly for life-threatening situations."
+      "title": "Call for Help Early",
+      "tip": "Call emergency services promptly for life-threatening situations.",
+      "why": "Fast response saves lives."
     },
     {
-      "day": 305,
+      "id": 305,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Do not give food or drink to an unconscious person."
+      "title": "No Food for the Unconscious",
+      "tip": "Do not give food or drink to an unconscious person.",
+      "why": "They may choke."
     },
     {
-      "day": 306,
+      "id": 306,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "For a serious burn, cool the area with cool running water and seek appropriate medical care; avoid applying ice directly."
+      "title": "Cool Burns Correctly",
+      "tip": "For a serious burn, cool the area with cool running water and seek appropriate medical care; avoid applying ice directly.",
+      "why": "Cool water reduces damage, while ice can harm the skin."
     },
     {
-      "day": 307,
+      "id": 307,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "If someone is choking and cannot breathe or speak, use appropriate emergency first-aid measures and call for help."
+      "title": "Act Fast for Choking",
+      "tip": "If someone is choking and cannot breathe or speak, use appropriate emergency first-aid measures and call for help.",
+      "why": "Choking can become fatal within minutes."
     },
     {
-      "day": 308,
+      "id": 308,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Do not move a seriously injured person unnecessarily unless there is immediate danger."
+      "title": "Avoid Moving the Injured",
+      "tip": "Do not move a seriously injured person unnecessarily unless there is immediate danger.",
+      "why": "Moving can worsen spinal or internal injuries."
     },
     {
-      "day": 309,
+      "id": 309,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Learn CPR from a qualified training provider rather than relying only on a written tip."
+      "title": "Learn CPR Properly",
+      "tip": "Learn CPR from a qualified training provider rather than relying only on a written tip.",
+      "why": "Hands-on training builds the skill you need."
     },
     {
-      "day": 310,
+      "id": 310,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Keep emergency medical information accessible for children and older family members."
+      "title": "Keep Medical Information Ready",
+      "tip": "Keep emergency medical information accessible for children and older family members.",
+      "why": "Responders can treat them correctly."
     },
     {
-      "day": 311,
+      "id": 311,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Know the safest exit route from your home or workplace."
+      "title": "Know Your Exit Route",
+      "tip": "Know the safest exit route from your home or workplace.",
+      "why": "Planning ahead helps you stay calm."
     },
     {
-      "day": 312,
+      "id": 312,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Keep a torch available during power failures."
+      "title": "Keep a Torch for Outages",
+      "tip": "Keep a torch available during power failures.",
+      "why": "It is a safer light source than candles."
     },
     {
-      "day": 313,
+      "id": 313,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "During severe weather, follow official local emergency instructions."
+      "title": "Follow Official Guidance",
+      "tip": "During severe weather, follow official local emergency instructions.",
+      "why": "Authorities have the latest information."
     },
     {
-      "day": 314,
+      "id": 314,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Teach children how to give their name, location and a callback number in an emergency."
+      "title": "Teach Children Emergency Basics",
+      "tip": "Teach children how to give their name, location and a callback number in an emergency.",
+      "why": "It helps responders reach them."
     },
     {
-      "day": 315,
+      "id": 315,
       "category": "First Aid & Emergency",
       "icon": "🚑",
-      "tip": "Keep important medicines and medical devices ready when preparing for travel."
+      "title": "Pack Medical Essentials",
+      "tip": "Keep important medicines and medical devices ready when preparing for travel.",
+      "why": "Missing medicines can ruin or endanger a trip."
     },
     {
-      "day": 316,
+      "id": 316,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Set one small achievable goal instead of ten vague goals."
+      "title": "Set One Clear Goal",
+      "tip": "Set one small achievable goal instead of ten vague goals.",
+      "why": "Focus makes progress possible."
     },
     {
-      "day": 317,
+      "id": 317,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Review what went well at the end of each week."
+      "title": "Review Your Wins",
+      "tip": "Review what went well at the end of each week.",
+      "why": "Noticing progress builds motivation."
     },
     {
-      "day": 318,
+      "id": 318,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Turn a mistake into a written lesson rather than simply feeling bad about it."
+      "title": "Learn from Mistakes",
+      "tip": "Turn a mistake into a written lesson rather than simply feeling bad about it.",
+      "why": "A written lesson helps avoid repeating errors."
     },
     {
-      "day": 319,
+      "id": 319,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Read a few pages of a useful book regularly."
+      "title": "Read a Little Daily",
+      "tip": "Read a few pages of a useful book regularly.",
+      "why": "Small daily reading adds up to many books."
     },
     {
-      "day": 320,
+      "id": 320,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Practice one skill repeatedly instead of constantly switching to new skills."
+      "title": "Practise One Skill",
+      "tip": "Practice one skill repeatedly instead of constantly switching to new skills.",
+      "why": "Depth beats scattered attempts."
     },
     {
-      "day": 321,
+      "id": 321,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Keep promises you make to yourself as well as promises you make to others."
+      "title": "Keep Promises to Yourself",
+      "tip": "Keep promises you make to yourself as well as promises you make to others.",
+      "why": "It builds self-trust."
     },
     {
-      "day": 322,
+      "id": 322,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Say no politely when a commitment would make your workload unrealistic."
+      "title": "Learn to Say No",
+      "tip": "Say no politely when a commitment would make your workload unrealistic.",
+      "why": "Overcommitting harms quality and health."
     },
     {
-      "day": 323,
+      "id": 323,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Spend a few minutes planning tomorrow before ending today."
+      "title": "Plan Tomorrow Tonight",
+      "tip": "Spend a few minutes planning tomorrow before ending today.",
+      "why": "You start the day with direction."
     },
     {
-      "day": 324,
+      "id": 324,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Measure progress against your previous performance rather than someone else's highlight reel."
+      "title": "Compare with Your Past Self",
+      "tip": "Measure progress against your previous performance rather than someone else's highlight reel.",
+      "why": "Others' highlights hide their struggles."
     },
     {
-      "day": 325,
+      "id": 325,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Ask for constructive feedback from people you trust."
+      "title": "Seek Honest Feedback",
+      "tip": "Ask for constructive feedback from people you trust.",
+      "why": "Others see what you miss."
     },
     {
-      "day": 326,
+      "id": 326,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Keep a record of achievements you might otherwise forget."
+      "title": "Record Your Achievements",
+      "tip": "Keep a record of achievements you might otherwise forget.",
+      "why": "It helps in tough times and in job reviews."
     },
     {
-      "day": 327,
+      "id": 327,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Replace 'I cannot' with 'I cannot yet' when you are learning a new skill."
+      "title": "Say \"Not Yet\"",
+      "tip": "Replace 'I cannot' with 'I cannot yet' when you are learning a new skill.",
+      "why": "It reminds you that skills grow with practice."
     },
     {
-      "day": 328,
+      "id": 328,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Use a timer when you want to start a task you have been avoiding."
+      "title": "Use a Timer to Start",
+      "tip": "Use a timer when you want to start a task you have been avoiding.",
+      "why": "Ten minutes is easier to begin than a whole task."
     },
     {
-      "day": 329,
+      "id": 329,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Make your environment support the habit you want to build."
+      "title": "Shape Your Environment",
+      "tip": "Make your environment support the habit you want to build.",
+      "why": "Easy habits are the ones that are in sight."
     },
     {
-      "day": 330,
+      "id": 330,
       "category": "Personal Development",
       "icon": "🎯",
-      "tip": "Learn from people who have practical experience in the skill you are developing."
+      "title": "Learn from Experienced People",
+      "tip": "Learn from people who have practical experience in the skill you are developing.",
+      "why": "Experience shortens your learning curve."
     },
     {
-      "day": 331,
+      "id": 331,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "The Earth rotates once roughly every 24 hours, producing the cycle of day and night."
+      "title": "Earth's Daily Rotation",
+      "tip": "The Earth rotates once roughly every 24 hours, producing the cycle of day and night.",
+      "why": "This turning gives us day and night."
     },
     {
-      "day": 332,
+      "id": 332,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "Water freezes at 0°C under standard atmospheric pressure."
+      "title": "Freezing Point of Water",
+      "tip": "Water freezes at 0°C under standard atmospheric pressure.",
+      "why": "It is a key reference point on the Celsius scale."
     },
     {
-      "day": 333,
+      "id": 333,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "Water boils at about 100°C under standard atmospheric pressure; boiling point changes with altitude."
+      "title": "Boiling Point of Water",
+      "tip": "Water boils at about 100°C under standard atmospheric pressure; boiling point changes with altitude.",
+      "why": "It is lower at high altitude, which affects cooking."
     },
     {
-      "day": 334,
+      "id": 334,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "The largest ocean on Earth is the Pacific Ocean."
+      "title": "The Pacific Ocean",
+      "tip": "The largest ocean on Earth is the Pacific Ocean.",
+      "why": "It covers more area than all the land combined."
     },
     {
-      "day": 335,
+      "id": 335,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "The Himalayas contain some of the world's highest mountains."
+      "title": "The Himalayas",
+      "tip": "The Himalayas contain some of the world's highest mountains.",
+      "why": "They include Mount Everest, Earth's highest peak above sea level."
     },
     {
-      "day": 336,
+      "id": 336,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "Photosynthesis allows green plants to use light energy to help make food from carbon dioxide and water."
+      "title": "How Plants Make Food",
+      "tip": "Photosynthesis allows green plants to use light energy to help make food from carbon dioxide and water.",
+      "why": "It also releases the oxygen we breathe."
     },
     {
-      "day": 337,
+      "id": 337,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "An adult human skeleton normally has 206 bones, although individual variation exists."
+      "title": "Bones in the Human Body",
+      "tip": "An adult human skeleton normally has 206 bones, although individual variation exists.",
+      "why": "Babies are born with more, and many bones fuse as they grow."
     },
     {
-      "day": 338,
+      "id": 338,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "Lightning is a powerful electrical discharge in the atmosphere."
+      "title": "What Is Lightning?",
+      "tip": "Lightning is a powerful electrical discharge in the atmosphere.",
+      "why": "It is far hotter than the surface of the Sun."
     },
     {
-      "day": 339,
+      "id": 339,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "The Moon does not produce its own visible light; it reflects sunlight."
+      "title": "Moonlight Is Reflected",
+      "tip": "The Moon does not produce its own visible light; it reflects sunlight.",
+      "why": "The Moon only shines because the Sun lights it."
     },
     {
-      "day": 340,
+      "id": 340,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "Sound generally travels faster through solids than through air."
+      "title": "Sound Speed",
+      "tip": "Sound generally travels faster through solids than through air.",
+      "why": "Particles in solids are closer together and pass vibrations faster."
     },
     {
-      "day": 341,
+      "id": 341,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "Earth's atmosphere is composed mainly of nitrogen and oxygen."
+      "title": "What We Breathe",
+      "tip": "Earth's atmosphere is composed mainly of nitrogen and oxygen.",
+      "why": "Nitrogen makes up most of the air, and oxygen is about a fifth."
     },
     {
-      "day": 342,
+      "id": 342,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "A leap year usually has 366 days rather than 365."
+      "title": "Leap Years",
+      "tip": "A leap year usually has 366 days rather than 365.",
+      "why": "The extra day keeps our calendar aligned with Earth's orbit."
     },
     {
-      "day": 343,
+      "id": 343,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "The equator is an imaginary line around Earth at 0 degrees latitude."
+      "title": "The Equator",
+      "tip": "The equator is an imaginary line around Earth at 0 degrees latitude.",
+      "why": "It divides Earth into the Northern and Southern Hemispheres."
     },
     {
-      "day": 344,
+      "id": 344,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "A compass needle generally points toward magnetic north, not geographic north."
+      "title": "Compass and Magnetic North",
+      "tip": "A compass needle generally points toward magnetic north, not geographic north.",
+      "why": "The two norths differ, and the gap varies by place."
     },
     {
-      "day": 345,
+      "id": 345,
       "category": "General Knowledge",
       "icon": "💡",
-      "tip": "An octagon has eight sides."
+      "title": "The Octagon",
+      "tip": "An octagon has eight sides.",
+      "why": "Stop signs are a familiar example."
     },
     {
-      "day": 346,
+      "id": 346,
       "category": "Computer",
       "icon": "🖥️",
-      "tip": "Use a surge protector or suitable power protection for valuable desktop equipment."
+      "title": "Protect from Power Surges",
+      "tip": "Use a surge protector or suitable power protection for valuable desktop equipment.",
+      "why": "Voltage spikes can damage electronics."
     },
     {
-      "day": 347,
+      "id": 347,
       "category": "Internet & Cyber Safety",
       "icon": "🔐",
-      "tip": "Review active sessions on important accounts and sign out devices you no longer recognize."
+      "title": "Check Active Sessions",
+      "tip": "Review active sessions on important accounts and sign out devices you no longer recognize.",
+      "why": "Unknown devices may signal unauthorised access."
     },
     {
-      "day": 348,
+      "id": 348,
       "category": "Mobile",
       "icon": "🔋",
-      "tip": "Avoid leaving a hot phone in direct sunlight or inside a closed vehicle."
+      "title": "Keep Your Phone Cool",
+      "tip": "Avoid leaving a hot phone in direct sunlight or inside a closed vehicle.",
+      "why": "Heat damages batteries and electronics."
     },
     {
-      "day": 349,
+      "id": 349,
       "category": "Office & Productivity",
       "icon": "🗓️",
-      "tip": "Reserve time on your calendar for important work instead of filling every minute with meetings."
+      "title": "Block Time for Focus",
+      "tip": "Reserve time on your calendar for important work instead of filling every minute with meetings.",
+      "why": "Deep work needs protected time."
     },
     {
-      "day": 350,
+      "id": 350,
       "category": "Keyboard Shortcuts",
       "icon": "🪟",
-      "tip": "Use Win+Left or Win+Right to snap a window to the side of the screen."
+      "title": "Snap Windows",
+      "tip": "Use Win+Left or Win+Right to snap a window to the side of the screen.",
+      "why": "You can work with two windows side by side."
     },
     {
-      "day": 351,
+      "id": 351,
       "category": "Excel & Data",
       "icon": "🧮",
-      "tip": "Use absolute cell references such as $A$1 when a formula must always refer to the same cell."
+      "title": "Lock Cell References",
+      "tip": "Use absolute cell references such as $A$1 when a formula must always refer to the same cell.",
+      "why": "The reference will not shift when you copy the formula."
     },
     {
-      "day": 352,
+      "id": 352,
       "category": "Education & Learning",
       "icon": "🧠",
-      "tip": "Use retrieval practice by answering questions without looking at your notes."
+      "title": "Test Yourself",
+      "tip": "Use retrieval practice by answering questions without looking at your notes.",
+      "why": "Recalling answers builds stronger memory than rereading."
     },
     {
-      "day": 353,
+      "id": 353,
       "category": "Health & Wellbeing",
       "icon": "😴",
-      "tip": "Reduce stimulating screen activity close to bedtime if it interferes with your sleep."
+      "title": "Wind Down Before Bed",
+      "tip": "Reduce stimulating screen activity close to bedtime if it interferes with your sleep.",
+      "why": "Calm evenings help you fall asleep."
     },
     {
-      "day": 354,
+      "id": 354,
       "category": "Food & Kitchen",
       "icon": "🥕",
-      "tip": "Prepare some washed or chopped vegetables in advance to make healthy meals easier."
+      "title": "Prep Vegetables Ahead",
+      "tip": "Prepare some washed or chopped vegetables in advance to make healthy meals easier.",
+      "why": "Ready vegetables make healthy choices easy."
     },
     {
-      "day": 355,
+      "id": 355,
       "category": "Home Safety",
       "icon": "🧯",
-      "tip": "Keep a suitable fire extinguisher accessible and learn its correct use."
+      "title": "Know Your Fire Extinguisher",
+      "tip": "Keep a suitable fire extinguisher accessible and learn its correct use.",
+      "why": "Using it quickly can stop a small fire from spreading."
     },
     {
-      "day": 356,
+      "id": 356,
       "category": "Money & Finance",
       "icon": "🏦",
-      "tip": "Use official customer-care numbers from your bank's website or statement rather than numbers sent by strangers."
+      "title": "Use Official Bank Numbers",
+      "tip": "Use official customer-care numbers from your bank's website or statement rather than numbers sent by strangers.",
+      "why": "Scammers share fake numbers."
     },
     {
-      "day": 357,
+      "id": 357,
       "category": "Travel",
       "icon": "🗺️",
-      "tip": "Download or save important maps and addresses before entering areas with unreliable connectivity."
+      "title": "Save Maps Offline",
+      "tip": "Download or save important maps and addresses before entering areas with unreliable connectivity.",
+      "why": "You will not be lost without signal."
     },
     {
-      "day": 358,
+      "id": 358,
       "category": "Environment",
       "icon": "🚰",
-      "tip": "Turn off the tap while brushing teeth when continuous running water is unnecessary."
+      "title": "Turn Off the Tap",
+      "tip": "Turn off the tap while brushing teeth when continuous running water is unnecessary.",
+      "why": "It saves many litres of water each day."
     },
     {
-      "day": 359,
+      "id": 359,
       "category": "Gardening",
       "icon": "🐝",
-      "tip": "Include suitable flowering plants that provide food for pollinators where practical."
+      "title": "Plant for Pollinators",
+      "tip": "Include suitable flowering plants that provide food for pollinators where practical.",
+      "why": "Bees and butterflies help your garden and food supply."
     },
     {
-      "day": 360,
+      "id": 360,
       "category": "Communication",
       "icon": "🤝",
-      "tip": "When disagreeing, first state the point you agree on before explaining the difference."
+      "title": "Start with Agreement",
+      "tip": "When disagreeing, first state the point you agree on before explaining the difference.",
+      "why": "It lowers defensiveness and keeps talks productive."
     },
     {
-      "day": 361,
+      "id": 361,
       "category": "Career & Business",
       "icon": "📊",
-      "tip": "Track a few meaningful business measures rather than collecting numbers you never use."
+      "title": "Track Key Numbers Only",
+      "tip": "Track a few meaningful business measures rather than collecting numbers you never use.",
+      "why": "Focus on what guides decisions."
     },
     {
-      "day": 362,
+      "id": 362,
       "category": "Web & SEO",
       "icon": "⚡",
-      "tip": "Avoid loading unnecessary scripts on every page when only one page needs them."
+      "title": "Load Scripts Only When Needed",
+      "tip": "Avoid loading unnecessary scripts on every page when only one page needs them.",
+      "why": "Fewer scripts mean faster pages."
     },
     {
-      "day": 363,
+      "id": 363,
       "category": "AI & Digital Skills",
       "icon": "🔍",
-      "tip": "Compare generated summaries with source material before publishing them as factual news."
+      "title": "Verify AI Summaries",
+      "tip": "Compare generated summaries with source material before publishing them as factual news.",
+      "why": "Summaries can contain errors or omissions."
     },
     {
-      "day": 364,
+      "id": 364,
       "category": "Home Organization",
       "icon": "📦",
-      "tip": "Do not keep boxes and clutter on stairways or directly in front of electrical panels."
+      "title": "Keep Stairs and Panels Clear",
+      "tip": "Do not keep boxes and clutter on stairways or directly in front of electrical panels.",
+      "why": "It prevents falls and allows quick access in emergencies."
     },
     {
-      "day": 365,
+      "id": 365,
       "category": "Road Safety",
       "icon": "🌧️",
-      "tip": "Allow extra stopping distance on wet roads."
+      "title": "Brake Earlier in the Wet",
+      "tip": "Allow extra stopping distance on wet roads.",
+      "why": "Wet roads reduce grip and lengthen stopping distances."
     }
   ]
 }

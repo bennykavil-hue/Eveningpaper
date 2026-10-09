@@ -1,17 +1,17 @@
 {
   "settings": {
-    "publicationDate": "2026-10-08",
+    "publicationDate": "2026-10-09",
     "defaultLanguage": "ml",
     "malayalamDate": {
-      "ml": "കന്നി 22, 1202",
-      "en": "Kanni 22, 1202"
+      "ml": "കന്നി 23, 1202",
+      "en": "Kanni 23, 1202"
     },
     "hijriDate": {
-      "ml": "26 റബീഉൽ ആഖീര്‍ 1448",
+      "ml": "27 റബീഉൽ ആഖീര്‍ 1448",
       "en": ""
     },
     "volume": 3,
-    "issue": 474,
+    "issue": 475,
     "edition": {
       "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
       "en": "Evening Edition"
@@ -97,7 +97,7 @@
       "en": "Today's important news"
     },
     "motto": {
-      "ml": "“From the hands that grow it to the people who wear it, cotton weaves together lives, livelihoods and communities.”",
+      "ml": "Every message delivered builds a bridge between hearts, communities, and the world.",
       "en": ""
     }
   },
@@ -231,15 +231,15 @@
         "en": "Top Story"
       },
       "title": {
-        "ml": "നടൻ നാനാ പടേക്കർ അന്തരിച്ചു; അന്ത്യം ഹൃദയാഘാതത്തെ തുടർന്ന്",
+        "ml": "'ഈച്ചയെ കൊല്ലാൻ ചുറ്റികയോ?'; പാറ്റകളുടെ സമരത്തിന് മുന്നോടിയായുള്ള നിയന്ത്രണങ്ങളിൽ കേന്ദ്രത്തോട് സുപ്രീം കോടതി",
         "en": "August 26 Space Day"
       },
       "summary": {
-        "ml": "<b>പനാജി: </b>പ്രശസ്‌ത നടൻ നാനാ പടേക്കർ (75) അന്തരിച്ചു. ഹൃദയാഘാതത്തെ തുടർന്നാണ് അന്ത്യം. ഇന്ന് രാവിലെ ഗോവയിലെ ഡോണ പൗളയിലുള്ള വസതിയിൽ അബോധാവസ്ഥയിൽ കണ്ടെത്തിയ നാനാ പടേക്കറെ ബന്ധുക്കൾ ആശുപത്രിയിൽ എത്തിച്ചെങ്കിലും മരണം സംഭവിച്ചു. പുലർച്ചെ 5.20ന് അന്ത്യം സംഭവിച്ചതായി ഡോക്ടർമാർ സ്ഥിരീകരിച്ചു.",
+        "ml": "<b>ന്യൂഡൽഹി: കോക്രോച്ച് ജനതാ പാർട്ടി (സിജെപി) നാളെ ഡൽഹിയിൽ നടത്താനിരിക്കുന്ന പ്രതിഷേധത്തിന് മുന്നോടിയായുള്ള നിയന്ത്രണങ്ങളെ ചോദ്യം ചെയ്ത് സുപ്രീം കോടതി. മെട്രോ സ്റ്റേഷനുകളും ട്രെയിൻ സർവീസുകളും നിയന്ത്രിക്കാനുള്ള തീരുമാനത്തെയാണ് സുപ്രീം കോടതി എതിർത്തത്. പ്രതിഷേധം നിയന്ത്രിക്കാനെന്ന പേരിൽ നഗരത്തിലെ പൊതുഗതാഗത സംവിധാനം പൂർണമായി നിർത്താനാകില്ലെന്ന് കോടതി വ്യക്തമാക്കി. യാത്രക്കാരുടെ ബുദ്ധിമുട്ടുകൾ കണക്കിലെടുത്ത് നിയന്ത്രണങ്ങൾ പുനഃപരിശോധിക്കണമെന്നും കേന്ദ്രത്തോട് ആവശ്യപ്പെട്ടു.",
         "en": ""
       },
       "image": " images/lead.jpg",
-      "link": "https://keralakaumudi.com/news-360/national/nana-patekar-passed-away-1812519"
+      "link": "https://keralakaumudi.com/news-360/national/cjp-protest-supreme-court-metro-restrictions-18129699"
     },
     {
       "id": "001",
@@ -250,15 +250,15 @@
         "en": ""
       },
       "title": {
-        "ml": "Indian Air Force Day",
+        "ml": "World Post Day",
         "en": ""
       },
       "summary": {
-        "ml": "“They command the skies so that India can stand strong on the ground. Salute our Air Warriors!. Our big Salute to the our brave Warriors.",
+        "ml": "Celebrated to recognise the contribution of postal services in connecting people, communities and businesses worldwide.",
         "en": ""
       },
       "image": " images/news01.jpg",
-      "link": "https://www.google.com/search?q=indian+airforce+day&oq=indian+airforce+day&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgDMgwIAhAAGAoYsQMYgAQyDwgDEAAYChiDARixAxiABDIKCAQQABiABBi0BzIHCAUQABiABDIKCAYQABiABBi0BzIHCAcQABiABDIKCAgQABiABBi0BzIKCAkQABiABBi0B9IBCTExNDM5ajBqOagCBrACAQ&sourceid=chrome&source=chrome.ob&ie=UTF-8"
+      "link": "https://en.wikipedia.org/wiki/World_Post_Day"
     },
     {
       "id": "2",
@@ -269,15 +269,15 @@
         "en": "keralam"
       },
       "title": {
-        "ml": "ഹോട്ടലുകളിൽ ഇങ്ങനെ ഭക്ഷണം തയ്യാറാക്കിയാൽ പിടിവീഴും, മൂന്നുമാസത്തിനിടെ ചുമത്തിയത് 16 ലക്ഷം രൂപ",
+        "ml": "<h1>മന്ത്രിയുമായി ചർച്ച നടത്തി; കെഎസ്ഇബി മീറ്റർ റീഡർമാരുടെ സമരം പിൻവലിക്കും</h1>",
         "en": ""
       },
       "summary": {
-        "ml": "<b>കോഴിക്കോട് :</b> നഗരത്തിൽ ഭക്ഷ്യസുരക്ഷാ വകുപ്പ് നടത്തിയ പരിശോധനകളിൽ, ഹോട്ടലുകളിലും ബേക്കറികളിലും കണ്ടെത്തിയത് ഗുരുതര സുരക്ഷാ വീഴ്ചകൾ. കഴിഞ്ഞ മൂന്നു മാസങ്ങളിലായി 16 ലക്ഷം രൂപയാണ് വിവിധ സ്ഥാപനങ്ങൾക്കായി പിഴ ചുമത്തിയിട്ടുള്ളത്. ഹോട്ടലുകൾ, തട്ടുകടകൾ, മറ്റ് ഭക്ഷണശാലകൾ എന്നിവിടങ്ങളിൽ ഭക്ഷണം പാകം ചെയ്യുന്നവരും വിതരണം ചെയ്യുന്നവരും നിർബന്ധമായും ഗ്ലൗസ്, ഹെയർ ക്യാപ് എന്നിവ ധരിക്കണമെന്ന ഭക്ഷ്യസുരക്ഷാ വകുപ്പിന്റെ കർശന നിർദ്ദേശം നിലനിൽക്കെയാണ് ഇതൊന്നും പാലിക്കാത്ത നിരവധി സ്ഥാപനങ്ങൾക്കെതിരെ നടപടി സ്വീകരിച്ചത്. കൈകളിലെയും നഖങ്ങൾക്കിടയിലെയും അഴുക്കും രോഗാണുക്കളും ഭക്ഷണത്തിൽ കലരുന്നതിലൂടെ ഇ-കോളി, സാൽമൊണല്ല തുടങ്ങിയ ബാക്ടീരിയകൾ ശരീരത്തിലെത്തി ഗുരുതര ആരോഗ്യപ്രശ്നങ്ങൾക്ക് കാരണമാകുന്നു. ഇതിന് പുറമെ ദിവസങ്ങളോളം പഴകിയ ഭക്ഷണം സൂക്ഷിക്കൽ, മലിനജലം ഒഴുകുന്ന സ്ഥലങ്ങളിൽ ഭക്ഷണം വിൽക്കൽ, വൃത്തിഹീനമായ പാത്രങ്ങളിലും ദ്രവിച്ച ഉപകരണങ്ങളിലും ഭക്ഷണം തയ്യാറാക്കൽ തുടങ്ങിയ നിയമലംഘനങ്ങളും പരിശോധനയിൽ കണ്ടെത്തി.",
+        "ml": "<b>തിരുവനന്തപുരം:</b> കെഎസ്ഇബി മീറ്റർ റീഡർമാരുടെ സമരം പിൻവലിക്കാൻ ധാരണയായി. വൈദ്യുതി മന്ത്രിയുമായി നടത്തിയ ചർച്ചയിലാണ് തീരുമാനം. സമരത്തെ തുടർന്ന് പുറത്താക്കിയ മീറ്റർ റീഡർമാരെ തിരികെ ജോലിയിൽ പ്രവേശിപ്പിക്കും. മീറ്റർ റീഡർമാർ ഉന്നയിച്ച പ്രശ്നങ്ങൾ വിശദമായി ചർച്ച ചെയ്യാൻ അടുത്ത വ്യാഴാഴ്ച വീണ്ടും യോഗം ചേരും.",
         "en": ""
       },
       "image": "",
-      "link": "https://keralakaumudi.com/kerala/special/operation-thelima-in-hotels-and-restaurants-1812515#google_vignette"
+      "link": "https://keralakaumudi.com/kerala/general/kseb-meter-readers-strike-withdrawn-after-minister-talks-1812972"
     },
     {
       "id": "906",
@@ -307,14 +307,14 @@
         "en": "keralam"
       },
       "title": {
-        "ml": "ദിവസം 600 രൂപ മുതൽ   2000 വരെ ശമ്പളം, എന്നിട്ടും   മലയാളികൾക്ക് ഈ ജോലി വേണ്ട"
+        "ml": "ചാല  സബ്  രജിസ്ട്രാർ  ഓഫീസിൽ  നിന്ന്  40,000 രൂപ  പിടികൂടിയ സംഭവം; സ്ഥലംമാറ്റിയ സബ്  രജിസ്ട്രാർക്ക്  അതേ  ഓഫീസിൽ  വീണ്ടും നിയമനം"
       },
       "summary": {
-        "ml": "<b> തൊടുപുഴ:</b> ഭക്ഷണ വ്യവസായമേഖലയുമായി ബന്ധപ്പെട്ട് ജില്ലയിൽ തൊഴിലാളിക്ഷാമം രൂക്ഷമാകുന്നു. പാചകത്തിനും വിതരണത്തിനും ശുചീകരണത്തിനുമെല്ലാം ആളു കുറഞ്ഞതോടെ ഉടമകൾ നെട്ടോട്ടത്തിലാണ്. ജോലിക്കായി എത്തുന്ന അന്യസംസ്ഥാന തൊഴിലാളികൾ സ്ഥിരമായി ഒരിടത്തും നിൽക്കാത്തതും മലയാളികൾ ഈ മേഖലയോട് മുഖം തിരിക്കുന്നതുമാണ് പ്രതിസന്ധിക്ക് കാരണം.",
+        "ml": "<b>തിരുവനന്തപുരം:</b> വിജിലൻസ് പരിശോധനയിൽ ഓഫീസിൽ പണം കണ്ടെത്തിയതിനെ തുടർന്ന് സ്ഥലംമാറ്റിയ ചാല സബ് രജിസ്ട്രാർക്ക് അതേ ഓഫീസിൽ വീണ്ടും നിയമനം. സബ് രജിസ്ട്രാർ രാജ് മാർട്ടിനെയാണ് രജിസ്ട്രേഷൻ ഐജിയുടെ ഉത്തരവിനെ തുടർന്ന് തിരികെ അതേ ഓഫീസിൽ നിയമിച്ചത്.",
         "en": ""
       },
       "image": "",
-      "link": "https://keralakaumudi.com/kerala/special/short-url-high-salary-jobs-malayalis-avoid-1812512"
+      "link": "https://keralakaumudi.com/kerala/general/40000-seized-from-chala-sub-registrar-office-transferred-sub-registrar-reappointed-1812959#google_vignette"
     },
     {
       "id": "4",
@@ -436,15 +436,15 @@
         "en": "World"
       },
       "title": {
-        "ml": "അതിർത്തിയിൽ പുതിയ തന്ത്രം; ഡ്രോൺ ആക്രമണത്തെ ചെറുക്കാൻ മീൻവല വിരിച്ച് പാകിസ്ഥാൻ",
+        "ml": "സമാധാനത്തിനുള്ള നൊബേൽ പുരസ്‌കാരം ഇന്ത്യൻ വംശജ നവനീതം നവി പിള്ളയ്‌ക്ക്.",
         "en": ""
       },
       "summary": {
-        "ml": "<b>ഇസ്ലാമാബാദ്:</b> സ്ഫോടക വസ്തുക്കളുമായി എത്തുന്ന ഡ്രോണുകളുടെ ആക്രമണം തടയാൻ വ്യത്യസ്ത പ്രതിരോധ മാർഗവുമായി പാകിസ്ഥാൻ. രാജ്യത്തിന്റെ വടക്കുപടിഞ്ഞാറൻ ഖൈബർ പഖ്തൂൺഖ്വ പ്രവിശ്യയിലെ പൊലീസ് ചെക്ക് പോസ്റ്റുകൾക്ക് മുകളിലാണ് ആക്രമത്തെ ചെറുക്കാൻ മീൻപിടിത്ത വലകൾ സ്ഥാപിച്ചിരിക്കുന്നത്.",
+        "ml": "<b>സ്റ്റോക്കോം:</b> 2026ലെ സമാധാന നൊബേൽ പുരസ്‌കാരം നവനീതം നവി പിള്ളയ്‌ക്ക്. ദക്ഷിണാഫ്രിക്കയിൽ നിന്നുള്ള പ്രമുഖ നിയമജ്ഞയും രാജ്യാന്തര മനുഷ്യാവകാശ പ്രവർത്തകയുമാണ് നവനീതം നവി പിള്ള. 2008 - 14 കാലഘട്ടത്തിൽ ഐക്യരാഷ്‌ട്രസഭയുടെ മനുഷ്യാവകാശ ഹൈക്കമ്മീഷണറായി സേവനമനുഷ്‌ഠിച്ചിട്ടുണ്ട്.",
         "en": ""
       },
-      "image": "",
-      "link": "https://keralakaumudi.com/news-360/world/pakistan-fishing-nets-drone-attacks-1812204"
+      "image": " images/news02.jpg",
+      "link": "https://keralakaumudi.com/news-360/world/navi-pillay-2026-nobel-peace-prize-1812942"
     },
     {
       "id": "8",
@@ -519,7 +519,7 @@
         "ml": "<b>ബ്യൂണസ് അയേഴ്‌സ്:</b> അന്താരാഷ്ട്ര കരിയറിലെ അവസാന മത്സരത്തിലും കളിയിലെ താരമെന്ന് വിശേഷിപ്പിക്കാവുന്ന പ്രകടനത്തോടെ ലയണൽ മെസിയെന്ന പ്രതിഭാസം അർജന്റീനയുടെ പത്താം നമ്പർ ജേഴ്‌സി അഴിച്ചു. ബ്യൂണസ് ഐറിസിലെ എസ്റ്റേഡിയോ മോനുമെന്റലിൽ നടന്ന മെസിയുടെ വിടവാങ്ങൽ മത്സരത്തിൽ അർജന്റീന 3-0ത്തിന് ആഫ്രിക്കൻ രാജ്യമായ ബെനിനെ കീഴടക്കി. മത്സരത്തിൽ ഒരു ഗോളടിച്ചും രണ്ട് ഗോളുകൾക്ക് വഴിയൊരുക്കിയും 39-ാംവയസിലും കളത്തലിറങ്ങിയാൽ തന്നെ വെല്ലാൻ ആരുമില്ലെന്ന് തെളിയിച്ചാണ് മെസിയുടെ മടക്കം. ഒരു ലോകകപ്പും രണ്ട്കോപ്പ അമേരിക്ക കിരീടവുമുൾപ്പെടെ സ്വപ്നം കണ്ടെതെല്ലാം രാജ്യത്തിനായി പോരാടി നേടിയാണ് ഇതിഹാസം പടിയിറങ്ങുന്നത്. രണ്ട് പതിറ്റാണ്ടിലേരെ രാജ്യത്തിനായി മിന്നും പ്രകടനം നടത്തി പൂർണനായി മടക്കം.",
         "en": ""
       },
-      "image": " images/news02.jpg",
+      "image": "",
       "link": "https://www.mathrubhumi.com/videos/sports/messi-last-match-argentina-farewell-emotional-farewell-o9zbyx3f"
     },
     {
@@ -531,13 +531,14 @@
         "en": "sports"
       },
       "title": {
-        "ml": "Lionel Messi — Trophy Records",
+        "ml": "Lionel Messi — Trophy Goal Scores.",
         "en": ""
       },
-      "summary": {
-        "ml": "<table><thead><tr><th>Team</th><th>Title</th><th>Year</th></tr></thead><tbody><tr><td>Barcelona</td><td>LaLiga</td><td>2004/05</td></tr><tr><td>Barcelona</td><td>LaLiga</td><td>2005/06</td></tr><tr><td>Barcelona</td><td>UEFA Champions League</td><td>2005/06</td></tr><tr><td>Barcelona</td><td>Supercopa de España</td><td>2005/06</td></tr><tr><td>Barcelona</td><td>Supercopa de España</td><td>2006/07</td></tr><tr><td>Barcelona</td><td>LaLiga</td><td>2008/09</td></tr><tr><td>Barcelona</td><td>Copa del Rey</td><td>2008/09</td></tr><tr><td>Barcelona</td><td>UEFA Champions League</td><td>2008/09</td></tr><tr><td>Barcelona</td><td>FIFA Club World Cup</td><td>2009</td></tr><tr><td>Barcelona</td><td>European Super Cup</td><td>2009</td></tr><tr><td>Barcelona</td><td>LaLiga</td><td>2009/10</td></tr><tr><td>Barcelona</td><td>Supercopa de España</td><td>2009/10</td></tr><tr><td>Barcelona</td><td>LaLiga</td><td>2010/11</td></tr><tr><td>Barcelona</td><td>UEFA Champions League</td><td>2010/11</td></tr><tr><td>Barcelona</td><td>Supercopa de España</td><td>2010/11</td></tr><tr><td>Barcelona</td><td>FIFA Club World Cup</td><td>2011</td></tr><tr><td>Barcelona</td><td>European Super Cup</td><td>2011</td></tr><tr><td>Barcelona</td><td>Supercopa de España</td><td>2011/12</td></tr><tr><td>Barcelona</td><td>Copa del Rey</td><td>2011/12</td></tr><tr><td>Barcelona</td><td>LaLiga</td><td>2012/13</td></tr><tr><td>Barcelona</td><td>Supercopa de España</td><td>2013/14</td></tr><tr><td>Barcelona</td><td>LaLiga</td><td>2014/15</td></tr><tr><td>Barcelona</td><td>Copa del Rey</td><td>2014/15</td></tr><tr><td>Barcelona</td><td>UEFA Champions League</td><td>2014/15</td></tr><tr><td>Barcelona</td><td>European Super Cup</td><td>2015</td></tr><tr><td>Barcelona</td><td>FIFA Club World Cup</td><td>2015</td></tr><tr><td>Barcelona</td><td>LaLiga</td><td>2015/16</td></tr><tr><td>Barcelona</td><td>Copa del Rey</td><td>2015/16</td></tr><tr><td>Barcelona</td><td>Supercopa de España</td><td>2016/17</td></tr><tr><td>Barcelona</td><td>Copa del Rey</td><td>2016/17</td></tr><tr><td>Barcelona</td><td>LaLiga</td><td>2017/18</td></tr><tr><td>Barcelona</td><td>Copa del Rey</td><td>2017/18</td></tr><tr><td>Barcelona</td><td>LaLiga</td><td>2018/19</td></tr><tr><td>Barcelona</td><td>Supercopa de España</td><td>2018/19</td></tr><tr><td>Barcelona</td><td>Copa del Rey</td><td>2020/21</td></tr><tr><td>Paris Saint-Germain</td><td>Ligue 1</td><td>2021/22</td></tr><tr><td>Paris Saint-Germain</td><td>Trophée des Champions</td><td>2022</td></tr><tr><td>Paris Saint-Germain</td><td>Ligue 1</td><td>2022/23</td></tr><tr><td>Inter Miami</td><td>Leagues Cup</td><td>2023</td></tr><tr><td>Inter Miami</td><td>MLS Supporters’ Shield</td><td>2024</td></tr><tr><td>Inter Miami</td><td>MLS Cup</td><td>2025</td></tr><tr><td>Inter Miami</td><td>Campeones Cup</td><td>2026</td></tr><tr><td>Argentina</td><td>FIFA U-20 World Cup</td><td>2005</td></tr><tr><td>Argentina</td><td>Olympic Gold Medal</td><td>2008</td></tr><tr><td>Argentina</td><td>Copa América</td><td>2021</td></tr><tr><td>Argentina</td><td>Finalissima</td><td>2022</td></tr><tr><td>Argentina</td><td>FIFA World Cup</td><td>2022</td></tr><tr><td>Argentina</td><td>Copa América</td><td>2024</td></tr></tbody></table>"
+      "summary": 
+      {
+        "ml": "<table class='career-table'><thead><tr><th>Event / Competition</th><th>Appearances</th><th>Goals</th></tr></thead><tbody><tr><td>FIFA World Cup</td><td>34</td><td>21</td></tr><tr><td>FIFA World Cup Qualifiers</td><td>72</td><td>36</td></tr><tr><td>Copa América</td><td>39</td><td>14</td></tr><tr><td>International Friendlies</td><td>62</td><td>55</td></tr><tr><td>Finalissima</td><td>1</td><td>0</td></tr><tr class='total-row'><td>Total Career (Argentina)</td><td>208</td><td>126</td></tr></tbody></table>"
       },
-      "image": " images/news06.jpg",
+      "image": "",
       "link": "https://www.google.com/search?q=messi+achievements&oq=messi+ach&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIKCAQQABiABBi0BzIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDY4MTlqMGo3qAIIsAIB8QVAwWnaYojKKQ&sourceid=chrome&source=chrome.ob&ie=UTF-8"
     },
     {
@@ -549,15 +550,15 @@
         "en": "crime"
       },
       "title": {
-        "ml": "സൈഡ്&nbsp; നൽകുന്നതുമായി&nbsp; ബന്ധപ്പെട്ട &nbsp;തർക്കം; കെഎസ്ആർടിസി&nbsp; ഡ്രൈവറെ  മർദിച്ച് ബൈക്ക്  യാത്രക്കാർ",
+        "ml": "വാട്സാപ്പ് ഡിലീറ്റ് ചെയ്തതിന് ആറുവയസുകാരിയുടെ മുഖം തല്ലിച്ചതച്ചു; അമ്മ അറസ്റ്റിൽ",
         "en": ""
       },
       "summary": {
-        "ml": "<b>ആലപ്പുഴ:</b> കെഎസ്ആർടിസി ഡ്രൈവറെ മർദിച്ച് ബൈക്ക് യാത്രക്കാർ. കായംകുളം കൃഷ്ണപുരത്ത് ഇന്നലെ രാത്രിയാണ് സംഭവം നടന്നത്. ആക്രമണത്തിൽ തലയ്ക്ക് ഗുരുതരമായി പരിക്കേറ്റ ഡ്രൈവർ പ്രവീണിനെ ആശുപത്രിയിൽ പ്രവേശിപ്പിച്ചു.",
+        "ml": "<b>തിരുവനന്തപുരം:</b> ഫോണിൽ നിന്ന് വാട്സാപ്പ് ഡിലീറ്റ് ചെയ്തതിന്റെ പേരിൽ ആറുവയസുകാരിക്ക് അമ്മയുടെ ക്രൂര മർദ്ദനം. തിരുവനന്തപുരം നെയ്യാറ്റിൻകര ഉദിയൻകുളങ്ങരയിലാണ് സംഭവം. മുഖത്ത് മാരകമായി പരിക്കേറ്റ കുഞ്ഞിനെ നെയ്യാറ്റിൻകര ജനറൽ ആശുപത്രിയിൽ പ്രവേശിപ്പിച്ചു. ഇന്ന് ഉച്ചയോടെയാണ് സംഭവം.",
         "en": ""
       },
       "image": "",
-      "link": "https://keralakaumudi.com/kerala/general/ksrtc-driver-assaulted-by-bike-riders-in-alappuzha-1812518"
+      "link": "https://keralakaumudi.com/kerala/general/mother-assaults-six-year-old-whatsapp-deleted-1812955"
     },
     {
       "id": "36",
@@ -568,15 +569,15 @@
         "en": "india"
       },
       "title": {
-        "ml": "ഗ്യാനേഷ് കുമാറിന്റെ രാജി; രാജ്യതലസ്ഥാനത്ത് ഇന്നും പ്രതിഷേധം; മമത ബാനര്‍ജിയും പങ്കെടുക്കും",
+        "ml": "'സിജെപിയുടെ പ്രകടനം നടത്തുന്നത് എംഎ ബേബിയാണോ, എത്ര പേർ പങ്കെടുക്കും?; ചോദ്യവുമായി സുപ്രീം കോടതി",
         "en": ""
       },
       "summary": {
-        "ml": "<b>ഡല്‍ഹി:</b> ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യത്തില്‍ പ്രതിഷേധം ശക്തം. തുടര്‍ച്ചയായ മൂന്നാം ദിവസവും ഇന്ത്യ സഖ്യം ഡല്‍ഹിയില്‍ പ്രതിഷേധം സംഘടിപ്പിക്കും. പ്രതിഷേധത്തില്‍ മമത ബാനര്‍ജിയും പങ്കെടുക്കും. നിലവില്‍ ഡല്‍ഹിയിലുള്ള എംപിമാരോട് ഇവിടെത്തന്നെ തുടരാനും. ബാക്കിയുള്ളവരോട് എത്രയും പെട്ടെന്ന് ഡല്‍ഹിയിലേക്ക് എത്താനും പ്രതിപക്ഷ പാര്‍ട്ടികള്‍ നിര്‍ദ്ദേശം നല്‍കി.ഇതിന് പുറമെ രാഹുല്‍ ഗാന്ധിക്ക് എതിരായ പൊലീസ് നടപടിയില്‍ കോണ്‍ഗ്രസ് രാജ്യവ്യാപക പ്രതിഷേധത്തിനും ആഹ്വാനം ചെയ്തിട്ടുണ്ട്.",
+        "ml": "<b>ന്യൂഡൽഹി:</b> കോക്രോച്ച് ജനതാ പാർട്ടിയുടെ (സിജെപി) പ്രതിഷേധം നേരിടാൻ ഡൽഹി പൊലീസ് ഏർപ്പെടുത്തിയ നിയന്ത്രണങ്ങൾക്കെതിരെ സിപിഎം ജനറൽ സെക്രട്ടറി എംഎ ബേബി സമർപ്പിച്ച ഹർജിയിൽ വിമർശനവുമായി സുപ്രീം കോടതി. സിജെപിയുടെ പ്രകടനം നടത്തുന്നത് എംഎ ബേബിയാണോ എന്ന് സുപ്രീം കോടതി ചോദിച്ചു. പ്രകടനത്തിൽ എത്ര പേർ പങ്കെടുക്കുമെന്ന് എംഎ ബേബിക്ക് പറയാൻ സാധിക്കുമോ എന്നും കോടതി ചോദിച്ചു. നിയന്ത്രണങ്ങൾ റദ്ദാക്കാം, അതോടൊപ്പം സമരവും നിരോധിക്കേണ്ടിവരുമെന്ന് കോടതി വ്യക്തമാക്കി.",
         "en": ""
       },
-      "image": " images/news05.jpg",
-      "link": "https://www.twentyfournews.com/2026/10/08/gyanesh-kumars-resignation-protests-continue-in-the-national-capital-today.html"
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/supreme-court-ma-baby-cjp-protest-participants-1812948"
     },
     {
       "id": "9",
@@ -587,15 +588,15 @@
         "en": "keralam"
       },
       "title": {
-        "ml": "സ്പാ പ്രവർത്തിച്ചത് ലൈസൻസില്ലാതെ; ലോഡ്ജ് സ്ഥിരം അനാശാസ്യ കേന്ദ്രം, പിന്നിൽ വൻ റാക്കറ്റ്?",
+        "ml": "'മാസപ്പടി  കേസിലെ  ഹൈക്കോടതി  വിധി  സർക്കാരിന്  തിരിച്ചടിയല്ല,  പഠിച്ചശേഷം തീരുമാനമെടുക്കും'",
         "en": ""
       },
       "summary": {
-        "ml": "<b>കളമശേരി (കൊച്ചി) ∙</b> സ്പായിൽ ജോലി വാഗ്ദാനം ചെയ്തു ഇടപ്പള്ളിയിലെ ലോഡ്ജിൽ വിളിച്ചുവരുത്തി യുവതിക്കുനേരെ ലൈംഗികാതിക്രമം നടത്തി ഗുരുതരമായി പരുക്കേൽപിച്ച കേസിൽ, ഉണിച്ചിറയിലെ ഡിലൈറ്റ് ആയുർവേദിക് വെൽനെസ് സ്പാ 2025 മാർച്ച് 31 മുതൽ പ്രവർത്തിക്കുന്നത് മുനിസിപ്പൽ ലൈസൻസില്ലാതെ. ഈ സ്ഥാപനത്തിനെതിരെ സമീപവാസികൾ പലപ്പോഴും പരാതി ഉന്നയിച്ചിരുന്നു. ലൈസൻസ് പുതുക്കാൻ നഗരസഭ പലവട്ടം ആവശ്യപ്പെട്ടിട്ടും സ്ഥാപന നടത്തിപ്പുകാർ കൂട്ടാക്കിയില്ല. നഗരസഭ തുടർനടപടികളെടുത്തുമില്ല. യുവതിക്കു നേരെ ലൈംഗികാതിക്രമം നടന്നതിനെത്തുടർന്നു പൊലീസാണ് സ്പാ അടച്ചുപൂട്ടിയത്.",
+        "ml": "<b>കൊച്ചി: മാസപ്പടി കേസിൽ പ്രത്യേക അന്വേഷണ സംഘത്തെ രൂപീകരിച്ച സർക്കാർ ഉത്തരവ് ഹൈക്കോടതി റദ്ദാക്കിയതിൽ പ്രതികരിച്ച് ആഭ്യന്തര മന്ത്രി രമേശ് ചെന്നിത്തല. ഹൈക്കോടതി വിധി സർക്കാരിന് തിരിച്ചടിയല്ലെന്നും വിധി പഠിച്ച ശേഷം തീരുമാനമെടുക്കുമെന്നും അദ്ദേഹം പറഞ്ഞു. വിധിപകർപ്പ് ലഭിച്ച ശേഷം മാത്രമേ അപ്പീൽ അടക്കമുള്ള കാര്യങ്ങളിൽ അന്തിമ തീരുമാനമെടുക്കാനാവൂ എന്നും അദ്ദേഹം വ്യക്തമാക്കി.",
         "en": ""
       },
       "image": "",
-      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/08/kerala-sex-racket-kalamassery-spa-assault-edappally-lodge-crime.html"
+      "link": "https://keralakaumudi.com/kerala/general/masappadi-case-minister-ramesh-chennithala-reacts-to-highcourt-verdict-1812940"
     },
     {
       "id": "37",
@@ -606,15 +607,15 @@
         "en": "india"
       },
       "title": {
-        "ml": "ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ടുള്ള പ്രതിഷേധം: രാഹുല്‍ഗാന്ധി വനിതാ പൊലീസ് ഉദ്യോഗസ്ഥയോട് പെരുമാറിയെന്ന് ബിജെപി ആരോപണം",
+        "ml": "ഗ്യാനേഷ് കുമാറിന്റെ രാജി: പ്രതിപക്ഷ എംപിമാർ രാഷ്ട്രപതിയുമായി കൂടിക്കാഴ്ച നടത്തും",
         "en": ""
       },
       "summary": {
-        "ml": "<b>ഡല്‍ഹി:</b> ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് ഇന്ത്യ ബ്ലോക്ക് എംപിമാര്‍ നടത്തിയ പ്രതിഷേധത്തിനിടെ രാഹുല്‍ഗാന്ധി വനിതാ പൊലീസ് ഉദ്യോഗസ്ഥയോട് പെരുമാറിയെന്ന് ബിജെപി .റോഡില്‍ കിടന്ന് പ്രതിഷേധിച്ച പ്രിയങ്ക ഗാന്ധിയെ നീക്കാന്‍ ശ്രമിച്ച പോലീസ് ഉദ്യോഗസ്ഥയെ രാഹുല്‍ തള്ളുന്ന ദൃശ്യങ്ങള്‍ പങ്കുവെച്ചാണ് ആരോപണം. പ്രതിഷേധത്തിനിടെ വനിത ഉദ്യോഗസ്ഥര്‍ക്കെതിരെ അടക്കം അതിക്രമം ഉണ്ടായെന്നും പ്രാഥമിക അന്വേഷണം നടത്തി കേസെടുക്കുമെന്നും ഡല്‍ഹി പൊലീസ് ഇന്നലെ പറഞ്ഞിരുന്നു.",
+        "ml": "<b>ന്യൂഡൽഹി:</b> മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ ഗ്യാനേഷ് കുമാറിന്റെ രാജിക്കായുള്ള പ്രക്ഷോഭത്തിനിടെ ഇന്ത്യാ സഖ്യത്തിലെ എംപിമാർ രാഷ്ട്രപതി ദ്രൗപതി മുർമ്മുവുമായി കൂടിക്കാഴ്ച നടത്തും. വൈകിട്ട് അഞ്ച് മണിക്ക് പാർലമെന്റിലെ സെൻട്രൽ ഹാളിൽ ഒത്തുചേരുന്ന എംപിമാർ രാത്രി എട്ട് മണിയോടെ രാഷ്ട്രപതിയെ കാണും. ദേശീയ തലസ്ഥാനത്ത് ഗ്യാനേഷ് കുമാറിനെതിരായ പ്രതിഷേധം മൂന്നാം ദിവസവും തുടരുന്നതിനിടെയാണ് ഈ നീക്കം. എംപിമാർ നേരത്തെ രാജ്ഘട്ട് സന്ദർശിച്ചിരുന്നു.",
         "en": ""
       },
       "image": "",
-      "link": "https://www.twentyfournews.com/2026/10/08/bjp-alleges-misconduct-by-rahul-gandhi-towards-a-female-police-officer.html"
+      "link": "https://keralakaumudi.com/news-360/national/gyanesh-kumar-resignation-opposition-mps-president-1812943"
     },
     {
       "id": "10",
@@ -625,15 +626,15 @@
         "en": "keralam"
       },
       "title": {
-        "ml": "ദേശീയപാത 66ൽ തൃശൂർ ജില്ലയിലെ ഏക ടോൾ പ്ലാസ; നാട്ടികയില്‍ പദ്ധതി പൂർത്തിയാകുന്നതിന് മുൻപ് ടോൾ പിരിവ്, കടുത്ത പ്രതിഷേധം",
+        "ml": "മലപ്പുറം ജില്ലക്കാർക്ക് റെയിൽവേയുടെ സർപ്രൈസ്; വേണാട് എക്‌സ്‌പ്രസ് നിലമ്പൂർ വരെ നീട്ടിയേക്കും",
         "en": ""
       },
       "summary": {
-        "ml": "<b>തൃപ്രയാർ </b>∙ ദേശീയപാത 66ൽ ജില്ലയിലെ ഏക ടോൾ പ്ലാസയായ നാട്ടികയിൽ ടോൾ പിരിവ് ഇന്ന് തുടങ്ങാനിരിക്കെ പ്രതിഷേധം ശക്തമായി. ഇന്നലെ രാവിലെ മുതൽ വിവിധ രാഷ്ട്രീയ പാർട്ടികളുടെ പ്രതിഷേധ മാർച്ചുകൾ നടന്നു. മാർച്ചിന് ഇന്നും ആഹ്വാനമുണ്ട്. മേഖലയിൽ എൻഎച്ച് നിർമാണം പാതിവഴിയിലാണ്. പദ്ധതി പൂർത്തിയാകുന്നതിന് മുൻപ് ആരംഭിക്കുന്ന ടോൾ പിരിവാണ് വ്യാപക പ്രതിഷേധമുയർത്തിയത്. പ്രധാന പാതയിൽ ചേറ്റുവ പാലം, ബൈപാസ് കടന്നുപോകുന്ന വാടാനപ്പള്ളി, എടമുട്ടം അപ്രോച്ച് റോഡുകൾ എന്നിവയുടെ നിർമാണം പൂർത്തിയായിട്ടില്ല. വാടാനപ്പള്ളിയിൽ ബൈപാസ് പാലത്തിന് ഇരുവശവും മണൽശോഷണം കണ്ടെത്തിയതിനെത്തുടർന്ന് ഇരു ഭാഗത്തെയും അപ്രോച്ച് റോഡ് പൊളിച്ച് കോൺക്രീറ്റ് തൂണുകൾ സ്ഥാപിച്ച് വീണ്ടും നിർമാണത്തിന് ഒരുങ്ങുകയാണ്.",
+        "ml": "<b>മലപ്പുറം:</b> തിരുവനന്തപുരത്ത് നിന്ന് ഷൊർണൂർ വരെ സർവീസ് നടത്തുന്ന വേണാട് എക്‌സ്‌പ്രസ് നിലമ്പൂർ വരെ നീട്ടണമെന്ന ആവശ്യം ഇന്ത്യൻ റെയിൽവേ പരിഗണിക്കുമെന്ന് റിപ്പോർട്ട്. ഇതോടെ മലപ്പുറം ജില്ലയിലെ മലയോര മേഖലയിലെ ജനങ്ങളുടെ യാത്രാദുരിതത്തിന് വലിയൊരു ആശ്വാസമാകുമെന്നാണ് പ്രതീക്ഷ.",
         "en": ""
       },
-      "image": " images/news03.jpg",
-      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/10/08/nh66-toll-protest-nattika.html"
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/venad-express-extension-nilambur-1812939"
     },
     {
       "id": "11",
@@ -689,7 +690,7 @@
         "ml": "<b>ഷൊർണൂർ ∙</b> ഷൊർണൂർ ജംക്‌ഷൻ സ്റ്റേഷനിൽ കാലപ്പഴക്കം ചെന്ന റെയിൽവേ കോച്ചുകൾ പൊളിച്ചുവിറ്റു. 4 മാസത്തിനുള്ളിൽ മാത്രം യാഡിൽ സൂക്ഷിച്ചിരുന്ന 35 കോച്ചുകളാണ് റെയിൽവേ ലേലം ചെയ്തു നീക്കിയത്. സുരക്ഷാ മാനദണ്ഡങ്ങൾ കർശനമാക്കുന്നതിന്റെയും യാത്രാസൗകര്യങ്ങൾ ആധുനികവൽകരിക്കുന്നതിന്റെയും ഭാഗമായാണ് പഴകിയ കോച്ചുകൾ ഒഴിവാക്കുന്നത്.",
         "en": ""
       },
-      "image": " images/news04.jpg",
+      "image": "",
       "link": "https://www.manoramaonline.com/district-news/palakkad/2026/10/08/shoranur-railway-station-old-coaches-auctioned.html"
     },
     {
@@ -739,33 +740,14 @@
         "en": "technology"
       },
       "title": {
-        "ml": "മരുന്നുകൾ മുതൽ ജീവന്റെ ഉത്ഭവംവരെ; രസതന്ത്ര നോബൽ ചുരുളഴിച്ച അസമമിതിയുടെ രഹസ്യം"
+        "ml": "എഐയെ വിശ്വസിച്ച് മലകയറ്റം; വഴിതെറ്റി പാറയിടുക്കിൽ കുടുങ്ങി കൗമാരക്കാരൻ, മൂന്ന് മണിക്കൂ‌ർ നീണ്ട രക്ഷാദൗത്യം"
       },
       "summary": {
-        "ml": "<strong>അ</strong>ലർജിയും തുമ്മലുമൊക്കെ വരുമ്പോൾ സാധാരണ കഴിക്കാറുള്ള&nbsp; മരുന്നാണ് സെട്രിസിൻ. എന്നാൽ, ചിലപ്പോഴൊക്കെ സെട്രിസിന് പകരം ലിവോസെട്രിസിൻ നിർദ്ദേശിക്കാറുണ്ട് ഡോക്ടർമാർ. സെട്രിസിന്റെ സാധാരണ ഡോസ് പത്ത് മില്ലിഗ്രാം ആണ്,&nbsp;ലിവോസെട്രിസിൻ ഡോസ് അഞ്ച് മില്ലീഗ്രാം ആണ്. വിലയും ലിവോസെട്രിസിന് കൂടുതലാണ്. എന്താണ് ഇതിനുപിന്നിലെ രസതന്ത്രം?",
+        "ml": "<strong>ഒട്ടാവ:</strong> ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസിന്റെ (എഐ) സഹായത്തോടെ ഹൈക്കിംഗ് യാത്ര ആസൂത്രണം ചെയ്‌ത 16കാരൻ അപകടകരമായ മലഞ്ചെരുവിൽ കുടുങ്ങി. കാനഡയിൽ ബ്രിട്ടീഷ് കൊളംബിയയിലെ ക്രൗൺ മൗണ്ടനിൽ ശനിയാഴ്‌ചയായിരുന്നു സംഭവം. ക്ലോഡ് എഐയുടെ സഹായത്തോടെ യാത്ര ആസൂത്രണം ചെയ്‌ത ബ്രൈസ് വിൻസെന്റ് ഗൗറിലുക്കെന്ന കൗമാരക്കാരനാണ് വഴിതെറ്റി പാറക്കെട്ടിൽ അകപ്പെട്ടത്.",
         "en": ""
       },
       "image": "",
-      "link": "https://www.mathrubhumi.com/technology/science/levocetirizine-price-chirality-chemistry-nobel-a2gbwa7l"
-    },
-    {
-      "id": "82",
-      "type": "news",
-      "order": 27,
-      "category": {
-        "ml": "ടെക്നോളജി",
-        "en": "technology"
-      },
-      "title": {
-        "ml": "ഓപ്പൺ എഐയിലും ആന്ത്രോപിക്കിലും ചൈനീസ് ചാരന്മാരുണ്ട്! 90 ശതമാനം ഉറപ്പെന്ന് ജേക്കബ് കോക്സൺ",
-        "en": ""
-      },
-      "summary": {
-        "ml": "ഓപ്പൺ എഐയിലും ആന്ത്രോപിക്കിലും ചൈനീസ് ചാരന്മാരുണ്ട്, 90 ശതമാനം ഉറപ്പുണ്ടെന്ന് മുൻ&nbsp;ആന്ത്രോപിക് ഗവേഷകനായ ജേക്കബ് കോക്സൺ (Jacob Coxon). യുഎസ് എഐ കമ്പനികളിൽനിന്ന് വിവരങ്ങളും സാങ്കേതികവിദ്യകളും മോഷ്ടിക്കാനും ഹാക്ക് ചെയ്യാനും ചൈനയ്ക്ക് ശക്തിയുണ്ടെന്നും അദ്ദേഹം അവകാശപ്പെട്ടു. പിബിഡി&nbsp;പോഡ്കാസ്റ്റിൽ സംസാരിക്കവെയാണ് കോക്സൺ ഇക്കാര്യം പറഞ്ഞത്.",
-        "en": ""
-      },
-      "image": "",
-      "link": "https://www.mathrubhumi.com/technology/news/openai-anthropic-chinese-spies-jacob-hoxthon-ai-security-q893hc1f"
+      "link": "https://keralakaumudi.com/news-360/world/teenager-stranded-mountain-hike-claude-ai-canada-rescue-1812970"
     },
     {
       "id": "25",
@@ -776,15 +758,15 @@
         "en": "local"
       },
       "title": {
-        "ml": "കെഎസ്ആർടിസി പൂവാർ ബജറ്റ് ടൂറിസം സെൽ ഉല്ലാസയാത്ര",
+        "ml": "കൊല്ലത്തും കുന്നംകുളത്തും എബിന്  സ്വർണ നേട്ടം.",
         "en": ""
       },
       "summary": {
-        "ml": "<b>നെയ്യാറ്റിൻകര ∙</b> കെഎസ്ആർടിസി പൂവാർ ബജറ്റ് ടൂറിസം സെൽ 9, 12, 18 തുടങ്ങിയ തീയതികളിൽ മൂന്നാർ, ഗവി, വാഗമൺ, പൊന്മുടി, ഇല്ലിക്കൽക്കല്ല്, കൃപാസനം, ഗുരുവായൂർ തുടങ്ങിയ സ്ഥലങ്ങളിലേക്ക് സർവീസ് നടത്തും. 8086504801",
+        "ml": "<b>കുന്നംകുളം:</b> യൂത്ത് അത്ലറ്റിക് മീറ്റിൽ സുവർണ നേട്ടം കൈവരിച്ചതിന്റെ ആവേശം തീരുംമുൻപേ ജില്ലാ സ്‌കൂൾ കായിക മേളയിലും സ്വർണം നേടാൻ സാധിച്ചതിന്റെ ആഹ്ലാദത്തിലാണ് കെ.ജെ.എബിൻ. ഇന്നലെ പുലർച്ചെ രണ്ടരയ്ക്കാണ് കൊല്ലത്തെ യൂത്ത് മീറ്റ് കഴിഞ്ഞ് എബിൻ വീട്ടിലെത്തിയത്. യാത്രക്ഷീണം അകറ്റാൻ പോലും സമയം കിട്ടിയില്ല വീണ്ടും കുന്നംകുളത്തെ ട്രാക്കിലേക്ക്. ഹീറ്റ്‌സ് മത്സരങ്ങളുടെ തുടർച്ചയെന്നോണം ഫൈനൽ മത്സരത്തിലും ഒന്നാം സ്ഥാനം. നാഷ്ണൽ യൂത്ത് മീറ്റിൽ വെങ്കല മെഡൽ നേടിയ എബിനെ തേടിയത് യൂത്ത് ഒളിമ്പിക്‌സിന്റെ ഇന്ത്യൻ ക്യാമ്പിലേക്കുള്ള ക്ഷണമാണ്. കുന്നംകുളം സ്‌പോട്സ് ഡിവിഷനിലെ അംഗമായ എബിൻ കുന്നംകുളം ഗവ.ബോയ്‌സ് ഹയർ സെക്കഡറി സ്‌കൂളിലെ പ്ലസ് ടു വിദ്യാർത്ഥിയാണ്. സന്തോഷ് മാനത്താണ് പരിശീലകൻ. ഒല്ലൂർ കൊടങ്കണ്ടത്തിൽ ജോഷിയുടെയും ഷിൻസിയുടെയും മകനാണ്.",
         "en": ""
       },
       "image": "",
-      "link": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2026/10/05/announcement.html"
+      "link": "https://keralakaumudi.com/local/thrissur/local-news-thrissur-1812473#google_vignette"
     },
     {
       "id": "101",
@@ -795,34 +777,15 @@
         "en": "GK"
       },
       "title": {
-        "ml": "Global System for Mobile Communications (Technology)",
+        "ml": "Definition: It is the wireless standard that replaced 3G and came before 5G. The G stands for generation.Global System for Mobile Communications (Technology)",
         "en": ""
       },
       "summary": {
-        "ml": "In telecommunications, GSM is a digital 2G cellular network standard developed to handle voice calls, text messaging (SMS), and basic data services.<br>• Key Features: Uses Subscriber Identity Module (SIM) cards to identify users and allow easy switching between devices.<br>• Usage: Widely used globally for mobile phones and machine-to-machine/IoT devices.<br>• Status: Being phased out or decommissioned by many carriers worldwide to make space for 4G and 5G networks",
+        "ml": "<ul> <li><b>Speed:</b> It offers much faster data transmission than 3G—frequently delivering download speeds ranging from roughly 10 Mbps to over 100 Mbps, making tasks like HD video streaming, video calls, and online gaming smooth.</li><br><li><b>Lower Latency: </b>It significantly reduces lag (the delay between sending a command and the network responding), which is vital for real-time mobile apps.<li><b>All-IP Network:</b> Unlike older networks that used separate systems for voice and data, 4G handles everything through Internet Protocol (IP) packet-switching.</li></ul>",
         "en": ""
       },
       "image": "",
-      "link": ""
-    },
-    {
-      "id": "102",
-      "type": "news",
-      "order": 29,
-      "category": {
-        "ml": "പൊതുവിജ്ഞാനം",
-        "en": "GK"
-      },
-      "title": {
-        "ml": "Convert PDF doocument to editable Word Document.",
-        "en": ""
-      },
-      "summary": {
-        "ml": "Open Claud / Gemini / Chatat gpt. Upload pdf file. type prompt 'Please convert this file to editable MS Word file'. Download the converted file.",
-        "en": ""
-      },
-      "image": "",
-      "link": ""
+      "link": "https://www.google.com/search?q=what+is+4G&oq=what+is+4G&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBi0BzIHCAIQABiABDIKCAMQABiABBi0BzIHCAQQABiABDIKCAUQABiABBi0BzIKCAYQABiABBi0BzIKCAcQABiABBi0BzIHCAgQABiABDIKCAkQABiABBi0B9IBCDY3NTBqMGo0qAIAsAIB&sourceid=chrome&source=chrome.ob&ie=UTF-8"
     },
     {
       "id": "92",
@@ -852,15 +815,15 @@
         "en": "keralam"
       },
       "title": {
-        "ml": "എയിംസ്; കേന്ദ്രത്തിന് വീണ്ടും കത്തയക്കാന്‍ കേരളം, ജെ പി നദ്ദയ്ക്ക് കെ മുരളീധരന്‍ കത്തയക്കും",
+        "ml": "100 ദിന കർമ്മ പദ്ധതി പൂർത്തിയായി, 588 പദ്ധതികൾ ലക്ഷ്യമിട്ടു, 568 പൂർത്തിയായി; ‘ജനസ്പർശം’ ഫയൽ അദാലത്ത് അടുത്ത ലക്ഷ്യം: മുഖ്യമന്ത്രി",
         "en": ""
       },
       "summary": {
-        "ml": "<b>‌തിരുവനന്തപുരം:</b> എയിംസ് വേണമെന്ന ആവശ്യവുമായി കേന്ദ്രത്തിന് വീണ്ടും കത്തയക്കാന്‍ സംസ്ഥാനം. കേന്ദ്ര ആരോഗ്യമന്ത്രി ജെ പി നഡ്ഡയ്ക്ക് മന്ത്രി കെ മുരളീധരന്‍ കത്തയക്കും. കേരളത്തിന് ഉടന്‍ എയിംസ് നല്‍കില്ലെന്ന നിലപാട് കേന്ദ്രം വ്യക്തമാക്കിയതിന് പിന്നാലെയാണ് നീക്കം.",
+        "ml": "<b>‌തിരുവനന്തപുരം: യുഡിഎഫ് സർക്കാരിന്റെ 100 ദിന കർമ്മ പദ്ധതി പൂർത്തിയായെന്ന് മുഖ്യമന്ത്രി വി ഡി സതീശൻ. 588 പദ്ധതികൾ ലക്ഷ്യമിട്ടു, 568 പൂർത്തിയായി. 20 പദ്ധതി 90% പൂർത്തിയായി. പദ്ധതി നിർവഹണത്തിന് മുഖ്യമന്ത്രി രണ്ട് തവണ അവലോകനം ചെയ്തു. പദ്ധതി പൂർത്തീകരണം സർക്കാരിന് വലിയ ആത്മ വിശ്വാസം നൽകുന്നു.",
         "en": ""
       },
       "image": "",
-      "link": "https://www.twentyfournews.com/2026/10/08/aiims-kerala-to-write-to-the-centre-again.html"
+      "link": "https://www.twentyfournews.com/2026/10/09/v-d-satheeshan-on-udf-govt-100-days-programe.html"
     },
     {
       "id": "38",
@@ -871,15 +834,15 @@
         "en": "india"
       },
       "title": {
-        "ml": "തലസ്ഥാനത്തെ മുള്‍മുനയില്‍ നിര്‍ത്തി പ്രതിപക്ഷ പ്രതിഷേധം; കസ്റ്റഡിയിലെടുത്ത രാഹുലിനേയും പ്രിയങ്കയേയും വിട്ടയച്ചു; നാളെയും പ്രതിഷേധ സാധ്യത",
+        "ml": "പതിനായിരക്കണക്കിന്‌ സുരക്ഷാ സേനാംഗങ്ങൾ, വീടുകളിലും സർവകലാശാലയിലും മുന്നറിയിപ്പ്, ട്രെയിനുകളും റദ്ദാക്കി, സിജെപി പ്രതിഷേധം നേരിടാൻ വമ്പൻ സന്നാഹം",
         "en": ""
       },
       "summary": {
-        "ml": "<b>ഡല്‍ഹി:</b> രാജ്യതലസ്ഥാനത്തെ മുള്‍മുനയില്‍ നിര്‍ത്തി പ്രതിപക്ഷ എംപിമാരുടെ പ്രതിഷേധം. നാടകീയ രംഗങ്ങള്‍ക്ക് ഒടുവില്‍ രാഹുല്‍ ഗാന്ധിയേയും പ്രിയങ്കാ ഗാന്ധിയേയും റോഡിലൂടെ വലിച്ചിഴച്ച് ഡല്‍ഹി പൊലീസ്. കസ്റ്റഡിയിലെടുത്ത ഇരുവരെയും വിട്ടയച്ചു. ഗ്യാനേഷ് കുമാറിന്റെ രാജിക്കായി രണ്ടാം ദിവസത്തെ പ്രതിഷേധത്തിലും ജന്തര്‍ മന്തര്‍ സംഘര്‍ഷ ഭരിതമായി.",
+        "ml": "<b>ന്യൂഡൽഹി:</b> മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് നാളെ കോക്രോച്ച് ജനതാ പാർട്ടി (സിജെപി) ഡൽഹിയിൽ ജന്തർമന്തറിൽ പ്രതിഷേധം സംഘടിപ്പിക്കാൻ പോകുകയാണ്. കേന്ദ്ര വിദ്യാഭ്യസ മന്ത്രിയായിരുന്ന ധർമ്മേന്ദ്ര പ്രധാന്റെ രാജിയിൽ കലാശിച്ച ആദ്യത്തെ പ്രതിഷേധത്തിന് ശേഷം സിജെപി അവരുടെ രണ്ടാമത് വലിയ പ്രതിഷേധ സമരം രാജ്യതലസ്ഥാനത്ത് നടത്താൻ പോകുന്നു. ഇതിനെ നേരിടാൻ ഭരണതലത്തിൽ വലിയ ഒരുക്കങ്ങൾ നടക്കുകയാണെന്നാണ് പുറത്തുവരുന്ന സൂചനകൾ.",
         "en": ""
       },
       "image": "",
-      "link": "ഡല്‍ഹി: രാജ്യതലസ്ഥാനത്തെ മുള്‍മുനയില്‍ നിര്‍ത്തി പ്രതിപക്ഷ എംപിമാരുടെ പ്രതിഷേധം. നാടകീയ രംഗങ്ങള്‍ക്ക് ഒടുവില്‍ രാഹുല്‍ ഗാന്ധിയേയും പ്രിയങ്കാ ഗാന്ധിയേയും റോഡിലൂടെ വലിച്ചിഴച്ച് ഡല്‍ഹി പൊലീസ്. കസ്റ്റഡിയിലെടുത്ത ഇരുവരെയും വിട്ടയച്ചു. ഗ്യാനേഷ് കുമാറിന്റെ രാജിക്കായി രണ്ടാം ദിവസത്തെ പ്രതിഷേധത്തിലും ജന്തര്‍ മന്തര്‍ സംഘര്‍ഷ ഭരിതമായി."
+      "link": "https://keralakaumudi.com/news-360/national/delhi-deploys-23000-security-personnel-ahead-of-cjp-jantar-mantar-protest-1812929"
     },
     {
       "id": "43",
@@ -890,15 +853,15 @@
         "en": "World"
       },
       "title": {
-        "ml": "‘അവർ ആഗ്രഹിക്കുന്നത് ഇറാന്റെ പതനം’; അമേരിക്കയുമായി ചർച്ച നടത്തുന്നതിൽ അർഥമില്ല’",
+        "ml": "ഷെയറിംഗ് താമസം: പുതിയ നിയമങ്ങളുമായി ദുബായ്",
         "en": ""
       },
       "summary": {
-        "ml": "<b>ടെഹ്‌റാൻ ∙ </b><a href='https://www.manoramaonline.com/topics/news/common/iran-us-tension.html'>പശ്ചിമേഷ്യൻ യുദ്ധം അവസാനിപ്പിക്കാനുള്ള</a> സമാധാന ശ്രമങ്ങൾ സ്തംഭിച്ചുനിൽക്കുന്ന പശ്ചാത്തലത്തിൽ, അമേരിക്കയുമായി ഇനി ചർച്ച നടത്തുന്നതിൽ യാതൊരു അർഥവുമില്ലെന്ന് ഇറാൻ പ്രസിഡന്റ് മസൂദ് പെസെഷ്കിയാൻ. ചർച്ചകൾക്ക് പിന്നാലെ രാജ്യം വീണ്ടും ആക്രമിക്കപ്പെടുക മാത്രമാണ് ഉണ്ടായതെന്നും അദ്ദേഹം പറഞ്ഞു. ഇറാന്റെ ഔദ്യോഗിക വാർത്താ ഏജൻസിയായ ഇർനയാണ് അദ്ദേഹത്തിന്റെ പ്രസ്താവന റിപ്പോർട്ട് ചെയ്തത്.",
+        "ml": "<b>ദുബായ്:</b> ഷെയറിംഗ് താമസത്തിന് കർശന നിയമങ്ങളുമായി ദുബായ് മുനിസിപ്പാലി​റ്റി. ഒരു ഷെയറിംഗ് യൂണി​റ്റിൽ കുടുംബങ്ങളെയും ബാച്ചിലർമാരെയും ഒരുമിച്ച് താമസിപ്പിക്കാൻ പാടില്ല. അംഗീകരിച്ച 44 ലേറെ മേഖലകളിൽ മാത്രമേ ഷെയറിംഗ് താമസം അനുവദിക്കൂ. ഷെയ്ഖ് സായിദ് റോഡ്, ജുമൈറ റോഡ് തുടങ്ങിയ ഇടങ്ങളിലെ കെട്ടിടങ്ങളിൽ ബാച്ചിലർമാർക്ക് ഷെയറിംഗ് താമസം അനുവദിക്കില്ല. പരമാവധി 4 താമസക്കാർക്ക് ഒരു ബാത്റൂം എന്നതുൾപ്പെടെ കെട്ടിടങ്ങളിലെ അമിത തിരക്ക് ഒഴിവാക്കാനുള്ള മാനദണ്ഡങ്ങളും നിശ്ചയിച്ചു. കെട്ടിട ഉടമകൾ ​പെർമി​റ്റുകൾ ഉറപ്പാക്കണം. നിയമം ലംഘിച്ചാൽ 5,00,000 ദിർഹം വരെയാണ് പിഴ. നിലവിൽ പ്രവർത്തിക്കുന്ന ഷെയറിംഗ് യൂണി​റ്റുകൾക്ക് നിയമങ്ങൾ നടപ്പാക്കാൻ ഒരു വർഷം സമയമുണ്ട്. അനധികൃതമായി മുറികൾ വേർതിരിച്ചിട്ടുണ്ടെങ്കിൽ ഉടൻ നീക്കണം.",
         "en": ""
       },
       "image": "",
-      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/06/iran-president-us-talks-futile-amidst-west-asia-stalemate.html"
+      "link": "https://keralakaumudi.com/news-360/world/world-1812892#google_vignette"
     },
     {
       "id": "72",
@@ -909,15 +872,15 @@
         "en": "crime"
       },
       "title": {
-        "ml": "‘സ്ത്രീയുണ്ടെന്ന ധൈര്യത്തിലാണ് പോയത്, പക്ഷേ ലൈംഗികമായി വലിയ ക്രൂരതകാട്ടിയത് അമ്മു’; മൊഴി പുറത്ത്",
+        "ml": "മുടിക്ക്   കുത്തിപ്പിടിച്ച്   തല  ഭിത്തിയിലിടിച്ചു: കരുനാഗപ്പള്ളി  സ്കൂൾ  വിദ്യാർത്ഥിനിക്ക്  സഹപാഠികളുടെ   ക്രൂരമർദനം",
         "en": ""
       },
       "summary": {
-        "ml": "<b>‌കൊച്ചി:</b> കളമശ്ശേരി കൂട്ടബലാത്സംഗക്കേസിൽ അതിജീവിതയായ യുവതി നേരിട്ടത് അതിക്രൂര പീഡനം. അമ്മു എന്ന പേരിൽ അറിയപ്പെടുന്ന ശരണ്യ അടക്കം&nbsp;ക്രൂര ലൈംഗിക&nbsp;പീഡനം നടത്തിയെന്നാണ് അതിജീവിതയുടെ മൊഴി. കൂട്ടത്തിൽ ഇവരാണ് ഏറ്റവും ക്രൂരമായ ലൈംഗിക പീഡനത്തിനിരയാക്കിയതെന്നും ഇരയായ യുവതി പോലീസിന് മൊഴിനൽകി. കേസിൽ അറസ്റ്റിലായ ശ്രീരാജ്, ജിത്തു മാർട്ടിൻ, ശരണ്യ, സഞ്ജു എന്നീ നാലു പ്രതികളെയും അതിജീവിത തിരിച്ചറിഞ്ഞു. പോലീസ് ഇവരുടെ മൊഴി രേഖപ്പെടുത്തി.",
+        "ml": "<b>‌കൊല്ലം:</b> കരുനാഗപ്പള്ളിയിലെ സ്കൂളിൽ പത്താംക്ലാസ് വിദ്യാർഥിനിയെ സഹപാഠികൾ ക്രൂരമായി മർദിച്ചതായി പരാതി. ഗവ.ഗേൾസ് ഹൈസ്കൂളിലെ വിദ്യാർത്ഥിനിയാണ് ക്രൂരമർദനത്തിന് ഇരയായത്. മർദനത്തിൽ കണ്ണിന് ഗുരുതരമായി പരിക്കേറ്റ പെൺകുട്ടി മെഡിക്കൽ കോളേജ് ആശുപത്രിയിൽ ചികിത്സയിലാണ്.",
         "en": ""
       },
       "image": "",
-      "link": "https://www.mathrubhumi.com/crime/news/kalamassery-gang-rape-case-survivor-statement-sharanya-a1tf492y"
+      "link": "https://keralakaumudi.com/case-diary/kerala/school-student-brutally-attacked-by-classmates-in-karunagappally-1812933#google_vignette"
     },
     {
       "id": "019",
@@ -932,7 +895,7 @@
         "en": "Business news"
       },
       "summary": {
-        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :71,593.24<span style='color:red;'> -1,045.46(▼ 1.44%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 22,231.80  <span style='color:red;'> -371.25(▼ -1.64%)</a> ",
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :72,473.33<span style='color:green;'> +879.09 (▲ 1.23%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 22,520.45  <span style='color:green;'> +288.65(▲ +1.30%)</a> ",
         "en": "Short news summary."
       },
       "image": "images/sharemarket.png",
@@ -951,7 +914,7 @@
         "en": "Business news"
       },
       "summary": {
-        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:green;'> ₹13,710    </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:green;'>₹245  </span> ) </b>",
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:green;'> ₹13,815 ▲ ₹ 105   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:green;'>₹245  </span> ) </b>",
         "en": "Short news summary."
       },
       "image": "images/goldsilver.jfif",

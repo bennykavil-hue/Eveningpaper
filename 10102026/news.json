@@ -1,0 +1,1017 @@
+{
+  "settings": {
+    "publicationDate": "2026-10-09",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "കന്നി 23, 1202",
+      "en": "Kanni 23, 1202"
+    },
+    "hijriDate": {
+      "ml": "27 റബീഉൽ ആഖീര്‍ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 475,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "“Your mind deserves the same care as your body. Take a break, talk to someone, and remember: you are never alone.”",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "നടൻ നാനാ പടേക്കർ അന്തരിച്ചു.",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "''ഡൽഹിയിൽ യുദ്ധസമാന സാഹചര്യം, ഭരണകൂടം സ്വന്തം പൗരരെ മുഴുവൻ ശത്രുരാജ്യത്തെ പോലെ നേരിടുന്നു'",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>തിരുവന്തപുരം: ഡൽഹിയിൽ യുദ്ധസമാന സാഹചര്യമാണെന്ന് മുൻ മന്ത്രിയും സിപിഎം നേതാവുമായ എംബി രാജേഷ്. രാജ്യതലസ്ഥാനത്ത് അതിർത്തിയിലില്ലാത്ത സേനാവിന്യാസവുമായി ഒരു ഭരണകൂടം സ്വന്തം പൗരരെ മുഴുവൻ ശത്രുരാജ്യത്തെ പോലെ നേരിടുകയാണെന്നും എംപിമാരുടെ വസതികളിൽ പോലും പ്രക്ഷോഭകരെ തേടി സുരക്ഷാസേനയെത്തുകയാണെന്നും അദ്ദേഹം പറഞ്ഞു. ഫേസ്ബുക്ക് പോസ്റ്റിൽ പങ്കുവച്ച കുറിപ്പിലാണ് അദ്ദേഹം ഇക്കാര്യം വ്യക്തമാക്കിയത്.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://keralakaumudi.com/kerala/general/mb-rajesh-delhi-war-like-situation-1813315"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "World Post Day",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Celebrated to recognise the contribution of postal services in connecting people, communities and businesses worldwide.",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.who.int/"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കോഴിക്കുഞ്ഞിനെ പുറത്തെടുക്കാൻ കൂടിനകത്ത് കയ്യിട്ടപ്പോളത്  അകത്തേക്ക് വലിക്കുന്നു, നോക്കിയപ്പോൾ കണ്ടത്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വർക്കലക്കടുത്ത് മേലെവെട്ടൂർ എന്ന സ്ഥലത്തുള്ള ഒരു വീട്ടിൽ നിന്നുമാണ് വാവാ സുരേഷിന് പുതിയതായി കോൾ എത്തിയത്. കോഴിക്കുഞ്ഞിനെ തേടി വീട്ടുകാർ കോഴിക്കൂട്ടിൽ കയറിയപ്പോൾ കണ്ടത് പാമ്പിന്റെ ഒരു ഭാഗമാണ്. ഉടൻ സ്നേക്ക് മാസ്റ്ററിനെ വിളിക്കുകയായിരുന്നു. സ്ഥലത്തെത്തിയ വാവാ സുരേഷ് ചുറ്റും നിരീക്ഷിച്ചു. നിറയെ പല ഇനത്തിലുള്ള കോഴികൾ! വലിയ കൂട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/snake-master/snake-rescue-from-kerala-home-1813318#google_vignette"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "എല്ലാവിധ ഓൺ സേവനങ്ങൾ വിരൽ തുമ്പിൽ ലഭ്യമാക്കുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/needanyservices.jpg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മൂന്നര മണിക്കൂർ പിണറായിയെ വട്ടംകറക്കി ദില്ലി പൊലീസ്, മരുന്നും ഭക്ഷണവും മുടങ്ങി; ഒടുവിൽ മന്ദിർ മാർഗ് പൊലീസ് സ്റ്റേഷനിലെത്തിച്ചു, പ്രതിഷേധം തുടരുന്നു"
+      },
+      "summary": {
+        "ml": "<b>ദില്ലി:</B> മുഖ്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷണര്‍ ഗ്യാനേഷ് കുമാറിന്‍റെ രാജി ആവശ്യപ്പെട്ട് ദില്ലിയിൽ പ്രതിഷേധത്തിനെത്തിയ മുൻ മുഖ്യമന്ത്രി പിണറായി വിജയനെ കസ്റ്റഡിയിലെടുത്ത പൊലീസ്, വാഹനത്തിൽ മൂന്നര മണിക്കൂറോളം വട്ടംകറക്കി. രാവിലെ പതിനൊന്ന് മണിയോടെ പിണറായിയടക്കമുള്ളവരെ കസ്റ്റഡിയിലെടുത്ത പൊലീസ് മൂന്നര മണിക്കൂറിന് ശേഷമാണ് മന്ദിർ മാർഗ് പൊലീസ് സ്റ്റേഷനിലെത്തിച്ചത്. പിണറായിക്കൊപ്പം വാഹനത്തിലുണ്ടായിരുന്ന കെ എൻ ബാലഗോപാൽ, ജോൺ ബ്രിട്ടാസ് എന്നിവർ പ്രതിഷേധിച്ചെങ്കിലും ദില്ലി പൊലീസ് അവഗണന തുടരുകയായിരുന്നു. പിണറായിയുടെ ഭക്ഷണവും മരുന്നുമടക്കം മുടങ്ങിയെന്ന് ഒപ്പമുള്ള നേതാക്കൾ ലൈവ് വീഡിയോയിലൂടെ വ്യക്തമാക്കുകയും ചെയ്തു. പ്രായമായ ഒരു നേതാവിനോട് തികച്ചും മോശമായാണ് പെരുമാറിയതെന്നും നേതാക്കൾ ചൂണ്ടിക്കാട്ടി. നേരത്തെ സി പി എം ജനറൽ സെക്രട്ടറി എം എ ബേബി, സി പി എം സംസ്ഥാന സെക്രട്ടറി എം വി ഗോവിന്ദന്‍, പി കെ ശ്രീമതി, കെ കെ ശൈലജ അടക്കമുള്ള നേതാക്കളെയും ദില്ലി പൊലീസ് കസ്റ്റഡിയിലെടുത്തിരുന്നു. കേരള ഹൗസില്‍ നിന്ന് മാര്‍ച്ചിന് ഒരുങ്ങുന്നതിനിടെയായിരുന്നു നടപടി. സി പി എം പിബി അംഗം വിജു കൃഷ്ണൻ, സി ഐ ടി യു നേതാക്കൾ, എസ് എഫ് ഐ ദേശീയ അധ്യക്ഷൻ ആദർശ് സജി എന്നിവരെയും കസ്റ്റഡിയിലെടുത്ത് നീക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/india-news/delhi-police-detain-former-kerala-cm-pinarayi-vijayan-during-protest-keep-him-in-bus-for-over-three-hours-articleshow-r3lv1gz"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പിണറായി ദില്ലി പൊലീസിന്‍റെ കസ്റ്റഡിയിൽ തുടരുന്നതിൽ അതിവേഗ ഇടപെടലുമായി മുഖ്യമന്ത്രി; മോചനത്തിനായി ഇടപെടാൻ ചീഫ് സെക്രട്ടറിക്ക് നിർദേശം നൽകി"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മീഷണർ ഗ്യാനേഷ് കുമാറിന്‍റെ രാജി ആവശ്യപ്പെട്ട് ദില്ലിയിൽ പ്രതിഷേധിക്കാനെത്തിയ മുൻ മുഖ്യമന്ത്രിയും പ്രതിപക്ഷ നേതാവുമായ പിണറായി വിജയൻ ദില്ലി പൊലീസ് കസ്റ്റഡിയിൽ തുടരുന്നതിൽ അതിവേഗ ഇടപെടലുമായി മുഖ്യമന്ത്രി വി ഡി സതീശൻ. പിണറായി കസ്റ്റഡിയിലുള്ള സ്ഥിതി ഗതികൾ അന്വേഷിക്കാൻ ചീഫ് സെക്രട്ടറിക്ക് നിർദേശം നൽകി. റെസിഡൻസ് കമ്മീഷണറുമായി ബന്ധപ്പെട്ട് മോചനത്തിന് വേണ്ട ഇടപെടലുകൾ നടത്താനും മുഖ്യമന്ത്രി നിർദ്ദേശം നൽകി. പിണറായിയെ കസ്റ്റഡിയിലെടുത്ത പൊലീസ് മൂന്നര മണിക്കൂറോളം വാഹനത്തിൽ വട്ടംകറക്കിയതിനെ തുടർന്ന് അദ്ദേഹത്തിന് ശാരീരിക അസ്വസ്ഥത അനുഭവപ്പെട്ടെന്ന റിപ്പോർട്ടുകൾക്ക് പിന്നാലെയാണ് മുഖ്യമന്ത്രിയുടെ ഇടപെടലുണ്ടായത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/india-news/cm-vd-satheesan-directs-chief-secretary-to-intervene-over-pinarayi-vijayan-detention-in-delhi-articleshow-6y77uah"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പിണറായി​ വിജയൻ കസ്റ്റഡിയിൽ, ഡൽഹിയിൽ സിപിഐഎം നേതാക്കളെ കൂട്ടത്തോടെ കസ്റ്റഡിയിലെടുത്തു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഡൽഹി:</b> ഡൽഹിയിൽ പൊലീസ് നടപടി. കേരളത്തിലെ സിപിഐഎം നേതാക്കളെ പൊലീസ് കൂട്ടത്തോടെ കസ്റ്റഡിയിലെടുത്തു. പ്രതിപക്ഷ നേതാവ് പിണറായി വിജയൻ ഉൾപ്പെടെയുള്ള നേതാക്കളെയാണ് കസ്റ്റഡിയിലെടുത്തത്. എം.എ ബേബി, ഇ.പി ജയരാജൻ, എം.വി ​ഗോവിന്ദൻ, കെ.കെ ശൈലജ, പി.കെ ശ്രീമതി, കെ.എൻ ബാലഗോപാൽ, ജോൺ ബ്രിട്ടാസ് എംപി തുടങ്ങിയ നേതാക്കളെയും പൊലീസ് കസ്റ്റഡിയിലെടുത്തിട്ടുണ്ട്. കേരള ഹൗസിൽ നിന്ന് മാർച്ചിന് തയ്യാറെടുക്കുന്നതിനിടെയായിരുന്നു പൊലീസ് നടപടി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/10/cpm-leaders-detained-pinarayi-vijayan-delhi-protest.html"
+    },
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "സമരഭൂമി, പ്രതിഷേധക്കടലായി രാജ്യതലസ്ഥാനം, മൂവായിരത്തിലേറെ പേർ കസ്റ്റഡിയിൽ; പിണറായിയടക്കം 3 മുൻ മുഖ്യമന്ത്രിമാരും ദീപ്കെയുമടക്കം കസ്റ്റഡിയിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ദില്ലി:</b> മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മീഷണർ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് രാജ്യതലസ്ഥാനത്ത് പ്രതിഷേധ സമരങ്ങൾ സംഘർഷഭരിതമാകുന്നു. പ്രതിപക്ഷ നേതാക്കളും പ്രവർത്തകരും തെരുവിലിറങ്ങിയതോടെ ദില്ലിയുടെ വിവിധ ഭാഗങ്ങളിൽ പ്രതിഷേധം ഇരമ്പുകയാണ്. പിണറായി വിജയനടക്കം 3 മുൻ മുഖ്യമന്ത്രിമാരും സി ജെ പി സ്ഥാപകൻ അഭിജിത് ദീപ്കെയുമടക്കമുള്ളവർ കസ്റ്റഡിയിലായെങ്കിലും പ്രവർത്തകർ ഒന്നാകെ തെരുവുകളിലേക്ക് ഒഴുകിയെത്തുകയാണ്. ഇതുവരെ മൂവായിരത്തിലേറെ പേരെ പോലീസ് കസ്റ്റഡിയിലെടുത്തു. സി ജെ പി ജന്തർ മന്തറിൽ പ്രഖ്യാപിച്ച പ്രതിഷേധം ആരംഭിക്കുന്നതിന് മുൻപ് തന്നെ അരലക്ഷത്തോളം സുരക്ഷാ ഉദ്യോഗസ്ഥരെ വിന്യസിച്ച് പോലീസ് കൂട്ടക്കസ്റ്റഡി ആരംഭിക്കുകയായിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/india-news/over-1000-detained-in-delhi-as-massive-protests-against-cec-turn-capital-into-battleground-articleshow-3ekgk7g"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "അഭിജീത് ദീപ്കെ, പിണറായി, കെജ്‌രിവാൾ, അഷുതോഷ് റാങ്കെ, ധ്രുവ് റാഠി.., സമരം തുടങ്ങും മുന്നേ നേതാക്കൾ കസ്റ്റഡിയിൽ; അടിച്ചമർത്താൻ സർക്കാർ ശ്രമം, പ്രതിഷേധം തുടരുമെന്ന് സിജെപി"
+      },
+      "summary": {
+        "ml": "<b>ദില്ലി :</b> മുഖ്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷണർ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് രാജ്യതലസ്ഥാനത്ത് കോക്രോച്ച് ജനതാ പാർട്ടി പ്രഖ്യാപിച്ച പ്രതിഷേധ മാർച്ചിൽ പങ്കെടുക്കാനെത്തിയ നേതാക്കളെയും പ്രവർത്തകരെയും വ്യാപകമായി കസ്റ്റഡിയിലെടുത്ത് ദില്ലി പൊലീസ്. ജന്തർ മന്തറിലേക്ക് നടത്താനിരുന്ന പ്രതിഷേധ മാർച്ചിൽ പങ്കെടുക്കാനെത്തിയ സി.ജെ.പിയുടേയും, സിപിഎം അടക്കം ഇടതുപാർട്ടികളുടേയും ആംആദ്മി പാർട്ടിയുടേയും നേതാക്കളെയും ആക്ടിവിസ്റ്റുകളെയുമടക്കമാണ് പൊലീസ് കസ്റ്റഡിയിലെടുത്തത്. സിജെപി സ്ഥാപകൻ അഭിജീത് ദീപ്കെ,കോ-കൺവീനർ അശുതോഷ് റാങ്കെ, വക്താവ് സൗരവ് ദാസ്, സിപിഎം നേതാക്കളായ പിണറായി വിജയൻ, എം എ ബേബി, എം വി ഗോവിന്ദന്‍, പി കെ ശ്രീമതി, കെ കെ ശൈലജ, എഎപി അധ്യക്ഷൻ അരവിന്ദ് കെജ്‌രിവാൾ, ആക്ടിവിസ്റ്റും യൂട്യൂബറുമായ ധ്രുവ് റാഠി അടക്കം ദില്ലിയിൽ കസ്റ്റഡിയിലാണ്. സമരത്തിന് മുന്നോടിയായി രാജ്യതലസ്ഥാനത്തിന്റെ വിവിധ ഭാഗങ്ങളിൽ നിന്നായി 500-ലധികം പ്രതിഷേധക്കാരെയാണ് ദില്ലി പൊലീസ് ഇതിനകം കസ്റ്റഡിയിലെടുത്തിട്ടുള്ളത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/india-news/cjp-delhi-protest-pinarayi-vijayan-abhijeet-dipke-including-leaders-in-custody-articleshow-gvov3ul"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് പ്രതിഷേധം: ചെന്നൈയിൽ 140 പേർ കസ്റ്റഡിയിൽ"
+      },
+      "summary": {
+        "ml": "<b>ചെന്നൈ:</b> ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് നടന്ന പ്രതിഷേധങ്ങൾക്കിടെ ചെന്നൈയിൽ 140 പേരെ പോലീസ് കസ്റ്റഡിയിലെടുത്തു. ബസന്ത് നഗർ എലിയട്ട് ബീച്ചിൽ നിന്ന് 40 യുവാക്കളെയും സെക്രട്ടറിയേറ്റിന് സമീപത്ത് നിന്ന് എസ്എഫ്ഐ, എഐഎസ്എഫ് സംഘടനകളിൽ പെട്ട 100 പ്രവർത്തകരെയുമാണ് പൊലീസ് കസ്റ്റഡിയിലെടുത്തത്. ദില്ലിയിൽ നടക്കുന്ന 'സിജെപി' പ്രതിഷേധങ്ങൾക്ക് പിന്തുണ പ്രഖ്യാപിച്ചാണ് യുവാക്കൾ ബസന്ത് നഗർ ബീച്ചിൽ ഒത്തുചേർന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/india-news/protest-demanding-gyanesh-kumars-resignation-140-people-taken-into-custody-in-chennai-articleshow-k5pi215"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "കാഴ്ചക്കാരുടെ എണ്ണത്തിൽ കുറവ്; നെറ്റ്‌ഫ്ലിക്സിൽ കൂട്ടപ്പിരിച്ചുവിടൽ, 850 പേർക്ക് ജോലി നഷ്ടമായേക്കും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കാലിഫോർണിയ:</b> അഞ്ച് ശതമാനം ജീവനക്കാരെ പിരിച്ചുവിടാൻ ഒരുങ്ങി നെറ്റ്‌ഫ്ലിക്സ്. പക്ക് ന്യൂസാണ് ഇതുസംബന്ധിച്ച ന്യൂസ് പുറത്തുവിട്ടത്. കാഴ്ചക്കാരുടെഎണ്ണത്തിലുണ്ടായ കുറവും ഈ വർഷം ഉടനീളം ഓഹരി വിപണിയിലുണ്ടായ ഇടിവുമാണ് ഇതിന് കാരണമെന്നാണ് അനൗദ്യോഗിക വിവരം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/world/netflix-plans-to-lay-off-850-employees-1813282#google_vignette"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കളമശ്ശേരി പീഡനക്കേസ്: അതിജീവിത വലിയ ട്രോമയിൽ, ആരോഗ്യനില വീണ്ടെടുക്കുകയാണെന്ന് മന്ത്രി ബിന്ദു കൃഷ്ണ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ആലപ്പുഴ:</b> കളമശ്ശേരി പീഡനക്കേസിലെ അതിജീവിത ആരോഗ്യനില വീണ്ടെടുക്കുകയാണെന്നും വലിയ ട്രോമയിലാണ് ഇപ്പോഴും ആ പെൺകുട്ടിയെന്നും മന്ത്രി ബിന്ദു കൃഷ്ണ പറഞ്ഞു. തൊഴിലിന് എന്ന പേരിൽ വിളിച്ചുവരുത്തി വേട്ടയാടിയ കഴുകന്മാർ ആണ് പിന്നിൽ. കുറ്റക്കാരെ സർക്കാർ വെറുതെ വിടില്ലെന്നും മന്ത്രി വ്യക്തമാക്കി. അതിജീവിതയെ സന്ദർശിച്ചതിന് പിന്നാലെയായിരുന്നു മന്ത്രി ബിന്ദു കൃഷ്ണയുടെ പ്രതികരണം. തൂഫാൻ ശക്തമായി പ്രവർത്തിക്കുന്നുണ്ടെങ്കിലും, കർട്ടന് പിന്നിൽ ഇപ്പോഴും ചിലർ ലഹരിയുടെ ഭാഗമാകുന്നുണ്ട്. അവർക്കെതിരെ ശക്തമായ നടപടി സ്വീകരിക്കുമെന്നും മന്ത്രി പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/kalamassery-assault-case-survivor-health-1813336#google_vignette"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഡ്രൈവർക്ക്  ദേഹാസ്വാസ്ഥ്യം; കൊല്ലത്ത് ബസ് ട്രാൻസ്‌ഫോർമറിൽ ഇടിച്ചുനിർത്തി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊല്ലം:</b> കൊട്ടാരക്കര കോട്ടാത്തലയിൽ സ്വകാര്യ ബസ് ട്രാൻസ്‌ഫോർമറിലിടിച്ച് അപകടം. ബസ് ഓടിക്കുന്നതിനിടെ ദേഹാസ്വാസ്ഥ്യം അനുഭവപ്പെട്ട ഡ്രൈവർ ബസ് ഇടിച്ചുനിർത്തുകയായിരുന്നു. അടൂരിലേക്ക് പോയ ബസാണ് അപകടത്തിൽപ്പെട്ടത്. കെഎസ്ഇബി പുത്തൂർ സെക്ഷന്റെ ട്രാൻസ്‌ഫോമറിലാണ് ബസ് ഇടിച്ചുനിർത്തിയത്. ഡ്രൈവർ രതീഷിനെ ആശുപത്രിയിൽ പ്രവേശിപ്പിച്ചു. ഇടിയുടെ ആഘാതത്തിൽ ട്രാൻസ്‌ഫോർമർ തകർന്നു. യാത്രക്കാർ സുരക്ഷിതരാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/kollam-private-bus-hits-transformer-driver-unwell-1813334"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "റൊണാൾ‌‌ഡോ യുഗത്തിന് അന്ത്യമാകുമോ? താരത്തിനെതിര അച്ചടക്ക നടപടി; ആറുമാസം കളിക്കളത്തിന് പുറത്ത്?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ലിസ്ബൺ:</b> പോർച്ചുഗൽ ദേശീയ ഫുട്ബോൾ ടീമിന്റെ ക്യാമ്പ് വിട്ടുപോയ സംഭവത്തിൽ സൂപ്പർതാരം ക്രിസ്റ്റ്യാനോ റൊണാൾഡോയ്ക്ക് ആറുമാസം വരെ വിലക്ക് ലഭിച്ചേക്കുമെന്ന് റിപ്പോർട്ട്. പരിശീലകൻ ജോർജ് ജീസസുമായുള്ള അഭിപ്രായ വ്യത്യാസത്തെത്തുടർന്ന് കഴി‌ഞ്ഞ മാസം ദേശീയ ടീമിന്റെ ക്യാമ്പ് വിട്ടതാണ് റൊണാൾഡോയ്ക്ക് തിരിച്ചടിയായത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/sports/cristiano-ronaldo-portugal-ban-disciplinary-action-1813275"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 16,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "'മുഖ്യമന്ത്രിയോ കായികമന്ത്രിയോ ഇതുവരെ വിളിച്ചില്ല, കേരളത്തിൽ നിന്ന് അനുകൂല്യങ്ങൾ കുറവ്'; തുറന്നുപറഞ്ഞ് ലോംഗ്ജംപ് താരം ശ്രീശങ്കർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പാലക്കാട്:</b> ഏഷ്യൻ ഗെയിംസ് മെഡൽ ജേതാക്കളെ സംസ്ഥാന സർക്കാർ അവഗണിക്കുകയാണെന്ന ആരോപണവുമായി ലോംഗ്ജംപ് മലയാളി താരം എം ശ്രീശങ്കർ. മുഖ്യമന്ത്രിയോ കായികമന്ത്രിയോ സർക്കാരിൽ നിന്ന് മറ്റാരെങ്കിലുമോ ഇതുവരെ വിളിച്ച് സംസാരിച്ചില്ലെന്ന് ശ്രീശങ്കർ പറഞ്ഞു. തമിഴ്നാട് ഉൾപ്പടെയുള്ള മറ്റ് സംസ്ഥാങ്ങൾ അവരുടെ താരങ്ങൾക്ക് പ്രഖ്യാപിച്ച പാരിതോഷികം നൽകിയെന്നും കേരളത്തിന്റെ ഭാഗത്ത് നിന്ന് ഒരു അറിയിപ്പും ലഭിച്ചിട്ടില്ല. കേരളത്തിൽ പാരിതോഷികവും ആനുകൂല്യങ്ങളും താരതമ്യേന കുറവാണ്. കുറവ് പാരിതോഷികം നൽകുന്ന സംസ്ഥാനങ്ങളിൽ കേരളത്തിന് പിന്നിലുള്ളത് മണിപ്പൂർ മാത്രമാണെന്നും ശ്രീശങ്കർ വ്യക്തമാക്കി."
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/sports/asian-games-athlete-kerala-benefits-complaint-1813274"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "ഷഹാനയുടെയും ജാസിറിന്റെയും പ്രവർത്തനം മലപ്പുറത്തെ ലോഡ്ജ് കേന്ദ്രീകരിച്ച്, പിടികൂടി പൊലീസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മലപ്പുറം:</b> ലോഡ്ജ് കേന്ദ്രീകരിച്ച് എംഡിഎംഎ വിൽപന നടത്തിയ നഴ്സിംഗ് വിദ്യാർത്ഥിനിയടക്കം രണ്ട് പേർ പൊലീസ് പിടിയിൽ. മലപ്പുറം പെരിന്തൽമണ്ണയിലാണ് സംഭവം. മണ്ണാർമല പച്ചീരി സ്വദേശി റാവുത്തർ വീട്ടിൽ ജാസിർ അർഷാദ് (20), അങ്ങാടിപ്പുറം ജൂബിലി റോഡ് അമ്പലക്കുത്ത് വീട്ടിൽ ഷഹാന മിധ (20) എന്നിവരെയാണ് പിടികൂടിയത്. ഇവരിൽ നിന്ന് 11.63 ഗ്രാം എംഡിഎംഎ കണ്ടെത്തി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/case-diary/kerala/shahana-jasir-malappuram-lodge-police-arrest-1813309"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "എസ്ഐആറിനെ രാഷ്ട്രീയവൽക്കരിക്കുന്നു, ഇന്ത്യൻ ജനാധിപത്യം ഭീഷണിയിലാണെന്ന് വരുത്താൻ ശ്രമം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി∙</b> തിരഞ്ഞെടുപ്പ് ഫലങ്ങളിലെ തിരിച്ചടികളെ തുടർന്ന് പ്രതിപക്ഷ പാർട്ടികൾ തിരഞ്ഞെടുപ്പ് കമ്മിഷണറുടെ പ്രത്യേക തീവ്ര വോട്ടർ പട്ടിക പുതുക്കൽ പ്രക്രിയയെ (എസ്ഐആർ) രാഷ്ട്രീയവൽക്കരിക്കുകയാണെന്ന് <a href='https://www.manoramaonline.com/topics/politics/parties/bjp.html' target='_blank' rel='noopener noreferrer'>ബിജെപി</a>. ഇന്ത്യയുടെ ജനാധിപത്യം ഭീഷണിയിലാണെന്ന് വരുത്തിത്തീർക്കാൻ പ്രതിപക്ഷം ശ്രമിക്കുകയാണെന്ന് ബിജെപി വക്താവ് രവിശങ്കർ പ്രസാദ് ആരോപിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/10/bjp-accuses-opposition-of-politicizing-sir.html"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പിണറായി വിജയന്റെ പഴ്‌സനൽ സ്റ്റാഫിൽ അഴിച്ചുപണി; പി.എം.മനോജ് പ്രസ് സെക്രട്ടറി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം∙ പ്രതിപക്ഷ നേതാവ് <a href='https://www.manoramaonline.com/topics/politics/leaders/pinarayivijayan.html' target='_blank' rel='noopener noreferrer'>പിണറായി വിജയന്റെ</a>പെട്ടെന്നുള്ള അഴിച്ചുപണിക്കുള്ള കാരണം വ്യക്തമായിട്ടില്ല. പിണറായി വിജയൻ പ്രതിപക്ഷ നേതൃസ്ഥാനം ഏറ്റെടുത്തതിനു പിന്നാലെ പ്രസ് സെക്രട്ടറിയായി ദേശാഭിമാനി മുൻ സീനിയർ ന്യൂസ് എഡിറ്റർ മനോഹരൻ മൊറായിയെയാണ് പാർട്ടി നിയോഗിച്ചത്. എന്നാൽ മാസങ്ങൾക്കു ശേഷം മനോജിനെ തന്നെ തിരികെ എത്തിക്കുകയായിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/10/change-in-pinarayi-vijayan-personal-staff.html"
+    },
+    {
+      "id": "37",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "സമരം തുടരും, നേതാക്കളെക്കുറിച്ച് വിവരമില്ല, അവർ രഹസ്യ കേന്ദ്രങ്ങളിൽ തടവിൽ: ആരോപണവുമായി സിജെപി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി∙</b>&nbsp;ഭരണഘടന സംരക്ഷിക്കാൻ സമരം തുടരുമെന്ന് സിജെപി നേതൃത്വം വാർത്താ സമ്മേളനത്തിൽ അറിയിച്ചു. നേതാക്കളെക്കുറിച്ച് വിവരമില്ലെന്ന് സിജെപി നേതാക്കൾ പറഞ്ഞു. അഭിജീത് ദിപ്കെ, സൗരവ് ദൗസ്, അശുതോഷ് റാംക എന്നിവരെക്കുറിച്ചാണ് ഒരു വിവരവുമില്ലാത്തത്. മൂവരും വ്യത്യസ്ത രഹസ്യ കേന്ദ്രങ്ങളിൽ തടവിലാണെന്നും സിജെപി നേതൃത്വം പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/10/cjp-alleges-leaders-are-in-secret-detention-vows-protest-will-continue.html"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 21,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "തിരുവാഭരണം മോഷ്ടിച്ചെന്ന് പഴികേട്ട് സുരേന്ദ്രൻ നായർ; ഭൂമി വിറ്റ് സ്വർണം വാങ്ങി നൽകി: ഒടുവിൽ യഥാർഥ പ്രതി പിടിയിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മലപ്പുറം:</b> തിരുവനന്തപുരത്ത് നിന്ന് ഷൊർണൂർ വരെ സർവീസ് നടത്തുന്ന വേണാട് എക്‌സ്‌പ്രസ് നിലമ്പൂർ വരെ നീട്ടണമെന്ന ആവശ്യം ഇന്ത്യൻ റെയിൽവേ പരിഗണിക്കുമെന്ന് റിപ്പോർട്ട്. ഇതോടെ മലപ്പുറം ജില്ലയിലെ മലയോര മേഖലയിലെ ജനങ്ങളുടെ യാത്രാദുരിതത്തിന് വലിയൊരു ആശ്വാസമാകുമെന്നാണ് പ്രതീക്ഷ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/venad-express-extension-nilambur-1812939"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "<സ്പാ സെന്റർ ജോലിക്കാരായ 3 ബംഗ്ലാദേശികൾ കോഴിക്കോട്ട് പിടിയിൽ; മതിയായ രേഖകളില്ല.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "മതിയായ രേഖകളില്ലാതെ ഗോവിന്ദപുരത്തെ സ്വകാര്യ ആശുപത്രിക്കുസമീപത്തെ വീട്ടിൽതങ്ങിയ മൂന്ന് ബംഗ്ലാദേശുകാരെ പോലീസ് പിടികൂടി. കഴിഞ്ഞദിവസം നഗരത്തിൽ വിദേശികളായ ചിലർ തമ്മിൽ തർക്കമുണ്ടായിരുന്നു. ഇതുസംബന്ധിച്ചുള്ള അന്വേഷണത്തിന്റെ ഭാഗമായി വെള്ളിയാഴ്ച ഉച്ചയ്ക്ക് നടത്തിയ പരിശോധനയിലാണ് രണ്ട് സ്ത്രീകളെയും ഒരു പുരുഷനെയും കസ്റ്റഡിയിലെടുത്തത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/crime/news/three-bangladeshis-arrested-in-kozhikode-without-documents-jtdlwvun"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "എംവിഡിയും പൊലീസും ചേർന്ന് തടഞ്ഞിട്ട പടുകൂറ്റൻ ട്രെയ്‌ലർ 2 ദിവസത്തിലേറെയായി നടുറോഡിൽ; ഗതാഗതം ഒറ്റവരിയായി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഒറ്റപ്പാലം ∙</b> ഈസ്റ്റ് ഒറ്റപ്പാലത്തെ പാലം കടക്കാൻ അനുവദിക്കാതെ മോട്ടർ വാഹന വകുപ്പും (എംവിഡി) പൊലീസും ചേർന്നു തടഞ്ഞിട്ട പടുകൂറ്റൻ ട്രെയ്‌ലർ 2 ദിവസത്തിലേറെയായി നിൽക്കുന്നതു നടുറോഡിൽ. ഒതുക്കി നിർത്താൻ പോലും കഴിയാത്തത്ര വലിയ ട്രെയ്‌ലർ മായന്നൂർപ്പാലം അപ്രോച്ച് റോഡിന്റെ മധ്യഭാഗത്തു ഗതാഗതത്തിനു തടസ്സം സൃഷ്ടിച്ചാണു നിൽക്കുന്നത്. ഈ ഭാഗത്ത് ഇപ്പോൾ ഒറ്റവരി ഗതാഗതമാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/palakkad/2026/10/08/ottappalam-trailer-traffic-block.html"
+    },
+    {
+      "id": "22",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "കാലപ്പഴക്കം ചെന്ന 35 കോച്ചുകൾ പൊളിച്ചുവിറ്റു; റെയിൽവേക്ക് ലഭിച്ചത് കോടികൾ: കോച്ചൊന്നിന് 5 ലക്ഷത്തിലധികം രൂപയ്ക്ക് ലേലം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഷൊർണൂർ ∙</b> ഷൊർണൂർ ജംക്‌ഷൻ സ്റ്റേഷനിൽ കാലപ്പഴക്കം ചെന്ന റെയിൽവേ കോച്ചുകൾ പൊളിച്ചുവിറ്റു. 4 മാസത്തിനുള്ളിൽ മാത്രം യാഡിൽ സൂക്ഷിച്ചിരുന്ന 35 കോച്ചുകളാണ് റെയിൽവേ ലേലം ചെയ്തു നീക്കിയത്. സുരക്ഷാ മാനദണ്ഡങ്ങൾ കർശനമാക്കുന്നതിന്റെയും യാത്രാസൗകര്യങ്ങൾ ആധുനികവൽകരിക്കുന്നതിന്റെയും ഭാഗമായാണ് പഴകിയ കോച്ചുകൾ ഒഴിവാക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/palakkad/2026/10/08/shoranur-railway-station-old-coaches-auctioned.html"
+    },
+    {
+      "id": "23",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "ശ്രീരാജ് നടത്തുന്നുന്നത് 4 സ്പാകൾ; പുതിയ ജോലിയിൽ രാത്രി 11ന് പ്രവേശിക്കാൻ നിർദേശം, മുൻ അധ്യാപിക നേരിട്ടത് ക്രൂര പീഡനം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": "<b>കൊച്ചി ∙</b> ഏറ്റവും അടുപ്പമുള്ളവരോടു പോലും പരിചയമോ ഇഷ്ടമോ പ്രകടിപ്പിക്കാൻ കഴിയാത്ത അവസ്ഥയിലാണു കളമശേരിയിൽ <a href='https://www.manoramaonline.com/topics/crime/rape.html'>പീഡനത്തിനിരയായ</a> സംഭവത്തിലെ അതിജീവിത. ആരെങ്കിലും അടുത്തുവന്നാൽ ദേഷ്യത്തോടെ പെരുമാറും, സ്വന്തം വസ്ത്രങ്ങൾ കീറിയെറിയും, അടുത്തു വരരുതെന്ന് ആക്രോശിക്കും. ഒരുതരത്തിലും സങ്കടം നിയന്ത്രിക്കാനാകാത്ത അവസ്ഥ. മാനസികമായി തകർന്ന അവസ്ഥയിലാണു യുവതിയെന്നും ഇനിയൊരു കുടുംബത്തിനും ഈ അവസ്ഥയുണ്ടാകരുതെന്നും യുവതിയുടെ ഭർ‍ത്താവ് പറഞ്ഞു."
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/07/kalamassery-spa-sexual-assault-case-fake-job-offer-police-investigation.html"
+    },
+    {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "എഐയെ വിശ്വസിച്ച് മലകയറ്റം; വഴിതെറ്റി പാറയിടുക്കിൽ കുടുങ്ങി കൗമാരക്കാരൻ, മൂന്ന് മണിക്കൂ‌ർ നീണ്ട രക്ഷാദൗത്യം"
+      },
+      "summary": {
+        "ml": "<strong>ഒട്ടാവ:</strong> ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസിന്റെ (എഐ) സഹായത്തോടെ ഹൈക്കിംഗ് യാത്ര ആസൂത്രണം ചെയ്‌ത 16കാരൻ അപകടകരമായ മലഞ്ചെരുവിൽ കുടുങ്ങി. കാനഡയിൽ ബ്രിട്ടീഷ് കൊളംബിയയിലെ ക്രൗൺ മൗണ്ടനിൽ ശനിയാഴ്‌ചയായിരുന്നു സംഭവം. ക്ലോഡ് എഐയുടെ സഹായത്തോടെ യാത്ര ആസൂത്രണം ചെയ്‌ത ബ്രൈസ് വിൻസെന്റ് ഗൗറിലുക്കെന്ന കൗമാരക്കാരനാണ് വഴിതെറ്റി പാറക്കെട്ടിൽ അകപ്പെട്ടത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/world/teenager-stranded-mountain-hike-claude-ai-canada-rescue-1812970"
+    },
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "History of Indian Posts",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<h3>Ancient and Medieval Roots</h3><ul><li><strong>Early Messengers:</strong> Organized communication systems existed under ancient empires, including runner (harkara) services established by Sultan Alauddin Khilji around 1296 and Sher Shah Suri's horse-relay dak system along the Grand Trunk Road in the 16th century.</li><li><strong>Company Rule:</strong> The British East India Company established early local post offices in Bombay (1664), Madras, and Calcutta during the mid-18th century. Robert Clive organized a formal postal system in 1766, and Warren Hastings opened it to the public in 1774 alongside founding the first General Post Office (GPO) in Calcutta.</li></ul><h3>Colonial Reforms and Expansion (19th Century)</h3><ul><li><strong>Post Office Act of 1837 &amp; 1854:</strong> The 1837 Act gave the government a monopoly on letter conveyance, while the 1854 reforms restructured the post into a centralized national service headed by a Director-General.</li><li><strong>Scinde Dawk (1852):</strong> Asia's first adhesive postage stamps were introduced in the province of Sindh by Sir Bartle Frere.</li><li><strong>Key Milestones:</strong><ul><li>1863: Railway Mail Service (RMS) launched.</li><li>1876: India joined the Universal Postal Union.</li><li>1879: Postcards introduced and money order services launched.</li><li>1882 &amp; 1884: Post Office Savings Bank opened and Postal Life Insurance launched.</li></ul></li></ul><h3>Post-Independence and Modern Era</h3><ul><li><strong>Post-1947 Evolution:</strong> The postal network expanded dramatically across independent India, maintaining the world's widest postal network.</li><li><strong>Technological Shifts:</strong><ul><li>1972: Postal Index Number (PIN code) system introduced.</li><li>1986: Speed Post introduced.</li><li>2008 &amp; 2012: Project Arrow and IT Modernization projects launched to upgrade physical and digital infrastructure.</li></ul></li><li><strong>Recent Services:</strong> Expansion into e-commerce parcel delivery and digital banking via the India Post Payments Bank.</li></ul>"
+      },
+      "image": "",
+      "link": "https://www.indiapost.gov.in/postal-history"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "100 ദിന കർമ്മ പദ്ധതി പൂർത്തിയായി, 588 പദ്ധതികൾ ലക്ഷ്യമിട്ടു, 568 പൂർത്തിയായി; ‘ജനസ്പർശം’ ഫയൽ അദാലത്ത് അടുത്ത ലക്ഷ്യം: മുഖ്യമന്ത്രി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‌തിരുവനന്തപുരം: യുഡിഎഫ് സർക്കാരിന്റെ 100 ദിന കർമ്മ പദ്ധതി പൂർത്തിയായെന്ന് മുഖ്യമന്ത്രി വി ഡി സതീശൻ. 588 പദ്ധതികൾ ലക്ഷ്യമിട്ടു, 568 പൂർത്തിയായി. 20 പദ്ധതി 90% പൂർത്തിയായി. പദ്ധതി നിർവഹണത്തിന് മുഖ്യമന്ത്രി രണ്ട് തവണ അവലോകനം ചെയ്തു. പദ്ധതി പൂർത്തീകരണം സർക്കാരിന് വലിയ ആത്മ വിശ്വാസം നൽകുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/09/v-d-satheeshan-on-udf-govt-100-days-programe.html"
+    },
+    {
+      "id": "38",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "പതിനായിരക്കണക്കിന്‌ സുരക്ഷാ സേനാംഗങ്ങൾ, വീടുകളിലും സർവകലാശാലയിലും മുന്നറിയിപ്പ്, ട്രെയിനുകളും റദ്ദാക്കി, സിജെപി പ്രതിഷേധം നേരിടാൻ വമ്പൻ സന്നാഹം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് നാളെ കോക്രോച്ച് ജനതാ പാർട്ടി (സിജെപി) ഡൽഹിയിൽ ജന്തർമന്തറിൽ പ്രതിഷേധം സംഘടിപ്പിക്കാൻ പോകുകയാണ്. കേന്ദ്ര വിദ്യാഭ്യസ മന്ത്രിയായിരുന്ന ധർമ്മേന്ദ്ര പ്രധാന്റെ രാജിയിൽ കലാശിച്ച ആദ്യത്തെ പ്രതിഷേധത്തിന് ശേഷം സിജെപി അവരുടെ രണ്ടാമത് വലിയ പ്രതിഷേധ സമരം രാജ്യതലസ്ഥാനത്ത് നടത്താൻ പോകുന്നു. ഇതിനെ നേരിടാൻ ഭരണതലത്തിൽ വലിയ ഒരുക്കങ്ങൾ നടക്കുകയാണെന്നാണ് പുറത്തുവരുന്ന സൂചനകൾ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/delhi-deploys-23000-security-personnel-ahead-of-cjp-jantar-mantar-protest-1812929"
+    },
+    {
+      "id": "43",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "ഷെയറിംഗ് താമസം: പുതിയ നിയമങ്ങളുമായി ദുബായ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ദുബായ്:</b> ഷെയറിംഗ് താമസത്തിന് കർശന നിയമങ്ങളുമായി ദുബായ് മുനിസിപ്പാലി​റ്റി. ഒരു ഷെയറിംഗ് യൂണി​റ്റിൽ കുടുംബങ്ങളെയും ബാച്ചിലർമാരെയും ഒരുമിച്ച് താമസിപ്പിക്കാൻ പാടില്ല. അംഗീകരിച്ച 44 ലേറെ മേഖലകളിൽ മാത്രമേ ഷെയറിംഗ് താമസം അനുവദിക്കൂ. ഷെയ്ഖ് സായിദ് റോഡ്, ജുമൈറ റോഡ് തുടങ്ങിയ ഇടങ്ങളിലെ കെട്ടിടങ്ങളിൽ ബാച്ചിലർമാർക്ക് ഷെയറിംഗ് താമസം അനുവദിക്കില്ല. പരമാവധി 4 താമസക്കാർക്ക് ഒരു ബാത്റൂം എന്നതുൾപ്പെടെ കെട്ടിടങ്ങളിലെ അമിത തിരക്ക് ഒഴിവാക്കാനുള്ള മാനദണ്ഡങ്ങളും നിശ്ചയിച്ചു. കെട്ടിട ഉടമകൾ ​പെർമി​റ്റുകൾ ഉറപ്പാക്കണം. നിയമം ലംഘിച്ചാൽ 5,00,000 ദിർഹം വരെയാണ് പിഴ. നിലവിൽ പ്രവർത്തിക്കുന്ന ഷെയറിംഗ് യൂണി​റ്റുകൾക്ക് നിയമങ്ങൾ നടപ്പാക്കാൻ ഒരു വർഷം സമയമുണ്ട്. അനധികൃതമായി മുറികൾ വേർതിരിച്ചിട്ടുണ്ടെങ്കിൽ ഉടൻ നീക്കണം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/world/world-1812892#google_vignette"
+    },
+    {
+      "id": "72",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "മുടിക്ക്   കുത്തിപ്പിടിച്ച്   തല  ഭിത്തിയിലിടിച്ചു: കരുനാഗപ്പള്ളി  സ്കൂൾ  വിദ്യാർത്ഥിനിക്ക്  സഹപാഠികളുടെ   ക്രൂരമർദനം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‌കൊല്ലം:</b> കരുനാഗപ്പള്ളിയിലെ സ്കൂളിൽ പത്താംക്ലാസ് വിദ്യാർഥിനിയെ സഹപാഠികൾ ക്രൂരമായി മർദിച്ചതായി പരാതി. ഗവ.ഗേൾസ് ഹൈസ്കൂളിലെ വിദ്യാർത്ഥിനിയാണ് ക്രൂരമർദനത്തിന് ഇരയായത്. മർദനത്തിൽ കണ്ണിന് ഗുരുതരമായി പരിക്കേറ്റ പെൺകുട്ടി മെഡിക്കൽ കോളേജ് ആശുപത്രിയിൽ ചികിത്സയിലാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/case-diary/kerala/school-student-brutally-attacked-by-classmates-in-karunagappally-1812933#google_vignette"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :72,473.33<span style='color:green;'> +879.09 (▲ 1.23%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 22,520.45  <span style='color:green;'> +288.65(▲ +1.30%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:green;'> ₹13,815 ▲ ₹ 105   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:green;'>₹245  </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

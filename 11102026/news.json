@@ -741,275 +741,276 @@
         "en": ""
       },
       "summary": {
-        "ml": "'icon':'📞','year':'1973','text':'Motorola engineer Martin Cooper made the first handheld mobile phone call using a heavy prototype known as the DynaTAC.'<br>'icon':'📡','year':'1979','text':'Nippon Telegraph and Telephone (NTT) launched the world’s first cellular network in Japan.'<br>,'icon':'📱','year':'1983','text':'The Motorola DynaTAC 8000X became the first commercially available handheld mobile phone, costing nearly $4,000.<br>,'icon':'💬','year':'1992','text':'The first Short Message Service (SMS) text message was sent.<br>,'icon':'📸','year':'1999','text':'The Kyocera Visual Phone VP-210 debuted in Japan as the first commercial phone with a built-in camera, and the BlackBerry emerged for mobile messaging.<br>,'icon':'☎️','year':'2000','text':'The iconic Nokia 3310 launched, becoming one of the best-selling and most durable phones in history.<br>,'icon':'🌐','year':'2001','text':'The first 3G cellular network launched, opening the door for mobile internet services.<br>,'icon':'🍎','year':'2007','text':'Apple released the first iPhone, shifting the industry toward full-touchscreen smart devices.<br>,'icon':'🤖','year':'2008','text':'The first Android smartphone debuted.<br>,'icon':'🚀','year':'2019','text':'Global commercial rollout of 5G networks began, bringing ultra-fast data speeds.",
-        "image": "",
-        "link": "https://en.wikipedia.org/wiki/Mobile_phone"
+        "ml": "'icon':'📞','year':'1973','text':'Motorola engineer Martin Cooper made the first handheld mobile phone call using a heavy prototype known as the DynaTAC.'<br>'icon':'📡','year':'1979','text':'Nippon Telegraph and Telephone (NTT) launched the world’s first cellular network in Japan.'<br>,'icon':'📱','year':'1983','text':'The Motorola DynaTAC 8000X became the first commercially available handheld mobile phone, costing nearly $4,000.<br>,'icon':'💬','year':'1992','text':'The first Short Message Service (SMS) text message was sent.<br>,'icon':'📸','year':'1999','text':'The Kyocera Visual Phone VP-210 debuted in Japan as the first commercial phone with a built-in camera, and the BlackBerry emerged for mobile messaging.<br>,'icon':'☎️','year':'2000','text':'The iconic Nokia 3310 launched, becoming one of the best-selling and most durable phones in history.<br>,'icon':'🌐','year':'2001','text':'The first 3G cellular network launched, opening the door for mobile internet services.<br>,'icon':'🍎','year':'2007','text':'Apple released the first iPhone, shifting the industry toward full-touchscreen smart devices.<br>,'icon':'🤖','year':'2008','text':'The first Android smartphone debuted.<br>,'icon':'🚀','year':'2019','text':'Global commercial rollout of 5G networks began, bringing ultra-fast data speeds."
       },
-      {
-        "id": "92",
-        "type": "news",
-        "order": 25,
-        "category": {
-          "ml": "തൊഴിലവസരം",
-          "en": "employment"
-        },
-        "title": {
-          "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
-          "en": ""
-        },
-        "summary": {
-          "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
-          "en": ""
-        },
-        "image": "",
-        "link": "https://www.joinindiannavy.gov.in/"
+      "image": "",
+      "link": "https://en.wikipedia.org/wiki/Mobile_phone"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
       },
-      {
-        "id": "11",
-        "type": "news",
-        "order": 26,
-        "category": {
-          "ml": "കേരളം",
-          "en": "keralam"
-        },
-        "title": {
-          "ml": "ധനവകപ്പ് പണമനുവദിച്ചിട്ടും പെൻഷൻ വിതരണംചെയ്യാതെ കെ.എസ്.ആർ.ടി.സി",
-          "en": ""
-        },
-        "summary": {
-          "ml": "<b>0എടപ്പാൾ:</b> ധനകാര്യവകുപ്പ് കൃത്യസമയത്ത് പണം അനുവദിച്ചിട്ടും പെൻഷൻ നൽകാതെ കെ.എസ്.ആർ.ടി.സി. അധികൃതർ. മുൻ സർക്കാരിന്റെ കാലത്ത് പണം കിട്ടാനുള്ള കാലതാമസമായിരുന്നു കെ.എസ്.ആർ.ടി.സി. പെൻഷൻകാരെ പട്ടിണിയിലാക്കിയിരുന്നതെങ്കിൽ ഇപ്പോൾ തുക ധനകാര്യവകുപ്പ് അനുവദിച്ചാലും മാസാദ്യംതന്നെ വിതരണംചെയ്യാത്തതാണ് പ്രശ്നം.",
-          "en": ""
-        },
-        "image": "",
-        "link": "https://www.mathrubhumi.com/news/kerala/ksrtc-pension-delay-finance-department-fund-allocated----gvuo2f17"
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
       },
-      {
-        "id": "38",
-        "type": "news",
-        "order": 28,
-        "category": {
-          "ml": "ഇന്ത്യ",
-          "en": "india"
-        },
-        "title": {
-          "ml": "യു.ജി.സി. നെറ്റ് ഡിസംബർ പരീക്ഷ ഡിസംബർ 14 മുതൽ 19 വരെ; വിശദവിവരങ്ങളറിയാം.",
-          "en": ""
-        },
-        "summary": {
-          "ml": "ഉന്നതവിദ്യാഭ്യാസരംഗത്തും ഗവേഷണ മേഖലകളിലും കരിയർ ആഗ്രഹിക്കുന്നവർക്കായി നാഷണൽ ടെസ്റ്റിങ് ഏജൻസി (എൻ.ടി.എ.) നടത്തുന്ന യു.ജി.സി. നെറ്റ് ഡിസംബർ 2026 സെഷനിലേക്ക് അപേക്ഷിക്കാം. സർവകലാശാലകളിലും കോളേജുകളിലും അസിസ്റ്റന്റ് പ്രൊഫസർ യോഗ്യത, ജൂനിയർ റിസർച്ച് ഫെലോഷിപ്പ് (ജെ.ആർ.എഫ്.), പിഎച്ച്.ഡി. പ്രവേശനം എന്നിവ നിർണയിക്കുന്നതിനാണ് ഈ ദേശീയതല പരീക്ഷ നടത്തുന്നത്.",
-          "en": ""
-        },
-        "image": "",
-        "link": "https://www.mathrubhumi.com/education/news/ugc-net-december-eligibility-xqd6v00b"
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
       },
-      {
-        "id": "43",
-        "type": "news",
-        "order": 27,
-        "category": {
-          "ml": "ലോകം",
-          "en": "World"
-        },
-        "title": {
-          "ml": "ഷെയറിംഗ് താമസം: പുതിയ നിയമങ്ങളുമായി ദുബായ്",
-          "en": ""
-        },
-        "summary": {
-          "ml": "<b>ദുബായ്:</b> ഷെയറിംഗ് താമസത്തിന് കർശന നിയമങ്ങളുമായി ദുബായ് മുനിസിപ്പാലി​റ്റി. ഒരു ഷെയറിംഗ് യൂണി​റ്റിൽ കുടുംബങ്ങളെയും ബാച്ചിലർമാരെയും ഒരുമിച്ച് താമസിപ്പിക്കാൻ പാടില്ല. അംഗീകരിച്ച 44 ലേറെ മേഖലകളിൽ മാത്രമേ ഷെയറിംഗ് താമസം അനുവദിക്കൂ. ഷെയ്ഖ് സായിദ് റോഡ്, ജുമൈറ റോഡ് തുടങ്ങിയ ഇടങ്ങളിലെ കെട്ടിടങ്ങളിൽ ബാച്ചിലർമാർക്ക് ഷെയറിംഗ് താമസം അനുവദിക്കില്ല. പരമാവധി 4 താമസക്കാർക്ക് ഒരു ബാത്റൂം എന്നതുൾപ്പെടെ കെട്ടിടങ്ങളിലെ അമിത തിരക്ക് ഒഴിവാക്കാനുള്ള മാനദണ്ഡങ്ങളും നിശ്ചയിച്ചു. കെട്ടിട ഉടമകൾ ​പെർമി​റ്റുകൾ ഉറപ്പാക്കണം. നിയമം ലംഘിച്ചാൽ 5,00,000 ദിർഹം വരെയാണ് പിഴ. നിലവിൽ പ്രവർത്തിക്കുന്ന ഷെയറിംഗ് യൂണി​റ്റുകൾക്ക് നിയമങ്ങൾ നടപ്പാക്കാൻ ഒരു വർഷം സമയമുണ്ട്. അനധികൃതമായി മുറികൾ വേർതിരിച്ചിട്ടുണ്ടെങ്കിൽ ഉടൻ നീക്കണം.",
-          "en": ""
-        },
-        "image": "",
-        "link": "https://keralakaumudi.com/news-360/world/world-1812892#google_vignette"
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
       },
-      {
-        "id": "72",
-        "type": "news",
-        "order": 29,
-        "category": {
-          "ml": "കുറ്റകൃത്യം",
-          "en": "crime"
-        },
-        "title": {
-          "ml": "മുടിക്ക്   കുത്തിപ്പിടിച്ച്   തല  ഭിത്തിയിലിടിച്ചു: കരുനാഗപ്പള്ളി  സ്കൂൾ  വിദ്യാർത്ഥിനിക്ക്  സഹപാഠികളുടെ   ക്രൂരമർദനം",
-          "en": ""
-        },
-        "summary": {
-          "ml": "<b>‌കൊല്ലം:</b> കരുനാഗപ്പള്ളിയിലെ സ്കൂളിൽ പത്താംക്ലാസ് വിദ്യാർഥിനിയെ സഹപാഠികൾ ക്രൂരമായി മർദിച്ചതായി പരാതി. ഗവ.ഗേൾസ് ഹൈസ്കൂളിലെ വിദ്യാർത്ഥിനിയാണ് ക്രൂരമർദനത്തിന് ഇരയായത്. മർദനത്തിൽ കണ്ണിന് ഗുരുതരമായി പരിക്കേറ്റ പെൺകുട്ടി മെഡിക്കൽ കോളേജ് ആശുപത്രിയിൽ ചികിത്സയിലാണ്.",
-          "en": ""
-        },
-        "image": "",
-        "link": "https://keralakaumudi.com/case-diary/kerala/school-student-brutally-attacked-by-classmates-in-karunagappally-1812933#google_vignette"
+      "title": {
+        "ml": "ധനവകപ്പ് പണമനുവദിച്ചിട്ടും പെൻഷൻ വിതരണംചെയ്യാതെ കെ.എസ്.ആർ.ടി.സി",
+        "en": ""
       },
-      {
-        "id": "019",
-        "type": "news",
-        "order": 61,
-        "category": {
-          "ml": "ബിസിനസ്",
-          "en": "business"
-        },
-        "title": {
-          "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
-          "en": "Business news"
-        },
-        "summary": {
-          "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :72,473.33<span style='color:green;'> +879.09 (▲ 1.23%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 22,520.45  <span style='color:green;'> +288.65(▲ +1.30%)</a> ",
-          "en": "Short news summary."
-        },
-        "image": "images/sharemarket.png",
-        "link": ""
+      "summary": {
+        "ml": "<b>0എടപ്പാൾ:</b> ധനകാര്യവകുപ്പ് കൃത്യസമയത്ത് പണം അനുവദിച്ചിട്ടും പെൻഷൻ നൽകാതെ കെ.എസ്.ആർ.ടി.സി. അധികൃതർ. മുൻ സർക്കാരിന്റെ കാലത്ത് പണം കിട്ടാനുള്ള കാലതാമസമായിരുന്നു കെ.എസ്.ആർ.ടി.സി. പെൻഷൻകാരെ പട്ടിണിയിലാക്കിയിരുന്നതെങ്കിൽ ഇപ്പോൾ തുക ധനകാര്യവകുപ്പ് അനുവദിച്ചാലും മാസാദ്യംതന്നെ വിതരണംചെയ്യാത്തതാണ് പ്രശ്നം.",
+        "en": ""
       },
-      {
-        "id": "020",
-        "type": "news",
-        "order": 62,
-        "category": {
-          "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
-          "en": "business"
-        },
-        "title": {
-          "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
-          "en": "Business news"
-        },
-        "summary": {
-          "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:green;'> ₹13,815 ▲ ₹ 105   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:green;'>₹245  </span> ) </b>",
-          "en": "Short news summary."
-        },
-        "image": "images/goldsilver.jfif",
-        "link": "https://bullions.co.in/location/thiruvananthapuram/"
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/ksrtc-pension-delay-finance-department-fund-allocated----gvuo2f17"
+    },
+    {
+      "id": "38",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
       },
-      {
-        "id": "900",
-        "type": "news",
-        "order": 19,
-        "category": {
-          "ml": "പരസ്യം",
-          "en": "Advertisement"
-        },
-        "title": {
-          "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
-          "en": ""
-        },
-        "summary": {
-          "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
-          "en": ""
-        },
-        "image": "https://geocities.ws/e-paper/images/e-services.jpg",
-        "link": "https://onlineserviceshub.in/e-district/"
+      "title": {
+        "ml": "യു.ജി.സി. നെറ്റ് ഡിസംബർ പരീക്ഷ ഡിസംബർ 14 മുതൽ 19 വരെ; വിശദവിവരങ്ങളറിയാം.",
+        "en": ""
       },
-      {
-        "id": "901",
-        "type": "news",
-        "order": 9,
-        "category": {
-          "ml": "പരസ്യം",
-          "en": "Advertisement"
-        },
-        "title": {
-          "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
-          "en": "Freelance Web Designer & Coach"
-        },
-        "summary": {
-          "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
-          "en": ""
-        },
-        "image": "https://geocities.ws/e-paper/images/freelance.png",
-        "link": "https://geocities.ws/bennykavil/"
+      "summary": {
+        "ml": "ഉന്നതവിദ്യാഭ്യാസരംഗത്തും ഗവേഷണ മേഖലകളിലും കരിയർ ആഗ്രഹിക്കുന്നവർക്കായി നാഷണൽ ടെസ്റ്റിങ് ഏജൻസി (എൻ.ടി.എ.) നടത്തുന്ന യു.ജി.സി. നെറ്റ് ഡിസംബർ 2026 സെഷനിലേക്ക് അപേക്ഷിക്കാം. സർവകലാശാലകളിലും കോളേജുകളിലും അസിസ്റ്റന്റ് പ്രൊഫസർ യോഗ്യത, ജൂനിയർ റിസർച്ച് ഫെലോഷിപ്പ് (ജെ.ആർ.എഫ്.), പിഎച്ച്.ഡി. പ്രവേശനം എന്നിവ നിർണയിക്കുന്നതിനാണ് ഈ ദേശീയതല പരീക്ഷ നടത്തുന്നത്.",
+        "en": ""
       },
-      {
-        "id": "903",
-        "type": "news",
-        "order": 29,
-        "category": {
-          "ml": "പരസ്യം",
-          "en": "Advertisement"
-        },
-        "title": {
-          "ml": "സായഹ്ന വാർത്തകള്‍",
-          "en": "Freelance Web Designer & Coach"
-        },
-        "summary": {
-          "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
-          "en": ""
-        },
-        "image": "https://geocities.ws/e-paper/images/logo.png",
-        "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+      "image": "",
+      "link": "https://www.mathrubhumi.com/education/news/ugc-net-december-eligibility-xqd6v00b"
+    },
+    {
+      "id": "43",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
       },
-      {
-        "id": "904",
-        "type": "news",
-        "order": 29,
-        "category": {
-          "ml": "പരസ്യം",
-          "en": "Advertisement"
-        },
-        "title": {
-          "ml": "Are you trapped in Computer / IT issues?",
-          "en": ""
-        },
-        "summary": {
-          "ml": "",
-          "en": ""
-        },
-        "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
-        "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+      "title": {
+        "ml": "ഷെയറിംഗ് താമസം: പുതിയ നിയമങ്ങളുമായി ദുബായ്",
+        "en": ""
       },
-      {
-        "id": "904",
-        "type": "news",
-        "order": 30,
-        "category": {
-          "ml": "പരസ്യം",
-          "en": "Advertisement"
-        },
-        "title": {
-          "ml": "Online services in your Finger Tips",
-          "en": ""
-        },
-        "summary": {
-          "ml": "No queue / No Travel",
-          "en": ""
-        },
-        "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
-        "link": "https://onlineserviceshub.in/"
+      "summary": {
+        "ml": "<b>ദുബായ്:</b> ഷെയറിംഗ് താമസത്തിന് കർശന നിയമങ്ങളുമായി ദുബായ് മുനിസിപ്പാലി​റ്റി. ഒരു ഷെയറിംഗ് യൂണി​റ്റിൽ കുടുംബങ്ങളെയും ബാച്ചിലർമാരെയും ഒരുമിച്ച് താമസിപ്പിക്കാൻ പാടില്ല. അംഗീകരിച്ച 44 ലേറെ മേഖലകളിൽ മാത്രമേ ഷെയറിംഗ് താമസം അനുവദിക്കൂ. ഷെയ്ഖ് സായിദ് റോഡ്, ജുമൈറ റോഡ് തുടങ്ങിയ ഇടങ്ങളിലെ കെട്ടിടങ്ങളിൽ ബാച്ചിലർമാർക്ക് ഷെയറിംഗ് താമസം അനുവദിക്കില്ല. പരമാവധി 4 താമസക്കാർക്ക് ഒരു ബാത്റൂം എന്നതുൾപ്പെടെ കെട്ടിടങ്ങളിലെ അമിത തിരക്ക് ഒഴിവാക്കാനുള്ള മാനദണ്ഡങ്ങളും നിശ്ചയിച്ചു. കെട്ടിട ഉടമകൾ ​പെർമി​റ്റുകൾ ഉറപ്പാക്കണം. നിയമം ലംഘിച്ചാൽ 5,00,000 ദിർഹം വരെയാണ് പിഴ. നിലവിൽ പ്രവർത്തിക്കുന്ന ഷെയറിംഗ് യൂണി​റ്റുകൾക്ക് നിയമങ്ങൾ നടപ്പാക്കാൻ ഒരു വർഷം സമയമുണ്ട്. അനധികൃതമായി മുറികൾ വേർതിരിച്ചിട്ടുണ്ടെങ്കിൽ ഉടൻ നീക്കണം.",
+        "en": ""
       },
-      {
-        "id": "999",
-        "type": "news",
-        "order": 32,
-        "category": {
-          "ml": "നിര്യാതനായി",
-          "en": "obit"
-        },
-        "title": {
-          "ml": "",
-          "en": ""
-        },
-        "summary": {
-          "ml": "",
-          "en": ""
-        },
-        "image": "",
-        "link": ""
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/world/world-1812892#google_vignette"
+    },
+    {
+      "id": "72",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
       },
-      {
-        "id": "905",
-        "type": "news",
-        "order": 31,
-        "category": {
-          "ml": "പരസ്യം",
-          "en": "Advertisement"
-        },
-        "title": {
-          "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
-          "en": "Create your own Websie"
-        },
-        "summary": {
-          "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
-          "en": ""
-        },
-        "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
-        "link": "https://onlineserviceshub.in/"
-      }
-    ]
-  }
+      "title": {
+        "ml": "മുടിക്ക്   കുത്തിപ്പിടിച്ച്   തല  ഭിത്തിയിലിടിച്ചു: കരുനാഗപ്പള്ളി  സ്കൂൾ  വിദ്യാർത്ഥിനിക്ക്  സഹപാഠികളുടെ   ക്രൂരമർദനം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‌കൊല്ലം:</b> കരുനാഗപ്പള്ളിയിലെ സ്കൂളിൽ പത്താംക്ലാസ് വിദ്യാർഥിനിയെ സഹപാഠികൾ ക്രൂരമായി മർദിച്ചതായി പരാതി. ഗവ.ഗേൾസ് ഹൈസ്കൂളിലെ വിദ്യാർത്ഥിനിയാണ് ക്രൂരമർദനത്തിന് ഇരയായത്. മർദനത്തിൽ കണ്ണിന് ഗുരുതരമായി പരിക്കേറ്റ പെൺകുട്ടി മെഡിക്കൽ കോളേജ് ആശുപത്രിയിൽ ചികിത്സയിലാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/case-diary/kerala/school-student-brutally-attacked-by-classmates-in-karunagappally-1812933#google_vignette"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :72,473.33<span style='color:green;'> +879.09 (▲ 1.23%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 22,520.45  <span style='color:green;'> +288.65(▲ +1.30%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:green;'> ₹13,815 ▲ ₹ 105   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:green;'>₹245  </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

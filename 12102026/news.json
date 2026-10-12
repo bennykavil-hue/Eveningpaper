@@ -1,0 +1,997 @@
+{
+  "settings": {
+    "publicationDate": "2026-10-12",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "കന്നി 26, 1202",
+      "en": "Kanni 26, 1202"
+    },
+    "hijriDate": {
+      "ml": "01 ജമാദുൽ അവ്വൽ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 477,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Awareness today, healthier tomorrows.",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "നടൻ നാനാ പടേക്കർ അന്തരിച്ചു.",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "സമരകലുഷിതം ഡൽഹി: കൊണാട്ട് പ്ലേസിൽ നൂറോളം പേർ കസ്റ്റഡിയിൽ; പ്രക്ഷോഭകരെ വലിച്ചിഴച്ചു, ബസിലിട്ട് ചവിട്ടി",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> രാജ്യതലസ്ഥാനത്ത് വിവിധ വിദ്യാർഥി സംഘടനകൾ നടത്തുന്ന പ്രതിഷേധം തുടരുന്നു.&nbsp;കൊണാട്ട് പ്ലേസിൽ ദിശാ സ്റ്റുഡൻ്റ്സ് അസോസിയേഷൻ നടത്തിയ പ്രതിഷേധത്തിനുനേരെ പോലീസ് അതിക്രമമുണ്ടായി. പ്രതിഷേധിച്ച വിദ്യാർഥികളെ പോലീസ് മർദിക്കുകയും ബലമായി വലിച്ചിഴച്ച് പോലീസ് വാഹനങ്ങളിൽ കയറ്റുകയും ചെയ്തു.&nbsp;വാഹനത്തിനകത്ത് വിദ്യാർഥികളെ നിലത്തിട്ട് മർദിക്കുന്ന ദൃശ്യങ്ങൾ&nbsp;പുറത്തുവന്നിട്ടുണ്ട്.&nbsp;പ്രദേശത്തുനിന്ന് നൂറോളം പ്രതിഷേധക്കാരെയാണ് പോലീസ് കസ്റ്റഡിയിലെടുത്ത് നീക്കിയത്.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.mathrubhumi.com/news/india/aisa-protest-delhi-police-action-students-swfsemc9"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "1. World Arthritis Day <br> 2. Navratri — Day 2",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>World Arthritis Day.</b><br>Observed annually on 12 October to raise awareness of arthritis, early diagnosis and support for people living with rheumatic and musculoskeletal conditions.<br><b>Navratri — Day 2</b> <br> The second day of Sharad Navratri is dedicated to Goddess Brahmacharini, symbolizing devotion, perseverance and self-discipline.",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://nationaldaycalendar.com/international/october/12"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മാസപ്പടി കേസിൽ പിണറായി വിജയനെതിരെ എഫ്ഐആർ രജിസ്റ്റർ ചെയ്യാൻ വിജിലൻസ്, റിയാസും വീണയും പ്രതികളാകും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മാസപ്പടി-ഹവാല ആരോപണങ്ങളിൽ മുൻ പ്രതിപക്ഷ നേതാവ് പിണറായി വിജയനെ ഒന്നാം പ്രതിയാക്കി വിജിലൻസ് ഇന്ന് എഫ്ഐആർ രജിസ്റ്റർ ചെയ്യും. ഹൈക്കോടതി നിർദേശത്തിന് പിന്നാലെയാണ് അഴിമതി നിരോധന നിയമപ്രകാരം കേസെടുക്കുന്നത്. മുൻ മുഹമ്മദ് റിയാസും വീണയും മറ്റ് പ്രതികളാകും. പ്രത്യേക സംഘമായിരിക്കും കേസിൽ അന്വേഷണം നടത്തുക. ഇഡി നൽകിയ റിപ്പോർട്ടിന്‍റെ അടിസ്ഥാനത്തിൽ പ്രാഥിക അന്വേഷണം വേണ്ട, പകരം കേസെടുത്ത് അന്വേഷണം നടത്തണമെന്നായിരുന്നു ഹൈക്കോടതി സിംഗിള്‍ ബഞ്ച് ഉത്തരവ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/vigilance-to-register-fir-against-pinarayi-vijayan-in-masappadi-case-articleshow-ehvxesx"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "എല്ലാവിധ ഓൺ സേവനങ്ങൾ വിരൽ തുമ്പിൽ ലഭ്യമാക്കുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/needanyservices.jpg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മുതിർന്ന പൗരന്മാരെ ഉപദ്രവിച്ചാൽ മൂന്ന് വർഷം വരെ തടവ്: സമഗ്ര നിയമനിർമ്മാണത്തിനൊരുങ്ങി കേരള സർക്കാർ"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മുതിർന്ന പൗരന്മാരുടെ സംരക്ഷണവും ക്ഷേമവും ഉറപ്പാക്കുന്നതിനായി കൂടുതൽ ശക്തമായ വ്യവസ്ഥകൾ ഉൾപ്പെടുത്തി തയ്യാറാക്കിയ 'മുതിർന്ന പൗരന്മാരുടെ സംരക്ഷണവും ക്ഷേമവും (ഭേദഗതി) ബില്ല്' നിയമസഭയുടെ നിലവിലെ സമ്മേളനത്തിൽ സർക്കാർ അവതരിപ്പിക്കും. വയോജനങ്ങൾക്ക് നേരെയുള്ള അതിക്രമങ്ങൾ തടയുന്നതിനും അവരുടെ അവകാശങ്ങൾ സംരക്ഷിക്കുന്നതിനും കടുത്ത ശിക്ഷാനടപടികളാണ് പുതിയ ബില്ലിൽ വ്യവസ്ഥ ചെയ്യുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/kerala-plans-up-to-3-years-imprisonment-for-abusing-senior-citizens-articleshow-a5cq08k"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മിനി കൂപ്പർ അപകടം;  സുഹൈൽ&nbsp; സജീവിനെയും &nbsp; നിനവിനെയും &nbsp;കാക്കനാട് &nbsp;ദുർഗുണപരിഹാര &nbsp;പാഠശാലയിലേയ്ക്ക്&nbsp; മാറ്റി"
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</B> മൂന്നുപേരുടെ ജീവനെടുത്ത നെടുമ്പാശേരി വാഹനാപകടത്തിൽ അറസ്റ്റിലായ സുഹൈൽ സജീവ്, സുഹൃത്ത് നിനവ് എന്നിവരെ കാക്കനാട് ദുർഗുണപരിഹാര പാഠശാലയിലേയ്ക്ക് മാറ്റി. ഇന്നലെ ആലുവ മജിസ്‌ട്രേറ്റിന് മുന്നിൽ ഹാജരാക്കിയ സുഹൈലിനെ 14 ദിവസത്തേയ്ക്ക് റിമാൻഡ് ചെയ്തതിന് പിന്നാലെയാണ് ദുർഗുണപരിഹാര പാഠശാലയിലേയ്ക്ക് മാറ്റിയത്. ഇരുവർക്കും 19 വയസാണ് പ്രായമെന്നും ജയിൽ ചട്ടമനുസരിച്ചാണ് നടപടിയെന്നുമാണ് അധികൃതർ അറിയിച്ചത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/case-diary/kerala/nedumbassery-accident-suhail-sajeev-ninav-in-correction-home-1814069"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'നിലവിലെ പ്രവ‌ർത്തനങ്ങൾ കമ്മിഷന്റെ സുതാര്യതയും വിശ്വാസ്യതയും ഇല്ലാതാക്കി', ഗ്യാനേഷ് കുമാറിനെതിരായ പ്രമേയം പാസായി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:<b> മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ ഗ്യാനേഷ് കുമാറിന് എതിരായുള്ള നിയമസഭാ പ്രമേയം പാസായി. മുഖ്യമന്ത്രി വി ഡി സതീശൻ അവതരിപ്പിച്ച പ്രമേയം എൽഡിഎഫ് അംഗങ്ങൾ പിന്തുണച്ചു. ബിജെപി അംഗങ്ങൾ എതി‌ർത്തു.ഭരണഘടനാ സ്ഥാപനമായ തിരഞ്ഞെടുപ്പ് കമ്മീഷൻ ഭരണകൂട സ്വാധീനങ്ങൾക്ക് വഴങ്ങാതെ പൂർണമായും നിഷ്‌പക്ഷമായി പ്രവർത്തിക്കേണ്ടതുണ്ടെന്നും, നിലവിലെ പ്രവർത്തനങ്ങൾ കമ്മിഷന്റെ സുതാര്യതയും വിശ്വാസ്യതയും ഇല്ലാതാക്കിയെന്നും പ്രമേയത്തിൽ പറയുന്നു. വോട്ടർപട്ടിക തയ്യാറാക്കാനും പരിശോധിക്കാനും ഉപയോഗിക്കുന്ന സോഫ്റ്റ്‌വെയർ സുതാര്യമായും നിയമപരമായും പ്രവർത്തിപ്പിക്കാൻ തിരഞ്ഞെടുപ്പ് കമ്മീഷൻ പരാജയപ്പെട്ടു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/assembly-passes-resolution-against-chief-election-commissioner-gyanesh-kumar-1814025"
+    },
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഡൽഹിയിൽ പ്രതിഷേധം ആളിപ്പടരുന്നു, ഒറ്റക്കെട്ടായി ഇന്ത്യാ സഖ്യ നേതാക്കൾ: ബാരിക്കേഡുകൾ മറികടന്ന് പ്രവർത്തകർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മീഷണർ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് ഡൽഹിയിൽ ആരംഭിച്ച പ്രതിഷേധം ശക്തമാകുന്നു. സുപ്രീം കോടതി ലക്ഷ്യമാക്കിയ ഇന്ത്യാ സഖ്യത്തിന്റെ മാർച്ച് അടുക്കുകയാണ്. രണ്ട് ബസുകളിലായി പ്രതിപക്ഷ എംപിമാർ സ്ഥലത്തെത്തി. മല്ലികാർജുൻ ഖാർഗെ, രാഹുൽ ഗാന്ധി, പ്രിയങ്ക ഗാന്ധി, മമതാ ബാനർജിയും ബസിൽ എത്തി. കോൺസ്റ്റിറ്റിയൂഷൻ ക്ലബിൽ നിന്ന് തുടങ്ങിയ മാർച്ചിൽ ഘടക കക്ഷി നേതാക്കളും പങ്കെടുക്കുന്നുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/delhi-protest-india-bloc-leaders-barricades-1814074"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ജന്തർ മന്ദർ ഇനി സമരവേദിയല്ല; പ്രതിഷേധങ്ങൾക്ക് മൂന്ന് പുതിയ ഇടങ്ങൾ, നിർണായക നീക്കവുമായി പൊലീസ്"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂ‌ഡൽഹി:</b> ജന്തർ മന്ദറിനെ പ്രതിഷേധങ്ങൾക്കും ധർണകൾക്കും നിശ്ചയിച്ചിരുന്ന ഔദ്യോഗിക വേദികളുടെ പട്ടികയിൽനിന്ന് ഒഴിവാക്കി ഡൽഹി പൊലീസ്. പകരം പ്രതിഷേധങ്ങൾ സംഘടിപ്പിക്കുന്നതിനായി മൂന്ന് പുതിയ സ്ഥലങ്ങൾ അനുവദിച്ചു. പഴയ ഡൽഹിയിലെ രാംലീല മൈതാനം, കിഴക്കൻ ഡൽഹിയിലെ സിബിഡി ഗ്രൗണ്ട്, വടക്കൻ ഡൽഹിയിലെ ബുരാരി ഗ്രൗണ്ട് എന്നിവയാണ് പുതിയ വേദികൾ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/jantar-mantar-protest-venues-delhi-police-1814035"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഗ്യാനേഷ്&nbsp; കുമാറും &nbsp;ഭയത്തിലാണ്, ഡൽഹിയിൽ പൊലീസിനൊപ്പം ആർഎസ്എസ് &nbsp;ഗുണ്ടകളുമുണ്ട്"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</B> സമാധാനപരമായി പ്രതിഷേധിക്കുന്നവരെ പൊലീസ് വേഷത്തിലെത്തുന്ന ആർഎസ്എസ് ഗുണ്ടകൾ ആക്രമിക്കുന്നുവെന്ന് ലോക്‌സഭാ പ്രതിപക്ഷ നേതാവ് രാഹുൽ ഗാന്ധി. എന്തു‌കൊണ്ട് മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ ഗ്യാനേഷ് കുമാർ രാജിവയ്ക്കുന്നില്ലെന്നും രാഹുൽ ചോദിച്ചു. പൊലീസ് അതിക്രമത്തിന്റെ ദൃശ്യങ്ങൾ പ്രദർശിപ്പിച്ചായിരുന്നു രാഹുലിന്റെ വാർത്താസമ്മേളനം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/rahul-gandhi-accuses-rss-violence-in-delhi-1814019"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "നേപ്പാളിൽ മിന്നൽ പ്രളയം  10 പേരെ കാണാതായി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കാഠ്മണ്ഡു:</B> നേപ്പാളിലെ ഗൂർഖ ജില്ലയിൽ മിന്നൽ പ്രളയം. 10 പേരെ കാണാതായി. വിദേശിയടക്കം 49 പേരെ രക്ഷിച്ചു. 40 ഓളം വീടുകളും നാല് പാലങ്ങളും തകർന്നു. രണ്ട് ജലവൈദ്യുത പദ്ധതികൾക്കും നാശനഷ്ടമുണ്ടായി. മേഖലയിലുണ്ടായ ഉരുൾപ്പൊട്ടലിന്റെ ഫലമായി ബുദ്ധി ഗന്ധകി നദി കരകവിഞ്ഞതാണ് പ്രളയത്തിലേക്ക് നയിച്ചത്. നിരവധി ടൂറിസ്റ്റുകൾ മേഖലയിൽ കുടുങ്ങി. നേപ്പാൾ സൈന്യവും പൊലീസും ചേർന്ന് രക്ഷാ ദൗത്യം തുടങ്ങി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/world/world-1813971"
+    },
+    {
+      "id": "43",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "മാർപാപ്പയ്ക്ക് ശ്വാസകോശത്തിൽ  മുഴ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>റോം:</B> ശ്വാസകോശത്തിൽ ചെറിയ മുഴ കണ്ടെത്തിയെന്ന് ലി​യോ​ ​പ​തി​നാ​ലാ​മ​ൻ​ ​മാർപാപ്പ. 71കാരനായ മാർപാപ്പ ഉടൻ ശസ്ത്രക്രിയയ്ക്ക് വിധേയമാകും. ഒരാഴ്ച വിശ്രമം വേണ്ടിവരും. മുഴ വളരെ പ്രാരംഭ ഘട്ടത്തിലാണെന്നും ഒരു പ്രത്യേക ഭാഗത്ത് മാത്രം പരിമിതമാണെന്നും മാർപാപ്പ വ്യക്തമാക്കി. ആശങ്കപ്പെടേണ്ട സാഹചര്യമില്ലെന്ന് വത്തിക്കാൻ അറിയിച്ചു. പതിവ് ആരോഗ്യ പരിശോധനയ്ക്കിടെയാണ് മുഴ കണ്ടെത്തിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/world/world-1813970"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "തലസ്ഥാനത്തെ സംഘർഷത്തിൽ സഭയിൽ വാക്പോര്; ഒടിഞ്ഞ ലാത്തിയുമായി വി ജോയ്, പ്രതിരോധിച്ച് ചെന്നിത്തല; തമിഴ്നാട്ടിൽ നിന്ന് പൊലീസിനെ ഇറക്കിയിട്ടില്ലെന്ന് മറുപടി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</B> തലസ്ഥാനത്ത് എസ്എഫ്ഐ പ്രവർത്തകർക്ക് നേരെ പൊലീസ് നടത്തിയ ലാത്തിച്ചാർജ് സഭയിൽ ഉന്നയിച്ച് പ്രതിപക്ഷം. ഒടിഞ്ഞ ലാത്തിയുടെ കഷ്ണവുമായിട്ടാണ് വി ജോയി സഭയിലെത്തിയത്. പൊലീസ് ഉദ്യോഗസ്ഥരെ ആഭ്യന്ത്രരമന്ത്രി നിലയ്ക്ക് നിര്‍ത്തണമെന്ന് ജോയ് ആവശ്യപ്പെട്ടു. ഹോസ്റ്റലില്‍ നിന്ന് ബിയര്‍ കുപ്പി എറിഞ്ഞെന്ന് ആഭ്യന്തരമന്ത്രി മറുപടി നല്‍കി. തമിഴ്നാട്ടില്‍ നിന്ന് പൊലീസുകാരെ ഇറക്കിയിട്ടില്ലെന്നും പത്ത് വര്‍ഷം എല്‍ഡിഎഫ് ഭരിച്ച കാലത്തെ പൊലീസ് തന്നെയാണ് ഇപ്പോഴും ഭരിക്കുന്നതെന്നും ചെന്നിത്തല തിരിച്ചടിച്ചു. പിന്നാലെ സഭയിൽ ബഹളം ഉയര്‍ന്നു. പ്രമേയാവതരണം തള്ളിയതോടെ പ്രതിപക്ഷ സഭയില്‍ നിന്ന് ഇറങ്ങിപ്പോയി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/opposition-adjournment-motion-in-kerala-assembly-over-police-sfi-clash-in-trivandrum-ramesh-chennithala-reply-articleshow-hwn4mg9"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പിണറായി പ്രതിപക്ഷ സ്ഥാനം രാജിവെക്കണമെന്ന് ഷോൺ ജോർജ്; 'പണം വാങ്ങിയ എല്ലാവർക്കുമെതിരെ അന്വേഷണം വേണം'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോട്ടയം:</B> മാസപ്പടി കേസിൽ പിണറായി വിജയനെതിരായ എഫ്ഐആറിൽ പ്രതികരണവുമായി ബിജെപി നേതാവ് ഷോൺ ജോർജ്. പിണറായി വിജയൻ പ്രതിപക്ഷ സ്ഥാനം രാജിവെക്കണമെന്ന് ഷോൺ ജോർജ് പറഞ്ഞു. കോൺഗ്രസും സിപിഎമ്മും അഡ്ജസ്റ്റ്മെൻറ് രാഷ്ട്രീയം കളിക്കുകയാണ്. പിണറായി വിജയന് കോടതിയെ സമീപിക്കാൻ വേണ്ടിയാണ് എഫ്ഐആർ രജിസ്റ്റർ ചെയ്യാൻ വൈകിയത്. പണം വാങ്ങിയ എല്ലാവർക്കുമെതിരെ അന്വേഷണം വേണമെന്നും ഷോൺ ജോർജ് പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/masappadi-case-vigilance-fir-shaun-george-demands-pinarayi-resign-from-post-of-leader-of-opposition-articleshow-xgcl2bb"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "ഏഷ്യൻ ഗെയിംസ് മെഡൽ ജേതാക്കളെ ആദരിക്കാൻ പ്രധാനമന്ത്രി; ചടങ്ങ് ഒക്ടോബർ 15-ന് ഔദ്യോഗിക വസതിയിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</B> ജപ്പാനിലെ ഐച്ചി നഗോയയിൽ നടന്ന ഏഷ്യൻ ഗെയിംസിൽ മെഡലുകൾ കരസ്ഥമാക്കിയ കായികതാരങ്ങളെ&nbsp; ആദരിക്കാൻ പ്രധാനമന്ത്രി നരേന്ദ്ര മോദി. ഒക്ടോബർ 15-ന് ഔദ്യോഗിക വസതിയിൽ വെച്ചാണ് ചടങ്ങ്. വൈകുന്നേരം 4:30-ന് നടക്കുന്ന ചടങ്ങിൽ വിവിധ കായിക ഇനങ്ങളിൽ രാജ്യത്തെ പ്രതിനിധീകരിച്ച് മെഡലുകൾ നേടിയ കായികതാരങ്ങൾ പങ്കെടുക്കും. അന്താരാഷ്ട്ര കായിക വേദിയിലെ ഇന്ത്യയുടെ ശ്രദ്ധേയമായ നേട്ടങ്ങളെ ആഘോഷിക്കാനും താരങ്ങളുടെ മികച്ച പ്രകടനങ്ങളെ അംഗീകരിക്കാനുമാണ് ഈ കൂടിക്കാഴ്ച സംഘടിപ്പിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/sports/news/pm-modi-to-felicitate-2026-asian-games-medalists-october-15-jllddass"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 16,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "കായികകേരളത്തിന്റെ ശ്രദ്ധ ഇനി കോഴിക്കോട്ടേക്ക്; 68-ാമത് സംസ്ഥാന സ്‌കൂൾ കായികമേളയുടെ ഒരുക്കങ്ങൾ പുരോഗമിക്കുന്നു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോഴിക്കോട്:</b> സംസ്ഥാനത്തെ സ്‌കൂൾ കായികപ്രതിഭകൾ മാറ്റുരയ്ക്കുന്ന 68-ാമത് കേരള സ്‌കൂൾ കായികമേളയ്ക്ക് കോഴിക്കോട് വേദിയാകുന്നു. ഒക്ടോബർ 25 മുതൽ 31 വരെ നടക്കുന്ന ഈ കായികമാമാങ്കത്തിന്റെ ഒരുക്കങ്ങൾ അവസാനഘട്ടത്തിലാണ്. കായികതാരങ്ങൾ, ടീം മാനേജർമാർ, ഒഫീഷ്യൽസ്, സംഘാടകർ എന്നിവരടക്കം പതിനയ്യായിരത്തോളം പേർ മേളയുടെ ഭാഗമാകും. മേള വിജയകരമാക്കുന്നതിനുള്ള അവസാനവട്ട ഒരുക്കങ്ങളിലാണ് കോഴിക്കോട് ജില്ല."
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/sports/news/68th-kerala-school-sports-meet-2026-kozhikode-u8ee4md1"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "നെടുമ്പാശ്ശേരി മിനികൂപ്പർ വാഹനാപകടം; പ്രതി സുഹൈലിന്റെ ലൈസൻസ് റദ്ദാക്കും, മറ്റ് രണ്ട് പേർ കൂടി പിടിയിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> നെടുമ്പാശ്ശേരി മിനികൂപ്പർ വാഹനാപകടത്തിൽ പ്രതി സുഹൈലിൻ്റെ ലൈസൻസ് റദ്ദാക്കാൻ മോട്ടോർ വാഹന വകുപ്പ്. അമിതവേഗത്തിൽ വാഹനമോടിച്ചതിന്റെ ദൃശ്യങ്ങൾ പരിശോധിക്കും. അപകടത്തിൻ്റെ പൊലീസ് റിപ്പോർട്ട് കിട്ടിയാൽ ലൈസൻസ് റദ്ദാക്കാനാണ് നീക്കം. അതേസമയം, മൂന്ന് പേരാണ് സുഹൈൽ സജീവിന് ഒപ്പമുണ്ടായിരുന്നത്. മറ്റ് രണ്ട് പേർ കൂടി പിടിയിലായി. ഇവരൊന്നിച്ചാണ് ബാറുകളിൽ കയറി മദ്യപിച്ചത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/nedumbassery-mini-cooper-accident-accused-suhails-license-revoked-two-others-arrested-articleshow-26bdsod"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "‘'ഇത് ശിവന്റെ താണ്ഡവം'; പ്രതിഷേധത്തിൽ ബിജെപിക്കാർ ഉൾപ്പെടെ ആർക്കും പങ്കെടുക്കാം -രാഹുൽ ഗാന്ധി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> രാജ്യതലസ്ഥാനത്ത് പ്രതിപക്ഷം നടത്തുന്ന പ്രതിഷേധത്തെ പരമശിവന്റെ താണ്ഡവത്തോട് ഉപമിച്ച് പ്രതിപക്ഷ നേതാവ് രാഹുൽ ഗാന്ധി. തങ്ങൾ യാതൊരു ആസൂത്രണവുമില്ലാതെ'യാണ് ഈ പ്രതിഷേധം നടത്തുന്നതെന്നും ഭരണഘടന സംരക്ഷിക്കണമെന്ന് ആഗ്രഹിക്കുന്ന, ബിജെപിക്കാർ ഉൾപ്പെടെ ആർക്കും ഇതിന്റെ ഭാഗമാകാമെന്നും അദ്ദേഹം പറഞ്ഞു. സുപ്രീം കോടതിയിലേക്കുള്ള പ്രതിപക്ഷത്തിന്റെ ദില്ലി ചലോ മാർച്ചിന് മുന്നോടിയായി നടത്തിയ പ്രത്യേക ന്യൂഡൽഹി: രാജ്യതലസ്ഥാനത്ത് പ്രതിപക്ഷം നടത്തുന്ന പ്രതിഷേധത്തെ പരമശിവന്റെ താണ്ഡവത്തോട് ഉപമിച്ച് പ്രതിപക്ഷ നേതാവ് രാഹുൽ ഗാന്ധി. തങ്ങൾ യാതൊരു ആസൂത്രണവുമില്ലാതെയാണ് ഈ പ്രതിഷേധം നടത്തുന്നതെന്നും ഭരണഘടന സംരക്ഷിക്കണമെന്ന് ആഗ്രഹിക്കുന്ന, ബിജെപിക്കാർ ഉൾപ്പെടെ ആർക്കും ഇതിന്റെ ഭാഗമാകാമെന്നും അദ്ദേഹം പറഞ്ഞു. സുപ്രീം കോടതിയിലേക്കുള്ള പ്രതിപക്ഷത്തിന്റെ ദില്ലി ചലോ മാർച്ചിന് മുന്നോടിയായി നടത്തിയ പ്രത്യേക <a href='https://www.mathrubhumi.com/news/india/rahul-gandhi-rss-police-attack-women-cec-protesters-delhi-np8l6jhb' target='_blank'>വാർത്താസമ്മേളനത്തിൽ</a> സംസാരിക്കുകയായിരുന്നു അദ്ദേഹം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/india/rahul-gandhi-compares-anti-cec-delhi-protest-shiva-tandava-mpq5t3xd"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ജനശതാബ്ദിയിൽ പുഷ്ബാക്ക് സീറ്റുകൾ തിരിച്ചെത്തി; L സീറ്റ് മാറ്റി റെയിൽവേ, ഇനി നടുവേദനിക്കാതെ യാത്രചെയ്യാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ജനശതാബ്ദി എക്‌സ്പ്രസ് ട്രെയിനിൽ പുഷ്ബാക്ക് സംവിധാനമുള്ള ബക്കറ്റ് സീറ്റുകൾ പുനഃസ്ഥാപിച്ച് റെയിൽവേ. എൽ ഷേപ്പ് (L Shape) സീറ്റുകൾ മാറ്റണമെന്ന യാത്രക്കാരുടെ നാളുകളായുള്ള ആവശ്യത്തിനാണ് റെയിൽവേ പച്ചക്കൊടി കാട്ടിയത്. എൽ ഷേപ്പ് സീറ്റുകൾ കാരണം ദീർഘദൂര യാത്രക്കാരിൽ കടുത്ത കഴുത്തുവേദനയും നടുവേദനയുമുണ്ടാകുന്നെന്ന പരാതിയെത്തുടർന്നാണ് റെയിൽവേയുടെ നടപടി. ദൂരസ്ഥലങ്ങളിലേക്ക് യാത്രചെയ്യുന്നവർക്ക് ഇനി സുഖമായി യാത്രചെയ്യാനും ഇരുന്നുറങ്ങാനും പുതിയ സീറ്റുകൾ സഹായിക്കും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/janshatabdi-express-pushback-seats-kerala-railways-edwmldzm"
+    },
+    {
+      "id": "37",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ശുദ്ധ വിഡ്ഢിത്തം’; ഇന്ത്യാസഖ്യത്തിന്റെ സുപ്രീംകോടതി മാർച്ചിനെ വിമർശിച്ച് ഹരീഷ് സാൽവേ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> വോട്ട് ചോരി വിഷയത്തിൽ സുപ്രീം കോടതിയിലേക്ക് മാർച്ച് നടത്താനും സുപ്രീം കോടതി ചീഫ് ജസ്റ്റിസ് സൂര്യകാന്തുമായി കൂടിക്കാഴ്ച നടത്താനുമുള്ള ഇന്ത്യസഖ്യത്തിന്റെ നീക്കത്തെ രൂക്ഷമായി വിമർശിച്ച് മുതിർന്ന അഭിഭാഷകനും&nbsp;മുൻ സോളിസിറ്റർ ജനറലുമായ ഹരീഷ് സാൽവെ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/india/sheer-stupidity-harish-salve-india-bloc-supreme-court-march-i90m95fnhttps://www.mathrubhumi.com/news/india/sheer-stupidity-harish-salve-india-bloc-supreme-court-march-i90m95fn"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 21,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "രാഹുൽഗാന്ധിയുടെ ഫ്രോഡ് രാഷ്ട്രീയമാണ് രാജ്യത്ത്, ഇത്രയും ദിവസം വി ഡി സതീശൻ സർക്കാർ കേരളത്തിൽ എന്ത് ചെയ്തു?: വിമർശനവുമായി രാജീവ് ചന്ദ്രശേഖർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> രാഹുൽ ഗാന്ധിയുടേ ഫ്രോഡ് രാഷ്ട്രീയമാണ് രാജ്യത്തെന്ന് ബിജെപി സംസ്ഥാന അധ്യക്ഷൻ രാജീവ് ചന്ദ്രശേഖർ. ഇത്രയും ദിവസം വി ഡി സതീശൻ സർക്കാർ കേരളത്തിൽ എന്ത് ചെയ്തു?. പിണറായി വിജയനെ സംരക്ഷിക്കുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/12/rajeev-chandrasekhar-against-resolution-removal-of-gyanesh-kumar.html"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "രണ്ടുവയസ്സുകാരൻ ട്രെയിനിടിച്ചു മരിച്ചു; അമ്മയ്ക്കെതിരേ കൊലക്കുറ്റത്തിനു കേസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<strong>മാവേലിക്കര</strong> : ശനിയാഴ്ച വൈകീട്ട് 6.45-ന് ളാഹ റെയിൽവേഗേറ്റിനു സമീപമായിരുന്നു അപകടം. കോട്ടയം ഭാഗത്തേക്കുപോയ ട്രെയിനാണ് ഇടിച്ചത്. ഇടിയുടെ ആഘാതത്തിൽ ഇരുവരും തെറിച്ചുവീണു. ഇവരെ മാവേലിക്കര ജില്ല ആശുപത്രിയിലെത്തിച്ചെങ്കിലും കുട്ടിയുടെ ജീവൻ രക്ഷിക്കാനായില്ല.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/mavelikkara-mother-arrested-son-dead-train-accident-ncvyvmh4"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "പരാതിക്കാര്യം സംസാരിക്കുന്നതിനിടെ പൊലീസ് ഇൻസ്പെക്ടറെ ഭീഷണിപ്പെടുത്തി; അമ്മയും മകളും അറസ്റ്റിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വടക്കാഞ്ചേരി ∙</b> അയൽവാസിയെ അസഭ്യം പറയുകയും ഭീഷണിപ്പെടുത്തുകയും ചെയ്തുവെന്ന പരാതിയിൽ സ്റ്റേഷനിൽ വിളിപ്പിച്ചു സംസാരിക്കുന്നതിനിടയിൽ എസ്എച്ച്ഒയെ ഭീഷണിപ്പെടുത്തിയ കേസിൽ അകമല തൂമാനം ബിന്ദു (റിനി– 41), മകൾ സോന (22) എന്നിവരെ പൊലീസ് അറസ്റ്റ് ചെയ്തു. പരാതിക്കാര്യം സംസാരിക്കുന്നതിനിടയിൽ ഇൻസ്പെക്ടർ എ.അനൂപിനെ അസഭ്യം വിളിക്കുകയും ഭീഷണിപ്പെടുത്തുകയും സ്റ്റേഷൻ വസ്തുവകകൾക്കു നാശനഷ്ടം ഉണ്ടാക്കുകയും ചെയ്തതിന്റെ പേരിലാണ് അമ്മയെയും മകളെയും അറസ്റ്റ് ചെയ്തത്. ജുഡീഷ്യൽ ഫസ്റ്റ് ക്ലാസ് മജിസ്ട്രേട്ട് കോടതിയിൽ ഹാജരാക്കിയ ഇരുവരെയും റിമാൻഡ് ചെയ്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/10/12/wadakkanchery-mother-daughter-arrested-for-threatening-sho.html"
+    },
+    {
+      "id": "22",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "ചാലക്കുടിയിൽ ഗതാഗതപരിഷ്കാരം; ബസുകളുടെ റൂട്ടുകളിലും സ്റ്റോപ്പുകളിലും മാറ്റം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ചാലക്കുടി </b>ടൗണിലെ അതിരൂക്ഷമായ ഗതാഗതക്കുരുക്കു പരിഹരിക്കുന്നതിനായി പുതിയ ട്രാഫിക് പരിഷ്കാരങ്ങൾ ഇന്ന് മുതൽ പ്രാബല്യത്തിൽ വരും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/10/12/chalakudy-traffic-diversion-rules.html"
+    },
+    {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "കമ്പ്യൂട്ടർ മദർബോർഡുകളും ചിപ്പുകളും; ഒരു മാസത്തെ അധ്വാനത്തിൽ പിറന്ന കലാവിരുന്ന്; ഇ-വേസ്റ്റിലെ 'ട്രോജൻ കുതിര'"
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> ഗ്രീക്ക് യുദ്ധതന്ത്രങ്ങളിൽ ഒളിപ്പോരുകളുടെ പ്രതീകമായിരുന്നു 'ട്രോജൻ ഹോഴ്‌സ്' എങ്കിൽ, ആധുനിക ലോകത്ത് ഡിജിറ്റൽ തിരശ്ശീലയ്ക്ക് പിന്നിലാണ് ഇന്ന് സൈബർ ഒളിപ്പോരുകൾ നടക്കുന്നത്. ഈ ആശയത്തെ മുൻനിർത്തി കേരള പോലീസിന്റെ സൈബർ സെക്യൂരിറ്റി കോൺഫറൻസായ കൊക്കൂണിന്റെ പ്രധാന ആകർഷണമായി 25 അടി ഉയരമുള്ള കൂറ്റൻ 'ട്രോജൻ ഹോഴ്‌സ്' ശില്പം ഒരുക്കിയിരിക്കുകയാണ് പ്രശസ്ത കലാകാരൻ ഡാവിഞ്ചി സുരേഷ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/trojan-horse-sculpture-e-waste-cocon-conference-hjyund1d"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "Orkut തിരിച്ചെത്തിയേക്കും; പിന്തുണതേടി സ്ഥാപകൻ രംഗത്ത്, ലക്ഷ്യം 'അർഥവത്തായ ബന്ധങ്ങൾ'"
+      },
+      "summary": {
+        "ml": "മുൻകാല ജനപ്രിയ സോഷ്യൽ നെറ്റ്‌വർക്കിങ് പ്ലാറ്റ്ഫോമായ ഓർക്കൂട്ട് തിരിച്ചെത്തിയേക്കും. പ്ലാറ്റ്ഫോം പുനരുജ്ജീവിപ്പിക്കാനുള്ള തന്റെ പദ്ധതിക്ക് ഇന്റർനെറ്റ് ഉപയോക്താക്കൾ പിന്തുണ നൽകണമെന്ന് സ്ഥാപകൻ ഓർക്കൂട്ട് ബ്യൂക്കോക്ടൻ X പോസ്റ്റിലൂടെ അഭ്യർഥിച്ചു. എന്നാൽ പുതിയ പ്ലാറ്റ്‌ഫോം ലോഞ്ച് ചെയ്യുന്ന തീയതി അദ്ദേഹം പ്രഖ്യാപിച്ചിട്ടില്ല.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/orkut-comeback-founder-plans-social-network-revival-uz1ejj80"
+    },
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "History of Artificial Intelligence.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "🤖 <b>1950 — The Turing Test:</b> Alan Turing published a paper asking 'Can machines think?' and introduced the Turing Test to evaluate machine intelligence.<br>🎓 <b>1956 — The Birth of AI:</b> John McCarthy coined the term 'artificial intelligence' at the Dartmouth Conference, establishing it as a formal field of study.<br>❄️ <b>1960s–1970s — The First AI Winter:</b> Unmet high expectations and limited computing power led to reduced funding and interest, resulting in the first 'AI winter'.<br>⚙️ <b>1980s — Expert Systems:</b> Commercial expert systems like XCON emerged, using hand-written rules to solve specialized problems. A second AI winter followed later in the decade due to high maintenance costs.<br>♟️ <b>1997 — Deep Blue:</b> IBM's Deep Blue defeated world chess champion Garry Kasparov, demonstrating advanced machine decision-making capabilities.<br>🧠 <b>2012 — Deep Learning Breakthrough:</b> Advances in neural networks and big data, including ImageNet, triggered a major surge in computer vision and deep learning.<br>🔄 <b>2017–Present — Transformers and Generative AI:</b> Google introduced the transformer architecture in 2017, paving the way for large language models (LLMs) and the widespread release of ChatGPT by OpenAI in late 2022."
+      },
+      "image": "",
+      "link": "https://www.youtube.com/watch?v=eSj80Zr6TEE&vl=en"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ധനവകപ്പ് പണമനുവദിച്ചിട്ടും പെൻഷൻ വിതരണംചെയ്യാതെ കെ.എസ്.ആർ.ടി.സി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>0എടപ്പാൾ:</b> ധനകാര്യവകുപ്പ് കൃത്യസമയത്ത് പണം അനുവദിച്ചിട്ടും പെൻഷൻ നൽകാതെ കെ.എസ്.ആർ.ടി.സി. അധികൃതർ. മുൻ സർക്കാരിന്റെ കാലത്ത് പണം കിട്ടാനുള്ള കാലതാമസമായിരുന്നു കെ.എസ്.ആർ.ടി.സി. പെൻഷൻകാരെ പട്ടിണിയിലാക്കിയിരുന്നതെങ്കിൽ ഇപ്പോൾ തുക ധനകാര്യവകുപ്പ് അനുവദിച്ചാലും മാസാദ്യംതന്നെ വിതരണംചെയ്യാത്തതാണ് പ്രശ്നം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/ksrtc-pension-delay-finance-department-fund-allocated----gvuo2f17"
+    },
+    {
+      "id": "72",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "11 കേസുകളിലെ പ്രതി എം.ഡി.എം.എ.യുമായി വീണ്ടും അറസ്റ്റിൽ; പിടികൂടിയത് നിർത്താതെപോയ കാർ പിന്തുടർന്ന്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‌കോഴിക്കോട്:</b> 11 കേസിൽ പ്രതിയായ ആൾ എം.ഡി.എം.എ.യുമായി വീണ്ടും പോലീസ് പിടിയിൽ. പേരാമ്പ്ര പള്ളിച്ചാലിൽ അഫ്നാസ് (27), പാലക്കാട് എടത്തനാട്ടുകര കല്ലിങ്ങൽ റിൻഷാ ഫാത്തിമ (23) എന്നിവരാണ് പിടിയിലായത്. കുന്ദമംഗലം പോലീസിന്റെ നേതൃത്വത്തിൽ നടത്തിയ വാഹന പരിശോധനയിലാണ് കഴിഞ്ഞദിവസം രാത്രി പത്തരയോടെ ചാത്തമംഗലം എൻ.ഐ.ടി.ക്ക് അടുത്തുവെച്ച് പ്രതികൾ പിടിയിലാകുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/crime/news/kozhikode-accused-arrested-with-mdma-near-nit-2026--jqkn02vp"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :71,924.68<span style='color:red;'> -547.65 (▼ -0.76%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 22,363.35  <span style='color:red;'> -157.10(▼ -0.70%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:RED;'> ₹13,840 ▼ ₹ -40   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:green;'>₹245  </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

@@ -1,0 +1,981 @@
+{
+  "settings": {
+    "publicationDate": "2026-10-13",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "കന്നി 27, 1202",
+      "en": "Kanni 27, 1202"
+    },
+    "hijriDate": {
+      "ml": "02 ജമാദുൽ അവ്വൽ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 479,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Resilience Starts at Home.",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "നടൻ നാനാ പടേക്കർ അന്തരിച്ചു.",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "2,000 രൂപയ്ക്ക് മുകളിലുള്ള യുപിഐ ഇടപാടുകൾക്ക് അധിക ഫീസ് നൽകേണ്ട; തീരുമാനം നീട്ടി",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> ബിസിനസ് സ്ഥാപനങ്ങളിലെ 2,000 രൂപയ്ക്ക് മുകളിലുള്ള യുപിഐ പേയ്‌മെന്റുകൾക്ക് മർച്ചന്റ് ഡിസ്‌കൗണ്ട് റേറ്റ് (എംഡി‌ആർ) ഈടാക്കാനുള്ള തീരുമാനം നീട്ടിയതായി നാഷണൽ പേയ്‌മെന്റ്സ് കോർപ്പറേഷൻ ഓഫ് ഇന്ത്യ (എൻപിസിഐ). ദീപാവലിക്ക് ശേഷം നിരക്ക് ഏർപ്പെടുത്താനാണ് തീരുമാനം. 2,000 രൂപയ്ക്ക് മുകളിലുള്ള യുപിഐ പേയ്‌മെന്റുകൾക്ക് 0.25 ശതമാനം മുതൽ 0.4 ശതമാനം വരെ നിരക്ക് ഏർപ്പെടുത്താനായിരുന്നു തീരുമാനിച്ചിരുന്നത്.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://keralakaumudi.com/news-360/national/upi-mdr-charges-postponed-after-diwali-1814448 "
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "1. International Day for Disaster Risk Reduction <br> 2. Ada Lovelace Day",
+        "en": ""
+      },
+      "summary": {
+        "ml": "1. <b>International Day for Disaster Risk Reduction</b> <br>This observance highlights disaster preparedness, safer homes, resilient communities and the importance of reducing risks from floods, storms, earthquakes and other hazards. <br>2.<b>Ada Lovelace Day</b><br>Celebrated on the second Tuesday of October, this day recognizes women in science, technology, engineering and mathematics (STEM). In 2026, it falls on 13 October. ",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.un.org/en/observances/disaster-reduction-day"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സിഎംആര്‍എല്‍ – എക്‌സാലോജിക് കേസ്: പിണറായി വിജയന് അനുകൂല നിലപാടുമായി സംസ്ഥാന സര്‍ക്കാര്‍ ഹൈക്കോടതിയില്‍",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> സിഎംആര്‍എല്‍ – എക്‌സാലോജിക് സാമ്പത്തിക ഇടപാടില്‍ പിണറായി വിജയന് അനുകൂല നിലപാടുമായി സംസ്ഥാന സര്‍ക്കാര്‍. കെ എം ഷാജഹാന്‍ വിശ്വാസ്യത ഇല്ലാത്ത ഹര്‍ജിക്കാരന്‍. ഇഡി കണ്ടെത്തലുകള്‍ അപര്യാപ്തമായതിനാലാണ് പ്രാഥമികാന്വേഷണത്തിന് ഉത്തരവിട്ടതെന്നും സര്‍ക്കാര്‍ ഹൈക്കോടതിയില്‍ വ്യക്തമാക്കി. അതേസമയം, വിജിലന്‍സ് എഫ്‌ഐആര്‍ രജിസ്റ്റര്‍ ചെയ്യണമെന്ന ഹൈക്കോടതി സിംഗിള്‍ബെഞ്ച് ഉത്തരവിന് സ്റ്റേയില്ല. പിണറായി വിജയന്‍ ഉള്‍പ്പെടെയുള്ളവര്‍ നല്‍കിയ അപ്പീല്‍ അനുമതി അപേക്ഷ ഹൈക്കോടതി ഡിവിഷന്‍ ബെഞ്ച് വിധി പറയാന്‍ മാറ്റി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/13/cmrl-exalogic-case-state-government-takes-a-stance-in-favor-of-pinarayi-vijayan-in-the-high-court.html"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "എല്ലാവിധ ഓൺ സേവനങ്ങൾ വിരൽ തുമ്പിൽ ലഭ്യമാക്കുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/needanyservices.jpg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "‘അധികാരം നഷ്ടപ്പെട്ട സങ്കടത്തിനുള്ള രോഗത്തിന്റെ മരുന്നു മാത്രമാണ് സ്റ്റോക്ക് ഇല്ലാത്തത്’: ആരോഗ്യ മേഖലയിലെ പ്രതിസന്ധിയില്‍ സഭയില്‍ പോര്"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ആരോഗ്യ മേഖലയിലെ പ്രതിസന്ധിയുമായി ബന്ധപ്പെട്ട അടിയന്തര പ്രമേയ നോട്ടീസിനടെ നിയമസഭയില്‍ ഭരണ -പ്രതിപക്ഷ വാക് പോര്. സംസ്ഥാനത്ത് മരുന്ന് സ്റ്റോക്ക് ഇല്ലെന്ന കെവി സുമേഷ് എംഎല്‍എയുടെ വിമര്‍ശനത്തിന് മന്ത്രി കെ മുരളധരന്‍ മറുപടി നല്‍കിയതാണ് ബഹളത്തിന് ഇടയാക്കിയത്. സംസ്ഥാനത്തെ ആരോഗ്യ മേഖല വെന്റിലേറ്ററിലാണെന്നും ഇല്ലാത്ത മരുന്ന് എത്തിക്കാനുള്ള എന്തെങ്കിലും നടപടിയുണ്ടോ കെവി സുമേഷ് ഉന്നയിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/13/battle-in-the-assembly-over-the-health-sector-crisis.html#"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "നാട്ടികയിലെ ടോള്‍ പിരിവ്: പ്രശ്‌നത്തില്‍ ഇടപെടാമെന്ന് മുഖ്യമന്ത്രി വി ഡി സതീശന്‍ നിയമസഭയില്‍"
+      },
+      "summary": {
+        "ml": "<b>തൃശൂര്‍:</b> നാട്ടികയിലെ ടോള്‍ പിരിവ് പ്രശ്‌നത്തില്‍ ഇടപെടാമെന്ന് മുഖ്യമന്ത്രി വി ഡി സതീശന്‍ നിയമസഭയില്‍. അതിനായി തൃശൂര്‍ ജില്ലാ കളക്ടറെ ചുമതലപ്പെടുത്തിയിട്ടുണ്ടെന്നും മുഖ്യമന്ത്രി പറഞ്ഞു. പ്രതിപക്ഷത്തുനിന്ന് കെ രാജന്‍ എംഎല്‍എയാണ് വിഷയം നിയമസഭയുടെ ശ്രദ്ധയില്‍ കൊണ്ടുവന്നത്. നാട്ടികയില്‍ സിപിഐ പ്രവര്‍ത്തകര്‍ക്കടക്കം പോലീസ് ലാത്തിച്ചാര്‍ജില്‍ മര്‍ദനമേറ്റ കാര്യം കെ രാജന്‍ സഭയില്‍ പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/13/toll-collection-at-nattika-v-d-satheesan-assures-he-will-intervene.html"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പിഎസ്‌സി പരീക്ഷാ ക്രമക്കേട്: നടപടികളുമായി സര്‍ക്കാരിന് മുന്നോട്ടുപോകാം; സ്റ്റേ അനുവദിച്ചിട്ടില്ലെന്ന് ഹൈക്കോടതി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> പിഎസ്‌സി പരീക്ഷാ ക്രമക്കേടില്‍ സര്‍ക്കാരിന് നടപടികളുമായി മുന്നോട്ടുപോകാമെന്ന് ഹൈക്കോടതി. പിഎസ്‌സി ഹര്‍ജി നല്‍കിയെന്ന് കരുതി സ്റ്റേ അനുവദിച്ചിട്ടില്ലെന്ന് കോടതി വ്യക്തമാക്കി. ക്രൈം ബ്രാഞ്ച് റിപ്പോര്‍ട്ടില്‍ മറുപടി നല്‍കാന്‍ പിഎസ്‌സി സാവകാശം തേടി. രണ്ട് ദിവസത്തിന് ശേഷം കേസ് വീണ്ടും പരിഗണിക്കും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/13/psc-exam-irregularities-government-can-proceed-with-actions-says-hc.html"
+    },
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ജന്തര്‍ മന്തറില്‍ സിജെപിയുടെ മിന്നല്‍ സമരം; ഗേറ്റ് ചാടിക്കടന്ന് പ്രതിഷേധവുമായി പ്രധാന നേതാക്കള്‍",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഡല്‍ഹി:</b> ജന്തല്‍ മന്തറില്‍ മിന്നല്‍ സമരവുമായി കോക്രോച്ച് ജനതാ പാര്‍ട്ടി. ജെഡിയു ഓഫീസ് ഗേറ്റ് വഴിയാണ് സിജെപി പ്രവര്‍ത്തകര്‍ അകത്ത് കടന്നത്. അശുതോഷ് റാങ്കെയുടെ നേതൃത്വത്തിലാണ് മിന്നല്‍ സമരം. സൗരവ് ദാസും അജിങ്ക്യ ഷിന്‍ഡെയും ദേശീയ പതാകയുമായി സമരവേദിയിലെത്തി. പ്രവര്‍ത്തകര്‍ ഗേറ്റ് ചാടിക്കടക്കുന്ന ദൃശ്യങ്ങളും പുറത്തെത്തിയിരിക്കുകയാണ്. ഉടനടി പൊലീസെത്തി മൂന്നുപേരെ കസ്റ്റഡിയിലെടുത്തു.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.twentyfournews.com/2026/10/13/cjp-stages-a-flash-protest-at-jantar-mantar.html"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "തെരുവെല്ലാം ജന്തർ മന്തർ"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി</b> ∙ വേഷവും ഭാഷയും വ്യത്യസ്തമെങ്കിലും വോട്ടവകാശം രക്ഷിക്കാനുള്ള പോരാട്ടത്തിൽ ഐക്യപ്പെട്ട ജനസഞ്ചയത്തെയാണ് ഇന്നലെ തലസ്ഥാനത്തെ തെരുവുകളിൽ കണ്ടത്. പ്രതിപക്ഷ നിരയിലെ പാർട്ടികളുടേയും പൗരാവകാശ സംഘടനകളുടേയും പ്രവർത്തകർ ഒരേ ലക്ഷ്യവുമായി ഒഴുകിയെത്തിയപ്പോൾ, സെൻട്രൽ ഡൽഹിയാകെ പ്രതിഷേധക്കടലായി. ജന്തർമന്തർ അടച്ചപ്പോൾ തെരുവുകളെല്ലാം ജന്തർ മന്തറാകുന്ന കാഴ്ചയ്ക്കാണ് ദിവസങ്ങളായി ഡൽഹി സാക്ഷ്യം വഹിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/13/india-alliance-protest-delhi.html"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ദീപാവലി മധുരപലഹാരങ്ങള്‍ അയക്കൂ; അഡ്രസ് പങ്കുവച്ചതേ ഓര്‍മയുള്ളു, ക്യാഷ് ഓണ്‍ ഡെലിവറിയായി എത്തിയത് ബിരിയാണി മുതല്‍ ടിവി വരെ, പാവം വീരമണി!"
+      },
+      "summary": {
+        "ml": "ദീപാവലി മധുരപലഹാരങ്ങള്‍ അയക്കാന്‍ തന്റെ വിലാസം പങ്കുവച്ചതിനെ തുടര്‍ന്ന് പുലിവാല് പിടിച്ച് ഒരു ഇന്‍സ്റ്റഗ്രാം ഇന്‍ഫ്‌ളുവന്‍സര്‍. മധുരയിലെ തന്റെ വീട്ടുവിലാസവും ഫോണ്‍ നമ്പറും ഇന്‍സ്റ്റയിലൂടെ പങ്കുവച്ചത് മാത്രമേ ഇന്‍ഫ്‌ളുവന്‍സറായ വീരമണിക്ക് ഓര്‍മയുള്ളൂ. പിന്നാലെ വീരമണിയെ തേടി എത്തിയത്. ക്യാഷ് ഓണ്‍ ഡെലിവറിയുടെ പെരുമഴ. ലക്ഷകണക്കിന് രൂപയുടെ ടിവിയും ഫ്രിഡ്ജുകളും വീട്ടിലേക്ക് കാഷ് ഓണ്‍ ഡെലിവറിയായി വന്നതോടെ നാട്ടുവിട്ടു പോകുകയാണെന്നാണ് വീരമണി ഇന്‍സ്റ്റഗ്രാമിലൂടെ അറിയിച്ചത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/13/influencer-asks-for-sweets-gets-tvs-fridges-on-cod.html#google_vignette"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "സൗദി വിമാനത്താവളങ്ങളിലെ ആക്രമണം: സർവീസുകൾ പുനരാരംഭിക്കുന്നത്  നീട്ടി ആകാശ എയറും ഇൻഡിഗോയും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>റിയാദ് </b>∙ ഹൂതികൾ സൗദി അറേബ്യയ്ക്ക് നേരെ ആക്രമണം ശക്തമാക്കിയതോടെ പശ്ചിമേഷ്യയിലുണ്ടായ വ്യോമയാന പ്രതിസന്ധിയെ തുടർന്ന് ഇന്ത്യൻ വിമാനക്കമ്പനികളായ ആകാശ എയറും ഇൻഡിഗോയും സർവീസുകൾ&nbsp;പുനരാരംഭിക്കുന്നത്&nbsp; നീട്ടി. സമാനമായ രീതിയിൽ യുഎഇ ആസ്ഥാനമായി പ്രവർത്തിക്കുന്ന വിമാനക്കമ്പനിയായ ഇത്തിഹാദ് എയർവേയ്‌സും സൗദി സർവീസുകൾ നിർത്തിവച്ചിട്ടുണ്ട്.",
+        "en": ""
+      },
+      "image": " images/news04.jpg",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/13/akasa-air-and-indigo-extend-saudi-flight-suspension-amid-middle-east-crisis.html"
+    },
+    {
+      "id": "43",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "‘ഹൂതികളുടേത് വളരെ മോശം പെരുമാറ്റം, ഇത് ഒട്ടും നല്ലതല്ല’; മുന്നറിയിപ്പുമായി ട്രംപ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വാഷിംങ്ടൻ ∙ <a href='https://www.manoramaonline.com/topics/news/world/countries/saudiarabia.html' target='_blank' rel='noopener noreferrer'>സൗദി അറേബ്യയ്ക്ക്</a> നേരെയുള്ള ആക്രമണങ്ങൾ ശക്തമാകുന്ന പശ്ചാത്തലത്തിൽ, ഹൂതികൾക്കെതിരെ കടുത്ത ഭാഷയിൽ വിമർശനവുമായി യുഎസ് പ്രസിഡന്റ് ഡോണൾഡ് ട്രംപ്. തിങ്കളാഴ്ച മാധ്യമപ്രവർത്തകരോട് സംസാരിക്കവേ, ഹൂതികൾ വളരെ മോശമായാണ് പെരുമാറുന്നതെന്ന് ട്രംപ് കുറ്റപ്പെടുത്തി. ഇത് ഒട്ടും നല്ലതല്ലെന്നും അദ്ദേഹം കൂട്ടിച്ചേർത്തു. ഹൂതികളുടെ നീക്കത്തിനെതിരെ അമേരിക്ക എന്താണ് ചെയ്യാൻ ഉദ്ദേശിക്കുന്നത് എന്ന ചോദ്യത്തിനു മറുപടി നൽകുകയായിരുന്നു അദ്ദേഹം.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/13/donald-trump-strongly-condemns-houthi-attacks-on-saudi-arabia.html"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'പോസ്റ്റ്‌മോർട്ടത്തിന് ശേഷം ഗോപികയുടെ &nbsp;രക്തസാമ്പിളെടുത്തു, മുകളിൽ നിന്ന് വിളിച്ചുപറഞ്ഞിട്ടെന്ന് സിഐ';  സംശയമുണ്ടെന്ന് കുടുംബം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പാലക്കാട്:</b> നെടുമ്പാശേരിയിലെ മിനി കൂപ്പർ അപകടത്തിൽ മരിച്ച ഗോപികയുടെ രക്തസാമ്പിളുകൾ പോസ്റ്റ്‌മോർട്ടത്തിന് ശേഷം ശേഖരിച്ചതായി കുടുംബം. ഇന്ന് നടത്തിയ വാർത്താസമ്മേളനത്തിലാണ് ഗോപികയുടെ പിതാവ് എം ആർ പ്രദീപ്കുമാർ ഇക്കാര്യം വെളിപ്പെടുത്തിയത്. പോസ്റ്റ്‌മോർട്ടം കഴിഞ്ഞ് തുന്നിക്കെട്ടിയ ശേഷം തുന്നൽ അഴിച്ച് രക്തസാമ്പിളെടുത്തെന്നും അത് എന്തിനാണെന്ന് അറിയില്ലെന്നും പിതാവ് വ്യക്തമാക്കി. മുകളിൽ നിന്ന് വിളിച്ച് പറഞ്ഞിട്ടാണ് ഇത് ചെയ്തതെന്നാണ് സിഐ പറഞ്ഞതെന്നും അദ്ദേഹം പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/gopika-blood-sample-collection-raises-suspicion-1814451#google_vignette"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'എന്റെ മണ്ഡലത്തിൽപ്പെട്ട ആളല്ല, രക്ഷിക്കാൻ ഒരു മന്ത്രിയും ഇടപെടില്ല'; പ്രതിക്ക് ഏറ്റവും വലിയ ശിക്ഷ നൽകുമെന്ന് ചെന്നിത്തല",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> നെടുമ്പാശേരിയിലെ മിനി കൂപ്പർ അപകടത്തിലെ പ്രതിയെ രക്ഷിക്കാൻ ആര് ശ്രമിച്ചാലും നടക്കില്ലെന്ന് ആഭ്യന്തര മന്ത്രി രമേശ് ചെന്നിത്തല. പ്രതിയായ സുഹൈലിനെ ബോസ്റ്റൽ സ്‌കൂളിൽ അയച്ചത് പൊലീസ് അല്ലെന്നും കോടതിയാണെന്നും ചെന്നിത്തല വ്യക്തമാക്കി. വാർത്താസമ്മേളനത്തിലാണ് അദ്ദേഹം ഇക്കാര്യം വ്യക്തമാക്കിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/ramesh-chennithala-promises-strict-punishment-in-nedumbassery-mini-cooper-accident-1814422"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "പീഡനക്കേസിൽ ജാമ്യത്തിലിറങ്ങി സെഞ്ചറി; ഗ്രൗണ്ടിൽ നിലത്തിരുന്ന് പൊട്ടിക്കരഞ്ഞ് 23കാരൻ താരം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂ‍ൽഹി </b>∙ രഞ്ജി ട്രോഫി ക്രിക്കറ്റിൽ ഗ്രൂപ്പ് സി മത്സരത്തിൽ ഡൽഹിക്കെതിരെ സെഞ്ചറി നേടി ബംഗാൾ താരം അഭിഷേക് പോറൽ. ഓഗസ്റ്റിൽ പീഡനക്കേസിൽ അറസ്റ്റിലായ താരമാണ് അഭിഷേക് പോറൽ. വൈകാരിക പ്രകടനത്തോടെയാണ് താരം സെഞ്ചറി ആഘോഷിച്ചത്. സെഞ്ചറി തികച്ചതിനു പിന്നാലെ താരം ‌ഗ്രൗണ്ടിൽ നിലത്തിരുന്ന് പൊട്ടിക്കരഞ്ഞു. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/10/12/abhishek-porel-breaks-silence-on-rape-case-after-slamming-ranji-trophy-ton.html"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "കാക്കനാട് മിനി കൂപ്പർ അപകടം; സുഹൈൽ  സജീവിനെതിരെ  കേസെടുത്ത് എക്‌സൈസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> മദ്യപിച്ച് ലക്കുകെട്ട് അമിതവേഗത്തിൽ ആഡംബര കാറോടിച്ച് നെടുമ്പാശേരിയിൽ മൂന്നു പേരുടെ ജീവനെടുത്ത സുഹൈൽ സജീവിനെതിരെ കേസെടുത്ത് എക്‌സൈസ്. 23 വയസ് തികയുന്നതിന് മുൻപ് മദ്യം ഉപയോഗിച്ച കുറ്റത്തിനാണ് ആലുവ എക്‌സൈസ് റേഞ്ച് കേസെടുത്തത്. പ്രതിയെ ചോദ്യം ചെയ്യാനൊരുങ്ങുകയാണ് എക്‌സൈസ് ഉദ്യോഗസ്ഥർ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/case-diary/kerala/suhail-sajeev--nedumbassery-accident-excise-case-1814421"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഡൽഹിയിൽ   മിന്നൽ  പ്രതിഷേധവുമായി  വിദ്യാർത്ഥി  സംഘടനകൾ; പ്രവർത്തകരെ വലിച്ചിഴച്ച്  പൊലീസ്,  സംഘർഷം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മീഷണർ ഗ്യാനേഷ് കുമാർ രാജിവയ്ക്കണമെന്ന് ആവശ്യപ്പെട്ട് ഡൽഹിയിൽ വിദ്യാർത്ഥി സംഘടനകളുടെ പ്രതിഷേധം ശക്തമാകുന്നു. കൊണാട്ട് പ്ലേസിൽ നാഷണൽ സ്റ്റുഡൻസ് യൂണിയൻ (എൻഎസ്‌യുഐ) മിന്നൽ സമരം നടത്തി. പ്രതിഷേധക്കാരെ പൊലീസ് ബലം പ്രയോഗിച്ച് കസ്റ്റഡിയിലെടുത്ത് നീക്കുകയാണ്. എൻഎസ്‌യുഐ ദേശീയ പ്രസിഡന്റ് വിനോദ് ഝാക്കർ ഉൾപ്പെടെയുള്ള പ്രവർത്തകരെ പൊലീസ് കസ്റ്റഡിയിലെടുത്തതായാണ് വിവരം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/delhi-student-protest-police-clash-1814471#google_vignette"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "നാദാപുരം എംഇടി കോളജിൽ സിനിമാ രംഗങ്ങളെ വെല്ലുന്ന സംഘട്ടന ദൃശ്യങ്ങൾ; അടി, ഇടി,  ‘പടംപിടി’",
+        "en": ""
+      },
+      "summary": {
+        "ml": "ഒന്നാം വർഷ വിദ്യാർഥികളിൽ ഒരാളെ മുതിർന്ന വിദ്യാർഥികൾ നിലത്തിട്ടു ചവിട്ടുന്നു.  2) നാദാപുരം എംഇടി കോളജിൽ മൂന്നാം വർഷ വിദ്യാർഥികളെ ഒന്നാം വർഷ വിദ്യാർഥികൾ വളഞ്ഞിട്ടു മർദിക്കുന്നതിനിടെ, ഒരു വിദ്യാർഥി ചാടി വന്നു മുതിർന്ന വിദ്യാർഥിയെ ബൂട്ടിട്ട കാലു കൊണ്ട് തലയ്ക്കു ചവിട്ടുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/kozhikode/2026/10/13/nadapuram-met-college-student-clash.html"
+    },
+    {
+      "id": "37",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "'മാർച്ചിനിടെ രാഹുൽ ഗാന്ധി എന്നെ തള്ളിയിട്ടു'; ആരോപണവുമായി ഗർഭിണിയായ മാദ്ധ്യമ പ്രവർത്തക",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> സുപ്രീം കോടതി മാർച്ചിനിടെ രാഹുൽ ഗാന്ധി പിടിച്ച് തള്ളുകയും ബലമായി കയ്യിൽ പിടിച്ച് വലിക്കുകയും ചെയ്തുവെന്ന ആരോപണവുമായി മാദ്ധ്യമപ്രവർത്തക രംഗത്ത്. എന്നാൽ ആരോപണം നിഷേധിച്ച കോൺഗ്രസ് ഇത് ബിജെപി കെട്ടിച്ചമച്ച കഥയാണെന്നും പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/rahul-gandhi-journalist-richa-parashar-allegation-1814441"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 21,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കാപ്പ നിയമം സർക്കാർ നിർത്തലാക്കണം, ജയിലുകളാണ് ലഹരിക്കച്ചവടത്തിന്റെ പ്രധാന കേന്ദ്രങ്ങൾ- കൗൺസിലർ ആർ. സുഗതൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> കാപ്പ നിയമം സർക്കാർ ആദ്യം നിർത്തലാക്കണമെന്ന് തിരുവനന്തപുരം കോർപ്പറേഷൻ ബിജെപി കൗൺസിലർ ആർ. സുഗതൻ. രാഷ്ട്രീയ പാർട്ടികൾക്കും പൊലീസിനും വ്യക്തിവൈരാഗ്യം തീർക്കാനുള്ള ഉപാധിയായി കാപ്പ നിയമം ദുരുപയോഗം ചെയ്യപ്പെടുകയാണെന്ന് സുഗതൻ ആരോപിച്ചു. ചെറിയ കേസുകളുടെയും വ്യക്തിവൈരാഗ്യത്തിന്റെയും പേരിൽ ആളുകൾക്കെതിരെ കാപ്പ ചുമത്തുമ്പോൾ നിരവധി കൊടുംകുറ്റവാളികൾ നിയമനടപടികളിൽനിന്ന് രക്ഷപ്പെടുകയാണെന്നും അദ്ദേഹം മാതൃഭൂമി ഡോട്ട്കോമിനോട് പറഞ്ഞു.&nbsp;ജയിലുകൾ ലഹരിക്കച്ചവടത്തിന്റെ പ്രധാന കേന്ദ്രങ്ങളാണെന്നും അവിടെയാണ് തൂഫാൻ ആദ്യം എത്തേണ്ടതെന്നും സുഗതൻപറഞ്ഞു.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/kappa-act-should-be-abolished-r-sugathan-e3a1vucm"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "‘മകനെ രക്ഷിക്കാൻ ലക്ഷങ്ങൾ വാരിവിതറും, എന്തിനാണ് പബ്ലിക് പ്രോസിക്യൂട്ടറെ സർക്കാർ ശമ്പളംകൊടുത്ത് വെച്ചിരിക്കുന്നത്?’",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കൊച്ചി: നെടുമ്പാശ്ശേരി വിമാനത്താവള റോഡിൽ ആഡംബര കാർ ഇടിച്ചുണ്ടായ ദാരുണാപകടത്തിൽ കൊല്ലപ്പെട്ട ഗോപികയുടെ കുടുംബം ഗുരുതര ആരോപണങ്ങളുമായി രംഗത്ത്. കേസ് അട്ടിമറിക്കാനും പ്രതികളെ സംരക്ഷിക്കാനും വൻതോതിൽ ശ്രമം നടക്കുന്നുണ്ടെന്ന് ഗോപികയുടെ പിതൃസഹോദരൻ എം.ആർ. അനിൽകുമാർ ഫേസ്ബുക്കിൽ കുറിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/crime/news/nedumbassery-car-accident-gopika-family-allegations-dkdo7gtv"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "എസ്.എഫ്.ഐ പ്രവർത്തകരെ ഇടിവളകൊണ്ട് മർദിച്ചു, മദ്യപിച്ചതായും പരാതി; പാലക്കാട് പോലീസുകാരന് സസ്പെൻഷൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പാലക്കാട്: മദ്യപിച്ചെത്തി എസ്എഫ്‌ഐ വിദ്യാർഥികളെ മർദിച്ച പോലീസ് ഉദ്യോഗസ്ഥന് സസ്‌പെൻഷൻ. പാലക്കാട് എ.ആർ ക്യാമ്പിലെ സിവിൽ പോലീസ് ഓഫീസർ ചിറ്റിലഞ്ചേരി സ്വദേശി ഷഫാദിനെയാണ് സസ്‌പെൻഡ് ചെയ്തത്. വിദ്യാർഥികളെ ഇടിവളയിട്ട് മർദിച്ചുവെന്നാണ് പരാതി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/crime/news/palakkad-police-officer-suspended-sfi-students-assault-hfqi1c8r"
+    },
+    {
+      "id": "22",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "അവധിക്ക് ചേച്ചി വരുന്നതും കാത്തിരുന്ന സഹോദരങ്ങൾ...; ഗോപികയ്ക്ക്   അന്ത്യകർമങ്ങൾ   ചെയ്തത് അനിയൻ   അഭിജിത്ത്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കല്ലടിക്കോട് </b>∙ പൂജവയ്പ്പിന് എല്ലാവർക്കും ലീവാണ്. അതു കണക്കാക്കി വരാനിരുന്ന ചേച്ചിയെ കാത്തിരിക്കുകയായിരുന്നു സഹോദരങ്ങളായ അഭിജിത്തും ദീപികയും. പക്ഷേ, വന്നത് ചേതനയറ്റ ശരീരം. ഗോപികയ്ക്ക് അന്ത്യകർമങ്ങൾ ചെയ്യാനായിരുന്നു അഭിജിത്തിന്റെ നിയോഗം. നെടുമ്പാശ്ശേരി എയർപോർട്ട് റോഡിൽ അമിതവേഗത്തിൽ വന്ന വാഹനമിടിച്ച് മരിച്ച ഗോപികയുടെ സംസ്കാരം തിരുവില്വാമല ഐവർമഠത്തിൽ നടത്തി.‌",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/palakkad/2026/10/13/gopika-nedumbassery-accident-news.html"
+    },
+
+    {
+      "id": "22",
+      "type": "news",
+      "order": 40,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "	ആകെ കൺഫ്യൂഷൻ, നോ എൻട്രി ബോർഡുകൾ അവഗണിച്ച് ഇരുഭാഗത്തേക്കും വാഹനങ്ങൾ പാഞ്ഞു	",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ചാലക്കുടി ∙</b> ടൗണിലെ അതിരൂക്ഷമായ ഗതാഗതക്കുരുക്കു പരിഹരിക്കുന്നതിനായി ട്രാഫിക് പരിഷ്‌കാരം മുതൽ പ്രാബല്യത്തിൽ വന്നെങ്കിലും ഗതാഗതക്കുരുക്കിനു പൂർണമായ അയവുണ്ടായില്ല. നോർത്ത് ജംക്‌ഷനിലും ആനമല ജംക്‌ഷനിലും ഗതാഗതക്കുരുക്ക് ഇന്നലെയും ജനത്തെ വലച്ചു. ബസ് സ്റ്റോപ്പുകൾ മാറ്റിയെങ്കിലും പല ബസുകളും പഴയ സ്ഥലത്തു തന്നെ നിർത്തി ആളുകളെ കയറ്റുകയും ഇറക്കുകയും ചെയ്തു. വൺവേ ഏർപ്പെടുത്തിയ മാർക്കറ്റ് റോഡിൽ നോ എൻട്രി ബോർഡുകൾ അവഗണിച്ച് ഇരുഭാഗത്തേക്കും വാഹനങ്ങൾ പാഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/10/13/chalakudy-traffic-block-news.html"
+    },
+    
+    {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "AI ഉപയോഗിച്ച് ഹൂതികൾ എങ്ങനെ മിസൈൽ വികസിപ്പിച്ചു; എന്തുകൊണ്ട് തടയാനായില്ല, വിശദീകരിച്ച് ആന്ത്രോപിക്"
+      },
+      "summary": {
+        "ml": "എഐ (നിർമിതബുദ്ധി) സംവിധാനങ്ങളുടെ അപകടകരമായ ദുരുപയോഗം സംബന്ധിച്ച കൂടുതൽ വിവരങ്ങൾ പുറത്ത്. യെമൻ കേന്ദ്രീകരിച്ചുള്ള ഹൂതികളുടെ ഗൈഡഡ് ആയുധ എഞ്ചിനീയറിങ് വിഭാഗം മൂന്ന് ആയുധ വികസന പദ്ധതികളിൽ ക്ലോഡ് കോഡ് എന്ന എഐ ടൂൾ എങ്ങനെ ഉപയോഗിച്ചുവെന്ന് വിശദീകരിക്കുന്ന ആന്ത്രോപിക്കിന്റെ റിപ്പോർട്ടാണ് പുറത്തുവന്നിട്ടുള്ളത്. യു.എസ് എഐ കമ്പനിയായ ആന്ത്രോപിക്കിന്റെ മുൻനിര എഐ ടൂളാണ് ക്ലോഡ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/anthropic-claude-ai-houthi-missile-guidance-yemen-2026-sjkm9f0a"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "സ്റ്റാർലിങ്ക്: മസ്‌കിന് പ്രത്യേക പരിഗണയൊന്നും ഇന്ത്യ നൽകില്ല, എല്ലാ നിബന്ധനയും പാലിക്കേണ്ടിവരും."
+      },
+      "summary": {
+        "ml": "ഉപഗ്രഹ ഇന്റർനെറ്റ് സേവനം ലഭ്യമാക്കുന്നതിനുള്ള അനുമതികളുടെ കാര്യത്തിൽ ലോകത്തെ ഏറ്റവും വലിയ സമ്പന്നൻ ഇലോൺ മസ്‌കിന്റെ കമ്പനിയായ <a href='https://www.mathrubhumi.com/technology/news/elon-musk-ambani-starlink-satellite-internet-india-xhwbr3m7' target='_blank'>സ്റ്റാർലിങ്കിന് ഇന്ത്യ</a>  ഏതെങ്കിലും തരത്തിലുള്ള പ്രത്യേക പരിഗണനയോ ഇളവുകളോ നൽകില്ല. രാജ്യത്ത് പ്രവർത്തിക്കുന്ന മറ്റ് കമ്പനികൾ പാലിക്കുന്ന എല്ലാ നിയമങ്ങളും സുരക്ഷാ നടപടിക്രമങ്ങളും അമേരിക്കൻ കമ്പനിയും പിന്തുടരേണ്ടി വരുമമെന്ന് ഇന്ത്യൻ അധികൃതർ വ്യക്തമാക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/india-refuses-special-treatment-for-elon-musk-starlink-us-tensions-nghktx0g"
+    },
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "History of Internet.",
+        "en": ""
+      },
+      "summary":{
+        "ml": "{'title':'History of the Internet','data':[{'year':'1960s','icon':'🧮','title':'Early Ideas','description':'Researchers began developing ways for computers to communicate and share information over networks.'},{'year':'1969','icon':'🛰️','title':'Birth of ARPANET','description':'ARPANET, a pioneering computer network funded by the U.S. Department of Defense, connected its first computers at UCLA and the Stanford Research Institute.'},{'year':'1971','icon':'📧','title':'First Network Email','description':'Ray Tomlinson developed network email and popularized the use of the @ symbol in email addresses.'},{'year':'1973','icon':'🌍','title':'International Connections','description':'ARPANET expanded internationally, connecting with networks outside the United States.'},{'year':'1974','icon':'🔗','title':'TCP/IP Proposed','description':'Vint Cerf and Bob Kahn published a proposal for TCP, helping establish the foundation of modern Internet protocols.'},{'year':'1983','icon':'💻','title':'TCP/IP Adoption','description':'ARPANET adopted TCP/IP on January 1, marking a major milestone in the development of the modern Internet.'},{'year':'1984','icon':'🏛️','title':'Domain Name System','description':'DNS was introduced to make it easier to use domain names instead of numerical IP addresses.'},{'year':'1986','icon':'🌐','title':'NSFNET Expansion','description':'The U.S. National Science Foundation developed NSFNET, helping connect universities and research institutions.'},{'year':'1989','icon':'🕸️','title':'World Wide Web Proposed','description':'Tim Berners-Lee proposed the World Wide Web while working at CERN in Switzerland.'},{'year':'1990','icon':'🖥️','title':'First Web Server','description':'Tim Berners-Lee developed the first web server and web browser. ARPANET was also decommissioned in 1990.'},{'year':'1991','icon':'🌍','title':'World Wide Web Made Public','description':'The Web became publicly accessible, allowing people to share information through linked documents.'},{'year':'1993','icon':'🖱️','title':'Mosaic Browser','description':'The Mosaic web browser made browsing the Web easier and more visually accessible.'},{'year':'1994','icon':'🏬','title':'Netscape Founded','description':'Netscape was founded, helping popularize commercial web browsing.'},{'year':'1995','icon':'🛒','title':'Commercial Internet Boom','description':'Internet access expanded rapidly for businesses and consumers, and online shopping gained popularity.'},{'year':'1998','icon':'🔎','title':'Google Founded','description':'Google was founded by Larry Page and Sergey Brin, transforming how people searched for information online.'},{'year':'2004','icon':'👥','title':'Rise of Social Networking','description':'Facebook was launched, contributing to the growth of social networking and online communities.'},{'year':'2005','icon':'🎥','title':'YouTube Launched','description':'YouTube made sharing and watching online videos easier and more popular.'},{'year':'2007','icon':'📱','title':'Smartphone Internet Era','description':'The launch of the iPhone helped accelerate mobile Internet browsing and app-based services.'},{'year':'2010s','icon':'☁️','title':'Cloud Computing and Streaming','description':'Cloud services, video streaming, online collaboration, and mobile applications became part of everyday life.'},{'year':'2020s','icon':'🤖','title':'AI-Powered Internet','description':'Artificial intelligence, generative AI, smart devices, and faster connectivity transformed how people work, learn, and communicate.'},{'year':'Today','icon':'🌟','title':'The Connected World','description':'The Internet connects billions of people through websites, social media, digital payments, online education, e-commerce, and AI-powered services.'}]}"
+      },
+      "image": "",
+      "link": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "‘സാക്ഷികളെ ഭീഷണിപ്പെടുത്താൻ സാധ്യത, മദ്യപിച്ച സുഹൈൽ മത്സരയോട്ടം നടത്തിയോ എന്നും അന്വേഷണം’; റിമാൻഡ് റിപ്പോർട്ട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി ∙</b> നെടുമ്പാശേരിയിൽ മൂന്ന് പേരുടെ മരണത്തിനിടയാക്കിയ <a href='https://www.manoramaonline.com/topics/auto/car/caraccident.html' target='_blank' rel='noopener noreferrer'>വാഹനാപകട കേസിലെ</a>  ഒന്നാം പ്രതി സുഹൈൽ സജീവ് മദ്യപിച്ചിരുന്നുവെന്ന് റിമാൻഡ് റിപ്പോർട്ട്. ഒക്ടോബർ 10 ന് വൈകിട്ട് മുതൽ നഗരത്തിലെ വിവിധ ബാറുകളിൽ നിന്നും തുടർന്ന് നെടുമ്പാശേരിയിലെ പഞ്ചനക്ഷത്ര ഹോട്ടലിലെ ബാറിൽ നിന്നും സുഹൈൽ ഉൾപ്പെടെയുള്ള പ്രതികൾ മദ്യപിച്ച ശേഷം വാഹനമോടിച്ചതാണ് അപകടത്തിനു കാരണമായതെന്ന് നെടുമ്പാശേരി പൊലീസ് സമർപ്പിച്ച റിമാൻഡ് റിപ്പോർട്ടിൽ പറയുന്നു. അതോടൊപ്പം, പ്രതി ലഹരി മരുന്ന് ഉപയോഗിച്ചിട്ടുണ്ടോ എന്ന് പരിശോധിക്കുന്നതിനു കൂടിയാണ് റിമാൻഡ് ചെയ്യണമെന്ന് ആവശ്യപ്പെടുന്നതെന്നും റിപ്പോർട്ടിലുണ്ട്. റിപ്പോർട്ട് പരിഗണിച്ച അങ്കമാലി മജിസ്ട്രേട്ട് കോടതി സുഹൈലിനെയും ഒപ്പം അറസ്റ്റിലായ നിനവിനേയും 14 ദിവസത്തേക്ക് റിമാൻഡ് ചെയ്തിരുന്നു. അതിനിടെ, സുഹൈലിനെ കസ്റ്റഡിയിൽ വാങ്ങാൻ നെടുമ്പാശേരി പൊലീസ് നാളെ അപേക്ഷേ നൽകും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/13/police-seek-custody-of-accused-in-nedumbassery-luxury-car-accident.html"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :73,033.78<span style='color:green;'> +1,109.10  (▲ +1.54%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 22,721.95  <span style='color:green;'> +358.60(▲ +1.60%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:RED;'> ₹13,685 ▼ ₹ -39   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:green;'>₹245  </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

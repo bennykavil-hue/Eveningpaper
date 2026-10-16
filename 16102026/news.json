@@ -1,0 +1,1036 @@
+{
+  "settings": {
+    "publicationDate": "2026-10-15",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "കന്നി 29, 1202",
+      "en": "Kanni 29, 1202"
+    },
+    "hijriDate": {
+      "ml": "04 ജമാദുൽ അവ്വൽ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 481,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "“Resilience is not about never falling; it is about rising every time life knocks you down, stronger, wiser, and more determined than before.” 💪🌱",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "നടൻ നാനാ പടേക്കർ അന്തരിച്ചു.",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "ഇക്കൊല്ലത്തെ രാവണദഹനത്തോടൊപ്പം കൂറ്റൻ പാറ്റയെയും കത്തിക്കും; ദസറ ആഘോഷത്തിൽ പുതിയ നീക്കം",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> ഇത്തവണത്തെ ദസറ ആഘോഷത്തിൽ രാവണദഹനത്തോടൊപ്പം 30 അടി ഉയരമുള്ള കൂറ്റൻ പാറ്റയുടെ രൂപത്തെയും കത്തിക്കാൻ തീരുമാനം. ഡൽഹിയിൽ നടക്കുന്ന രാമലീലയിലാണ് രാവണൻ, കുംഭകർണൻ, മേഘ്‌നാദ് എന്നിവർക്കൊപ്പം പാറ്റയെയും കത്തിക്കുന്നത്. പാറ്റ അഴുക്കിന്റെയും മാലിന്യത്തിന്റെയും പ്രതീകമാണെന്നും അതിനെ കത്തിക്കുന്നത് ശുചിത്വമെന്ന സന്ദേശം നൽകുമെന്നുമാണ് സംഘാടകർ പറയുന്നത്.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://keralakaumudi.com/news-360/national/delhi-dussehra-giant-cockroach-burning-1815636"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "Today, October 16, marks a few notable observances:",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ol><li><b>World Food Day</b> Celebrated every year on 16 October to raise awareness of hunger, food security and access to nutritious food.<b>2026 theme:</b> “Innovate today. Nourish tomorrow.”<br></li><li><b>World Spine Day </b>Promotes spinal health, good posture, physical activity and prevention of back pain. It is commonly observed on 16 October<br></li><li><b>3. World Anaesthesia Day</b>Recognizes the importance of anaesthesia and the medical professionals who help make surgery safer. It commemorates the first successful public demonstration of ether anaesthesia on 16 October 1846.</li></ol>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.fao.org/world-food-day/en/?utm_source=chatgpt.com"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഇനിയില്ല ‘കിളി’ക്കൊഞ്ചൽ; മാതാപിതാക്കൾ എത്തും മുന്നേ നോവ യാത്രയായി.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കട്ടപ്പന ∙ തന്നെ കാണാനായി ജർമനിയിലേക്കു കുടുംബം എത്തുന്നതിനു തൊട്ടുമുൻപ്, തീരാനോവായി ‘കിളി’യുടെ വേർപാട്. വീട്ടുകാരുടെ പ്രിയപ്പെട്ട ‘കിളി’ ആയിരുന്നു നോവ സാബു. പിതാവ് ഇരട്ടയാർ ശാന്തിഗ്രാം കൊച്ചെടാട്ടേൽ കെ.പി.സാബുവും അമ്മ ജ്യോതിയും അടുത്തമാസം <a href='https://www.manoramaonline.com/topics/news/world/countries/germany.html' target='_blank' rel='noopener noreferrer'>ജർമനിയിൽ</a> മകളുടെ അടുത്തേക്കു പോകാനിരിക്കുകയായിരുന്നു. ജർമനിയിലെ ബോഹും നഗരത്തിലെ അപ്പാർട്മെന്റിലുണ്ടായ തീപിടിത്തത്തിലാണ് നേഹയും 2 സുഹൃത്തുക്കളും മരിച്ചത്.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/16/heartbreak-in-erattayar-as-daughter-nova-sabu-dies-tragically-in-germany.html"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "എല്ലാവിധ ഓൺ സേവനങ്ങൾ വിരൽ തുമ്പിൽ ലഭ്യമാക്കുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/needanyservices.jpg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സ്ഥലവും ടാസ്കും ബോസ് നിർദേശിച്ചു; സിനഗോഗിലെ തീവയ്പിന് പ്രതിഫലം 2 ലക്ഷത്തോളം മൂല്യമുള്ള ക്രിപ്റ്റോ കറൻസി"
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി ∙ </b>എറണാകുളം കടവുംഭാഗം ജൂതപ്പള്ളിക്കു (സിനഗോഗ്) മുന്നിൽ തീയിട്ടതു സംബന്ധിച്ച കേസിൽ നിയമവിരുദ്ധമായ പ്രവർത്തനം തടയൽ നിയമത്തിലെ (യുഎപിഎ) വകുപ്പുകളും ചേർക്കും. ഇന്നലെ എറണാകുളം മജിസ്ട്രേട്ട് കോടതി 5 ദിവസത്തേക്കു <a href='https://www.manoramaonline.com/topics/judiciary/lawndorder/keralapolice.html' target='_blank' rel='noopener noreferrer'>പൊലീസ്</a> കസ്റ്റഡിയിൽ വിട്ട എബിൻ പോളിനെ ദേശീയ അന്വേഷണ ഏജൻസി, ഇന്റലിജൻസ് ബ്യൂറോ ഉദ്യോഗസ്ഥർ ചോദ്യം ചെയ്തു. എബിന്റെ മെഡിക്കൽ പരിശോധന നടത്തി, മരുന്നും ചികിത്സയും ഉറപ്പാക്കണമെന്നു കോടതി നിർദേശിച്ചിട്ടുണ്ട്. എബിന്റെ ആരോഗ്യസ്ഥിതി കാരണം, തുടർച്ചയായി ചോദ്യം ചെയ്യാൻ കഴിയാത്ത സ്ഥിതിയുണ്ട്. ഓർമയില്ലെന്നാണു ചോദ്യങ്ങൾക്കു പലതിനും എബിന്റെ മറുപടി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/16/uapa-invoked-in-kochi-synagogue-arson-case.html"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ജർമനിയിലെ തീപിടിത്തം: പോസ്റ്റ്മോർട്ടം കഴിഞ്ഞു, മലയാളികൾ മരിച്ചത് പുക ശ്വസിച്ച്"
+      },
+      "summary": {
+        "ml": "<b>ഇരട്ടയാർ&nbsp;</b> ∙ <a href='https://www.manoramaonline.com/topics/countries/germany.html?page=120' target='_blank' rel='noopener noreferrer'>ജർമനിയിലെ</a> ബോഹും നഗരത്തിലെ അപ്പാർട്മെന്റിലുണ്ടായ തീപിടിത്തത്തിൽ മരിച്ച മലയാളികളുടെ മൃതദേഹം നാട്ടിലെത്തിക്കാനുള്ള ശ്രമം തുടങ്ങി. കൊല്ലം പെരിനാട് സ്വദേശി അഞ്ജലി എസ്.ജോയ് (27), ഇടുക്കി ഇരട്ടയാർ സ്വദേശി നോവ സാബു (25), എറണാകുളം കാലടി സ്വദേശി സിവിൻ ജോണി (27) എന്നിവരാണു ചൊവ്വാഴ്ചയുണ്ടായ തീപിടിത്തത്തിൽ മരിച്ചത്. പോസ്റ്റ്മോർട്ടം കഴിഞ്ഞു എന്നാണ് ബന്ധുക്കൾക്ക് ലഭിച്ച വിവരം. പുക ശ്വസിച്ചാണ് 3 പേരും മരിച്ചത്.&nbsp;",
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/16/three-malayalis-die-in-germany-apartment-fire.html"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കിഫ്ബിയിൽ അടിമുടി ദുരൂഹം; ഖജനാവിന് നഷ്ടം കോടികൾ,ഭൂമി ഏറ്റെടുക്കലിൽ ധൂർത്ത്, ഇങ്ങനെ പോയാൽ അപകടമെന്നും മുന്നറിയിപ്പ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> കിഫ്ബി പ്രവർത്തനങ്ങളിലെ ഗുരുതരവീഴ്ചയും ദുരൂഹ സാമ്പത്തിക ഇടപാടുകളും ക്രമക്കേടും അക്കമിട്ടു നിരത്തി സുധാപിള്ള കമ്മിറ്റി റിപ്പോർട്ട്. ഈ രീതിയിൽ കിഫ്ബി മുന്നോട്ടുപോയാൽ സർക്കാരിന്റെ നിലനിൽപ്പ് അപകടത്തിലാകുമെന്നാണ് കിഫ്ബി പ്രവർത്തനം പഠിക്കാൻ യു.ഡി.എഫ്. സർക്കാർ നിയമിച്ച സുധാപിള്ള കമ്മിയുടെ മുന്നറിയിപ്പ്. ധനവകുപ്പിനെ നോക്കുകുത്തിയാക്കിയായിരുന്നു കിഫ്ബി പ്രവർത്തനം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/sudha-pillai-committee-report-kiifb-financial-irregularities-nad7z082"
+    },
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "പാർലമെന്റ് സ്ട്രീറ്റ് പോലീസ് സ്‌റ്റേഷന് മുന്നിലെ NSUI ധർണ; പ്രതിഷേധിച്ചവരെ കസ്റ്റഡിയിലെടുത്ത് പോലീസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> പാർലമെന്റ് സ്ട്രീറ്റ് പോലീസ് സ്‌റ്റേഷന് മുന്നിൽ എൻഎസ്‌യുഐ ധർണ. പോലീസ് അതിക്രമത്തിൽ കേസ് രജിസ്റ്റർ ചെയ്യാത്തതിലാണ് പ്രതിഷേധം. പോലീസിന്റെ മർദനത്തിനിരയായ ആതിരയുൾപ്പെടെയുള്ളവർ പ്രതിഷേധിച്ചു. ആതിരയെയും മറ്റ് നേതാക്കളെയും പോലീസ് കസ്റ്റഡിയിലെടുത്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/india/nsui-protest-parliament-street-police-station-ad0s6jsg"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "‘ദേശീയപതാക ഉയർത്താൻ പോലും ഡൽഹി പോലീസിന്റെ അനുമതി വേണോ ?’ - വിമർശനവുമായി അഭിജിത് ദീപ്‌കെ"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> കേന്ദ്രസർക്കാരിനെതിരേ വിമർശനവുമായി കോക്രോച്ച് ജനതാ പാർട്ടിയുടെ (സി.ജെ.പി.) സ്ഥാപകൻ അഭിജിത് ദീപ്‌കെ. പ്രതിഷേധങ്ങളെ സർക്കാർ എന്തുകൊണ്ട് ഭയക്കുന്നുവെന്ന് അഭിജിത് ദീപ്‌കെ ചോദിച്ചു. പ്രതിഷേധങ്ങളിൽ പങ്കെടുക്കുന്നവർക്ക് പിന്നാലെ എപ്പോഴും പോലീസുണ്ടെന്നും പ്രതിഷേധ വേദികൾ പോലീസ് അടച്ചുപൂട്ടുന്നുവെന്നും അദ്ദേഹം പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/india/abhijit-deepke-slams-delhi-police-tiranga-march-q08rb3c1"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "തിരംഗമാർച്ച് ഇന്ന്, സി.ജെ.പി. യെ തടയാതെ ഡൽഹി ഹൈക്കോടതി​"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> ജന്തർമന്തറിൽ കടന്ന് ദേശീയപതാക ഉയർത്തിയതിന് നേതാക്കളെ അറസ്റ്റുചെയ്തതിൽ പ്രതിഷേധിച്ച് കോക്രോച്ച് ജനതാ പാർട്ടി (സി.ജെ.പി.) ആഹ്വാനംചെയ്ത തിരംഗമാർച്ച് വെള്ളിയാഴ്ച നടക്കും. കൊണാട് പ്ലേസിലുള്ള സെൻട്രൽ പാർക്കിൽ വൈകീട്ട് അഞ്ചിന് ദേശീയപതാകയേന്തി ‘ലെഹ്‌റാ ദോ തിരംഗ’ എന്ന പ്രതിഷേധത്തിനാണ് ആഹ്വാനം. ഡൽഹിയിലെത്താൻ സാധിക്കുന്നില്ലെങ്കിൽ വെള്ളിയാഴ്ച വൈകുന്നേരം സ്വന്തം സ്ഥലങ്ങളിൽ തിരംഗറാലികൾ സംഘടിപ്പിക്കാൻ സി.ജെ.പി. സ്ഥാപകൻ അഭിജീത് ദീപ്‌കെ ആഹ്വാനംചെയ്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/india/cjp-tiranga-march-delhi-high-court-ruling-kuq9g8zr"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "സർവസംഹാരി, അതീവപ്രഹരശേഷി, പ്രയോഗിച്ചത് ഒരൊറ്റ തവണ മാത്രം; എന്താണ് യു.എസ്സിന്റെ 'മദർ ഓഫ് ഓൾ ബോംബ്‌സ്'?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഇ</b>റാനെതിരായ സൈനികനടപടി പുനരാരംഭിക്കേണ്ടിവന്നാൽ ലോകത്തെ ഏറ്റവും വലിയ ആണവേതര ബോംബുകളിലൊന്നായ 'മദർ ഓഫ് ഓൾ ബോംബ്‌സ്' (എം.ഒ.എ.ബി.) അമേരിക്ക പ്രയോഗിച്ചേക്കുമെന്ന റിപ്പോർട്ടുകൾ പുറത്തുവന്നിരിക്കുകയാണ്. ഇതടക്കമുള്ള ആക്രമണപദ്ധതികൾ അമേരിക്കൻ സൈന്യം തയ്യാറാക്കിയതായാണ് വിവരം. എന്താണ് 'മദർ ഓഫ് ഓൾ ബോംബ്‌സ്'? അതീവപ്രഹരശേഷിയുള്ള ഈ ബോംബിന് എങ്ങനെയാണ് ഈ പേര് ലഭിച്ചത്?",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/world/mother-of-all-bombs-moab-gbu-43-b-explained-gx2xqr7b"
+    },
+    {
+      "id": "43",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "യുഎസ്സിൽ സ്‌കൂളിൽ വെടിവെയ്പ്പ്, മൂന്നുകുട്ടികളടക്കം നാലുപേർ മരിച്ചു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വാഷിങ്ടൺ:</b> യുഎസ്സിൽ സ്‌കൂളിന് നേരെയുണ്ടായ വെടിവെയ്പ്പിൽ കുട്ടികളടക്കം നാല് പേർ മരിച്ചു. ഒറിഗണിലെ സിൽവർ റെയിൽ എലമെന്ററി സ്‌കൂളിലാണ് വ്യാഴാഴ്ച വെടിവെപ്പ് നടന്നത്. മരിച്ചവരിൽ മൂന്നുപേർ കുട്ടികളാണെന്നാണ് ലഭിക്കുന്ന വിവരം. അക്രമിയെന്ന് സംശയിക്കുന്നയാൾ കൊല്ലപ്പെട്ടതായി പോലീസ് അറിയിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/world/us-school-shooting-oregon-elementary-school-g6usbzcf"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മാസപ്പടി  കേസിൽ  പിണറായി  വിജയന്  ഇഡിയുടെ  സമൻസ്: അടുത്ത  വെള്ളിയാഴ്ച  ചോദ്യം  ചെയ്യലിന്  ഹാജരാകണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മാസപ്പടി കേസിൽ പ്രതിപക്ഷ നേതാവ് പിണറായി വിജയന് എൻഫോഴ്സ്‌മെന്റ് ഡയറക്ട്രേറ്റിന്റെ സമൻസ്. അടുത്ത വെള്ളിയാഴ്ച ചോദ്യം ചെയ്യലിന് ഹാജരാകാനാണ് നി‌ർദേശം. സുപ്രീംകോടതി കേസ് പരിഗണിക്കുന്ന പശ്ചാത്തലത്തിൽ ഹാജരാകുന്ന കാര്യം പിന്നീട് തീരുമാനിക്കുമെന്നാണ് വിവരം. നിയമസഭ നടക്കുന്ന കാര്യവും ഇഡിയെ അറിയിക്കാനാണ് ആലോചന. കേസിൽ മുഹമ്മദ് റിയാസിനും ഇഡി ഉടൻ സമൻസ് അയച്ചേക്കുമെന്നാണ് വിവരം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/pinarayi-vijayan-ed-summons-masappadi-case-1815659"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'പ്രിയദർശിനി നഷ്ടമുണ്ടാക്കി, മിനിമം ചാർജ് 15 രൂപയാക്കണം'; നവംബര്‍ മൂന്ന് മുതല്‍ സ്വകാര്യ ബസുകൾ അനിശ്ചിതകാല പണിമുടക്കിലേക്ക്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> സംസ്ഥാനത്ത് സ്വകാര്യ ബസുകൾ പണിമുടക്കിലേക്ക്. നവംബര്‍ മൂന്ന് മുതല്‍ അനിശ്ചിതകാല പണിമുടക്ക് സമരം ആരംഭിക്കുമെന്ന് ഉടമകളുടെ സംയുക്ത സംഘടന കൊച്ചിയില്‍ അറിയിച്ചു. പ്രിയദർശിനി പദ്ധതിയിലൂടെയുള്ള സാമ്പത്തിക നഷ്ടം പരിഹരിക്കുക, ബസ് ചാർജ് വർധിപ്പിക്കുക, വിദ്യാർത്ഥികളുടെ കൺസേഷൻ നിരക്ക് വർധിപ്പിക്കുക തുടങ്ങിയ ആവശ്യങ്ങൾ ഉന്നയിച്ചാണ് സമരം. ആറ് സംഘടനകൾ അടങ്ങുന്ന സംയുക്ത സംഘടനകളുടെ നേതൃത്വത്തിലാണ് പണിമുടക്ക്. അതേസമയം, കേരള ബസ് ട്രാൻസ്പോർട്ട് ഫെഡറേഷൻ ഈ പണിമുടക്ക് സമരത്തിൽ പങ്കാളികളാകില്ല. പ്രിയദർശിനി നഷ്ടം മറികടക്കാൻ ബസ് ഉടമകൾക്ക് ആനുകൂല്യം പ്രഖ്യാപിക്കണമെന്നും ബസ് ചാർജ് മിനിമം 15 രൂപയാക്കണമെന്നും വിദ്യാർത്ഥി കൺസഷൻ അഞ്ച് രൂപയാക്കണമെന്നുമാണ് പ്രധാന ആവശ്യം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/private-buses-across-the-keralam-state-set-to-go-on-strike-after-priyadarsini-articleshow-rdiiceb"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "15 വയസ്സുകാരന്റെ നേട്ടത്തെക്കുറിച്ച് പ്രധാനമന്ത്രിയുടെ ‘പ്രത്യേക പരാമർശം’: വൈറലായി വൈഭവ് സൂര്യവംശിയുടെ  പ്രതികരണം- വിഡിയോ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി </b>∙ 2026 ഏഷ്യൻ ഗെയിംസിൽ മെഡൽ നേടിയ കൗമാര താരങ്ങളെ പ്രത്യേകം അഭിനന്ദിച്ച് പ്രധാനമന്ത്രി നരേന്ദ്ര മോദി. വ്യാഴാഴ്ച ഡൽഹിയിലെ അശോക ഹോട്ടലിൽ ഏഷ്യൻ ഗെയിംസ് 2026ൽ പങ്കെടുത്ത ഇന്ത്യൻ സംഘത്തെ ആദരിച്ച ചടങ്ങിലാണ് പതിനഞ്ചു വയസ്സുകാരനായ വൈഭവ് സൂര്യവംശിയെക്കുറിച്ചും 17 വയസ്സുകാരിയായ കുങ്കും അനിൽ മോഹോദിനെക്കുറിച്ചും മോദി പ്രത്യേകം പരാമർശിച്ചത്. ഇരുവരുടെയും പേര് എടുത്തുപറഞ്ഞില്ലെങ്കിലും ഈ താരങ്ങളെയാണ് പ്രധാനമന്ത്രി ഉദ്ദേശിച്ചതെന്ന് വ്യക്തമായിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/10/15/vaibhav-sooryavanshis-reaction-cant-be-missed-as-pm-narendra-modi-makes-15-year-olds-remark.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 45,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "വേൾഡ് കൊബുഡോ ചാമ്പ്യൻഷിപ്പിൽ സ്വർണം നേടി മലയാളിയായ സൂരജ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഗാറ്റ്‌വിക്ക്:</b> ഇംഗ്ലണ്ടിലെ ഗാറ്റ്‌വിക്കിൽ നടന്ന വേൾഡ് യൂണിയൻ ഓഫ് മാർഷ്യൽ ആർട്‌സ് ഫെഡറേഷൻസ് ലോക ചാമ്പ്യൻഷിപ്പിൽ സ്വർണം നേടി മലയാളിയായ ക്യോഷി സൂരജ് സുനിൽ. സീനിയേഴ്‌സ് കൊബുഡോ വിഭാഗത്തിലാണ് സൂരജിന്റെ നേട്ടം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/sports/news/suraj-sunil-wins-gold-world-kobudo-championship-2026-b92xuivr"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "കൂടത്തിൽ കേസ്: ജയമാധവൻ നായർ കിടന്ന തലയണയും ബെഡ്ഷീറ്റും പായയും കത്തിച്ചു; പൊലീസുകാരുടെ പങ്കിലും അന്വേഷണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം ∙</b><a href='https://www.manoramaonline.com/topics/crime/karanama-koodathil-case.html' target='_blank' rel='noopener noreferrer'>കരമന കൂടത്തിൽ</a>  ജയമാധവൻ നായരുടെ (63) മരണവുമായി ബന്ധപ്പെട്ട കേസിൽ പ്രതി രവീന്ദ്രൻ നായരെ സഹായിച്ചത് അന്നത്തെ ക്രൈംബ്രാഞ്ച് ഉദ്യോഗസ്ഥനെന്ന പൊലീസ് ഇന്റലിജൻസ് റിപ്പോർട്ടിന്റെ അടിസ്ഥാനത്തിൽ അന്വേഷണം. വീട്ടിൽ രക്തം വാർന്നു കിടന്ന ജയമാധവൻ നായരെ ഓട്ടോറിക്ഷയിൽ കൊണ്ടുപോയി എന്നു വരുത്തിത്തീർക്കാൻ രവീന്ദ്രൻ നായർക്കു നിർദേശം നൽകിയത് ഈ ഉദ്യോഗസ്ഥനാണെന്നായിരുന്നു റിപ്പോർട്ട്. ഓട്ടോ ഡ്രൈവർ സുമേഷിനെ പറഞ്ഞേൽപിച്ചതും ഇയാളുടെ നിർദേശമായിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/16/shocking-twist-in-koodathil-case-did-a-crime-branch-official-help-the-accused.html"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 18,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "എസ്‌ഐആർ വിരുദ്ധ പ്രതിഷേധം ആളിക്കത്തിക്കാൻ പാക് നീക്കമെന്ന് റിപ്പോർട്ട്; വാർത്ത പുറത്തുവിട്ട് ആർഎസ്എസ് മുഖപത്രം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> എസ്ഐആറിനെതിരായി നടക്കുന്ന പ്രതിഷേധങ്ങൾ മുതലെടുത്ത് രാജ്യത്ത് സംഘർഷം സൃഷ്‌ടിക്കാൻ പാകിസ്ഥാൻ ഡിജിറ്റൽ പ്രചാരണം നടത്തുന്നതായി റിപ്പോർട്ട്. രണ്ടാഴ്‌ചയ്‌ക്കിടെ 500ത്തോളം സോഷ്യൽ മീഡിയ അക്കൗണ്ടുകൾ ഇതിനായി സൃഷ്‌ടിച്ചതായാണ് ഇന്നലെ പ്രസിദ്ധീകരിച്ച ഇന്ത്യൻ ഡിഫൻസ് റിസർച്ച് വിംഗിന്റെ റിപ്പോർട്ടിൽ പറയുന്നത്. ആർഎസ്എസ് മുഖപത്രമായ ഓർഗനൈസറാണ് ഇതുസംബന്ധിച്ച വാർത്ത പുറത്തുവിട്ടത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/pakistan-sir-protests-5000-fake-social-media-accounts-alleges-report-1815622"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഖുല ചൊല്ലി വിവാഹബന്ധം വേർപെടുത്തി ഭാര്യ; മഹറും പാരിതോഷികങ്ങളും തിരികെ നൽകണമെന്ന് കോടതി ഉത്തരവ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പാലക്കാട്:</b> ഇസ്ളാം വ്യക്തിനിയമപ്രകാരം 'ഖുല' ചൊല്ലി വിവാഹബന്ധം വേർപെടുത്തിയ ഭാര്യ  ഭർത്താവിൽ നിന്ന് ലഭിച്ച മഹറും മറ്റ് പാരിതോഷികങ്ങളും തിരികെ നൽകണമെന്ന് കോടതി. ഒറ്റപ്പാലം കുടുംബ കോടതിയുടേതാണ് വിധി. രാജ്യത്തുതന്നെ അപൂർവമായ വിധിയാണിത്. ഭർത്താവ് പെരിന്തൽമണ്ണ സ്വദേശിയും ഭാര്യ തിരുവേഗപ്പുറ സ്വദേശിനിയുമാണ്. ഇസ്ളാമിക നിയമപ്രകാരം ഭ‌ർത്താവിന് നൽകിയിട്ടുള്ള 'തലാഖ്' എന്ന അവകാശത്തിന് തുല്യമായി സ്ത്രീ നൽകിയിട്ടുള്ള അവകാശമാണ് 'ഖുല'.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/ottapalam-court-khula-divorce-mahr-return-1815670"
+    },
+    {
+      "id": "37",
+      "type": "news",
+      "order": 20,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "സിജെപിയുടെ   തിരംഗ   മാർച്ച്: കനത്ത   സുരക്ഷയിൽ   ഡൽഹി,  നേരിടാൻ  20,000ത്തോളം &nbsp; സുരക്ഷാ &nbsp; ഉദ്യോഗസ്ഥർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> സിജെപി പ്രഖ്യാപിച്ച തിരംഗ മാർച്ചിന്റെ പശ്ചാത്തലത്തിൽ ഡൽഹിയിൽ സുരക്ഷ ശക്തമാക്കി കേന്ദ്രം. 24 മണിക്കൂർ നിരീക്ഷണത്തിന് ഡൽഹി പൊലീസിന്റെ പ്രത്യേക സംഘത്തെ സജ്ജമാക്കിയതായാണ് റിപ്പോർട്ട്. ഡൽഹി അതിർത്തിയിൽ ജാഗ്രതാ നിർദേശവും നൽകിയിട്ടുണ്ട്. രാജ്യതലസ്ഥാനത്ത് സുരക്ഷ ശക്തമാക്കുന്നതിനിടെ ഇന്ന് പുലർച്ചെ പാർലമെന്റ് സ്ട്രീറ്റ് പൊലീസ് സ്റ്റേഷന് മുന്നിൽ പ്രതിഷേധിച്ച എൻഎസ്‌യുഐ നിരവധി പ്രവർത്തകരെ പൊലീസ് കസ്റ്റഡിയിലെടുത്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/cjp-tiranga-march-delhi-security-alert-1815619"
+    },
+    {
+      "id": "10",
+      "type": "news",
+      "order": 21,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കിഫ്ബി സര്‍ക്കാരിന് വന്‍ ബാധ്യത, സര്‍വതും കണ്ണൂരിന്; കൂച്ചുവിലങ്ങിടാന്‍ ശുപാര്‍ശ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം∙ </b> <a href='https://www.manoramaonline.com/topics/business/kiifb.html' target='_blank' rel='noopener noreferrer'>കിഫ്ബിയില്‍</a> സമഗ്രമായ അഴിച്ചുപണി നിര്‍ദേശിച്ച് വിദഗ്ധമിതി സമര്‍പ്പിച്ച റിപ്പോര്‍ട്ട് നിയമസഭയില്‍. സുധാപിള്ള അധ്യക്ഷയായ സമിതിയാണ് റിപ്പോര്‍ട്ട് സമര്‍പ്പിച്ചത്. കിഫ്ബി സര്‍ക്കാരിന് വന്‍ ബാധ്യതയാണെന്നും ഈ രീതിയില്‍ പ്രവര്‍ത്തനം തുടരേണ്ടതില്ലെന്നും റിപ്പോര്‍ട്ടില്‍ പറയുന്നു. ഇതുവരെ 32,198.33 കോടിയുടെ ബാധ്യതയാണ് കിഫ്ബി ഉണ്ടാക്കിയിട്ടുള്ളത്. ഇനിയുള്ള പദ്ധതികള്‍ക്കായി 22883 കോടി രൂപ ആവശ്യവുമാണ്. ഭൂമി ഏറ്റെടുക്കലിനായി 11787.37 കോടിയാണു കൊടുക്കാനുള്ളത്. മോട്ടര്‍ വാഹന നികുതി, ഇന്ധന നികുതി എന്നിവ വഴി സര്‍ക്കാര്‍ 2026 സെപ്റ്റംബര്‍ 29 വരെ 26165.93 കോടിയാണ് കിഫ്ബിക്കു നല്‍കിയിട്ടുള്ളത്. കിഫ്ബി മൂലം സംസ്ഥാനത്തിന്റെ ബജറ്റ് കടമെടുപ്പില്‍നിന്ന് കേന്ദ്രസര്‍ക്കാര്‍ 25932.53 കോടി ഒഴിവാക്കുകയും ചെയ്തു.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/15/expert-committee-recommends-major-overhaul-of-kiifb.html"
+    },
+    {
+      "id": "72",
+      "type": "news",
+      "order": 22,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "പാംബ്ളയിൽ കണ്ടെത്തിയ കത്തിക്കരിഞ്ഞ മൃതദേഹം 18കാരിയുടേത്; 19 കാരൻ പിടിയിൽ, ക്രൂരകൊലപാതകമെന്ന് പൊലീസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഇടുക്കി:</b> ഇടുക്കി പാംബ്ള ഡാമിന് സമീപം കത്തിക്കരിഞ്ഞ നിലയിൽ മൃതദേഹം കണ്ടെത്തിയ സംഭവം ക്രൂരകൊലപാതകമെന്ന് സ്ഥിരീകരിച്ച് പൊലീസ്. തമിഴ്നാട് ബോഡിനായ്ക്കന്നൂർ സ്വദേശിയായ 18 കാരിയാണ് കൊല്ലപ്പെട്ടത്. ഇവരുടെ ആൺസുഹൃത്തും ഇടുക്കി വട്ടപ്പാറ സ്വദേശിയുമായ 19കാരൻ നിഷാന്തിനെ പൊലീസ് പിടികൂടി. വിവാഹത്തെച്ചൊല്ലിയുളള തർക്കമാണ് കൊലപാതകത്തിന് കാരണമെന്നാണ് നിഷാന്തിൻ്റെ മൊഴി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/charred-body-found-at-pambla-identified-as-that-of-an-18-year-old-woman-19-year-old-custody-articleshow-o7xq4ap"
+    },
+    {
+      "id": "73",
+      "type": "news",
+      "order": 35,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "അശ്വതി അച്ചു പിടിയിൽ; ഹണി ട്രാപ്പ് കേസിലും പ്രതി; പിടിയിലായത് ഒളിവിൽ കഴിയവെ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സ്വത്തുതർക്കത്തെ തുടർന്ന് അമ്മയുടെ ദേഹത്ത് തിളച്ചവെള്ളം ഒഴിച്ച സംഭവത്തിൽ പ്രതിയായ&nbsp;  <a href='https://www.mathrubhumi.com/crime/news/aswathy-achu-kollam-mother-scalded-property-dispute-honey-trap-cases-xhaqkec8'>അശ്വതി അച്ചു</a> പിടിയിൽ. സംഭവത്തിനുശേഷം ഒളിവിൽ പോയ ഇവരെ തിരുവനന്തപുരത്തെ ഫ്ലാറ്റിൽ നിന്നാണ് ചടയമംഗലം പോലീസ് പിടികൂടിയത്. കേസിൽ അശ്വതി അച്ചുവിന്റെ മകൾ അമൃത നേരത്തെ പിടിയിലായിരുന്നു. നേരത്തെ ഹണി ട്രാപ്പ് കേസിലും അശ്വതി അച്ചു പ്രതിയായിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/crime/news/aswathy-achu-arrested-boiling-water-mother-property-dispute-ocejzey6"
+    },
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "വീടുമില്ല വാടകയുമില്ല; ദുരിതംതീരാതെ മുണ്ടക്കൈ-ചൂരൽമല ദുരന്തബാധിതർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കല്പറ്റ:</b> മുണ്ടക്കൈ- ചൂരൽമല <a href='https://www.mathrubhumi.com/topics/tag/mundakkai_chooralmala_landslide' target='_blank'>ദുരന്തബാധിതർക്കായുള്ള</a> ടൗൺഷിപ്പിലെ രണ്ടാംഘട്ട വീടുനിർമാണത്തിൽ പുരോഗതിയില്ലെന്നാരോപിച്ച് ദുരന്തബാധിതർ രംഗത്ത്. രണ്ട് എ, രണ്ട് ബി. ഗുണഭോക്തൃപട്ടികകളിൽ ഉൾപ്പെട്ട 156 കുടുംബങ്ങളുടെ കൂട്ടായ്മയായ ‘ദുരന്തബാധിതരാണ്’ വീടുകളുടെ നിർമാണം ഇഴഞ്ഞുനീങ്ങുന്നതായും ഈ മാസം വീട്ടുവാടക ലഭിച്ചില്ലെന്നും ആരോപിച്ച് രംഗത്തെത്തിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/mundakkai-chooralmala-landslide-survivors-township-housing-delay-rent-tzu4033a"
+    },
+    {
+      "id": "22",
+      "type": "news",
+      "order": 24,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {
+        "ml": "ടോൾ പ്ലാസയിൽ തെരുവുയുദ്ധം, ജലപീരങ്കി,ലാത്തിച്ചാർജ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തൃപ്രയാർ:</b> നാട്ടികയിൽ പണി പൂർത്തിയാകാതെ ടോൾ പിരിക്കുന്നതിനെതിരെ ടോൾ പ്ലാസയിലേക്ക് രാഷ്ട്രീയ പാർട്ടികൾ നടത്തിയ പ്രതിഷേധ മാർച്ചിൽ വൻ സംഘർഷം. ബാരിക്കേഡുകൾ മറിച്ചിട്ട് ടോൾ പ്ലാസയിലേക്ക് ഇരച്ചുകയറാൻ ശ്രമിച്ച എൽ.ഡി.എഫ്, യു.ഡി.എഫ് പ്രവർത്തകർക്കുനേരെ പൊലീസ് ജലപീരങ്കിയും ലാത്തിച്ചാർജും പ്രയോഗിച്ചു. സി.പി.എം ജില്ലാ സെക്രട്ടറി കെ.വി. അബ്ദുൾ ഖാദർ, ഡി.വൈ.എഫ്.ഐ നേതാവ് നിസാർ എന്നിവരുൾപ്പെടെ നിരവധി പേർക്ക് പരിക്കേറ്റു. നേതാക്കളടക്കമുള്ളവരെ പൊലീസ് ബലംപ്രയോഗിച്ച് അറസ്റ്റ് ചെയ്തു നീക്കി. സംഘർഷത്തെത്തുടർന്ന് ദേശീയപാതയിൽ മണിക്കൂറുകളോളം ഗതാഗതം സ്തംഭിച്ചു. ടോൾ പിരിവ് പൂർണമായി നിറുത്തുന്നതുവരെ സമരം ശക്തമാക്കുമെന്ന് രാഷ്ട്രീയ പാർട്ടികൾ പ്രഖ്യാപിച്ചു. രാവിലെ പത്തോടെയാണ് ടോൾ പ്ലാസ ലക്ഷ്യമാക്കി പ്രതിഷേധ മാർച്ച് ആരംഭിച്ചത്. ബൂത്തുകൾക്കു മുന്നിൽ പൊലീസ് തീർത്ത ബാരിക്കേഡുകൾ മറിച്ചിട്ട് മുന്നേറാൻ പ്രവർത്തകർ ശ്രമിച്ചതോടെയാണ് സംഘർഷമുണ്ടായത്. പൊലീസ് പലതവണ ജലപീരങ്കി പ്രയോഗിച്ചു. നിർമ്മാണത്തിലെ അപാകതകൾ ചൂണ്ടിക്കാട്ടിയും ടോൾ പിരിവ് നിറുത്തണമെന്നാവശ്യപ്പെട്ടും കളക്ടർ ഉൾപ്പെടെയുള്ളവർ നിർദ്ദേശങ്ങൾ നൽകിയിട്ടും പിരിവ് തുടരുകയാണെന്ന് പ്രതിഷേധക്കാർ ആരോപിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/local/thrissur/local-news-thrissur-1814595"
+    },
+    {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ഇന്ത്യൻ സ്ഥാപനങ്ങളിലും കടന്നുകയറി AI ഏജന്റുകൾ, വെളിപ്പെടുത്തി കേന്ദ്ര ഏജൻസി, ജാഗ്രതാ നിർദേശം"
+      },
+      "summary": {
+        "ml": "നിർമിതബുദ്ധി (എഐ) ഏജന്റുകൾ അനുമതിയില്ലാതെ ഇന്ത്യൻ സ്ഥാപനങ്ങളുടെ സിസ്റ്റങ്ങളിലേക്കും പ്രവേശനം നേടിയതായി കേന്ദ്ര ഏജൻസിയുടെ വെളിപ്പെടുത്തൽ. ഇന്ത്യയുടെ സൈബർ സുരക്ഷാ ഏജൻസിയായ CERT-In ആണ് മുന്നറിയിപ്പ് പുറത്തിറക്കുകയും ജാഗ്രതാ നിർദ്ദേശങ്ങൾ നൽകുകയും ചെയ്തിട്ടുള്ളത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/cert-in-advisory-ai-agents-breach-indian-organisations-fnc686x2"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ഗ്രോക്ക് AI ബോട്ടുകളെ തടഞ്ഞ് ആമസോൺ, പ്രതികരിച്ച് മസ്‌ക്; ഇ-കൊമേഴ്‌സ് പ്ലാറ്റ്‌ഫോം X ഷോപ്പ് വരുമോ?"
+      },
+      "summary": {
+        "ml": "ലോകത്തെ ഏറ്റവും വലിയ സമ്പന്നനായ <a href='https://www.mathrubhumi.com/technology/news/india-refuses-special-treatment-for-elon-musk-starlink-us-tensions-nghktx0g' target='_blank'>ഇലോൺ മസ്‌ക് </a>ആമസോണിന് ബദലായി പുതിയ ഇ-കൊമേഴ്‌സ് പ്ലാറ്റ്‌ഫോം തുടങ്ങുമോ? മസ്‌ക് എക്‌സിൽ&nbsp;നടത്തിയ പരാമർശത്തിന് പിന്നാലെയാണ് ഇത്തരത്തിലുള്ള ആഭ്യൂഹം പ്രചരിക്കുന്നത്. ഗ്രോക്ക് എഐ ബോട്ടുകൾക്ക് ആമസോൺ വിലക്കേർപ്പെടുത്തിയ നടപടി ടെക് ശതകോടീശ്വരനെ ചൊടിപ്പിച്ചതോടെ അദ്ദേഹം പുതിയ ഇ-കൊമേഴ്‌സ് പ്ലാറ്റ്‌ഫോമുമായി രംഗത്തെത്തുമോ എന്നാണ് നിരീക്ഷകർ ഉറ്റുനോക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/technology/news/elon-musk-amazon-competitor-ai-bot-dispute-eird8pl6"
+    },
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "Central Processing Unit (CPU)",
+        "en": ""
+      },
+      "summary": {
+        "ml": "CPU (Central Processing Unit), often called the processor or the 'brain' of a computer, is the primary electronic component that interprets and executes instructions from hardware and software.<br>Every action your device performs—from moving a mouse cursor to running complex 3D software—is calculated by the CPU.<br><b>Core Functions of a CPU</b><br>The CPU executes instructions using a continuous four-step operational cycle called the Instruction Cycle:<br><ol><li><b>Fetch:</b> Retrieves an instruction from the computer's memory (RAM).</li><li><b>Decode:</b> Translates the instruction into electrical control signals to determine what action is required.</li><li><b>Execute:</b> Carries out the action using internal circuitry (such as performing mathematical calculations or moving data).</li><li><b>Store (Writeback):</b> Writes the final result back to memory for access by other applications or components.</li></ol> <br> Continued......."
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "📢 സംസ്ഥാനത്ത് തിങ്കളാഴ്ച അവധി; സർക്കാർ ഉത്തരവ് ഇറങ്ങി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> നവരാത്രി ആഘോഷങ്ങളുടെ ഭാഗമായി ഒക്ടോബർ 19 തിങ്കളാഴ്ച സംസ്ഥാനത്ത് പൊതുഅവധി പ്രഖ്യാപിച്ചു. 1881-ലെ നെഗോഷ്യബിൾ ഇൻസ്ട്രുമെന്റ്സ് ആക്ട് പ്രകാരമാണ് സർക്കാർ അവധി പ്രഖ്യാപിക്കുന്നത്. ഇത് സംബന്ധിച്ച ഔദ്യോഗിക ഉത്തരവ് പുറത്തിറങ്ങി.",
+        "en": ""
+      },
+      "image": " images/news04.jpg",
+      "link": "https://www.twentyfournews.com/2026/10/16/kerala-declares-public-holiday-on-october-19.html"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :74,315.61<span style='color:green;'> +1,532.72  (▲ ++2.11%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 22,997.35  <span style='color:green;'> +374.65(▲ +1.66%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:RED;'> ₹13,515 ▼ ₹ -75   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:red;'>₹240 (▼ ₹5) </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "950",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "പേപ്പര്‍",
+        "en": "paper"
+      },
+      "title": {
+        "ml": "<b>📰</b> പ്രമുഖ പത്രങ്ങളിലൂടെ..................",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<a href='https://keralakaumudi.com/' target='_blank'>കേരള കൌമുദി</a> <br> <a href='https://www.mathrubhumi.com/' target='_blank'>മാതൃഭൂമി</a> ",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

@@ -1,0 +1,989 @@
+{
+  "settings": {
+    "publicationDate": "2026-10-19",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "തുലാം 03, 1202",
+      "en": "Kanni 31, 1202"
+    },
+    "hijriDate": {
+      "ml": "09 ജമാദുൽ അവ്വൽ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 485,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "news",
+        "category": "ന്യൂസ്"
+      },
+
+      {
+        "id": "weather",
+        "category": "കാലാവസ്ഥ"
+      },
+
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Let kindness overcome anger, let forgiveness overcome resentment, and let goodness guide every action.",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+        "label": {
+        "ml": "വാര്‍ത്ത ഉറവിടം",
+        "en": "news"
+      },
+      "link": "#news"
+    },
+    
+     {
+        "label": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "link": "weather"
+    },
+ 
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "നേഹ ബോറയെ കസ്റ്റഡിയിൽ നിന്ന് വിട്ടയച്ചു. * അഭിജീത് ദിപ്കെയ്ക്ക് ഉപാധികളോടെ ജാമ്യം",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "സൽമാൻ ഖാൻ, രൺവീർ സിങ്, രോഹിത് ഷെട്ടി, ടൈഗർ ഷ്റോഫ്... തോക്കിൻമുനയിൽ ബോളിവുഡ്; ഭീതിയിലാഴ്ത്തി ബിഷ്ണോയ്...",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>മുംബൈ ∙ ദാവൂദ് ഇബ്രാഹിമും ഛോട്ടാ രാജനുമെല്ലാം വിറപ്പിച്ച മുംബൈയിൽ ഇപ്പോൾ <a title='Lawrence Bishnoi' target='_self' class='follow-ft__tag' href='https://www.manoramaonline.com/topics/crime/lawrencebishnoi.html'>Lawrence Bishnoi</a>  ഗുണ്ടാസംഘമാണു ബോളിവുഡിന്റെ പേടിസ്വപ്നം. അവർ ഉതിർക്കുന്ന വെടിയുണ്ടകൾ ഹിന്ദി സിനിമാലോകത്ത് ആശങ്കയുടെ അലകൾ സൃഷ്ടിക്കുന്നു. നടൻ ജാക്കി ഷ്റോഫിന്റെ മകനും നടനുമായ ടൈഗർ ഷ്റോഫ് ഞായറാഴ്ചയുണ്ടായ വെടിവയ്പിൽനിന്നു തലനാരിഴയ്ക്കാണു രക്ഷപ്പെട്ടത്. ",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/20/lawrence-bishnoi-gang-mumbai-bollywood.html"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "Today, October 20, marks a few notable observances:",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ol><li><b>1. Dussehra (Vijayadashami)</b> Celebrated in many parts of India, Dussehra symbolizes the victory of good over evil and is associated with Lord Rama's victory over Ravana..</li><li><b>International Chefs Day 👨‍🍳 </b>International Chefs Day 👨‍🍳</li><li>World Osteoporosis Day</li></ol>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": ""
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "‘കിഫ്ബി കടമെടുപ്പിൽ ധനവകുപ്പിന്റെ എതിർപ്പ് മറികടന്നതിന് കൂടുതൽ തെളിവുകൾ; യോഗ മിനിറ്റ്സ് ഏഷ്യാനെറ്റ് ന്യൂസിന്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b>കിഫ്ബിയുടെ കടമെടുപ്പുമായി ബന്ധപ്പെട്ട് ധനവകുപ്പ് ഉന്നയിച്ച എതിർപ്പുകൾ മറികടന്നതിന് കൂടുതൽ തെളിവുകൾ പുറത്ത്. കിഫ്ബി കടമെടുക്കുന്നത് സംസ്ഥാന സർക്കാരിന്റെ കടമെടുപ്പ് പരിധിയെ ബാധിക്കുമെന്നും ഉയർന്ന പലിശബാധ്യതയുണ്ടാക്കുമെന്നും ധനകാര്യ അഡീഷണൽ ചീഫ് സെക്രട്ടറി ബിശ്വനാഥ് സിൻഹ മുന്നറിയിപ്പ് നൽകിയിരുന്നു. 2023 ജൂൺ ആറിന് നടന്ന യോഗത്തിന്റെ മിനിറ്റ്സിന്റെ പകർപ്പ് ഏഷ്യാനെറ്റ് ന്യൂസിന് ലഭിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/news/more-evidence-of-finance-departments-opposition-being-overruled-in-kiifb-articleshow-vuv2y9u"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "എല്ലാവിധ ഓൺ സേവനങ്ങൾ വിരൽ തുമ്പിൽ ലഭ്യമാക്കുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/needanyservices.jpg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'ഞാൻ ഒന്നും കണ്ടില്ല, മൊഴി നൽകിയത്...'; ഗൺമാൻ അഭിലാഷ് മൊഴി മാറ്റി; കെഎസ്‌യു പ്രവർത്തകർക്കെതിരായ വധശ്രമ കേസിൽ വീണ ജോർജ്ജിന് തിരിച്ചടി"
+      },
+      "summary": {
+        "ml": "<b>കോഴിക്കോട്:</B? കണ്ണൂരിൽ വെച്ച് മുന്‍ മന്ത്രി വീണാ ജോര്‍ജിനെ കെ എസ് യു പ്രവര്‍ത്തകര്‍ അക്രമിച്ചെന്ന കേസിൽ, ഗൺമാൻ മൊഴി തിരുത്തി. കെഎസ്‌യു പ്രവർത്തകർ ആയുധമുപയോഗിച്ച് അക്രമിക്കാന്‍ ശ്രമിച്ചെന്ന മൊഴി നല്‍കിയത് അന്ന് ആരോഗ്യമന്ത്രിയായിരുന്ന വീണ ജോർജ്ജ് ആവശ്യപ്പെട്ടിട്ടാണെന്ന് ഗണ്‍മാന്‍ അഭിലാഷ് പറഞ്ഞു. കേസ് അന്വേഷിക്കുന്ന പ്രത്യേക അന്വേഷണ സംഘത്തിനാണ് അഭിലാഷ് മൊഴി നൽകിയത്. വീണ ജോർജ്ജിനെ കെഎസ്‌യു പ്രവർത്തകർ ആക്രമിക്കുന്നത് കണ്ടിട്ടില്ലെന്നും വീണ ജോർജ്ജ് നിർദേശിച്ച പ്രകാരമാണ് അന്ന് റെയിൽവേ പൊലീസിന് മൊഴി നൽകിയതെന്നും അഭിലാഷ് എസ്ഐടിയോട് പറഞ്ഞു",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/gunman-changes-statement-on-ksu-attack-on-veena-george-articleshow-c34iwvn"
+    },
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ബഡ്സ് സ്കൂളിന് ഹെഡ്ഗെവാറിന്റെ പേര്: പാലക്കാട്ട് വൻ പ്രതിഷേധം, തറക്കല്ലിട്ട സ്ഥലത്ത് വാഴനട്ടു"
+      },
+      "summary": {
+        "ml": "<b>പാലക്കാട്:</b? ബിജെപി ഭരിക്കുന്ന പാലക്കാട് നഗരസഭയുടെ കീഴിലുള്ള ബഡ്സ് സ്കൂളിന് ഹെഡ്ഗേവാറിന്റെ പേര് നൽകിയതിൽ പ്രതിഷേധം. ഡിവൈഎഫ്ഐ, യൂത്ത് കോൺഗ്രസ് പ്രവർത്തകര...",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/palakkad-buds-school-hedgewar-name-66184d50"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "തരികിട സ്പാകൾ   പൂട്ടാൻ ഒരുക്കം,​  ലൈംഗികചൂഷണം ഉൾപ്പെടെയുള്ള തട്ടിപ്പ് തടയാൻ നിയമം വരും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം: ഹൈടെക് അനാശാസ്യ കേന്ദ്രങ്ങളായി മാറുന്ന അനധികൃത സ്പാകളിലെ ലൈംഗികചൂഷണം തടയാൻ ശക്തമായ നിയമനിർമ്മാണത്തിന് സർക്കാർ ഒരുങ്ങുന്നു. സ്പാകൾക്ക് അനുമതി നൽകാനും അവിടെ സ്ത്രീസുരക്ഷ ഉറപ്പാക്കാനും ലൈംഗികചൂഷണം തടയാനുമടക്കം വ്യവസ്ഥളോടെയുള്ള നിയമമാണ് പരിഗണനയിൽ. തദ്ദേശസ്ഥാപനങ്ങളിൽ നിന്ന് വെൽനെസ് സെന്ററെന്ന വ്യാജേന ലൈസൻസ് നേടി, മസാജ് പാർലറുകളായും സ്പാകളായും രൂപംമാറുന്നവയാണ് ഇവയിലേറെയും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/spa-1816869"
+    },
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "എയർ ഇന്ത്യ എക്‌‌സ്പ്രസ് വിമാനത്തിൽ പക്ഷിയിടിച്ചു; 148 യാത്രക്കാരും സുരക്ഷിതർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ബംഗളൂരു: 148 യാത്രക്കാരുമായെത്തിയ എയർ ഇന്ത്യ എക്‌സ്‌പ്രസ് വിമാനത്തിൽ പക്ഷിയിടിച്ചുകെംപഗൗഡ എയർപോർട്ടിൽ വിമാനം സുരക്ഷിതമായി ലാൻഡ് ചെയ്‌തശേഷം പാർക്കിംഗ് സ്റ്റാൻഡിലേക്ക് മാറ്റിതിങ്കളാഴ്‌ച വിശാഖപ്പട്ടണത്തുനിന്ന് ബംഗളൂരുവിലേക്ക് വന്ന എയർ ഇന്ത്യ എക്‌സ്‌പ്രസ്‌ വിമാനത്തിലാണ് പക്ഷിയിടിച്ചത്",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/air-india-express-bird-strike-bengaluru-148-passengers-safe-1817143"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "'ബംഗ്ലാദേശിലും ഫ്രാൻസിലും സംഭവിച്ച പോലെ, ഇന്ത്യയിലും ഭരണമാറ്റത്തിനുള്ള ശ്രമങ്ങൾ നടക്കുന്നു',- ആർഎസ്എസ് മേധാവി"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> ഇന്ത്യയിൽ ഭരണമാറ്റം ലക്ഷ്യമിട്ടുള്ള നീക്കങ്ങൾ നടക്കുന്നുണ്ടെങ്കിലും അത് വിജയിക്കില്ലെന്ന് ആർ.എസ്.എസ് മേധാവി മോഹൻ ഭാഗവത്.ബംഗ്ലാദേശിലും ഫ്രാൻസിലും സംഭവിച്ച  പോലെ, ഇന്ത്യയിലും ഭരണമാറ്റത്തിനുള്ള ശ്രമങ്ങൾ നടക്കുന്നു'",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/10/18/kolkata-durga-puja-pandal-stampede-sarada-park-details.html"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "സർക്കാർ   ആശുപത്രിയിൽ   ഡ്യൂട്ടിക്കിടെ  മോർച്ചറിയിൽ   മദ്യപാനം: ഡോക്ടർക്ക്   സസ്‌പെൻഷൻ​"
+      },
+      "summary": {
+        "ml": "<b>പൂനെ:</b> മഹാരാഷ്ട്രയിൽ സ‌ർക്കാർ ആശുപത്രിയിലെ മോർച്ചറിയിലിരുന്ന് മദ്യപിച്ച ഡോക്ടർക്ക് സസ്‌പെൻഷൻ. യശ്വന്ത്റാവു ചവാൻ മെമ്മോറിയൽ ആശുപത്രിയിലെ ഡോക്ടർ വൈഭവ് അവിനാഷ് മസ്കെയെയാണ് സസ്‌പെൻഡ് ചെയ്തത്. ഇയാൾ മദ്യപിക്കുന്നതിന്റെ ദൃശ്യങ്ങൾ സമൂഹമാദ്ധ്യമങ്ങളിൽ പ്രചരിച്ചതിന് പിന്നാലെയാണ് നടപടി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/doctor-suspended-for-drinking-in-mortuary-1816458"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "വിമാനത്താവളത്തിനുള്ളിൽ ഡസൻ കണക്കിന് വിഷപ്പാമ്പുകൾ;  ആശങ്കയിൽ യാത്രക്കാർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കാൻബെറ: വിമാനത്താവളത്തിനുള്ളിൽ ഡസൻ കണക്കിന് വിഷപ്പാമ്പുകളെ കണ്ടതായി റിപ്പോർട്ട്. ഓസ്ട്രേലിയയിലെ ആലീസ് സ്‌പ്രീംഗ്സ് വിമാനത്താവളത്തിലാണ് സംഭവം. വിദേശ മാദ്ധ്യമങ്ങളാണ് ഇതുസംബന്ധിച്ച വാർത്ത പുറത്തുവിട്ടത്. വിമാനത്താവളത്തിലെ ടെർമിനൽ, കവാടങ്ങൾ, യാത്രക്കാരുടെ ചെക്ക് - ഇൻ ഏരിയ,​ എയർലൈൻ ലോഞ്ച്, സ്റ്റാഫ് ഓഫീസുകൾ എന്നിവയിലാണ് പ്രധാനമായും പാമ്പുകളെ കണ്ടെത്തിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/world/alice-springs-airport-venomous-snake-1816423#google_vignette"
+    },
+    {
+      "id": "43",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "title": {
+        "ml": "ഹോർമുസിൽ കപ്പൽ ആക്രമണം ഉയരുന്നു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ടെഹ്റാൻ:</b> ഹോർമുസ് കടലിടുക്കിൽ കപ്പലുകൾക്ക് നേരെ ഇറാൻ നടത്തുന്ന ആക്രമണങ്ങൾ കുതിച്ചുയരുന്നു. ഇന്നലെ 20 ലക്ഷം ബാരൽ എണ്ണയുമായി ഹോർമുസിലൂടെ സഞ്ചരിച്ച സൂപ്പർ ടാങ്കർ നേവൽ മൈനിൽ ഇടിച്ച് തീപിടിച്ചു. ആളപായമില്ല. കപ്പൽ ട്രാക്കിംഗ് സംവിധാനങ്ങൾ ഓഫാക്കി അനുമതിയില്ലാത്ത പാതയിലൂടെ കടക്കാൻ ശ്രമിച്ചെന്ന് ഇറാൻ റെവല്യൂഷണറി ഗാർഡ് പ്രതികരിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/world/world-1816406"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "വി​ക്രം പ​റ​ഞ്ഞു , തീ​യി​ട്ടു ; സി​ന​ഗോ​ഗ് തീ​വ​യ്പ്പ് കേ​സി​ൽ നി​ർ​ണാ​യ​ക വ​ഴി​ത്തി​രി​വ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊ​ച്ചി:</b? സി​ന​ഗോ​ഗ് തീ​വ​യ്പ്പ് കേ​സി​ൽ നി​ർ​ണാ​യ​ക വി​വ​ര​ങ്ങ​ൾ പൊ​ലി​സി​ന് ല​ഭി​ച്ച​താ​യി സൂ​ച​ന. കേ​സി​ൽ അ​റ​സ്റ്റി​ലാ​യ എ​ബി​ൻ പോ​ൾ ത​നി​ക്ക് നി​ർ​ദേ​ശം ന​ൽ​കി​യ​ത് വി​ക്രം എ​ന്ന പേ​രി​ലു​ള്ള വ്യ​ക്തി​യാ​ണെ​ന്ന് മൊ​ഴി ന​ൽ​കി. എ​ന്നാ​ൽ വി​ക്രം ത​ന്നെ​യാ​ണോ സം​ഭ​വ​ത്തി​നു പി​ന്നി​ലെ മു​ഖ്യ​സൂ​ത്ര​ധാ​ര​ൻ എ​ന്ന കാ​ര്യ​ത്തി​ൽ പൊ​ലി​സി​ന് ഇ​തു​വ​രെ സ്ഥി​രീ​ക​ര​ണം ല​ഭി​ച്ചി​ട്ടി​ല്ല.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/major-twist-in-synagogue-arson-case-203336"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'വ്യാ​ജ ബോം​ബ് ഭീ​ഷ​ണി​യി​ലൂ​ടെ പൊ​ലി​സി​നെ 'വ​ട്ടം​ക​റ​ക്കി​യ' യു​വാ​വ് പി​ടി​യി​ൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തി​രു​വ​ന​ന്ത​പു​രം: </b>വ്യാ​ജ ബോം​ബ് ഭീ​ഷ​ണി​യി​ലൂ​ടെ പൊ​ലി​സി​നെ വ​ട്ടം​ചു​റ്റി​ച്ച യു​വാ​വ് പി​ടി​യി​ൽ. സെ​ക്ര​ട്ടേ​റി​യ​റ്റി​നും ക്ലി​ഫ് ഹൗ​സി​നും ആ​ശു​പ​ത്രി​ക​ൾ​ക്കും സ്കൂ​ളു​ക​ൾ​ക്കു​മെ​തി​രെ തു​ട​ർ​ച്ച​യാ​യി വ്യാ​ജ ബോം​ബ് ഭീ​ഷ​ണി സ​ന്ദേ​ശ​ങ്ങ​ൾ അ​യ​ച്ച ത​മി​ഴ്‌​നാ​ട് സ്വ​ദേ​ശി ശ​ര​ത് സു​ബ്ര​ഹ്മ​ണ്യ​നാ​ണ് പി​ടി​യി​ലാ​യ​ത്. ത​മി​ഴ്‌​നാ​ട് ആ​ന്‍റി ടെ​റ​റി​സ്റ്റ് സ്ക്വാ​ഡ് പി​ടി​കൂ​ടി​യ പ്ര​തി​യെ ചോ​ദ്യം ചെ​യ്ത​പ്പോ​ഴാ​ണ് നി​ർ​ണാ​യ​ക വി​വ​ര​ങ്ങ​ൾ ല​ഭി​ച്ച​ത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/fake-bomb-threats-accused-arrested-203342"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "പാ​രാ ഏ​ഷ്യ​ന്‍ ഗെ​യിം​സിന്‍റെ ആദ്യദിനം ഇന്ത്യക്കു നാലു സ്വർണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന​ഗോ​യ:</b> 2026 പാ​രാ ഏ​ഷ്യ​ന്‍ ഗെ​യിം​സി​ല്‍ ഇ​ന്ത്യ​ക്കു ഗോ​ള്‍​ഡ​ന്‍ ഡേ... ​ഗെ​യിം​സി​ന്‍റെ ആ​ദ്യ​ദി​നം ഇ​ന്ത്യ നാ​ലു സ്വ​ര്‍​ണം, അ​ഞ്ചു വെ​ള്ളി, ര​ണ്ടു വെ​ങ്ക​ലം എ​ന്നി​ങ്ങ​നെ 11 മെ​ഡ​ല്‍ സ്വ​ന്ത​മാ​ക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/sports/four-gold-medals-for-india-on-the-first-day-of-the-para-asian-games-203272"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 45,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "പ​രി​ശീ​ല​ക​നോ​ട് പി​ണ​ങ്ങി ദേ​ശീ​യ ടീം ​ക്യാം​പ് വി​ട്ട സം​ഭ​വം; ക്രി​സ്റ്റ്യാ​നോ റൊ​ണാ​ള്‍​ഡോ​യ്ക്ക് ഒ​രു മാ​സം സ​സ്‌​പെ​ന്‍​ഷ​ന്‍",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ലി​സ്ബ​ൺ: പോ​ര്‍​ച്ചു​ഗ​ല്‍ സൂ​പ്പ​ർ താ​രം ക്രി​സ്റ്റ്യാ​നോ റൊ​ണാ​ള്‍​ഡോ​യ്ക്ക് ഒ​രു മാ​സ​ത്തെ സ​സ്‌​പെ​ന്‍​ഷ​ന്‍. പ​രി​ശീ​ല​ക​നോ​ട് പി​ണ​ങ്ങി ദേ​ശീ​യ ടീം ​ക്യാ​മ്പ് വി​ട്ട​തി​ലാ​ണ് ന​ട​പ​ടി. 255 യൂ​റോ പി​ഴ​യും ചു​മ​ത്തി​യി​ട്ടു​ണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/sports/the-incident-of-leaving-the-national-team-camp-following-a-fallout-with-the-coach-cristiano-ronaldo-suspended-for-one-month-203195"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "കോവളത്തെ സ്പായിലെ ലൈംഗിക ചൂഷണം: ഇളയമ്മ കുട്ടിയെ വിറ്റത് കമ്മീഷന്‍ വ്യവസ്ഥയില്‍; ഓരോ ഉപദ്രവത്തിനും കമ്മീഷനായി പണം കൈപ്പറ്റി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> കോവളത്തെ സ്പായില്‍ പ്രായപൂര്‍ത്തിയാകാത്ത പെണ്‍കുട്ടിയെ പീഡിപ്പിച്ച സംഭവം മനുഷ്യക്കടത്ത്. റിമാന്‍ഡ് റിപ്പോര്‍ട്ടിലാണ് ഇക്കാര്യം പരാമര്‍ശിക്കുന്നത്. പെണ്‍കുട്ടിയുടെ ഇളയമ്മയും ഭര്‍ത്താവും അന്തര്‍ സംസ്ഥാന റാക്കറ്റിലെ കണ്ണികളെന്നാണ് കണ്ടെത്തല്‍. പ്രതികള്‍ക്കെതിരെ മനുഷ്യകടത്തിനുള്ള വകുപ്പും ചുമത്തി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/10/20/details-of-remand-report-of-kovalam-spa-sexual-abuse-case.html#google_vignette"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "വ്യാ​ജ​മൊ​ഴി​ക്ക് നി​ർ​ബ​ന്ധി​ച്ചു; വീ​ണാ ജോ​ര്‍​ജി​നെ​തി​രെ ഡി​ജി​പി​ക്ക് പ​രാ​തി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തി​രു​വ​ന​ന്ത​പു​രം: മു​ൻ മ​ന്ത്രി വീ​ണാ ജോ​ർ​ജി​നെ​തി​രെ കേ​സ് എ​ടു​ക്ക​ണ​മെ​ന്ന് ആ​വ​ശ്യ​പ്പെ​ട്ട് കെ​എ​സ്‌​യു സം​സ്ഥാ​ന പ്ര​സി​ഡ​ന്‍റ് അ​ലോ​ഷ്യ​സ് സേ​വ്യ​ർ ഡി​ജി​പി​ക്ക് പ​രാ​തി ന​ൽ​കി. ക​ണ്ണൂ​രി​ലെ പ്ര​തി​ഷേ​ധ​വു​മാ​യി ബ​ന്ധ​പ്പെ​ട്ട് ഗ​ൺ​മാ​ൻ അ​ഭി​ലാ​ഷ് എ​സ്‌​ഐ​ടി​ക്ക് ന​ൽ​കി​യ പു​തി​യ മൊ​ഴി പു​റ​ത്തു​വ​ന്ന​തി​ന് പി​ന്നാ​ലെ​യാ​ണ് അ​ലോ​ഷ്യ​സ് പ​രാ​തി ന​ൽ​കി​യ​ത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/complaint-filed-with-dgp-against-veena-george-203345"
+    },
+
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml": "റ​വ​ന്യൂ ഭൂ​മി വി​ട്ടു​ന​ൽ​ക​ണ​മെ​ന്ന് ആ​വ​ശ്യ​പ്പെ​ട്ട് നി​വേ​ദ​നം ന​ൽ​കി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കാ​ഞ്ഞി​ര​പ്പ​ള്ളി: ചേ​ന​പ്പാ​ടി​യി​ലെ റ​വ​ന്യു ഭൂ​മി പൊ​തു​ജ​ന ഉ​പ​കാ​ര​ത്തി​നാ​യി വി​ട്ടു​ന​ൽ​ക​ണ​മെ​ന്ന് ആ​വ​ശ്യ​പ്പെ​ട്ട് റ​വ​ന്യു​മ​ന്ത്രി എ.​പി. അ​നി​ൽ​കു​മാ​റി​ന് നി​വേ​ദ​നം ന​ൽ​കി ജി​ല്ലാ പ​ഞ്ചാ​യ​ത്തം​ഗം ആ​ശാ ജോ​യി. എ​രു​മേ​ലി പ​ഞ്ചാ​യ​ത്ത് മൂ​ന്നാം വാ​ർ​ഡ് ചേ​ന​പ്പാ​ടി ത​ര​ക​നാ​ട്ടു​കു​ന്ന് പ​ള്ളി​ക്ക് സ​മീ​പ​ത്തു​ള്ള 51 സെ​ന്‍റ് റ​വ​ന്യു പു​റ​മ്പോ​ക്ക് ഭൂ​മി ജ​നോ​പ​കാ​ര​പ്ര​ദ​മാ​യ പ​ദ്ധ​തി​ക​ൾ ന​ട​പ്പാ​ക്കാ​ൻ അ​നു​വ​ദി​ക്ക​ണ​മെ​ന്നാ​വ​ശ്യ​പ്പെ​ട്ടാ​ണ് നി​വേ​ദ​നം ന​ൽ​കി​യ​ത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/district-news/submitted-a-petition-demanding-the-allotment-of-revenue-land-203333"
+    },
+
+    {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ഗഗൻയാൻ ദൗത്യം,  യാത്രാപേടകം വേർപ്പെടുത്തൽ പരീക്ഷണം വിജയം"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ഇന്ത്യയുടെ സ്വപ്ന പദ്ധതിയായ ഗഗൻയാൻ ദൗത്യത്തിൽ ഒരു നിർണായ പരീക്ഷണത്തിൽ കൂടി വിജയിച്ച് ഐ.എസ്.ആർ.ഒ. ഗഗൻയാനിലെ യാത്രാ പേടകം സർവീസ് പേടകത്തിൽ നിന്ന് വേർപ്പെടുത്തുന്ന പരീക്ഷണമാണ് വിജയിച്ചത്. ഇന്നലെ തുമ്പയിലെ വി.എസ്.എസ്.സിയിലായിരുന്നു പരീക്ഷണം. മനുഷ്യനെ ബഹിരാകാശത്ത് എത്തിക്കുന്ന ഇന്ത്യയുടെ ദൗത്യമാണ് ഗഗൻയാൻ. ഇതിന് മുന്നോടിയായി ഗഗൻയാൻ പേടകത്തിന്റെ ആളില്ലാ പരീക്ഷണ വിക്ഷേപണം രണ്ടുമാസത്തിനുളളിൽ നടത്താനിരിക്കെയാണ് ഈ പരീക്ഷണം നടത്തിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/a-1815968"
+    },
+    {
+      "id": "82",
+      "type": "news",
+      "order": 27,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ഡി.ആർ.ഡി.ഒ പരീക്ഷണം വിജയം,  ആയുധരഹസ്യങ്ങൾക്ക്   ഇനി ക്വാണ്ടം കവചം"
+      },
+      "summary": {
+        "ml": ",b>ന്യൂഡൽഹി: </b>ആയുധ പരീക്ഷണങ്ങളുമായി ബന്ധപ്പെട്ട രഹസ്യവിവരങ്ങൾക്ക് ഇനി ക്വാണ്ടം കവചത്തിന്റെ കരുത്ത്. വിവരങ്ങൾ ശത്രുക്കൾ ചോർത്താതിരിക്കാൻ ക്വാണ്ടം സാങ്കേതികവിദ്യ ഉപയോഗിച്ചുനിർമ്മിച്ച സുരക്ഷാസംവിധാനത്തിന്റെ നിർണായക പരീക്ഷണം ഒഡീഷയിലെ ചാന്ദിപുരിൽ വിജയകരമായി പൂർത്തിയാക്കി. ഡി.ആർ.ഡി.ഒയും ബംഗളൂരു ആസ്ഥാനമായുള്ള ടാക്ബിറ്റ് ലാബ്സ് എന്ന കമ്പനിയും ചേർന്നാണ് ക്വാണ്ടം കീ ഡിസ്ട്രിബ്യൂഷൻ (ക്യു.കെ.ഡി) എന്ന ആശയവിനിമയ സംവിധാനം വികസിപ്പിച്ചത്. ​ യുദ്ധോപകരണങ്ങളുടെയുൾപ്പെടെ പരീക്ഷണവേളയിൽ ശേഖരിക്കുന്ന വിവരങ്ങൾ സുരക്ഷിതമായി കൈമാറാനും സൈനിക ആശയവിനിമയങ്ങളുടെ സുരക്ഷ ശക്തിപ്പെടുത്താനും ഈ സംവിധാനത്തിലൂടെ കഴിയും. പരീക്ഷണഫലങ്ങൾ, ആയുധങ്ങളുടെ പ്രവർത്തനക്ഷമത, സെൻസറുകൾ നൽകുന്ന വിവരങ്ങൾ എന്നിവ മൂന്നാമതൊരാളിലേക്കെത്തില്ല. സൈബർ ഭീഷണികളെ ചെറുക്കാനാകും. ",
+        "en": ""
+      },
+      "image": " images/news04.jpg",
+      "link": "https://keralakaumudi.com/news-360/national/national-1816005"
+    },
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "Central Processing Unit (CPU) <br>Key Internal Components<br>Modern CPUs contain several specialized hardware units to carry out tasks efficiently:",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ol><li><b>Arithmetic Logic Unit (ALU):</b> Performs basic arithmetic operations (addition, subtraction) and logical decisions (AND, OR, binary comparisons).</li><li><b>Control Unit (CU):</b> Directs operations by retrieving and decoding instructions, managing data flow between the ALU, registers, and other components.</li><li><b>Registers:</b> Ultra-fast, microscopic internal memory locations that store data currently actively being processed.</li><li><b>Cache Memory (L1, L2, L3):</b> High-speed memory directly on the processor chip designed to store frequently used data, bridging the speed gap between the fast CPU and slower system RAM.</li></ol> <br> Continued......."
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    {
+      "id": "11",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'രാഹുൽ ഗാന്ധിയെ എന്തെങ്കിലും പറഞ്ഞാൽ അത് ക്രിമിനൽ കുറ്റം'; തനിക്കെതിരെ കേസെടുത്തതിൽ വിമർശനവുമായി ശ്രീലേഖ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "ലോക്‌സഭാ പ്രതിപക്ഷനേതാവ് രാഹുൽ ഗാന്ധിക്കെതിരെ അധിക്ഷേപ പരാമർശം നടത്തിയെന്ന പരാതിയിൽ കേസെടുത്തതിൽ വിമർശനവുമായി ബി.ജെ.പി സംസ്ഥാന വൈസ് പ്രസിഡന്റും ശാസ്‌തമംഗലം കൗൺസിലറും റിട്ട. ഡി.ജി.പിയുമായ ആർ.ശ്രീലേഖ. സർക്കാരിന്റേത് ഇരട്ട നീതിയാണെന്ന് ശ്രീലേഖ ആരോപിച്ചു. ഫേസ്ബുക്ക് കുറിപ്പിലൂടെയാണ് വിമർശനം ഉന്നയിച്ചത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/social-media/r-sreelekha-against-defamation-case-1816043"
+    },
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :74,729.27<span style='color:green;'> +413.66  (▲ +0.56%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 223,146.15  <span style='color:green;'> +148.80(▲ +0.65%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:RED;'> ₹13,535 🔼 ₹ +20   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:red;'>₹240 ( ₹) </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "950",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "ന്യൂസ്",
+        "en": "news"
+      },
+      "title": {
+        "ml": "<b>📰</b> പ്രമുഖ പത്രങ്ങളിലൂടെ..................",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ul><li><a href='https://keralakaumudi.com/' target='_blank'>കേരള കൌമുദി</a> </li><li> <a href='https://www.mathrubhumi.com/' target='_blank'>മാതൃഭൂമി</a> </li><li> <a href='https://www.deepika.com/' target='_blank'>ദീപിക</a></li><li> <a href='<li> <a href='https://www.deepika.com/' target='_blank'>ദീപിക</a><li><a href='https://www.manoramaonline.com/' target='_blank'>മലയാള മനോരമ</a></li></ul><br>🌐 Web Sites.<br><ul><li><a href='https://www.reporterlive.com/' target='_blank'> റിപ്പോര്‍ട്ടര്‍ ടി.വി.</a> </li><li><a href='https://www.asianetnews.com/' target='_blank'> ഏഷ്യനെറ്റ് ന്യൂസ് </a> </li><li><a href='https://www.twentyfournews.com/' target='_blank'> ട്വിന്‍റി ഫോര്‍ ന്യൂസ് </a> </li></ul>",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "951",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "title": {
+        "ml": "സംസ്ഥാനത്ത് വരുന്ന അഞ്ച് ദിവസം മഴ ശക്തമാകും; ഇന്ന് ആറ് ജില്ലകളിൽ യെല്ലോ അലർട്ട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം: </b>സംസ്ഥാനത്ത് ഇന്നും ശക്തമായ മഴയ്‌ക്ക് സാദ്ധ്യതയെന്ന് കേന്ദ്ര കാലാവസ്ഥാ വകുപ്പ്. ലക്ഷദ്വീപിനും തമിഴ്‌നാടിനും മുകളിലായി സ്ഥിതിചെയ്യുന്ന ചക്രവാതച്ചുഴിയുടെ സ്വാധീനമാണ് മഴയ്‌ക്ക് കാരണം. വരുന്ന അഞ്ച് ദിവസവും കേരളത്തിൽ മഴയ്‌ക്ക് സാദ്ധ്യതയെന്നാണ് പ്രവചനം. ഒറ്റപ്പെട്ട ഇടങ്ങളിൽ ശക്തമായ കാറ്റിനും ഇടിമിന്നലോടുകൂടിയ മഴയ്ക്കും സാദ്ധ്യതയുണ്ടെന്നും മുന്നറിയിപ്പുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/kerala-heavy-rain-alert-yellow-alert-1816041"
+    },
+
+    {
+      "id": "906",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സുര്യനു കീഴില്‍ ഏതൊരു ഓണ്‍ലൈന്‍ സേവനങ്ങള്‍ക്കും.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "ഞങ്ങളെ ബന്ധപ്പെടുക. Experienced Professionals since 1986.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/anyservices.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

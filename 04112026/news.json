@@ -1,0 +1,1063 @@
+{
+  "settings": {
+    "publicationDate": "2026-11-04",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "തുലാം 18, 1202",
+      "en": "Thulam 18, 1202"
+    },
+    "hijriDate": {
+      "ml": "24 ജമാദുൽ അവ്വൽ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 498,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "news",
+        "category": "ന്യൂസ്"
+      },
+
+      {
+        "id": "weather",
+        "category": "കാലാവസ്ഥ"
+      },
+
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "gret",
+        "category": "ആശംസകള്‍"
+      },
+
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "<b>Embrace the step:</b> You do not have to figure out your entire life today. Just take one honest, steady step forward.",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+        "label": {
+        "ml": "വാര്‍ത്ത ഉറവിടം",
+        "en": "news"
+      },
+      "link": "#news"
+    },
+    
+     {
+        "label": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "link": "#weather"
+    },
+ 
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "ആശംസകള്‍",
+        "en": "Greetings"
+      },
+      "link": "#gret"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "ആ രാത്രി നടന്നത് ലോകത്തെ ഞെട്ടിക്കും ആക്രമണം! ഇത് ഭക്ഷണ നെറ്റ്‌വർക്കിനെ വിറപ്പിച്ച വൻ അട്ടിമറി; ഈ ലോകത്ത് ആരും സുരക്ഷിതരല്ലെന്ന് മുന്നറിയിപ്പും",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "അഗ്നിവീറുകളുടെ സേവനകാലാവധി ആറ് വർഷമായി ഉയർത്തി: നിർണായക പ്രഖ്യാപനവുമായി കേന്ദ്രം",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി: </b>അഗ്നിപഥ് പദ്ധതിക്ക് കീഴിൽ സേവനമനുഷ്ഠിക്കുന്ന അഗ്നിവീറുകളുടെ കരാർ കാലാവധി നാലുവർഷത്തിൽനിന്ന് ആറുവർഷമായി ഉയർത്തി.&nbsp;'സെക്കൻഡ് ടൂർ ഓഫ് ഡ്യൂട്ടി' എന്ന് വിളിക്കപ്പെടുന്ന ഭേദഗതി നിർദേശം അംഗീകരിച്ചാണ് കേന്ദ്രസർക്കാരിന്റെ നിർണായക നീക്കം. ഇതുപ്രകാരം&nbsp;ആറുവർഷത്തെ സേവനത്തിനുശേഷം യോഗ്യരും താല്പര്യമുള്ളവരുമായ അഗ്നിവീറുകളെ സ്ഥിരപ്പെടുത്താൻ വ്യവസ്ഥയുണ്ടാകും. ആദ്യ ബാച്ച് അഗ്നിവീറുകളുടെ നാലുവർഷത്തെ കരാർ പൂർത്തിയാകുന്ന പശ്ചാത്തലത്തിലാണ് പ്രഖ്യാപനം വന്നിരിക്കുന്നത്. സംയുക്ത സേനാമേധാവി എൻ.എസ് രാജാ സുബ്രമണിയാണ് ഇതുസംബന്ധിച്ച പ്രഖ്യാപനം നടത്തിയത്.&nbsp;",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.manoramaonline.com/district-news/kottayam/2026/11/03/pc-george-childhood-memories-interview.html"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "Today 4th  November 2026",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ol><li><b>National Stress Awareness Day </b> Promotes stress management and mental well-being.</li><li><b>National Candy Day</b> A fun celebration observed in the USA.</li><li><b>National Chicken Lady Day </b> Celebrated in the USA.</li></ol>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1957-002A"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സർക്കാരിന് കനത്ത തിരിച്ചടി; മിൽമ തിരുവനന്തപുരം യൂണിയൻ പിരിച്ചുവിട്ട നടപടി ഹൈക്കോടതി റദ്ദാക്കി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<bകൊച്ചി:</b> മിൽമ തിരുവനന്തപുരം യൂണിയൻ പിരിച്ചുവിട്ട സംസ്ഥാന സർക്കാരിന്റെ നടപടി ഹൈക്കോടതി റദ്ദാക്കി. പിരിച്ചുവിട്ട തിരുവനന്തപുരം യൂണിയൻ പുനഃസ്ഥാപിക്കാൻ ഹൈക്കോടതി ഉത്തരവിട്ടു. കൃത്യമായ നടപടിക്രമങ്ങൾ പാലിക്കാതെയാണ് യൂണിയൻ പിരിച്ചുവിട്ടത് എന്ന് ചൂണ്ടിക്കാണിച്ചാണ് ഹൈക്കോടതിയുടെ ഇടപെടൽ. മിൽമയിലെ ഭരണ യൂണിയനുകൾ പിടിച്ചെടുക്കാൻ ലക്ഷ്യമിട്ട് സർക്കാർ നടത്തിയ നീക്കങ്ങൾക്കേറ്റ വലിയ തിരിച്ചടിയായാണ് കോടതിയുടെ ഇടപെടൽ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/hc-cancels-govt-order-dissolving-milma-tvm-union-udvw0lhv"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "എല്ലാവിധ ഓൺ സേവനങ്ങൾ വിരൽ തുമ്പിൽ ലഭ്യമാക്കുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt2.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "35",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "രാജസ്ഥാനിൽ പാക് അതിർത്തിക്ക് സമീപം റെയിൽവേ പാളത്തിൽ ഉഗ്രസ്‌ഫോടനം; ട്രെയിനുകൾ റദ്ദാക്കി, അന്വേഷണം തുടങ്ങി എടിഎസ്"
+      },
+      "summary": {
+        "ml": "<b>ശ്രീഗംഗാനഗർ:</b> രാജസ്ഥാനിൽ പാകിസ്താൻ അതിർത്തിക്ക് സമീപം റെയിൽവേ പാളത്തിൽ ഉഗ്രസ്‌ഫോടനം. ശ്രീഗംഗാനഗർ ജില്ലയിലെ അനൂപ്ഗഢ്-സൂറത്ത്ഗഢ് റെയിൽവേ പാതയിലാണ് സ്‌ഫോടനമുണ്ടായത്. സംഭവത്തിൽ റെയിൽവേ ട്രാക്കിന് കേടുപാടുകൾ സംഭവിച്ചു. ഇതേത്തുടർന്ന് അനൂപ്ഗഢിനും സൂറത്ത്ഗഢിനും ഇടയിലുള്ള ട്രെയിൻ സർവീസുകൾ റദ്ദാക്കി. സംഭവത്തിൽ ഭീകരാക്രമണ സാധ്യത ഉൾപ്പെടെയുള്ള കാര്യങ്ങൾ പരിശോധിക്കാൻ തീവ്രവാദ വിരുദ്ധ സേനയായ എടിഎസ് അന്വേഷണം ആരംഭിച്ചു.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.mathrubhumi.com/news/india/blast-hits-railway-track-near-pak-border-in-rajasthan-fme4dri9"
+    },
+     {
+      "id": "36",
+      "type": "news",
+      "order": 40,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "രാജ്യത്തെ ജനനനിരക്ക് കുറയുന്നു, രണ്ടിൽകൂടുതൽ കുട്ടികളുള്ളവരെ തിരഞ്ഞെടുപ്പിൽ വിലക്കുന്നതിൽ പ്രസക്തിയില്ല-സുപ്രീംകോടതി"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> ഇന്ത്യയിലെ ജനനനിരക്ക് കുറഞ്ഞുവരുന്ന സാഹചര്യത്തിൽ, രണ്ടിലധികം കുട്ടികളുള്ളവരെ തദ്ദേശ സ്വയംഭരണ തിരഞ്ഞെടുപ്പുകളിൽ മത്സരിക്കുന്നതിൽ നിന്ന് അയോഗ്യരാക്കുന്ന നിയമങ്ങളുടെ പ്രസക്തി നഷ്ടപ്പെട്ടുവെന്ന് സുപ്രീം കോടതി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/india/supreme-court-two-child-limit-local-elections-relevance-lost-rhx65wvc"
+    },
+   
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ടയർ പൊട്ടിയ കാറുമായി ഓടിയത് എട്ടുകിലോമീറ്റർ; നിരവധി വാഹനങ്ങൾ ഇടിച്ചുതെറിപ്പിച്ച് യുവാവിന്റെ പരാക്രമം, പിടികൂടി നാട്ടുകാർ"
+      },
+      "summary": {
+        "ml": "<b>ചങ്ങനാശ്ശേരി:</b> ടയർപൊട്ടിയ കാറുമായി എട്ടുകിലോമീറ്റർ പരാക്രമം നടത്തിയ യുവാവിനെ നാട്ടുകാർ പിടികൂടി. അതിസാഹസികമായാണ് കാർ ഓടിച്ചയാളെ നാട്ടുകാർ പിടികൂടിയത്. രാത്രി 7.30-ഓടെ തെങ്ങണ കണ്ണവട്ടയിലായിരുന്നു സംഭവം. പായിപ്പാട് വെള്ളാപ്പള്ളി മുതൽ ചാഞ്ഞോടി, മാടപ്പള്ളി, പെരുമ്പനച്ചി, തെങ്ങണ വഴി കണ്ണവട്ടവരെ എട്ടുകിലോമീറ്റർ ദൂരത്തിൽ ഒട്ടേറെ വാഹനങ്ങളെ ഇടിച്ചുതെറിപ്പിച്ചാണ് ടയർപൊട്ടിയ കാർ കടന്നുപോയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/youth-drives-car-with-flat-tyre-for-8-km-hits-vehicles-y1c7q0a6"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "വർക്കലയിൽ വറ്റ മീൻ കഴിച്ച് ആശുപത്രിയിലായ യുവാവ് മരിച്ചു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> വറ്റ മത്സ്യം കഴിച്ച് ദേഹാസ്വാസ്ഥ്യം അനുഭവപ്പെട്ട് ചികിത്സയിലായിരുന്ന വർക്കല സ്വദേശി മരിച്ചു. ചിലക്കൂർ ഗ്രാലികുന്ന് തൈക്കാവിൽ വീട്ടിൽ സുധീർ (40) ആണ് മരിച്ചത്. ഭക്ഷ്യവിഷബാധ ആണെന്നാണ് ലഭിക്കുന്ന വിവരം. മത്സ്യത്തൊഴിലാളി കൂടിയാണ് സുധീർ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/varkala-man-dies-after-eating-stale-fish-1822497"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 39,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മുഖ്യമന്ത്രി ഒരേകാര്യം ആവർത്തിക്കുന്നു, അനുപാതം കുറക്കണം എന്ന ആവശ്യത്തിൽനിന്ന് പിന്നോട്ടില്ലെന്ന് വളർമതി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മുഖ്യമന്ത്രി വി.ഡി. സതീശൻ ഒരേകാര്യം ആവർത്തിക്കുകയാണെന്ന് എൽസിഎസ്ടി ഉദ്യോ​ഗാർഥികളുടെ സമര നേതാവായ വളർമതി. 1:25 റേഷ്യോ അംഗീകരിക്കാനാവില്ല എന്ന് മുഖ്യമന്ത്രി പറയുന്നു. സാമ്പത്തിക ബാധ്യതയില്ലാത്ത അഞ്ച് കാര്യങ്ങളാണ് ചർച്ചയിൽ മുന്നോട്ട് വെച്ചത്. സംസ്ഥാനത്തെ എല്ലാ സ്കൂളുകളിലും അധ്യാപക-വിദ്യാ റേഷ്യോ കുറച്ച് നടപ്പിലാക്കണം. സർക്കാരിന്റെ കർത്തവ്യമാണതെന്നും വളർമതി ആവശ്യപ്പെട്ടു. എനിക്കെതിരെ മൂന്ന് കേസാണ് സർക്കാർ എടുത്തത്. റേഷ്യോ കുറക്കണം എന്ന ആവശ്യത്തിൽ നിന്ന് പിന്നോട്ടില്ല, നാല് ആവശ്യങ്ങൾ അംഗീകരിച്ചു എന്ന് പറയുമ്പോഴും അതിന്റെ ഉത്തരവ് ഇല്ലെന്നും വളർമതി പറഞ്ഞു. സാമ്പത്തിക ബാധ്യതയുടെ പേര് പറഞ്ഞ് സർക്കാർ തഴയുന്നു. ഡിവിഷൻ ഫാൾ വരുന്ന സ്കൂളുകളിൽ എങ്കിലും റേഷ്യോ കുറക്കണമെന്നും വളർമതി ആവശ്യപ്പെട്ടു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/the-chief-minister-keeps-repeating-the-same-point-says-valarmathi-on-lpst-protest-articleshow-tu8dg8a"
+    },
+
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "അവിടം കുടികിടപ്പാക്കരുത്; പ്രതിഷേധക്കാർ വേറെയുമുണ്ട്: സമരവേദി സംബന്ധിച്ച് സുപ്രീം കോടതി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി ∙</b> സമരവേദി ഒരുകൂട്ടർക്കുതന്നെ എന്നേക്കുമായി കൈവശപ്പെടുത്താനാകില്ലെന്ന് സുപ്രീം കോടതി. വ്യാപാരികളും തൊഴിലാളികളും ഉൾപ്പെടെ ദൈനംദിന വരുമാനത്തെ ആശ്രയിച്ചുകഴിയുന്നവരുടെ ഉപജീവനം കൂടി പരിഗണിക്കണമെന്നും ചീഫ് ജസ്റ്റിസ് സൂര്യകാന്ത് അധ്യക്ഷനായ ബെഞ്ച് പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/04/supreme-court-protest-venue-verdict.html"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "വോട്ടർപട്ടികയിൽനിന്ന് ഒഴിവാക്കപ്പെട്ടവർക്കും ‘ഫോം 6’ നൽകാം: വിശദീകരണവുമായി തിരഞ്ഞെടുപ്പ് കമ്മിഷൻ"},
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി ∙</b> സമഗ്ര പരിഷ്കരണത്തിനു (എസ്ഐആർ) ശേഷം പ്രസിദ്ധീകരിച്ച വോട്ടർ പട്ടികയിൽ നിന്ന് ഒഴിവാക്കപ്പെട്ട, നേരത്തേ പേരുണ്ടായിരുന്നവർക്ക് വീണ്ടും ചേരാൻ ‘ഫോം 6’ നൽകാമെന്നു കേന്ദ്ര തിരഞ്ഞെടുപ്പു കമ്മിഷന്റെ വിശദീകരണം. പട്ടികയിൽ നിന്നു നീക്കം ചെയ്യപ്പെട്ടവർക്കിടയിലെ ആശങ്കയും ആശയക്കുഴപ്പവും പരിഹരിക്കുകയെന്ന ലക്ഷ്യത്തോടെയാണു നടപടി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/04/form-6-for-deleted-voters-list.html"
+    },
+    {
+      "id": "33",
+      "type": "ഇന്ത്യ",
+      "order": 10,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "കേന്ദ്രത്തിന്റെ പുതിയ നീക്കം പ്രവാസികൾക്ക് തിരിച്ചടിയാകുന്നു; നിയമം ജനുവരി ഒന്നുമുതൽ പ്രാബല്യത്തിൽ"},
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> വാട്‌സ്ആപ് ഉൾപ്പെടെയുള്ള മെസേജിംഗ് ആപ്പുകൾക്ക് സിം-ബൈൻഡിംഗ് നിർബന്ധമാക്കാനുള്ള കേന്ദ്രസർക്കാർ നീക്കം വിദേശയാത്രക്കാർക്കും ബിസിനസ് സ്ഥാപനങ്ങൾക്കും തിരിച്ചടിയാകുമെന്ന് റിപ്പോർട്ട്. 2027 ജനുവരി ഒന്നുമുതലാണ് പുതിയ നിയമം നിലവിൽ വരുന്നത്.",
+        "en": ""
+      },
+      "image": " ",
+      "link": "https://keralakaumudi.com/news-360/national/whatsapp-sim-binding-rule-2027-impact-on-international-travellers-businesses-1822477"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "world"
+      },
+      "title": {
+        "ml": "'റിപ്പബ്ലിക്കൻ പാർട്ടിക്ക് കനത്ത തിരിച്ചടി നൽകി അമേരിക്കൻ ജനത; ഇടക്കാല തെരഞ്ഞെടുപ്പില്‍ ഡമോക്രാറ്റുകൾ മിന്നും ജയം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വാഷിംഗ്ടൺ:</b> അമേരിക്കൻ ഇടക്കാല തെരഞ്ഞെടുപ്പില്‍ റിപ്പബ്ലിക്കൻ പാർട്ടിക്ക് കനത്ത തിരിച്ചടി നൽകി അമേരിക്കൻ ജനത. യുഎസ് കോൺഗ്രസിന്‍റെ ഇരു സഭകളിലും ട്രംപിന്‍റെ റിപ്പബ്ലിക്കൻ പാർട്ടിക്ക് ഭൂരിപക്ഷം നഷ്ടമായി. മൂന്നു പതിറ്റാണ്ടിനിടയിലെ ഏറ്റവും വലിയ വിജയം ആണ് ഡമോക്രാറ്റുകൾ നേടിയത്. ട്രംപിന്‍റെ വിശ്വസ്തനായ ഇന്ത്യൻ വംശജൻ വിവേക് രാമസ്വാമി അടക്കം റിപ്പബ്ലിക്കൻ പാർട്ടിയിലെ ഒട്ടേറെ പ്രമുഖർ കനത്ത പരാജയം ഏറ്റുവാങ്ങി. ഡോണൾഡ് ട്രംപിന്‍റെ ഭരണശൈലിക്ക് അമേരിക്കൻ ജനത ബാലറ്റിലൂടെ നൽകിയത് കനത്ത തിരിച്ചടിയായാണ് ഈ തിരഞ്ഞെടുപ്പ് ഫലം വിലയിരുത്തപ്പെടുന്നത്. യുഎസ് സെനറ്റിലും ജനപ്രതിനിധിസഭയിലും ഇനി ഡെമോക്രാറ്റിക് പാർട്ടിയുടെ ആധിപത്യമായിരിക്കും. ടെക്സസ്, കാൻസസ്, സൗത്ത് കരോലിന, ഒഹായോ, നോർത്ത് കരോലിന, ഐയോവ എന്നീ പരമ്പരാഗത ശക്തി കേന്ദ്രങ്ങൾ ട്രംപിന്‍റെ റിപ്പബ്ലിക്കൻപാർട്ടിക്ക് നഷ്ടമായി. ഇവിടെയെല്ലാം ഡെമോക്രാറ്റുകൾ നേടിയത് ചരിത്ര വിജയമാണ്. ഭൂരിപക്ഷത്തിന് 218 സീറ്റു വേണ്ട ജനപ്രതിനിധി സഭയിലും ഡമോക്രാറ്റുകൾ നേടിയത് മിന്നും ജയം നേടി. 36 സംസ്ഥാനങ്ങളിലെ ഗവർണർ തെരഞ്ഞെടുപ്പിലും ഡെമോക്രാറ്റ് പടയോട്ടത്തിനാണ് അമേരിക്ക സാക്ഷ്യം വഹിച്ചത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/international-news/us-midterm-elections-democrats-make-strong-early-gains-articleshow-rfymsf2"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "title": {
+        "ml": "ന്യൂനമർദ്ദവും ചക്രവാതച്ചുഴിയും; കേരളത്തിൽ മഴ കനക്കുന്നു, തിരുവനന്തപുരത്ത്  ഓറഞ്ച് അലർട്ട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "തിരുവനന്തപുരം: കേരളത്തിൽ അടുത്ത അഞ്ചുദിവസം മഴയ്ക്ക് സാദ്ധ്യതയുണ്ടെന്ന് കേന്ദ്ര കാലാവസ്ഥാ വകുപ്പ്. തെലങ്കാനയുടെ കിഴക്കൻ മേഖലക്കും തീരദേശ ആന്ധ്രാപ്രദേശിനും മുകളിൽ തീവ്ര ന്യൂനമർദ്ദം സ്ഥിതി ചെയ്യുന്നു. ഇത്",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/kerala-rain-aler-1822481"
+    },
+    {
+      "id": "9",
+      "type": "news",
+      "order": 28,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'ഞാൻ അല്ല അവനെ വിളിച്ചു വരുത്തി കൊന്നത്'; അഭിരാം കൊലയിൽ പെൺകുട്ടിയുടെ ഇൻസ്റ്റഗ്രാം പോസ്റ്റും അന്വേഷിക്കും, കൂടുതൽ പേർക്ക് പങ്ക്?",
+         "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം∙</b> പ്ലസ് വൺ വിദ്യാർഥി എ.ഡി.അഭിരാമിനെ കൊലപ്പെടുത്തി ചാക്കിൽക്കെട്ടി തള്ളിയ കേസിൽ കൂടുതൽ പേർക്ക് പങ്കുണ്ടോ എന്ന അന്വേഷണവുമായി പൊലീസ്. അഭിരാം കൊല്ലപ്പെട്ടതിനു പിന്നാലെ സുഹൃത്തായ ഒരു പെൺകുട്ടി ഇൻസ്റ്റഗ്രാമിൽ ഇട്ട ഒരു കുറിപ്പും കൊലപാതകത്തിനു തൊട്ടുതലേന്ന് അഭിരാമും മറ്റുചിലരുമായി ഉണ്ടായ വാക്കേറ്റത്തിന്റെ വിഡിയോയും കേന്ദ്രീകരിച്ചാണ് അന്വേഷണം നടക്കുന്നത്. അഭിരാമിന്റെ മൃതദേഹം കണ്ടെത്തിയതിനു പിന്നാലെയാണ് സുഹൃത്തായ പെൺകുട്ടി ഇൻസ്റ്റഗ്രാം പോസ്റ്റിട്ടത്. തനിക്ക് കേസിൽ പങ്കില്ലെന്നാണ് പോസ്റ്റിൽ പറഞ്ഞിരുന്നത്. ഇൻസ്റ്റഗ്രാം അക്കൗണ്ട് പിന്നീട് ഡിലീറ്റാക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/04/abhiram-murder-case-thiruvananthapuram-investigation-instagram-post.html"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "അർധനഗ്നനായി യുവ ഇന്ത്യൻ ക്രിക്കറ്റ് താരം, യുവതിയോട് നഗ്നചിത്രം ആവശ്യപ്പെട്ട് ചാറ്റ്; പിന്നാലെ ചർച്ചകളിൽ നിറഞ്ഞ് കാമുകിയും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മുംബൈ ∙</b> യുവ ഇന്ത്യൻ ക്രിക്കറ്റ് താരം ഗുർനൂർ ബ്രാർ വിവാദത്തിൽ. താരത്തിന്റേതാണെന്ന തരത്തിൽ അർധനഗ്നചിത്രം സമൂഹമാധ്യമങ്ങളിൽ പ്രചരിച്ചതാണ് വിവാദത്തിന് തിരികൊളുത്തിയത്. ശുചിമുറിയിൽ ബാത്ത്റൂം ടവൽ മാത്രം ധരിച്ച് കണ്ണാടിക്ക് മുന്നിൽ നിൽക്കുന്ന സെൽഫി ചിത്രമാണ് സ്‌നാപ്ചാറ്റിലൂടെ പുറത്തുവന്നത്. സ്വന്തം അർധനഗ്നചിത്രം സ്‌നാപ്ചാറ്റിലൂടെ പങ്കുവച്ചതിനൊപ്പം, ചില പെൺകുട്ടികളോട് അവരുടെ നഗ്നചിത്രങ്ങൾ അയച്ചുനൽകാനും താരം ആവശ്യപ്പെട്ടെന്ന തരത്തിലുള്ള പ്രചാരണങ്ങളും സമൂഹമാധ്യമങ്ങളിൽ നടക്കുന്നുണ്ട്. ഇതുമായി ബന്ധപ്പെട്ട ചാറ്റുകളുടെ സ്‌ക്രീൻഷോട്ടുകളും ഇപ്പോൾ വ്യാപകമായി പ്രചരിക്കുകയാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/11/03/india-pacer-gurnoor-brar-private-chats-leaked-photo-images-social-media.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 45,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "‘സിക്സടിച്ച് സെഞ്ചറി തികച്ചു, ഡഗ്ഔട്ടിലേക്ക് നോക്കി ‘ഫ്ലയിങ് കിസ്’, 162 പന്തിൽ 155 റൺസുമായി പുറത്താകാതെനിന്ന് ജയ്സ്വാൾ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ക്രൈസ്റ്റ്ചർച്ച്∙</b> അപരാജിത സെഞ്ചറിയുമായി ന്യൂസീലൻഡിനെതിരായ ടെസ്റ്റ് പരമ്പരയ്ക്കൊരുങ്ങി ഇന്ത്യന്‍ യുവതാരം യശസ്വി ജയ്സ്വാൾ. ക്രൈസ്റ്റ്ചർച്ചിൽ നടന്ന രണ്ടാം അനൗദ്യോഗിക ടെസ്റ്റ് സമനിലയിലായെങ്കിലും സെഞ്ചറി നേടിയ യശസ്വി ജയ്സ്വാൾ പുറത്താകാതെനിന്നു. രണ്ടാം ഇന്നിങ്സിൽ 162 പന്തുകൾ നേരിട്ട ജയ്സ്വാൾ 155 റൺസെടുത്താണ് തകർപ്പൻ ബാറ്റിങ് പ്രകടനം നടത്തിയത്. അഞ്ച് സിക്സുകളും 15 ഫോറുകളും താരം ബൗണ്ടറി കടത്തി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/11/03/yashasvi-jaiswal-century-india-a-vs-new-zealand-a-match-report.html"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "പത്താം ക്ലാസ് വിദ്യാർത്ഥിയുടെ മരണത്തിൽ ദുരൂഹതയെന്ന് ബന്ധുക്കൾ, അധ്യാപകൻ മണിക്കൂറുകളോളം പൂട്ടിയിട്ടെന്ന് ആരോപണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കാസർകോട്:</b> അഴിത്തലയിലെ പത്താം ക്ലാസ് വിദ്യാർത്ഥിയുടെ മരണത്തിൽ ദുരൂഹത ആരോപിച്ച് ബന്ധുക്കൾ. നീരജ് എന്ന 15-കാരന്‍റെ ആത്മഹത്യയിൽ ബാഹ്യ സമ്മർദ്ദം ഉണ്ടായിട്ടുണ്ടെന്ന് ബന്ധുക്കൾ പറയുന്നു. മരിച്ച ദിവസം ആരോ ഫോൺ വിളിച്ച് നീരജിനെ വീട്ടിൽ നിന്ന് ഇറക്കിയിരുന്നെന്നും പിന്നീട് മടങ്ങി എത്തുമ്പോൾ വലിയ മാനസിക സമ്മർദ്ദം ഉണ്ടായിരുന്നുവെന്നു സുഹൃത്ത് പറഞ്ഞതായും ബന്ധുക്കൾ വെളിപ്പെടുത്തി. നടന്നു വരുന്നത് കണ്ട് സുഹൃത്ത് വണ്ടിയിൽ കയറുന്നോ എന്ന് ചോദിച്ചപ്പോൾ ഒന്നും മിണ്ടാതെ തല താഴോട്ടാക്കി നടന്നു പോയി എന്നും സുഹൃത്ത് ബന്ധുക്കളോട് പറഞ്ഞു.വീട്ടിൽ മടങ്ങിയെത്തിയതിന് ശേഷമാണ് ജീവനൊടുക്കിയത്. ഒരു പെൺകുട്ടിയുമായി അടുപ്പമുള്ളതിന്‍റെ പേരിൽ സ്കൂളിൽ നിന്നും സമ്മർദ്ദമുണ്ടായിരുന്നു. ഒരു അധ്യാപകൻ മണിക്കൂറുകളോളം സ്റ്റോർ റൂമിൽ പൂട്ടിയിട്ടു എന്ന് സഹോദരനോട്‌ നീരജ് പറഞ്ഞിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/neeraj-suicide-case-family-alleges-teacher-locked-student-in-storeroom-articleshow-gvglcdb"
+    },
+
+    {
+      "id": "72",
+      "type": "news",
+      "order": 37,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "ബെം​ഗളൂരുവിൽ മലയാളി യുവാവിനെ അടിച്ചു കൊന്നു: കൊലപ്പെടുത്തിയത് പെൺസുഹൃത്തിന്റെ അച്ഛൻ, കൊല്ലപ്പെട്ടത് പാലക്കാട് സ്വദേശി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ബെം​ഗളൂരു:</b> ബെം​ഗളൂരുവിൽ മലയാളി യുവാവിനെ അടിച്ചു കൊന്നു. പാലക്കാട് തിരുവേ​ഗപ്പുറം സ്വദേശി കിരണാണ് കൊല്ലപ്പെട്ടത്. പെൺസുഹൃത്തിന്റെ അച്ഛനാണ് കൊലപാതകം നടത്തിയത്. ബെം​ഗളൂരു യെലഹങ്കള്ളിയിൽ നിന്നാണ് വാർത്ത പുറത്തുവരുന്നത്. ഇന്നലെ രാത്രിയാണ് സംഭവം. പാലക്കാട് പട്ടാമ്പിക്കടുത്ത് തിരുവേ​ഗപ്പുറം സ്വദേശിയായ കിരൺ എന്ന 22കാരനാണ് കൊല്ലപ്പെട്ടത്. കിരണിന്റെ തൊഴിലുടമ കൂടിയായ ആനന്ദ് സംഭവത്തിൽ അറസ്റ്റിലായിട്ടുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/crime-news/malayali-youth-beaten-to-death-in-bengaluru-articleshow-q82cgz0"
+    },
+
+
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പാർട്ടി പ്രവർത്തകരെ വിളിച്ചു വരുത്തി വിരലടയാളം അടക്കമുള്ള സ്വകാര്യ വിവരം ശേഖരിക്കുന്നു; കണ്ണൂരിൽ പൊലീസിനെതിരെ സിപിഎം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കണ്ണൂർ:</b> കണ്ണൂരിൽ പൊലീസിന് എതിരെ ആരോപണവുമായി സിപിഎം ജില്ലാ നേതൃത്വം. രാഷ്ട്രീയ സംഘർഷത്തിന്റെ പേരിൽ പൊലീസ് പാർട്ടി പ്രവർത്തകരെ വിളിച്ചു വരുത്തി വിരലടയാളം അടക്കമുള്ള സ്വകാര്യ വിവരം ശേഖരിക്കുന്നുവെന്ന് സിപിഎം ആരോപിച്ചു. ശ്രീകണ്ഠപുരത്തെ സിപിഎം കോൺഗ്രസ്‌ സംഘർഷവുമായി ബന്ധപ്പെട്ട കേസുകളിലാണ് നടപടി. യുഡിഎഫ് സർക്കാരിന്റെ രാഷ്ട്രീയ തീരുമാനത്തിന്റെ ഭാഗമാണോ ഇത്തരം നടപടിയെന്ന് ജില്ലാ സെക്രട്ടറി കെ കെ രാഗേഷ് ചോദിച്ചു." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/pravasam/kannur-cpm-leaders-allege-police-collecting-biometric-information-of-party-workers-in-sreekandapuram-clash-case-articleshow-bs2adao"
+    },
+
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml":"തിരുവനന്തപുരത്ത്   ഓട്ടോ  തോട്ടിലേക്ക്   മറിഞ്ഞ്  കാണാതായ വിദ്യാധരന്റെ   മൃതദേഹം  കണ്ടെത്തി: ലഭിച്ചത്  17 കിലോമീറ്റർ  അകലെനിന്ന്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> വേറ്റിനാട് ഓട്ടോറിക്ഷ തോട്ടിലേയ്ക്ക് മറിഞ്ഞ് ഒഴുക്കിൽപ്പെട്ട് കാണാതായ ഡ്രൈവറുടെ മൃതദേഹം കണ്ടെത്തി. കുറ്റിയാണി സ്വദേശിയായ വിദ്യാധരൻ (67) ആണ് മരിച്ചത്. മൂന്ന് ദിവസത്തെ തെരച്ചിലിനൊടുവിലാണ് ഇന്ന് രാവിലെയോടെ 17 കിലോമീറ്റർ അകലെ അറ്റിങ്ങൽ മുദാക്കൽ കട്ടിയാട് പാലത്തിന് സമീപമുള്ള കൈതക്കാടുകൾക്കിടയിലാണ് മൃതദേഹം കണ്ടെത്തിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/thiruvananthapuram-vettinadu-autorickshaw-accident-driver-body-found-1822471"
+    },
+    {
+       "id": "22",
+      "type": "news",
+      "order": 36,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml": "കരിപ്പൂരിൽ യുവതിയെ തട്ടിക്കൊണ്ടുപോയത് നാടകം; പിന്നിൽ ഭർത്താവ്, കഥ പൊളിച്ച് പൊലീസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മലപ്പുറം:</b> കരിപ്പൂരിൽ യുവതിയെ തട്ടിക്കൊണ്ടുപോയതിൽ വഴിത്തിരിവ്. കസ്റ്റംസിന്റെ കണ്ണുവെട്ടിച്ച് കരിപ്പൂ‌ർ വിമാനത്താവളത്തിന് പുറത്തെത്തിച്ച സ്വർണം കൊണ്ടുവന്ന യുവതിയെയാണ് തട്ടിക്കൊണ്ടുപോയത്. ദുബായിൽ നിന്നുവന്ന കണ്ണൂർ സ്വദേശിനി പ്രിയങ്ക എന്ന യുവതിയാണ് സ്വർണം കടത്തിയത്. ഇവരെ ഒരുസംഘം തട്ടിക്കൊണ്ട് പോയിരുന്നു. മലപ്പുറം പുളിക്കലിൽ സംഘത്തെ പൊലീസ് സാഹസികമായി പിടികൂടുകയും ചെയ്തിരുന്നു. എന്നാലിത് തട്ടിക്കൊണ്ടുപോകൽ നാടകമായിരുന്നുവെന്നാണ് പൊലീസ് കണ്ടെത്തിയിരിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/karipur-gold-smuggling-kidnapping-drama-exposed-1822493"
+    },
+   {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ഇനി പ്രകാശം ഭൂമിയിൽനിന്ന് പേടകത്തിലെത്താൻ ഒരു ദിവസം വേണം: വിളിച്ചാൽ വിളികേൾക്കാൻ 48 മണിക്കൂറോളം...."
+      },
+      "summary": {
+        "ml": "നവംബർ 18ന് ഒരു വലിയ യാത്ര ഒരു വലിയ നാഴികക്കല്ല് പിന്നിടും.നാസയുടെ ഐതിഹാസിക ദൗത്യമായ വൊയേജർ1 അന്നു ഭൂമിയുമായി ഒരു പ്രകാശദിനത്തിന്റെ (ലൈറ്റ് ഡേ) ദൂരത്തിലെത്തുകയാണ്. അതായത് ഭൂമിയിൽനിന്നു പ്രകാശം പുറപ്പെട്ടാൽ ഒരു ദിവസമെടുക്കും പേടകത്തിലെത്താൻ. അത്രയുമകലേക്ക്. ഈ പേടകവുമായുള്ള ആശയവിനിമയത്തിനും 48 മണിക്കൂറോളം കാലതാമസമെടുക്കും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/science/2026/11/04/voyager-1-one-light-day-from-earth.html"
+    },  
+    {
+      "id": "81",
+      "type": "news",
+      "order": 46,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ആ രാത്രി നടന്നത് ലോകത്തെ ഞെട്ടിക്കും ആക്രമണം! ഇത് ഭക്ഷണ നെറ്റ്‌വർക്കിനെ വിറപ്പിച്ച വൻ അട്ടിമറി; ഈ ലോകത്ത് ആരും സുരക്ഷിതരല്ലെന്ന് മുന്നറിയിപ്പും"
+      },
+      "summary": {
+        "ml": "യൂറോപ്പിലുടനീളമുള്ള സൂപ്പർമാർക്കറ്റുകളിലെ റഫ്രിജറേഷൻ സംവിധാനങ്ങൾ പെട്ടെന്ന് പ്രവർത്തനരഹിതമാകുന്നു, ചിലയിടങ്ങളിൽ ഫ്രീസറുകളിലെ താപനില റൊട്ടി ചുടുന്ന ഓവന് സമാനമായി 50 ഡിഗ്രി സെൽഷ്യസ് (122 ഡിഗ്രി ഫാരൻഹീറ്റ്) വരെയായി ഉയരുന്നു. ഫലമോ, കോടിക്കണക്കിന് രൂപയുടെ ഭക്ഷണസാധനങ്ങൾ ചീഞ്ഞുനാറി നശിപ്പിക്കപ്പെടുന്നു. വെറുമൊരു സാങ്കേതിക തകരാറല്ല ഇത്. യൂറോപ്പിലെ ഏഴ് രാജ്യങ്ങളെ ഒരേസമയം ബാധിച്ച ഈ പ്രകമ്പനം, ആഗോള സൈബർ സുരക്ഷാ രംഗത്തെ ഏറ്റവും പുതിയതും ഭയാനകവുമായ ഒരു മുന്നറിയിപ്പാണ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/11/03/europe-supermarket-refrigeration-cyber-attack.html"
+    },  
+   
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "History of AMD",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units (GPUs), field-programmable gate arrays (FPGAs), system-on-chips (SoCs), and high-performance computer components. AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems<br><table border=\"1\">  <tr><th>Trade name</th><td>AMD</td></tr>  <tr><th>Type</th><td>Public</td></tr>  <tr><th>Traded as</th><td>Nasdaq: AMD<br>Nasdaq-100 component<br>S&P 100 component<br>S&P 500 component</td></tr>  <tr><th>Industry</th><td>Semiconductors<br>Computer hardware</td></tr>  <tr><th>Founded</th><td>May 1, 1969; 57 years ago</td></tr>  <tr><th>Founder</th><td>Team led by Jerry Sanders</td></tr>  <tr><th>Headquarters</th><td>Santa Clara, California, U.S.</td></tr>  <tr><th>Area served</th><td>Worldwide</td></tr>  <tr><th>Key people</th><td>Lisa Su (chair & CEO)<br>Mark Papermaster (CTO)<br>Jean Hu (CFO)<br>Phil Guido (CCO)</td></tr>  <tr><th>Products</th><td>AMD CPUs, AMD GPUs, AMD FPGAs</td></tr>  <tr><th>Brands</th><td>Ryzen, Radeon, Athlon, Opteron, Epyc, Threadripper, Virtex, Vivado, Sempron, Duron, AMD Instinct</td></tr>  <tr><th>Revenue</th><td>US$34.6 billion (2025)</td></tr>  <tr><th>Operating income</th><td>US$3.69 billion (2025)</td></tr>  <tr><th>Net income</th><td>US$4.34 billion (2025)</td></tr>  <tr><th>Total assets</th><td>US$76.9 billion (2025)</td></tr>  <tr><th>Total equity</th><td>US$63.0 billion (2025)</td></tr>  <tr><th>Number of employees</th><td>c. 31,000 (2025)</td></tr>  <tr><th>Website</th><td><a href='https://www.amd.com/en.html'> AMD></td></tr></table>"
+      },
+      "image": "",
+      "link": "https://en.wikipedia.org/wiki/AMD"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :77301.40<span style='color:green;'> +383.55(▲  0.50%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 23,960.60 <span style='color:green;'> +149.75(▲ +0.63%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:green;'> ₹14,280 (▲ ₹ +316)   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:red;'>₹ 210 (▲ ₹ 10  ) </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+    {
+      "id": "908",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഉപകാര സ്മരണ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<span style='color:red; fornt-weight:bold;'>വിശുദ്ധ യൂദാസ്ലീഹായുടെ നൊവേന.</span><br> മിശിഹായുടെ സ്നേഹിതനും വിശ്വസ്തദാസനുമായ വി. യൂദാശ്ലീഹായേ, ഏറ്റവും കഷ്ടപ്പെടുന്ന എനിക്കുവേണ്ടി അപേക്ഷിക്കണമേ. യാതൊരു സഹായവും ഫലസിദ്ധിയുമില്ലാതെ വരുന്ന സന്ദര്‍ഭത്തില്‍ ഏറ്റവും ത്വരിതവും, ഗോചരവുമായ സഹായം ചെയ്യുന്നതിന് അങ്ങേക്ക് വിശേഷവിധിയായാി കിട്ടിയിരിക്കുന്ന അനുഗ്രഹത്തെ അങ്ങ് ഉപയോഗിക്കണമെ. എന്‍റെ എല്ലാ ആവശ്യങ്ങളിലും വിശിഷ്യ(ആവശ്യം പറയുക) അങ്ങേ സഹായം ഞാനപേക്ഷിക്കുന്നു. ഭാഗ്യപ്പെട്ട യൂദാസ്ലീഹായേ, അങ്ങേ ഈ അനുഗ്രഹത്തെ ഞാന്‍ സദാ ഓര്‍ക്കുമെന്നും അങ്ങേ സ്തുതികളെ ലോകത്തെങ്ങും അറിയിക്കുമെന്നും ഞാന്‍ വാഗ്ദാനം ചെയ്യുന്നു. <b>ആമ്മേന്‍</b>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/stjude.jpg",
+      "link": ""
+    },
+
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "950",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "ന്യൂസ്",
+        "en": "paper"
+      },
+      "title": {
+        "ml": "<b>📰</b> പ്രമുഖ പത്രങ്ങളിലൂടെ..................",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ul><li><a href='https://keralakaumudi.com/' target='_blank'>കേരള കൌമുദി</a> </li><li> <a href='https://www.mathrubhumi.com/' target='_blank'>മാതൃഭൂമി</a> </li><li> <a href='https://www.deepika.com/' target='_blank'>ദീപിക</a></li><li><a href='https://www.manoramaonline.com/' target='_blank'>മലയാള മനോരമ</a></li></ul><br>🌐 Web Sites.<br><ul><li><a href='https://www.reporterlive.com/' target='_blank'> റിപ്പോര്‍ട്ടര്‍ ടി.വി.</a> </li><li><a href='https://www.asianetnews.com/' target='_blank'> ഏഷ്യനെറ്റ് ന്യൂസ് </a> </li><li><a href='https://www.twentyfournews.com/' target='_blank'> ട്വിന്‍റി ഫോര്‍ ന്യൂസ് </a> </li></ul>",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "906",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സുര്യനു കീഴില്‍ ഏതൊരു ഓണ്‍ലൈന്‍ സേവനങ്ങള്‍ക്കും.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "ഞങ്ങളെ ബന്ധപ്പെടുക. Experienced Professionals since 1986.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/anyservices.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "907",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "ആശംസകള്‍",
+        "en": "gret"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

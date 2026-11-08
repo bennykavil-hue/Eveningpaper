@@ -1,0 +1,1048 @@
+{
+  "settings": {
+    "publicationDate": "2026-11-08",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "തുലാം 22, 1202",
+      "en": "Thulam 118, 1202"
+    },
+    "hijriDate": {
+      "ml": "28 ജമാദുൽ അവ്വൽ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 503,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "news",
+        "category": "ന്യൂസ്"
+      },
+
+      {
+        "id": "weather",
+        "category": "കാലാവസ്ഥ"
+      },
+
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "gret",
+        "category": "ആശംസകള്‍"
+      },
+
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Even slow progress is progress.",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+        "label": {
+        "ml": "വാര്‍ത്ത ഉറവിടം",
+        "en": "news"
+      },
+      "link": "#news"
+    },
+    
+     {
+        "label": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "link": "#weather"
+    },
+ 
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "ആശംസകള്‍",
+        "en": "Greetings"
+      },
+      "link": "#gret"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "'ജിപേ' ഉപയോഗിക്കുന്നവർ ശ്രദ്ധിക്കുക! ഫോൺ ഹാക്ക് ചെയ്ത് അക്കൗണ്ട് കാലിയാക്കുന്ന പുതിയ തട്ടിപ്പ്",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "2016 ലെ ഇന്ത്യൻ ബാങ്ക് നോട്ട് പിൻവലിക്കൽ",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>2016 നവംബർ 8 </b>ന്, മഹാത്മാഗാന്ധി സീരീസിലെ എല്ലാ ₹500 , ₹1,000 നോട്ടുകളുടെയും നോട്ടുകൾ അസാധുവാക്കിക്കൊണ്ടുള്ള പ്രഖ്യാപനം ഇന്ത്യാ ഗവൺമെന്റ് നടത്തി. നോട്ടുകൾ അസാധുവാക്കിയ നോട്ടുകൾക്ക് പകരമായി പുതിയ ₹500, ₹2000 നോട്ടുകൾ പുറത്തിറക്കുമെന്നും പ്രഖ്യാപിച്ചു . [ 2 ] ഈ തീരുമാനം നിഴൽ സമ്പദ്‌വ്യവസ്ഥയെ നിയന്ത്രിക്കുമെന്നും പണരഹിത ഇടപാടുകൾ വർദ്ധിപ്പിക്കുമെന്നും നിയമവിരുദ്ധ പ്രവർത്തനങ്ങൾക്കും ഭീകരതയ്ക്കും ധനസഹായം നൽകുന്നതിന് നിയമവിരുദ്ധവും വ്യാജവുമായ പണത്തിന്റെ ഉപയോഗം കുറയ്ക്കുമെന്നും പ്രധാനമന്ത്രി നരേന്ദ്ര മോദി പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "🎉 Today is Sunday, 8 November 2026,<br> 🪔 Wishing you happiness, prosperity, peace and lots of light in your life.<br>Happy Diwali! ❤️",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ol><li><b> Diwali (Deepavali)</b> Major celebration in India Festival of Lights, celebrating the victory of light over darkness and good over evil.</li><li><b>World Radiography Day</b>Celebrates radiographers and the importance of medical imaging in healthcare.</li><li><b>World Urbanism Day</b>Promotes better city planning and sustainable urban development.</li><li><b>  International Tongue Twister Day</b>A fun day celebrating tricky phrases and playful language! </li></ol>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'സ്വാശ്രയ ഓട്ടോണമസ് കോളേജുകളിൽ പുതിയ കോഴ്സ് തുടങ്ങാൻ സർക്കാരിൻ്റെ അനുമതി തേടുന്ന സാഹചര്യം കേരളത്തിൽ മാത്രമാണ്'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി: </b>എയ്ഡഡ് - സ്വാശ്രയ സ്വയംഭരണ കോളേജുകളില്‍ ഇനി യഥേഷ്ടം സ്വാശ്രയ കോഴ്സുകള്‍ തുടങ്ങാനുള്ള തീരുമാനത്തില്‍ പ്രതികരണവുമായി ഉന്നത വിദ്യാഭ്യാസ മന്ത്രി റോജി എം ജോണ്‍. സ്വാശ്രയ ഓട്ടോണമസ് കോളേജുകളില്‍ കോഴ്‌സുകള്‍ തുടങ്ങാന്‍ സര്‍ക്കാരിന്റെ അനുമതി വാങ്ങേണ്ട സാഹചര്യം കേരളത്തില്‍ മാത്രമാണ് ഉള്ളതെന്ന് ചൂണ്ടിക്കാട്ടിയാണ് മന്ത്രിയുടെ പ്രതികരണം. സര്‍ക്കാരിന്റെ അനുമതി ആവശ്യപ്പെടുന്നത് കൊണ്ടാണ് കോഴ്‌സുകള്‍ തുടങ്ങാന്‍ കാലതാമസമുണ്ടാകുന്നതെന്നും മന്ത്രി പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/11/08/aided-autonomous-colleges-self-financing-courses-roji-m-john#google_vignette"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "എല്ലാവിധ ഓൺ സേവനങ്ങൾ വിരൽ തുമ്പിൽ ലഭ്യമാക്കുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt2.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "35",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഇന്ത്യക്കാർക്ക് ദീപാവലി ആശംസകളുമായി ഇറാൻ പരമോന്നത നേതാവ് മൊജ്തബ ഖമനയിയുടെ പ്രതിനിധി"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡല്‍ഹി:</b> ഇന്ത്യക്കാര്‍ക്ക് ദീപാവലി ആശംസകള്‍ നേര്‍ന്ന് ഇറാന്റെ പരമോന്നത നേതാവ് ആയത്തുള്ള മൊജ്തബ ഖമനയിയുടെ ഇന്ത്യന്‍ പ്രതിനിധി ഡോ. അബ്ദുല്‍ മജീദ് ഹക്കീം ഇലാഹി. ആഗ്രയിലെ 'ഷഹീദ്-ഇ-സാലിസ്' ദര്‍ഗയിലെ നാലുദിവസത്തെ സന്ദര്‍ശനത്തിനിടെയാണ് അദ്ദേഹം ആശംസകള്‍ അറിയിച്ചത്. സന്തോഷത്തിന്റെയും പ്രകാശത്തിന്റെയും ഉത്സവമാണ് ദീപാവലിയെന്നും എല്ലാ ഇന്ത്യക്കാര്‍ക്കും സന്തോഷവും സമൃദ്ധിയും ആരോഗ്യവും ഉണ്ടാകട്ടെയെന്നും അദ്ദേഹം ആശംസിച്ചു. ഇന്ത്യയും ഇറാനും കൂടുതല്‍ പുരോഗതി കൈവരിക്കട്ടെയെന്ന് പ്രാര്‍ത്ഥിക്കുന്നതായും അദ്ദേഹം പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/national/2026/11/08/iran-supreme-leader-representative-extends-diwali-wishes-to-india"
+    },
+     {
+      "id": "36",
+      "type": "news",
+      "order": 40,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "'രാമന്‍ മാത്രമാണോ, മറ്റ് ദേവതകളെ പൂജിക്കുന്നവർ എന്താ ഹിന്ദുക്കളല്ലേ?' ബിജെപിക്കെതിരെ ആഞ്ഞടിച്ച് തൃണമൂൽ എംപി"
+      },
+      "summary": {
+        "ml": "</b>കൊല്‍ക്കത്ത: </b>രാഷ്ട്രീയ ലാഭത്തിന് വേണ്ടി തുടര്‍ച്ചയായി ബിജെപി രാമക്ഷേത്രത്തെ ഉപയോഗിക്കുകയാണെന്ന രൂക്ഷവിമര്‍ശനവുമായി തൃണമൂല്‍ കോണ്‍ഗ്രസ് എംപി കീര്‍ത്തി ആസാദ്. താന്‍ ഇതുവരെ രാമക്ഷേത്രത്തില്‍ പോയിട്ടില്ലെന്നും ഇനിയങ്ങോട്ട് പോകാന്‍ ഉദ്ദേശിക്കുന്നില്ലെന്നും കീര്‍ത്തി ആസാദ് പറഞ്ഞു. താന്‍ കാമാഖ്യാ ദേവിയെയാണ് ആരാധക്കുന്നതെന്നും അങ്ങനെയെങ്കില്‍ തന്നെ ഹിന്ദുമായി കണക്കാക്കാനാകില്ല എന്നാണോ ബിജെപി കരുതുന്നത് എന്നും കീര്‍ത്തി ആസാദ് ചോദിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/national/2026/11/08/kirti-azad-criticises-bjp-ram-temple-political-use-kamakhya-devi"
+    },
+   
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഇനി ബിരുദാനന്തര ബിരുദം മതി; സ്‌കോൾ കേരളയിൽ പ്രധാന പദവികളിലെ യോഗ്യതയിൽ വെള്ളം ചേർത്ത് സർക്കാർ"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> പൊതുവിദ്യാഭ്യാസ വകുപ്പിന് കീഴിലെ സ്‌കോൾ കേരളയിൽ പ്രധാന പദവികളിലെ യോഗ്യതയിൽ വെള്ളം ചേർത്ത് സർക്കാർ. വൈസ് ചെയർമാൻ, എക്സിക്യൂട്ടീവ് ഡയറക്ടർ പദവികൾ നേരത്തെ പിഎച്ച്ഡിയും 15 വർഷത്തെ അധ്യാപന പരിചയവും ഉള്ളവർക്ക് മാത്രമായിരുന്നുവെങ്കിൽ ഇനിമുതൽ ബിരുദാനന്തര ബിരുദം മതിയെന്ന് പൊതുവിദ്യാഭ്യാസ വകുപ്പ് ഉത്തരവിറക്കി. ഉത്തരവിന്റെ പകർപ്പ് റിപ്പോർട്ടറിന് ലഭിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/11/08/scole-kerala-qualification-criteria-changed-for-key-government-appointed-positions"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "യൂണിറ്റിന് 5.18 രൂപ നിരക്കില്‍ 25 വര്‍ഷത്തേക്ക് വൈദ്യുതി; കൈ കൊടുക്കാതെ KSEBയുടെ ഒളിച്ചുകളി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> കുറഞ്ഞ വിലയ്ക്ക് ദീർഘ കാലത്തേക്ക് വൈദ്യുതി ലഭിക്കുന്ന കരാറിൽ ഉടൻ ഒപ്പ് വെയ്ക്കണമെന്ന് റെഗുലേറ്ററി കമ്മീഷന്റെ നിർദേശം ഉണ്ടായിട്ടും കൈ കൊടുക്കാതെ കെഎസ്ഇബിയുടെ ഒളിച്ചുകളി. മഹാരാഷ്ട്രയിലെ സിന്നാർ താപവൈദ്യുത നിലയത്തിൽ നിന്ന് യൂണിറ്റിന് വെറും അഞ്ച് രൂപ 18 പൈസ നിരക്കിൽ 25 വർഷത്തേക്ക് 530 മെഗാ വാട്ട് വൈദ്യുതി ലഭിക്കുന്ന കരാറിലാണ് കെഎസ്ഇബി ഒപ്പ് വയ്ക്കാതെ ഉരുണ്ടുകളിക്കുന്നത്. ജനുവരി മുതൽ ഇത്ര കുറഞ്ഞ വിലയ്ക്ക് വൈദ്യുതി കിട്ടും എന്നിരിക്കെയാണ് കൂടിയ വിലക്കുള്ള വൈദ്യുതിയുടെ പിന്നാലെ സർക്കാർ ഓടുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/11/08/kseb-delays-signing-long-term-power-purchase-agreement-despite-regulatory-commission-directive"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 39,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സ്വാശ്രയ കോഴ്‌സ് വിവാദം;'ഉന്നതവിദ്യാഭ്യാസ മേഖലയെ സ്വകാര്യ മാനേജ്മെന്റുകളുടെ കൊള്ളലാഭത്തിന് വിട്ടുകൊടുക്കുന്നു'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> എയ്ഡഡ്-സ്വാശ്രയ-സ്വയംഭരണ കോളേജുകളില്‍ സ്വാശ്രയ കോഴ്‌സുകള്‍ തുടങ്ങുന്നതിന് എന്‍ഒസി ഒഴിവാക്കിയ സര്‍ക്കാര്‍ ഉത്തരവിനെതിരെ പ്രതിപക്ഷ നേതാവ് പിണറായി വിജയന്‍ രംഗത്ത്. സ്വയംഭരണ പദവിയുടെ മറവില്‍ ഉന്നതവിദ്യാഭ്യാസ മേഖലയെ കോര്‍പ്പറേറ്റ് സ്വഭാവമുള്ള സ്വകാര്യ മാനേജ്മെന്റുകളുടെ കൊള്ളലാഭത്തിന് വിട്ടുകൊടുക്കാനാണ് സര്‍ക്കാരിന്റെ ശ്രമമെന്ന് അദ്ദേഹം കുറ്റപ്പെടുത്തി. സര്‍ക്കുലര്‍ ഉടന്‍ പിന്‍വനലിക്കണമെന്ന് പിണറായി വിജയൻ ആവശ്യപ്പെട്ടു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/11/08/pinarayi-vijayan-opposes-noc-exemption-for-self-financing-courses-in-autonomous-colleges"
+    },
+
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "വ്യാജ ബിരുദങ്ങൾ എന്ന് ആരോപണം; 1.1 ലക്ഷം ഡോക്ടർമാരുടെ വിദ്യാഭ്യാസ യോഗ്യതകൾ പരിശോധിക്കാൻ ബംഗാള്‍ സർക്കാർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊല്‍ക്കത്ത: </b>1996 മുതല്‍ വെസ്റ്റ് ബംഗാള്‍ മെഡിക്കല്‍ കൗണ്‍സിലില്‍ (WBMC) രജിസ്റ്റര്‍ ചെയ്തിട്ടുള്ള 1.1 ലക്ഷം ഡോക്ടര്‍മാരുടെ വിദ്യാഭ്യാസ യോഗ്യതകള്‍ സര്‍ക്കാര്‍ പരിശോധിക്കുമെന്ന് ആരോഗ്യമന്ത്രി ശരദ്വത് മുഖര്‍ജി അറിയിച്ചു. വ്യാജ ബിരുദങ്ങള്‍ കൈവശം വെച്ചിരിക്കുന്ന ഡോക്ടര്‍മാരുണ്ടെന്ന ആരോപണങ്ങളുടെ പശ്ചാത്തലത്തിലാണ് നടപടി. സര്‍ക്കാര്‍ രജിസ്‌ട്രേഷന്‍ രേഖകളില്‍ നിന്ന് വ്യാജ ഡോക്ടര്‍മാരെ വലിയ തോതില്‍ കണ്ടെത്തിയിട്ടുണ്ട്. ഇത്തരക്കാരുടെ യോഗ്യതാ രേഖകളെല്ലാം വീണ്ടും പരിശോധിക്കും. വിവിധ സര്‍വകലാശാലകള്‍ ഡോക്ടര്‍മാര്‍ക്ക് നല്‍കിയ 1.1 ലക്ഷം സര്‍ട്ടിഫിക്കറ്റുകള്‍ പുതിയൊരു പരിശോധനാ പ്രക്രിയയ്ക്ക് വിധേയമാക്കുമെന്നും മന്ത്രി പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/national/2026/11/08/west-bengal-to-verify-educational-qualifications-of-1-1-lakh-doctors"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "'ബുള്‍ഡോസറുകള്‍ എന്റെ മേല്‍ ഓടിച്ചുകയറ്റൂ, ധെെര്യമുണ്ടോ?'; ബിജെപിയെ വെല്ലുവിളിച്ച് മമത"},
+      "summary": {
+        "ml": "<b>കൊല്‍ക്കത്ത:</b> ഡയമണ്ട് ഹാര്‍ബര്‍ എംപിയും തൃണമൂൽ കോണ്‍ഗ്രസ് നേതാവുമായ അഭിഷേക് ബാനര്‍ജിയുടെ വീടിന് നേരെയുണ്ടായ അതിക്രമത്തെ അപലപിച്ച് ബംഗാള്‍ മുന്‍ മുഖ്യമന്ത്രി മമത ബാനര്‍ജി. അതിക്രമത്തിനും ഭീഷണികള്‍ക്കുമെതിരെ ശബ്ദമുയര്‍ത്തുന്നത് തുടരുമെന്ന് ആവര്‍ത്തിച്ച മമത, ബിജെപിയുടെ ബുള്‍ഡോസറുകള്‍ തനിക്കെതിരെ പ്രയോഗിക്കാന്‍ വെല്ലുവിളിക്കുകയും ചെയ്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/national/2026/11/08/mamata-banerjee-challenges-bjp-bulldozers-over-abhishek-banerjee-attack#google_vignette"
+    },
+
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "world"
+      },
+      "title": {
+        "ml": "ഹിന്ദുക്കളെ നാടുകടത്തണം; അമേരിക്കയില്‍ ദീപാവലി ആഘോഷത്തില്‍ വിദ്വേഷമുദ്രാവാക്യവുമായി തീവ്ര വലതു പ്രതിഷേധം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>സിയാറ്റില്‍:</b> അമേരിക്കയിലെ സിയാറ്റിലില്‍ നടന്ന ദീപാവലി ആഘോഷങ്ങള്‍ തടസപ്പെടുത്താന്‍ ശ്രമിച്ച് തീവ്ര വലതുപക്ഷ പ്രവര്‍ത്തകന്‍ ജേക്ക് ലാങും സംഘവും. ഹിന്ദു സമൂഹത്തെ ലക്ഷ്യമിട്ട് 'Deport All Dot Heads' (എല്ലാ ഡോട്ട് ഹെഡുകളെയും നാടുകടത്തുക) എന്ന മുദ്രാവാക്യമുയര്‍ത്തിയാണ് പ്രതിഷേധക്കാര്‍ പരിപാടിക്കെത്തിയത്. നെറ്റിയില്‍ കുറിയും തിലകവും ധരിക്കുന്നതിനെ അധിക്ഷേപിക്കുന്ന വംശീയ പരാമര്‍ശമാണ് ഡോട്ട് ഹെഡ് എന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/international/2026/11/08/jake-lang-targets-hindus-seattle-diwali-event-hate-slogans"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "title": {
+        "ml": "ഒറ്റപ്പെട്ട ശക്തമായ മഴയ്ക്കു സാധ്യത; 7 ജില്ലകളിൽ യെലോ അലർട്ട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം∙</b> തിരുവനന്തപുരം, കൊല്ലം, പത്തനംതിട്ട, ആലപ്പുഴ, കോട്ടയം, ഇടുക്കി, എറണാകുളം ജില്ലകളിൽ ഇന്ന് യെലോ അലർട്ട്. കോട്ടയം, ഇടുക്കി ജില്ലകളിൽ നാളെ യെലോ അലർട്ട്. ഒറ്റപ്പെട്ട ശക്തമായ മഴയ്ക്കുള്ള സാധ്യതയാണ് പ്രവചിക്കപ്പെട്ടിരിക്കുന്നത്. 24 മണിക്കൂറിൽ 64.5 മില്ലിമീറ്റർ മുതൽ 115.5 മില്ലിമീറ്റർ വരെ മഴ ലഭിക്കാം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/07/heavy-rain-in-kerala-yellow-alert-districts-weather-updates.html"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "മഴ ജയിച്ചു, ഇന്ത്യയും! കിവീസിനെ നാലു റൺസിന് തോൽപ്പിച്ച് നാടകീയ വിജയം; ഗിൽ ഗോൾഡൻ ഡക്ക്, തിളങ്ങാതെ കോലിയും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വെല്ലിങ്ടൻ∙</b> മഴക്കളിയിൽ കിവീസിനെ വീഴ്ത്തി ഇന്ത്യ. ന്യൂസീലൻഡിനെതിരായ രണ്ടാം ഏകദിനത്തിൽ മഴനിയമപ്രകാരം (ഡിഎൽഎസ്) നാലു റൺസിനാണ് ഇന്ത്യയുടെ വിജയം. ആദ്യം ബാറ്റു ചെയ്ത ന്യൂസീലൻഡ് 41 ഓവറിൽ 134 റൺസെടുത്തു പുറത്തായി. മഴ ഭീഷണിയുള്ളതിനാൽ മത്സരം 47 ഓവറാക്കി ചുരുക്കിയിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/football/2026/11/06/india-vs-pakistan-saff-championship.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 45,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "സച്ചിന്റെ ഉപദേശവും കേട്ടില്ല, വൈഭവിന് ക്യാപ്റ്റൻസി നൽകി ‘പ്രൊമോഷൻ’, സീനീയർ ടീമിനെ നയിക്കാൻ കൗമാര താരം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മുംബൈ∙ ഷയവൽഇന്ത്യയിലെ പ്രധാന ടൂർണമെന്റുകളിലൊന്നായ ദുലീപ് ട്രോഫിയിൽ ഈസ്റ്റ് സോണിന്റെ വൈസ് ക്യാപ്റ്റനായി വൈഭവ് സൂര്യവംശിയെ നിയമിച്ചിരുന്നു. 15 വയസ്സുകാരനായ താരത്തിന് കരിയറിന്റെ തുടക്കത്തിൽ തന്നെ റെഡ് ബോൾ ക്രിക്കറ്റിലെ പ്രധാന സ്ഥാനം നൽകുന്നതിനെതിരെ അന്നു മുതൽ തന്നെ വിമർശനമുയർന്നിരുന്നു. ബാറ്ററെന്ന നിലയില്‍ തിളങ്ങി നിൽക്കുന്ന വൈഭവിനെ നായകസ്ഥാനത്തേക്കു പരീക്ഷിക്കുന്നത് അനാവശ്യ സമ്മര്‍ദങ്ങളിലേക്ക് കൗമാര താരത്തെ തള്ളിവിടുമെന്നായിരുന്നു വിമര്‍ശനം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/11/06/vaibhav-suryavanshi-bihar-captain-syed-mushtaq-ali-trophy-sachin-tendulkar.html"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "ഫോര്‍ട്ട് കൊച്ചിക്കെതിരായ വിദ്വേഷ പരാമര്‍ശം; യു പി യൂട്യൂബർക്ക് മുന്‍കൂര്‍ ജാമ്യം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> ഫോര്‍ട്ട് കൊച്ചിയിലെ കാശി ആര്‍ട്ട് കഫേയെക്കുറിച്ചും മുസ്‌ലിം സമുദായത്തെക്കുറിച്ചും വര്‍ഗീയ വിദ്വേഷം വളര്‍ത്തുന്ന തരത്തില്‍ ഇന്‍സ്റ്റഗ്രാം വീഡിയോയിലൂടെ പരാമര്‍ശങ്ങള്‍ നടത്തിയെന്ന കേസില്‍ ഉത്തര്‍പ്രദേശ് സ്വദേശിയായ യൂട്യൂബർ അമൃത് സിങ്ങിന് മുന്‍കൂര്‍ ജാമ്യം. എറണാകുളം സെഷന്‍സ് കോടതിയാണ് മുന്‍കൂര്‍ ജാമ്യം അനുവദിച്ചത്. നവംബര്‍ ആറിനാണ് സെഷന്‍സ് ജഡ്ജ് കെ കെ ബാലകൃഷ്ണന്‍ വിദ്വേഷ യൂട്യൂബര്‍ക്ക് മുന്‍കൂര്‍ ജാമ്യം അനുവദിച്ചത്. പ്രതിക്കെതിരെ മുന്‍കാല ക്രിമിനല്‍ കേസുകളൊന്നും റിപ്പോര്‍ട്ട് ചെയ്തിട്ടില്ലെന്നും അന്വേഷണവുമായി ബന്ധപ്പെട്ട പ്രോസിക്യൂഷന്റെ ആശങ്കകള്‍ പരിഹരിക്കുന്നതിന് ഉചിതമായ ജാമ്യവ്യവസ്ഥകള്‍ മതിയാകുമെന്നും കോടതി നിരീക്ഷിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/11/08/amrit-singh-anticipatory-bail-kashi-art-cafe-fort-kochi-communal-remarks"
+    },
+
+    {
+      "id": "72",
+      "type": "news",
+      "order": 37,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "നടിയുടെ ബന്ധുവിനെ പീഡിപ്പിച്ച കേസ്: ഡോ. ജോൺസൺ കെ വർ​ഗീസിനെതിരേ ലുക്കൗട്ട് സർക്കുലർ, പ്രതി വിദേശത്തേക്ക് കടന്നതായും സംശയം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി: </b>പീഡനക്കേസിൽ പ്രതിയായ കൊച്ചിയിലെ ഡോക്ടർ ജോൺസൺ കെ വർ​ഗീസിനെതിരേ പൊലീസ് ലുക്കൗട്ട് സർക്കുലർ പുറത്തിറക്കി. യുവനടിയുടെ ബന്ധു നൽകിയ പീഡനപരാതിയിൽ കേസെടുത്തതിന് പിന്നാലെ ഡോക്ടർ ഒളിവിലാണ്. ഇതോടെയാണ് പ്രതിക്കെതിരേ പൊലീസ് ലുക്കൗട്ട് സർക്കുലർ പുറത്തിറക്കിയത്. പ്രതി വിദേശത്തേക്ക് കടന്നതായാണ് പൊലീസിന്റെ സംശയം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/kochi-dr-johnson-k-varghese-rape-case-police-issue-lookout-circular-articleshow-ipgvyi9"
+    },
+
+
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'വഴിയിൽ ഉപേക്ഷിച്ച് പോകില്ല'; നിലപാട് വ്യക്തമാക്കി കെസി വേണുഗോപാൽ; സ്ഥാനത്ത് നിന്ന് പുറത്താക്കും വരെ ഗ്യാനേഷ് കുമാറിനെതിരെ സമരം തുടരും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഡൽഹി:</b> മുഖ്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷണർ ഗ്യാനേഷ് കുമാറിനെതിരായ സമരത്തിൽ നയം വ്യക്തമാക്കി കെ.സി വേണുഗോപാൽ എംപി. ഗ്യാനേഷ് കുമാറിനെ പുറത്താക്കുന്നത് വരെ സമരം തുടരുമെന്ന് അദ്ദേഹം വ്യക്തമാക്കി. രാജ്യത്തെ തെരഞ്ഞെടുപ്പ് സംവിധാനം പൂർണമായും നിഷ്‌പക്ഷവും സുതാര്യവുമാകുന്നത് വരെ സമരം അവസാനിപ്പിക്കില്ലെന്നും അദ്ദേഹം ഡൽഹിയിൽ പറഞ്ഞു." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/india-news/kc-venugopal-says-protest-will-continue-until-gyanesh-kumar-removed-as-cec-articleshow-i3vg66m"
+    },
+    
+    {
+      "id": "9",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ഗ്യാനേഷ് കുമാർ രണ്ടുകോടി രൂപ കൈക്കൂലി ചോദിച്ചെന്ന വെളിപ്പെടുത്തൽ; പ്രാഥമിക അന്വേഷണത്തിലേക്ക് കടന്ന് വിജിലൻസ്, കരാറുകാരന്റെ മൊഴിയെടുക്കും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മുഖ്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷണർ ​ഗ്യാനേഷ് കുമാറിനെതിരേ പ്രാഥമിക അന്വേഷണത്തിലേക്ക് കടന്ന് വിജിലൻസ്. ​കേരളത്തിൽ പൊതുമരാമത്ത് സെക്രട്ടറിയായിരിക്കെ കെഎസ്ടിപി പദ്ധതിയിൽ അഴിമതി നടത്തിയെന്നും ജീവനൊടുക്കിയ പ്രോജക്ട് മാനേജർ ലീ സി ബിന്നിൽനിന്ന് കൈക്കൂലി ചോദിച്ചെന്നുമുള്ള വെളിപ്പെടുത്തലിലാണ് വിജിലൻസ് അന്വേഷണം ആരംഭിച്ചത്. അന്വേഷണത്തിന്റെ ഭാ​ഗമായി ​ഗ്യാനേഷ് കുമാറിനെതിരേ വെളിപ്പെടുത്തൽ നടത്തിയ കരാറുകാരനായ സാജനിൽനിന്ന് ചൊവ്വാഴ്ച വിജിലൻസ് സംഘം മൊഴിയെടുക്കും." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/kerala-vigilance-probe-against-gyanesh-kumar-on-pati-bel-lee-see-been-suicide-bribe-allegation-articleshow-43htdxo"
+    },
+
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml":"മൊബൈൽ തോട്ടിലെറിഞ്ഞെന്ന് 17കാരൻ, കാട്ടിലെന്ന് ഉമർ; മൊഴികളിൽ പ്രതികളുടെ ആസൂത്രണം, വലഞ്ഞ് പൊലീസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം∙</b. ശ്രീകാര്യം പാങ്ങപ്പാറ അഭിരാം <a href='https://www.manoramaonline.com/topics/crime/murder.html' target='_blank' rel='noopener noreferrer'>കൊലക്കേസിൽ</a>  അന്വേഷണം വഴിതെറ്റിക്കാൻ പ്രതികളുടെ കള്ളമൊഴി. കേസിലെ നിർണായക തെളിവായ അഭിരാമിന്റെ മൊബൈലിനെക്കുറിച്ച് പ്രതികൾ പരസ്പര വിരുദ്ധ മൊഴികളാണ് നൽകുന്നത്. ഇതോടെ, നിര്‍ണായകമായ ഡിജിറ്റല്‍ തെളിവുകൾ കണ്ടെത്താനാകാത്ത അവസ്ഥയിലാണ് പൊലീസ്. ഒന്നാം പ്രതിയായ പതിനേഴുകാരനും രണ്ടാം പ്രതിയായ ഉമറും (21) ആസൂത്രിതമായി മൊഴി മാറ്റുകയാണെന്നാണ് പൊലീസിന്റെ നിഗമനം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/08/abhiram-murder-case-suspects-conflicting-statements-mobile-phone-investigation.html"
+    },
+    {
+       "id": "22",
+      "type": "news",
+      "order": 36,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml": "രേഖകളില്ലാതെ ഭായിമാർക്ക് വീടുകൊടുക്കുന്നവർക്കെതിരെ കേസ്; നടപടി കുറ്റകൃത്യങ്ങൾ വർധിക്കുന്നതിനാൽ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ചാവക്കാട് </b>∙ രേഖകൾ വാങ്ങാതെ ഇതരസംസ്ഥാനത്തൊഴിലാളികളെ വാടകയ്ക്ക് താമസിപ്പിക്കുന്ന ഉടമകൾക്കെതിരെ കേസെടുക്കുമെന്ന് സിഐ എം.കെ.രമേഷ് അറിയിച്ചു. ഇതരസംസ്ഥാനത്തൊഴിലാളികൾ പ്രതികളാകുന്ന കുറ്റകൃത്യങ്ങൾ വർധിക്കുന്ന സാഹചര്യത്തിലാണ് പൊലീസ് നടപടി ശക്തമാക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/11/08/strict-police-action-against-landlords-renting-to-unverified-migrant-workers-in-chavakkad.html"
+    },
+   {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "'ജിപേ' ഉപയോഗിക്കുന്നവർ ശ്രദ്ധിക്കുക! ഫോൺ ഹാക്ക് ചെയ്ത് അക്കൗണ്ട് കാലിയാക്കുന്ന പുതിയ തട്ടിപ്പ്"
+      },
+      "summary": {
+        "ml": "ഫോൺ പെട്ടെന്ന് സ്വിച്ച് ഓഫ് ആകുന്നു; പിന്നാലെ സ്‌ക്രീനിൽ 'സിസ്റ്റം അപ്‌ഡേറ്റ്' എന്ന മുന്നറിയിപ്പ്! ഫോൺ ഓണാക്കാനോ ആപ്പുകൾ നിയന്ത്രിക്കാനോ കഴിയാത്ത ആ സമയത്തിനുള്ളിൽ അക്കൗണ്ടിലേക്ക് പണം വരുന്നതും അത് നിമിഷനേരം കൊണ്ട് അന്യരുടെ അക്കൗണ്ടുകളിലേക്ക് ചോർന്നുപോകുകയും ചെയ്യുന്നു...? സ്മാർട്ട്‌ഫോൺ ഉപയോക്താക്കൾ അറിഞ്ഞിരിക്കേണ്ട പുതിയ സൈബർ ഭീഷണിയുടെ നേർക്കാഴ്ചയാണിത്.നിരവധി ആളുകൾ സോഷ്യൽ മീഡിയയിൽ ഈ തട്ടിപ്പിനെക്കുറിച്ച് പങ്കുവയ്ക്കുന്നുണ്ട്,.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/11/07/smartphone-fake-system-update-cyber-scam.html"
+    },  
+    {
+      "id": "81",
+      "type": "news",
+      "order": 46,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "'സാം ആൾട്ട്മാൻ' ഇനി 'റാം ആൾട്ട്മാൻ'; ഓപ്പൺഎഐ സിഇഒയുടെ പേര് മാറ്റത്തിന് പിന്നിലെ രഹസ്യം!"
+      },
+      "summary": {
+        "ml": "വ്യക്തിഗത കംപ്യൂട്ടറുകളിലെ റാം വിതരണത്തെക്കുറിച്ചുള്ള&nbsp; വിവാദ പരാമർശങ്ങൾക്ക് പിന്നാലെ എക്സ്പ്ലാറ്റ്‌ഫോമിലെ തന്റെ പേര് 'റാം ആൾട്ട്മാൻ'എന്ന് മാറ്റി ഓപ്പൺഎഐ സിഇഒ സാം ആൾട്ട്മാൻ. സോഷ്യൽ മീഡിയയിൽ കനത്ത ട്രോളുകളും വിമർശനങ്ങളും നേരിട്ടതിനെത്തുടർന്നാണ് ഒരു ഉപയോക്താവിന്റെ നിർദ്ദേശപ്രകാരം അദ്ദേഹം തമാശ രൂപേണ പേര് മാറ്റിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/11/05/sam-altman-ram-controversy.html"
+    },  
+   
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "List Mother Board manufacturers:",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<table><thead><tr><th>Manufacturer</th></tr></thead><tbody><tr><td>ASRock</td></tr><tr><td>Asus</td></tr><tr><td>Biostar</td></tr><tr><td>EVGA Corporation</td></tr><tr><td>Gigabyte Technology</td></tr><tr><td>MSI (Micro-Star International)</td></tr><tr><td>Intel</td></tr></tbody></table>"
+      },
+      "image": "",
+      "link": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :81,028.02<span style='color:green;'> +1,718.02(▲  2.17%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 25,030.35 <span style='color:green;'> +493.75(▲ +2.01%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:red;'> ₹13,160(▲ ₹ +10)   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:red;'>₹ 205 (▼ ₹ 0  ) </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+    {
+      "id": "908",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഉപകാര സ്മരണ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<span style='color:red; fornt-weight:bold;'>വിശുദ്ധ യൂദാസ്ലീഹായുടെ നൊവേന.</span><br> മിശിഹായുടെ സ്നേഹിതനും വിശ്വസ്തദാസനുമായ വി. യൂദാശ്ലീഹായേ, ഏറ്റവും കഷ്ടപ്പെടുന്ന എനിക്കുവേണ്ടി അപേക്ഷിക്കണമേ. യാതൊരു സഹായവും ഫലസിദ്ധിയുമില്ലാതെ വരുന്ന സന്ദര്‍ഭത്തില്‍ ഏറ്റവും ത്വരിതവും, ഗോചരവുമായ സഹായം ചെയ്യുന്നതിന് അങ്ങേക്ക് വിശേഷവിധിയായാി കിട്ടിയിരിക്കുന്ന അനുഗ്രഹത്തെ അങ്ങ് ഉപയോഗിക്കണമെ. എന്‍റെ എല്ലാ ആവശ്യങ്ങളിലും വിശിഷ്യ(ആവശ്യം പറയുക) അങ്ങേ സഹായം ഞാനപേക്ഷിക്കുന്നു. ഭാഗ്യപ്പെട്ട യൂദാസ്ലീഹായേ, അങ്ങേ ഈ അനുഗ്രഹത്തെ ഞാന്‍ സദാ ഓര്‍ക്കുമെന്നും അങ്ങേ സ്തുതികളെ ലോകത്തെങ്ങും അറിയിക്കുമെന്നും ഞാന്‍ വാഗ്ദാനം ചെയ്യുന്നു. <b>ആമ്മേന്‍</b>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/stjude.jpg",
+      "link": ""
+    },
+
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "950",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "ന്യൂസ്",
+        "en": "paper"
+      },
+      "title": {
+        "ml": "<b>📰</b> പ്രമുഖ പത്രങ്ങളിലൂടെ..................",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ul><li><a href='https://keralakaumudi.com/' target='_blank'>കേരള കൌമുദി</a> </li><li> <a href='https://www.mathrubhumi.com/' target='_blank'>മാതൃഭൂമി</a> </li><li> <a href='https://www.deepika.com/' target='_blank'>ദീപിക</a></li><li><a href='https://www.manoramaonline.com/' target='_blank'>മലയാള മനോരമ</a></li></ul><br>🌐 Web Sites.<br><ul><li><a href='https://www.reporterlive.com/' target='_blank'> റിപ്പോര്‍ട്ടര്‍ ടി.വി.</a> </li><li><a href='https://www.asianetnews.com/' target='_blank'> ഏഷ്യനെറ്റ് ന്യൂസ് </a> </li><li><a href='https://www.twentyfournews.com/' target='_blank'> ട്വിന്‍റി ഫോര്‍ ന്യൂസ് </a> </li></ul>",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "906",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സുര്യനു കീഴില്‍ ഏതൊരു ഓണ്‍ലൈന്‍ സേവനങ്ങള്‍ക്കും.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "ഞങ്ങളെ ബന്ധപ്പെടുക. Experienced Professionals since 1986.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/anyservices.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "907",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "ആശംസകള്‍",
+        "en": "gret"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

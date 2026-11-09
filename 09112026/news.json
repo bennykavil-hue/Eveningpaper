@@ -1,0 +1,1049 @@
+{
+  "settings": {
+    "publicationDate": "2026-11-09",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "തുലാം 23, 1202",
+      "en": "Thulam 118, 1202"
+    },
+    "hijriDate": {
+      "ml": "29 ജമാദുൽ അവ്വൽ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 504,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "news",
+        "category": "ന്യൂസ്"
+      },
+
+      {
+        "id": "weather",
+        "category": "കാലാവസ്ഥ"
+      },
+
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "gret",
+        "category": "ആശംസകള്‍"
+      },
+
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Turn your worries into action.",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+        "label": {
+        "ml": "വാര്‍ത്ത ഉറവിടം",
+        "en": "news"
+      },
+      "link": "#news"
+    },
+    
+     {
+        "label": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "link": "#weather"
+    },
+ 
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "ആശംസകള്‍",
+        "en": "Greetings"
+      },
+      "link": "#gret"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "'ജിപേ' ഉപയോഗിക്കുന്നവർ ശ്രദ്ധിക്കുക! ഫോൺ ഹാക്ക് ചെയ്ത് അക്കൗണ്ട് കാലിയാക്കുന്ന പുതിയ തട്ടിപ്പ്",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "2016 ലെ ഇന്ത്യൻ ബാങ്ക് നോട്ട് പിൻവലിക്കൽ",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>2016 നവംബർ 8 </b>ന്, മഹാത്മാഗാന്ധി സീരീസിലെ എല്ലാ ₹500 , ₹1,000 നോട്ടുകളുടെയും നോട്ടുകൾ അസാധുവാക്കിക്കൊണ്ടുള്ള പ്രഖ്യാപനം ഇന്ത്യാ ഗവൺമെന്റ് നടത്തി. നോട്ടുകൾ അസാധുവാക്കിയ നോട്ടുകൾക്ക് പകരമായി പുതിയ ₹500, ₹2000 നോട്ടുകൾ പുറത്തിറക്കുമെന്നും പ്രഖ്യാപിച്ചു . [ 2 ] ഈ തീരുമാനം നിഴൽ സമ്പദ്‌വ്യവസ്ഥയെ നിയന്ത്രിക്കുമെന്നും പണരഹിത ഇടപാടുകൾ വർദ്ധിപ്പിക്കുമെന്നും നിയമവിരുദ്ധ പ്രവർത്തനങ്ങൾക്കും ഭീകരതയ്ക്കും ധനസഹായം നൽകുന്നതിന് നിയമവിരുദ്ധവും വ്യാജവുമായ പണത്തിന്റെ ഉപയോഗം കുറയ്ക്കുമെന്നും പ്രധാനമന്ത്രി നരേന്ദ്ര മോദി പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "😊 Today is Monday, 9 November 2026, and there are a few special observances today.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ol><li><b>National Legal Services Day (India) </b> Promotes equal access to justice and free legal aid for people who cannot afford legal representation.</li><li><b>🌍 World Freedom Day </b> Commemorates the fall of the Berlin Wall in 1989.</li><li><b>🔬 International Week of Science and Peace </b> Begins today and runs until 15 November.</li><li><b>🪔 Govardhan Puja / Annakut </b Celebrated today according to the 2026 Indian festival </li></ol>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'ക്ലാസിഫിക്കേഷനിൽ കാര്യമില്ല: ബാർ ലൈസൻസിൽ പഴയ സർക്കാരിന്റെ വഴിയേ പുതിയ സർക്കാരും; മുൻപ് എതിർത്തത് കെ.സി വേണുഗോപാൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം∙</b> സ്റ്റാർ ക്ലാസിഫിക്കേഷൻ പൂർത്തിയാക്കാത്ത ബാറുകൾക്കു ലൈസൻസ് നൽകിയ ഇടതുസർക്കാരിന്റെ നിലപാടിനെ അനുകൂലിച്ച്  <a href='https://www.manoramaonline.com/topics/judiciary/highcourt.html' target='_blank' rel='noopener noreferrer'>ഹൈക്കോടതിയിൽ</a>  യുഡിഎഫ് സർക്കാർ സത്യവാങ്മൂലം സമർപ്പിച്ചതു വിവാദമാകുന്നു. കേന്ദ്ര ടൂറിസം വകുപ്പിന്റെ പരിശോധന വൈകുന്നതുകൊണ്ടാണ് ക്ലാസിഫിക്കേഷൻ നടപടിക്രമങ്ങൾ പൂർത്തിയാകാത്തതെന്നു ചൂണ്ടിക്കാട്ടിയാണ് കഴിഞ്ഞ സർക്കാർ ബാറുകൾക്ക് ലൈസൻസ് പുതുക്കി നൽകിയത്. എന്നാൽ പരിശോധന വൈകിപ്പിക്കുന്നത് ബാർ ഉടമകൾ തന്നെയാണെന്നും തങ്ങളുടെ ഭാഗത്തു വീഴ്ചയില്ലെന്നും 2025 ഫെബ്രുവരിയിൽ കേന്ദ്ര ടൂറിസം വകുപ്പ് രേഖാമൂലം സംസ്ഥാന സർക്കാരിനെ അറിയിച്ചിരുന്നു. എന്നാൽ ഇതു കണക്കിലെടുക്കാതെയാണ് കഴിഞ്ഞ സർക്കാർ ബാർ ലൈസൻസ് പുതുക്കി നൽകിയത്. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/09/dr-johnson-varghese-seeks-anticipatory-bail-in-infopark-rape-case0.html"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "എല്ലാവിധ ഓൺ സേവനങ്ങൾ വിരൽ തുമ്പിൽ ലഭ്യമാക്കുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt2.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "35",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "പാസ്പോർട്ടിനും തിരിച്ചറിയൽ കാർഡിനും അപേക്ഷ നൽകി; ബംഗ്ലദേശിലേക്ക് മടങ്ങാനുള്ള നീക്കം സജീവമാക്കി ഷെയ്ഖ് ഹസീന"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി ∙ </b> <a href='https://www.manoramaonline.com/topics/politics/leaders/internationalleaders/sheikhhasina.html'>മുൻ ബംഗ്ലദേശ് പ്രധാനമന്ത്രി ഷെയ്ഖ് ഹസീന,</a>  ഡിസംബറിൽ സ്വന്തം രാജ്യത്തേക്ക് മടങ്ങാനുള്ള നീക്കങ്ങൾ സജീവമാക്കി. ഇതിന്റെ ഭാഗമായി ന്യൂഡൽഹിയിലെ ബംഗ്ലദേശ് ഹൈക്കമ്മിഷനിൽ അവർ പുതിയ പാസ്‌പോർട്ടിനും ദേശീയ തിരിച്ചറിയൽ കാർഡിനുമായി അപേക്ഷ നൽകി. 2024 ഓഗസ്റ്റിൽ വിദ്യാർഥി പ്രക്ഷോഭത്തെത്തുടർന്ന് അധികാരം നഷ്ടപ്പെട്ട 79കാരിയായ ഷെയ്ഖ് ഹസീന നിലവിൽ ഇന്ത്യയിലാണ് കഴിയുന്നത്.&nbsp;",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/09/sheikh-hasina-applies-for-new-passport-to-return-to-bangladesh.html"
+    },
+     {
+      "id": "36",
+      "type": "news",
+      "order": 40,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "മുകളിലേക്ക് ഉയരേണ്ട റോക്കറ്റ് പതിച്ചത് നെഞ്ചിൽ; ദീപാവലി ആഘോഷങ്ങൾക്കിടെ അപകടം, 10 വയസ്സുകാരന് ദാരുണാന്ത്യം"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി ∙</b> ഡൽഹിയിലെ നരേലയിൽ ദീപാവലി ആഘോഷങ്ങൾക്കിടെയുണ്ടായ അപകടത്തിൽ <a href=https://www.manoramaonline.com/topics/health/death.html>പത്തുവയസ്സുകാരൻ മരണപ്പെട്ടു.</a>  നരേല സ്വദേശിയായ ഋഷി എന്ന കുട്ടിയാണ് ഞായറാഴ്ച രാത്രി കുടുംബത്തോടൊപ്പം പടക്കം പൊട്ടിക്കുന്നതിനിടെ ദാരുണമായി കൊല്ലപ്പെട്ടത്. ആകാശത്തേക്ക് ഉയർന്നുപൊട്ടുന്ന തരം റോക്കറ്റ് പടക്കത്തിനു തീക്കൊളുത്തുന്നതിനിടെയാണ് അപകടമുണ്ടായത്. മുകളിലേക്ക് പോകുന്നതിനു പകരം റോക്കറ്റ് കുട്ടിയുടെ നെഞ്ചിലേക്ക് നേരിട്ട് വന്ന് പതിക്കുകയായിരുന്നു. പരുക്കേറ്റ കുട്ടിയെ ഉടൻ നരേലയിലെ സത്യവാദി രാജ ഹരിശ്ചന്ദ്ര ആശുപത്രിയിൽ എത്തിച്ചെങ്കിലും ഡോക്ടർമാർ മരണം സ്ഥിരീകരിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/09/tragic-firecracker-accident-claims-young-life-in-delhi.html"
+    },
+   
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സംസ്ഥാനത്ത് അടുത്ത രണ്ടുമാസം വൈദ്യുതി ക്ഷാമമുണ്ടാകില്ല; പ്രതിസന്ധി സൃഷ്‌‌ടിക്കപ്പെട്ടതെന്ന സംശയത്തിൽ സർക്കാർ"
+      },
+      "summary": {
+        "ml": "വൈദ്യുതി പ്രതിസന്ധി ഇല്ലാത്തതിനാൽ തൽക്കാലം പുതിയ ഗ്രീൻ എനർജി ഓപ്പൺ ആക്‌സസ് (ജിഎൻഎ) ഹ്രസ്വകാല കരാർ ഉണ്ടാകില്ല. സുതാര്യമായ ടെൻഡർ നടപടികളോ സംസ്ഥാന വൈദ്യുതി റെഗുലേറ്ററി കമ്മീഷന്റെ മുൻകൂർ അനുമതികളോ ഇല്ലാതെ ജിഎൻഎ വഴി 500 മെഗാവാട്ട് വൈദ്യുതി വാങ്ങാൻ തീരുമാനിച്ചത് നേരത്തേ വിവാദമായിരുന്നു. ഇതിന് പിന്നാലെയാണ് പുതിയ തീരുമാനം. വൈദ്യുതി പ്രതിസന്ധി ഇല്ലെങ്കിൽ സംസ്ഥാനത്ത് വൈദ്യുതിക്ഷാമം ഉണ്ടെന്ന പ്രചാരണം കൃത്രിമമായി സൃഷ്‌ടിക്കപ്പെട്ടതാണോ എന്നാണ് സർക്കാർ സംശയിക്കുന്നത്. വൈദ്യുതി ക്ഷാമമെന്ന മുൻ കെഎസ്‌ഇബി ചെയർമാൻ രാജമാണിക്യത്തിന്റെ കുറിപ്പ് ഏത് സാഹചര്യത്തിലാണെന്ന് പരിശോധിക്കണമെന്നും മുഖ്യമന്ത്രി നിർദേശം നൽകിയിട്ടുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/kerala-electricity-crisis-kseb-power-supply-1824395"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "തൂഫാനൊരു തിരിച്ചറിവാണ്; ആലിൻ കെടാത്ത നന്മയുടെ പേരും: ഇതാ ഈ വർഷത്തിന്റെ വഴിവിളക്കുകൾ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വിവാദങ്ങളും ആരോപണ പ്രത്യാരോപണങ്ങളും നിറഞ്ഞ വാർത്താപ്രളയത്തിൽ നാം മറക്കാതിരിക്കേണ്ട, കാലം <a href=https://www.manoramaonline.com/topics/news/year-ender-2026.html>അടയാളപ്പെടുത്തേണ്ട ചില വാർത്തകളുണ്ട്.</a>  നമുക്ക് പ്രചോദനമാകുന്ന, കാണുമ്പോൾ ഒരു ചെറു പുഞ്ചിരിയെങ്കിലും മനസ്സിൽ വിരിയിക്കുന്ന ചിലത്. 2026 കടന്നുപോകുമ്പോൾ അത്തരം ചില വാർത്തകളുമുണ്ട്. തൂഫാൻ എന്ന പദത്തിന് കൊടുങ്കാറ്റെന്നാണ് അർഥം. അത്തരത്തിലൊരു കൊടുങ്കാറ്റായിരുന്നു സംസ്ഥാന സർക്കാരിന്റെ ഓപ്പറേഷൻ തൂഫാൻ എന്ന ലഹരിവിരുദ്ധ പോരാട്ടം. കേരളത്തിലെ സ്ത്രീകളെ ചേർത്തുപിടിച്ച പ്രിയദർശിനി പദ്ധതി, ജീവിത സായാഹ്നത്തിൽ വയോജനങ്ങൾക്ക് കരുതലാകുന്ന പ്രത്യേക വകുപ്പ്, നോവായി മറയുമ്പോഴും ശരീരം നിരവധി ജീവനുകൾക്ക് പകുത്ത് നൽകിയ ആലിൻ ഷെറിൻ... ഇങ്ങനെ നമുക്ക് പ്രചോദനമായ, വഴിവിളക്കായ നിരവധി വാർത്തകൾ. ഇതിൽ വിവിധ മേഖലകളിൽ‌ ജയിച്ചുകയറിയ നിരവധി മലയാളികളുടെ നേട്ടങ്ങളുമുണ്ട്. അത്തരം 10 വാർത്തകൾ ഇതാ...",
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/09/kerala-inspirational-news-malayali-achievements-2026.html"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 39,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "യോഗ്യരായ വിതരണക്കാരെ കണ്ടെത്താനായില്ല; ശബരിമലയിലെ നെയ്യ് ടെന്‍ഡര്‍ ഇത്തവണയും മില്‍മയ്ക്ക് നൽകിയേക്കും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം∙</b> ശബരിമലയിലേക്കുള്ള നെയ്യ് ടെന്‍ഡര്‍ ഇത്തവണയും മില്‍മയ്ക്ക് നല്‍കിയേക്കും. നെയ്യ് വാങ്ങാന്‍ തിരുവിതാംകൂര്‍ ദേവസ്വം ബോര്‍ഡ് രണ്ട് തവണ റീ ടെന്‍ഡര്‍ ചെയ്തിട്ടും യോഗ്യരായ വിതരണക്കാരെ കണ്ടെത്താന്‍ കഴിയാത്ത സാഹചര്യത്തിലാണ് മില്‍മയ്ക്ക് സാധ്യത തെളിയുന്നത്. അന്‍പതിനായിരം ലീറ്റര്‍ നെയ്യ് ആവശ്യപ്പെട്ടുള്ള ടെന്‍ഡറില്‍ മില്‍മ ഇത്തവണ പങ്കെടുത്തിട്ടില്ലെങ്കിലും തിരുവിതാംകൂര്‍ ദേവസ്വം ബോര്‍ഡ് ഭരണസമിതിയും മില്‍മ തിരുവനന്തപുരം മേഖല യൂണിയന്‍ ഭാരവാഹികളുമായി ആശയവിനിമയം നടത്തി. വില അന്തിമമാക്കാന്‍ മില്‍മ ഭാരവാഹികളുമായി ഇന്ന് ദേവസ്വം ബോര്‍ഡ് ആസ്ഥാനത്ത് ചര്‍ച്ച നടത്തും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/09/sabarimala-milma-ghee-tender-travancore-devaswom-board-meeting.html"
+    },
+
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "എസ്ഐആർ: മഹാരാഷ്ട്രയിലെ 190 മണ്ഡലങ്ങളിൽ കടുംവെട്ട്; ഒഴിവാക്കപ്പെട്ടവരുടെ എണ്ണം 2024ലെ ഭൂരിപക്ഷത്തെക്കാൾ കൂടുതൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മുംബൈ ∙</b> മഹാരാഷ്ട്രയിലെ 288 നിയമസഭാ മണ്ഡലങ്ങളിൽ 190 ഇടത്തും <a href=https://www.manoramaonline.com/topics/news/common/special-intensive-revision.html target=_blank rel=noopener noreferrer>കരടുവോട്ടർപട്ടികയിൽനിന്ന് ഒഴിവാക്കപ്പെട്ടവരുടെ</a>  എണ്ണം 2024ലെ നിയമസഭാ തിരഞ്ഞെടുപ്പിലെ ഭൂരിപക്ഷത്തെക്കാൾ കൂടുതലാണെന്നു റിപ്പോർട്ട്. മരിച്ചവരെ ഉൾപ്പെടുത്താതെയാണിത്. കൊൽക്കത്ത ആസ്ഥാനമായ സ്വതന്ത്ര ഗവേഷണസ്ഥാപനം സബാർ ഇൻസ്റ്റിറ്റ്യൂട്ടാണ് ഇക്കാര്യമുൾപ്പെട്ട പഠനം പുറത്തുവിട്ടത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/09/maharashtra-voter-list-deletion-report.html"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ദീപാവലിക്ക് സൈനികർക്കൊപ്പം കീഴടങ്ങിയ മാവോയിസ്റ്റുകളും; സുക്മയിലെ ഗ്രാമത്തില്‍ ഗംഭീര ആഘോഷം..."},
+      "summary": {
+        "ml": "<b>സുക്മ ∙</b> ഒരിക്കൽ  <a href=https://www.manoramaonline.com/topics/crime/maoist.html target=_blank rel=noopener noreferrer>മാവോയിസ്റ്റ്</a>  ഭീതിയിൽ കഴിഞ്ഞിരുന്ന ഛത്തീസ്ഗഡിലെ സുക്മ ജില്ലയിലെ പൂവർത്തി ഗ്രാമത്തിൽ ഞായറാഴ്ച ദീപാവലി ആഘോഷിച്ചത് സുരക്ഷാ സേനയ്ക്കൊപ്പം കീഴടങ്ങിയ മാവോയിസ്റ്റുകളും ഒത്തുചേർന്ന്. സുരക്ഷാസേന വധിച്ച മാവോയിസ്റ്റ് കമാൻഡർ മാഡ്‌വി ഹിദ്മയുടെ ജന്മഗ്രാമമായ പൂവർത്തി അടുത്തിടെയാണ് മാവോയിസ്റ്റ് മുക്തമായത്. ഒരുകാലത്ത് മാവോയിസ്റ്റ് അക്രമങ്ങൾ സ്ഥിരമായി സംഭവിച്ചിരുന്ന സ്ഥലമായിരുന്നു ഇവിടം. രക്തം ചിന്തിയ നിരവധി ആക്രമണങ്ങൾ ഈ ഗ്രാമത്തിൽ മാവോയിസ്റ്റുകൾ നടത്തിയിട്ടുണ്ട്. 2017ലുണ്ടായ ആക്രമണത്തിൽ 26 ജവാൻമാർക്കാണ് ജീവൻ നഷ്ടമായത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/09/sukma-village-celebrates-first-diwali-with-security-forces-and-surrendered-maoists.html"
+    },
+
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "world"
+      },
+      "title": {
+        "ml": "നെതന്യാഹുവിന്റെ വിശ്വസ്തനായി തുടക്കം; ഇന്ന് ഏറ്റവും വലിയ പേടിസ്വപ്നം: ആരാണ് ഗാദി ഐസൻകോട്ട്?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "40 കൊല്ലം <a href=https://www.manoramaonline.com/topics/news/world/countries/israel.html target=_blank rel=noopener noreferrer>ഇസ്രയേൽ</a>  വിശ്വസ്തനായി തുടങ്ങി, ഇപ്പോഴിതാ അദ്ദേഹത്തിന്റെ ഏറ്റവും വലിയ പേടിസ്വപ്നമായി പരിണമിച്ചിരിക്കുന്നു ഗാദി ഐസൻകോട്ട്. അദ്ദേഹത്തിന്റെ യാഷർ പാർട്ടി നയിക്കുന്ന പ്രതിപക്ഷസഖ്യം അറബ് പാർട്ടികളുടെ പിന്തുണ സ്വീകരിച്ചും അഭിപ്രായ ഐക്യം ഉറപ്പാക്കിയും സർക്കാർ രൂപീകരണത്തിൽ വിജയിച്ചാൽ, അത് ചരിത്രമാകും. അതിന്റെ ഒരു കാരണം, ഐസൻകോട്ടിന്റെ ജൂതപാരമ്പര്യം യൂറോപ്പിൽനിന്നല്ല എന്നതും.", 
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/09/who-is-gadi-eisenkot-netanyahu-rival.html"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "title": {
+        "ml": "തുലാപെയ്ത്ത് തുടരും; സംസ്ഥാനത്ത് ശക്തമായ മഴയ്ക്കും ഇടിമിന്നലിനും സാദ്ധ്യത,​ മൂന്ന് ജില്ലകളിൽ മഞ്ഞ അലർട്ട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സംസ്ഥാനത്ത് അടുത്ത അഞ്ച് ദിവസത്തേക്ക് മഴ തുടരുമെന്ന് കേന്ദ്ര കാലാവസ്ഥാ വകുപ്പിന്റെ മുന്നറിയിപ്പ്. പത്തനംതിട്ട, കോട്ടയം, ഇടുക്കി എന്നീ ജില്ലകളിൽ ഇന്ന് മഞ്ഞ അലർട്ടാണ് നൽകിയിരിക്കുന്നത്. ഒറ്റപ്പെട്ട ശക്തമായ മഴയ്ക്കുള്ള സാദ്ധ്യതയാണ് ഈ ജില്ലകളിൽ പ്രവചിക്കപ്പെട്ടിരിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/kerala-rain-alert-yellow-alert-three-districts-thunderstorm-warning-1824387"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "Kerala Highcout invited applications for the post of High Court Assistant",
+        "en": ""
+      },
+      "summary": {
+        "ml": "Willingness is invited from eligible persons to prepare a list of candidates for engagement as Sevak in High Court of Kerala in order to meet the exigencies of service. Preference will be given to candidates residing in ErnakuLam District in Kerala. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://hckrecruitment.keralacourts.in/"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "മഴ ജയിച്ചു, ഇന്ത്യയും! കിവീസിനെ നാലു റൺസിന് തോൽപ്പിച്ച് നാടകീയ വിജയം; ഗിൽ ഗോൾഡൻ ഡക്ക്, തിളങ്ങാതെ കോലിയും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വെല്ലിങ്ടൻ∙</b> മഴക്കളിയിൽ കിവീസിനെ വീഴ്ത്തി ഇന്ത്യ. ന്യൂസീലൻഡിനെതിരായ രണ്ടാം ഏകദിനത്തിൽ മഴനിയമപ്രകാരം (ഡിഎൽഎസ്) നാലു റൺസിനാണ് ഇന്ത്യയുടെ വിജയം. ആദ്യം ബാറ്റു ചെയ്ത ന്യൂസീലൻഡ് 41 ഓവറിൽ 134 റൺസെടുത്തു പുറത്തായി. മഴ ഭീഷണിയുള്ളതിനാൽ മത്സരം 47 ഓവറാക്കി ചുരുക്കിയിരുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/football/2026/11/06/india-vs-pakistan-saff-championship.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 45,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "സച്ചിന്റെ ഉപദേശവും കേട്ടില്ല, വൈഭവിന് ക്യാപ്റ്റൻസി നൽകി ‘പ്രൊമോഷൻ’, സീനീയർ ടീമിനെ നയിക്കാൻ കൗമാര താരം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മുംബൈ∙ ഷയവൽഇന്ത്യയിലെ പ്രധാന ടൂർണമെന്റുകളിലൊന്നായ ദുലീപ് ട്രോഫിയിൽ ഈസ്റ്റ് സോണിന്റെ വൈസ് ക്യാപ്റ്റനായി വൈഭവ് സൂര്യവംശിയെ നിയമിച്ചിരുന്നു. 15 വയസ്സുകാരനായ താരത്തിന് കരിയറിന്റെ തുടക്കത്തിൽ തന്നെ റെഡ് ബോൾ ക്രിക്കറ്റിലെ പ്രധാന സ്ഥാനം നൽകുന്നതിനെതിരെ അന്നു മുതൽ തന്നെ വിമർശനമുയർന്നിരുന്നു. ബാറ്ററെന്ന നിലയില്‍ തിളങ്ങി നിൽക്കുന്ന വൈഭവിനെ നായകസ്ഥാനത്തേക്കു പരീക്ഷിക്കുന്നത് അനാവശ്യ സമ്മര്‍ദങ്ങളിലേക്ക് കൗമാര താരത്തെ തള്ളിവിടുമെന്നായിരുന്നു വിമര്‍ശനം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/11/06/vaibhav-suryavanshi-bihar-captain-syed-mushtaq-ali-trophy-sachin-tendulkar.html"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "‘ഒരുമിച്ച് മദ്യപിച്ച്, ഒരു മുറിയിൽ താമസിച്ചാൽ ബലാത്സംഗമാകുമോ? ഞാൻ പ്രഫഷനൽ ഡോക്ടർ’: മുൻകൂർ ജാമ്യം തേടി ജോൺസൺ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി ∙</b> ബലാത്സംഗക്കേസിൽ <a href=https://author.manoramaonline.com/content/mm/mo/topics/judiciary/bail/ target=_blank rel=noopener noreferrer>മുൻകൂർ ജാമ്യം</a>  തേടി ഡോ. ജോൺസൺ വർഗീസ് കോടതിയിൽ. ഇൻഫോപാർക്ക് പൊലീസ് സ്റ്റേഷനിൽ റജിസ്റ്റർ ചെയ്ത കേസിൽ മുൻകൂർ ജാമ്യത്തിന് ജോൺസൺ എറണാകുളം ജില്ലാ സെഷൻസ് കോടതിയെ സമീപിച്ചത്. നടി അതുല്യ ചന്ദ്ര ഉൾപ്പെടുന്ന സംഘം തന്നെ മർദിച്ചുവെന്ന് കാട്ടി ‍ഡോ. ജോൺസൺ പരാതി നൽകിയതിനു പിന്നാലെ നടിയുടെ ബന്ധു പരാതിയുമായി ഇൻഫോപാർക്ക് പൊലീസിനെ സമീപിക്കുകയായിരുന്നു. എന്നാൽ താൻ നൽകിയ കേസിനെ പ്രതിരോധിക്കാൻ ഉണ്ടാക്കിയതാണ് ബലാത്സംഗ പരാതിയെന്നാണ് ഡോ. ജോൺസന്റെ ആരോപണം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/09/dr-johnson-varghese-seeks-anticipatory-bail-in-infopark-rape-case.html"
+    },
+
+    {
+      "id": "72",
+      "type": "news",
+      "order": 37,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "നാട്ടിൽ വാഴത്തോപ്പും കൃഷിയും; ‘ഡാനി ഭായ്’ വാഴക്കുലയ്ക്കുള്ളിൽ ലഹരി കടത്തും, നിർദേശം ഇൻസ്റ്റഗ്രാം വഴി, ഒടുവിൽ പിടിവീണു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി∙</b> വാഴക്കുലകൾക്കുള്ളിൽ ഒളിപ്പിച്ച് <a href=https://www.manoramaonline.com/topics/crime/drugsmuggling.html target=_blank rel=noopener noreferrer>വൻതോതിൽ എംഡിഎംഎ കടത്തുന്ന</a>  സംഘത്തിലെ പ്രധാനി പിടിയിൽ. ഹരിപ്പാട് പായിപ്പാട് വയ്യാപുരം വില്ലേജ് പറയ്യിൽ വീട്ടിൽ ‘ഡാനി’ എന്നുവിളിക്കുന്ന ധനേഷ് എസ്. നായരെ(31)യാണ് ആലുവ പൊലീസ് അറസ്റ്റ് ചെയ്തത്. ഇയാളിൽനിന്ന് 803 ഗ്രാം ഹഷീഷ് ഓയിലും 8 ഗ്രാം ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/09/mdma-smuggling-kingpin-arrested-dhanesh-danny-bhai-drug-case-kerala.html"
+    },
+
+
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "''കലൂരിലെ റാലി ബോൾഗാട്ടിയിലേക്ക് മാറ്റിച്ചത് പൊലീസ്'; ഗതാഗതക്കുരുക്കിന്റെ ഉത്തരവാദിത്തം തങ്ങൾക്കല്ലെന്ന് യൂത്ത് ലീഗ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കലൂർ സ്റ്റേഡിയം പരിസരത്തുനിന്ന് റാലി ആരംഭിക്കാനാണ് ആദ്യം തീരുമാനിച്ചിരുന്നതെങ്കിലും പൊലീസ് കമ്മീഷണറുടെ അടിയന്തര അഭ്യർത്ഥന മാനിച്ചാണ് വഴി മാറ്റിയതെന്നും അദ്ദേഹം കുറിച്ചു. നേതാക്കളുമായി കമ്മീഷണർ നടത്തിയ കൂടിക്കാഴ്‌ചയിലാണ് ബോൾഗാട്ടിയിൽനിന്ന് റാലി തുടങ്ങിയാൽ ബ്ലോക്കില്ലാതെ കാര്യങ്ങൾ നിയന്ത്രിക്കാമെന്ന് പൊലീസ് അറിയിച്ചത്. ആവശ്യത്തിന് സേനയെ വിന്യസിച്ച് ഗതാഗതം നിയന്ത്രിക്കാമെന്ന് പൊലീസ് നൽകിയ ഉറപ്പിന്മേലാണ് റാലി ബോൾഗാട്ടിയിലേക്ക് മാറ്റിയതെന്നും എന്നിട്ടും ഗതാഗത തടസം ഉണ്ടായിട്ടുണ്ടെങ്കിൽ അതിന്റെ പൂർണ ഉത്തരവാദിത്തം പൊലീസിനാണെന്നും യൂത്ത് ലീഗ് വ്യക്തമാക്കി." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/kochi-youth-league-rally-traffic-block-police-case-leaders-response-1824400"
+    },
+    
+    {
+      "id": "9",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ദേശീയ പാതയിൽ ഇനി വാഹനാപകടങ്ങൾ കുത്തനെ കുറയും, 24 മണിക്കൂറുമുണ്ടാകും എംവിഡിയുടെ കണ്ണ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മലപ്പുറം:</b> ദേശീയപാതയിലെ വാഹനാപകടങ്ങൾ കുറയ്ക്കാൻ 24 മണിക്കൂർ എൻഫോഴ്സ്‌മെന്റ് നിരീക്ഷണം ശക്തമാക്കാൻ മോട്ടോർ വാഹനവകുപ്പ്. ദേശീയപാതയിൽ ഓരോ 20 കിലോമീറ്ററിലും സ്‌ക്വാഡ് വാഹനങ്ങളുമായി നിരീക്ഷണം ഉറപ്പാക്കണമെന്നാണ് നിർദ്ദേശം. എന്നാൽ മലപ്പുറം ജില്ലയിൽ ദേശീയപാത 66ൽ നിലവിൽ നിരീക്ഷണത്തിനുള്ളത് ഒരുവാഹനം മാത്രം. ആവശ്യത്തിന് സ്‌ക്വാഡുകളും വാഹനങ്ങളും അനുവദിക്കാതെ 24 മണിക്കൂർ നിരീക്ഷണം കാര്യക്ഷമമാക്കാനാവില്ലെന്ന ആശങ്കയുമുണ്ട്." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/national-highway-accident-prevention-mvd-surveillance-1824382"
+    },
+
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml":"ബുധനാഴ്‌ച വിദ്യാഭ്യാസ സ്ഥാപനങ്ങളും സർക്കാർ ഓഫീസുകളും പ്രവർത്തിക്കില്ല; തിരുവനന്തപുരം നഗരത്തിൽ പ്രാദേശിക അവധി പ്രഖ്യാപിച്ചു&nbsp;",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ബീമാപള്ളി ഉറൂസിനോടനുബന്ധിച്ച് തിരുവനന്തപുരം നഗരസഭാ പരിധിയിലുള്ള എല്ലാ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്കും സംസ്ഥാന സർക്കാർ ഓഫീസുകൾക്കും പ്രാദേശിക അവധി പ്രഖ്യാപിച്ചു. നവംബർ 11 ബുധനാഴ്‌ചയാണ് അവധി. ഇതുസംബന്ധിച്ച് ജില്ലാ കളക്‌ടർ അഞ്ജു കെ എസ് ഉത്തരവിറക്കി. മുൻകൂട്ടി നിശ്ചയിച്ചിട്ടുള്ള പൊതുപരീക്ഷകൾക്ക് ഈ അവധി ബാധകമായിരിക്കില്ല.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/beemapally-uroos-holiday-thiruvananthapuram-1824365"
+    },
+    {
+       "id": "22",
+      "type": "news",
+      "order": 36,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml": "ഒല്ലൂർ നഗരത്തെ കത്തിച്ചാമ്പലാക്കാൻ ശേഷിയുള്ള ‘പ്ലാസ്റ്റിക് ബോംബ്’; തീപിടിത്തമുണ്ടായാൽ സംഭവിക്കുക വലിയ ദുരന്തം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഒല്ലൂർ ∙ ഒല്ലൂർ നഗരത്തെ കത്തിച്ചാമ്പലാക്കാൻ സാധ്യതയുള്ള പ്ലാസ്റ്റിക് ബോംബ് അണിയറയിൽ. ഹരിതകർമസേന ശേഖരിക്കുന്ന ടൺ കണക്കിനു പ്ലാസ്റ്റിക് മാലിന്യം കൂട്ടിയിട്ടിരിക്കുന്നത് ഒല്ലൂർ ടൗൺഹാളിൽ. പ്ലാസ്റ്റിക് കുത്തിനിറച്ച ഹാളിൽ തീപിടിത്തമുണ്ടായാൽ കത്തിനശിക്കുക ഒല്ലൂർ നഗരം.<br> ഒല്ലൂർ ∙ ഒല്ലൂർ നഗരത്തെ കത്തിച്ചാമ്പലാക്കാൻ സാധ്യതയുള്ള പ്ലാസ്റ്റിക് ബോംബ് അണിയറയിൽ. ഹരിതകർമസേന ശേഖരിക്കുന്ന ടൺ കണക്കിനു പ്ലാസ്റ്റിക് മാലിന്യം കൂട്ടിയിട്ടിരിക്കുന്നത് ഒല്ലൂർ ടൗൺഹാളിൽ. പ്ലാസ്റ്റിക് കുത്തിനിറച്ച ഹാളിൽ തീപിടിത്തമുണ്ടായാൽ കത്തിനശിക്കുക ഒല്ലൂർ നഗരം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/11/09/ollur-plastic-waste-danger-thrissur.html"
+    },
+   {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "രാത്രി അപ്രതീക്ഷിതമായി ഇടവഴികളില്‍ പ്രത്യക്ഷപ്പെടുന്ന തീഗോളം, ആത്മാക്കളുമായി ബന്ധപ്പെടുത്തുന്നതിന് പിന്നില്‍......"
+      },
+      "summary": {
+        "ml": "നൂറ്റാണ്ടുകളായി ശാസ്ത്രലോകത്തെ കുഴക്കുന്ന ഗോളമിന്നൽ അഥവാ ബോൾ ലൈറ്റ്നിങ് എന്ന പ്രതിഭാസത്തിന്റെ രഹസ്യം കണ്ടെത്താൻ നിർണായക ചുവടുവയ്പുമായി ഗവേഷകർ. സാധാരണ മിന്നലിൽനിന്ന് വ്യത്യസ്തമായി, അന്തരീക്ഷത്തിൽ പ്രകാശിക്കുന്ന തീഗോളമായി പ്രത്യക്ഷപ്പെടുകയും ഏതാനും നിമിഷങ്ങൾക്കുശേഷം അപ്രത്യക്ഷമാകുകയും ചെയ്യുന്നതാണ് ഗോളമിന്നൽ. ഒട്ടേറെ ദൃക്‌സാക്ഷി വിവരണങ്ങളുണ്ടെങ്കിലും ഇതു ശാസ്ത്രീയമായി പഠിക്കുക ഏറെ പ്രയാസകരമായിരുന്നു.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/science/2026/11/06/ball-lightning-mystery-solved.html"
+    },  
+    {
+      "id": "81",
+      "type": "news",
+      "order": 46,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "‘വരുന്നത് എല്ലാം ടെക്നോളജി കയ്യടക്കുന്ന കാലം; സമ്പദ്‌വ്യവസ്ഥ വരെ മാറിമറിയും’: ഡോ. ടോം ജോസഫ്"
+      },
+      "summary": {
+        "ml": "വരും കാലത്ത് എഐ തീരുമാനങ്ങൾ എടുക്കുന്ന സ്ഥിതിയിലേക്കു വരും. എല്ലാം റോബർട്ടുകളെ പോലെ പ്രവർത്തിക്കും. പ്രതീക്ഷകൾക്ക് അപ്പുറമുള്ള ലോകമാണ് വരാനുള്ളത്. ടെക്നോളജിയെന്നത് എല്ലാ കാര്യങ്ങളിലേക്കും അദൃശ്യസാന്നിധ്യമാകുമെന്നും ടോം ജോസഫ് പറഞ്ഞു. നാഗരികതയുടെ അടിത്തറയായി ടെക്നോളജി മാറുന്ന കാലമാണു വരുന്നത്. 2030 ആകുന്നതോടെ അടുത്ത ചോദ്യം മാറ്റം എന്താണെന്നതാണ്. എഐ കൂടുതൽ ഓട്ടണമസ് ആകും. റോബട്ടുകളുടെ കൈകളിലേക്കാണ് എല്ലാം പോകുന്നത്. നാം ഇടപെടുന്ന എല്ലാത്തിലും സാങ്കേതികതയുടെ ഇടപെടലുണ്ടാകുന്ന കാലമാണു വരുന്നതെന്നും ടോം ജോസഫ് പറഞ്ഞു.<br>വരും കാലത്ത് എഐ തീരുമാനങ്ങൾ എടുക്കുന്ന സ്ഥിതിയിലേക്കു വരും. എല്ലാം റോബർട്ടുകളെ പോലെ പ്രവർത്തിക്കും. പ്രതീക്ഷകൾക്ക് അപ്പുറമുള്ള ലോകമാണ് വരാനുള്ളത്. ടെക്നോളജിയെന്നത് എല്ലാ കാര്യങ്ങളിലേക്കും അദൃശ്യസാന്നിധ്യമാകുമെന്നും ടോം ജോസഫ് പറഞ്ഞു. നാഗരികതയുടെ അടിത്തറയായി ടെക്നോളജി മാറുന്ന കാലമാണു വരുന്നത്. 2030 ആകുന്നതോടെ അടുത്ത ചോദ്യം മാറ്റം എന്താണെന്നതാണ്. എഐ കൂടുതൽ ഓട്ടണമസ് ആകും. റോബട്ടുകളുടെ കൈകളിലേക്കാണ് എല്ലാം പോകുന്നത്. നാം ഇടപെടുന്ന എല്ലാത്തിലും സാങ്കേതികതയുടെ ഇടപെടലുണ്ടാകുന്ന കാലമാണു വരുന്നതെന്നും ടോം ജോസഫ് പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/02/27/2030-technology-revolution-tom-joseph-jain-university.html"
+    },  
+   
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "Select a Computer Configuraton <br> Selecting the right computer configuration depends mainly on what you want to use the computer for, your budget, and how long you expect it to last.",
+        "en": ""
+      },
+      "summary": 
+      {
+        "ml": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Computer Configuration Guide</title>\n<style>\nbody { font-family: Arial, sans-serif; margin: 20px; }\nh2 { color: #1f4e79; margin-top: 25px; }\ntable { width: 100%; border-collapse: collapse; margin-bottom: 25px; }\nth, td { border: 1px solid #333; padding: 10px; text-align: left; }\nth { background-color: #d9eaf7; }\ntr:nth-child(even) { background-color: #f2f2f2; }\n</style>\n</head>\n<body>\n\n<h1>Computer Configuration Guide</h1>\n\n<h2>1. Identify Your Purpose</h2>\n<table>\n<tr><th>Usage</th><th>Recommended Configuration</th></tr>\n<tr><td>Basic tasks (MS Office, browsing, email)</td><td>Entry-level</td></tr>\n<tr><td>Programming and software development</td><td>Mid-range</td></tr>\n<tr><td>Graphic design and photo editing</td><td>Mid-range to high-end</td></tr>\n<tr><td>Video editing and 3D modelling</td><td>High-end</td></tr>\n<tr><td>Gaming</td><td>High-end with dedicated GPU</td></tr>\n<tr><td>AI and machine learning</td><td>High-end GPU and RAM</td></tr>\n</table>\n\n<h2>2. Understand the Important Components</h2>\n<table>\n<tr><th>No.</th><th>Component</th><th>Description</th><th>Recommended Configuration</th></tr>\n<tr><td>1</td><td>Processor (CPU)</td><td>The brain of the computer.</td><td>Basic: Intel Core i3 / AMD Ryzen 3<br>Recommended: Intel Core i5 / AMD Ryzen 5<br>Advanced: Intel Core i7 / AMD Ryzen 7</td></tr>\n<tr><td>2</td><td>RAM</td><td>Determines how many applications you can run smoothly.</td><td>Basic: 8 GB<br>Recommended: 16 GB<br>Heavy workloads: 32–64 GB</td></tr>\n<tr><td>3</td><td>Storage</td><td>Stores your operating system, software and files.</td><td>Basic: 256 GB SSD<br>Recommended: 512 GB SSD<br>Heavy workloads: 1 TB or more SSD</td></tr>\n<tr><td>4</td><td>Graphics Card (GPU)</td><td>Important for gaming, video editing, 3D design and AI.</td><td>Basic: Integrated graphics<br>Advanced: Dedicated NVIDIA GeForce RTX or AMD Radeon GPU</td></tr>\n<tr><td>5</td><td>Motherboard</td><td>Connects all computer components.</td><td>Must support the processor, RAM generation, storage and future upgrades.</td></tr>\n<tr><td>6</td><td>Power Supply (PSU)</td><td>Supplies power to all computer components.</td><td>Choose a reliable PSU with sufficient wattage for the CPU and GPU.</td></tr>\n</table>\n\n<h2>3. Example Recommended Configurations</h2>\n<table>\n<tr><th>Component</th><th>General-Purpose PC</th><th>Performance PC</th></tr>\n<tr><td>CPU</td><td>Intel Core i5 / AMD Ryzen 5</td><td>Intel Core i7 / AMD Ryzen 7</td></tr>\n<tr><td>RAM</td><td>16 GB</td><td>32 GB</td></tr>\n<tr><td>Storage</td><td>512 GB NVMe SSD</td><td>1 TB NVMe SSD</td></tr>\n<tr><td>GPU</td><td>Integrated graphics</td><td>Dedicated NVIDIA RTX GPU</td></tr>\n<tr><td>PSU</td><td>450–550 W</td><td>650–850 W</td></tr>\n<tr><td>Monitor</td><td>Full HD</td><td>QHD or 4K</td></tr>\n</table>\n\n</body>\n</html>"
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :81,106.65<span style='color:green;'> +107.75(▲  2.13%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 25,044.65 <span style='color:green;'> +58.25(▲ +0.23%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:red;'> ₹14,460(▲ ₹ +103)   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:red;'>₹ 205 (▼ ₹ 0  ) </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+    {
+      "id": "908",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഉപകാര സ്മരണ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<span style='color:red; fornt-weight:bold;'>വിശുദ്ധ യൂദാസ്ലീഹായുടെ നൊവേന.</span><br> മിശിഹായുടെ സ്നേഹിതനും വിശ്വസ്തദാസനുമായ വി. യൂദാശ്ലീഹായേ, ഏറ്റവും കഷ്ടപ്പെടുന്ന എനിക്കുവേണ്ടി അപേക്ഷിക്കണമേ. യാതൊരു സഹായവും ഫലസിദ്ധിയുമില്ലാതെ വരുന്ന സന്ദര്‍ഭത്തില്‍ ഏറ്റവും ത്വരിതവും, ഗോചരവുമായ സഹായം ചെയ്യുന്നതിന് അങ്ങേക്ക് വിശേഷവിധിയായാി കിട്ടിയിരിക്കുന്ന അനുഗ്രഹത്തെ അങ്ങ് ഉപയോഗിക്കണമെ. എന്‍റെ എല്ലാ ആവശ്യങ്ങളിലും വിശിഷ്യ(ആവശ്യം പറയുക) അങ്ങേ സഹായം ഞാനപേക്ഷിക്കുന്നു. ഭാഗ്യപ്പെട്ട യൂദാസ്ലീഹായേ, അങ്ങേ ഈ അനുഗ്രഹത്തെ ഞാന്‍ സദാ ഓര്‍ക്കുമെന്നും അങ്ങേ സ്തുതികളെ ലോകത്തെങ്ങും അറിയിക്കുമെന്നും ഞാന്‍ വാഗ്ദാനം ചെയ്യുന്നു. <b>ആമ്മേന്‍</b>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/stjude.jpg",
+      "link": ""
+    },
+
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "950",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "ന്യൂസ്",
+        "en": "paper"
+      },
+      "title": {
+        "ml": "<b>📰</b> പ്രമുഖ പത്രങ്ങളിലൂടെ..................",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ul><li><a href='https://keralakaumudi.com/' target='_blank'>കേരള കൌമുദി</a> </li><li> <a href='https://www.mathrubhumi.com/' target='_blank'>മാതൃഭൂമി</a> </li><li> <a href='https://www.deepika.com/' target='_blank'>ദീപിക</a></li><li><a href='https://www.manoramaonline.com/' target='_blank'>മലയാള മനോരമ</a></li></ul><br>🌐 Web Sites.<br><ul><li><a href='https://www.reporterlive.com/' target='_blank'> റിപ്പോര്‍ട്ടര്‍ ടി.വി.</a> </li><li><a href='https://www.asianetnews.com/' target='_blank'> ഏഷ്യനെറ്റ് ന്യൂസ് </a> </li><li><a href='https://www.twentyfournews.com/' target='_blank'> ട്വിന്‍റി ഫോര്‍ ന്യൂസ് </a> </li></ul>",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "906",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സുര്യനു കീഴില്‍ ഏതൊരു ഓണ്‍ലൈന്‍ സേവനങ്ങള്‍ക്കും.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "ഞങ്ങളെ ബന്ധപ്പെടുക. Experienced Professionals since 1986.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/anyservices.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "907",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "ആശംസകള്‍",
+        "en": "gret"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

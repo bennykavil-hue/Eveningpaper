@@ -1,0 +1,1049 @@
+{
+  "settings": {
+    "publicationDate": "2026-11-10",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "തുലാം 24, 1202",
+      "en": "Thulam 118, 1202"
+    },
+    "hijriDate": {
+      "ml": "30 ജമാദുൽ അവ്വൽ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 504,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "news",
+        "category": "ന്യൂസ്"
+      },
+
+      {
+        "id": "weather",
+        "category": "കാലാവസ്ഥ"
+      },
+
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "gret",
+        "category": "ആശംസകള്‍"
+      },
+
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Every day becomes special when we bring kindness, freedom and happiness into someone's life. ❤️<br>Science gives us knowledge, kindness gives us humanity, and peace gives us a better tomorrow. ❤️",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+        "label": {
+        "ml": "വാര്‍ത്ത ഉറവിടം",
+        "en": "news"
+      },
+      "link": "#news"
+    },
+    
+     {
+        "label": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "link": "#weather"
+    },
+ 
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "ആശംസകള്‍",
+        "en": "Greetings"
+      },
+      "link": "#gret"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "പ്രശസ്ത ഛായാഗ്രാഹകൻ ഷാജികുമാർ അന്തരിച്ചു",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി: </b>പ്രശസ്ത ഛായാഗ്രാഹകൻ ഷാജി കുമാർ അന്തരിച്ചു. കൊച്ചിയിൽ സ്വകാര്യ ആശുപത്രിയിൽ വെച്ചായിരുന്നു അന്ത്യം. ആദ്യ നൂറുകോടി ചിത്രം പുലിമുരുകൻ അടക്കം അമ്പതിലേറെ ചിത്രങ്ങൾക്കായി ക്യാമറ ചലിപ്പിച്ചിട്ടുണ്ട്.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.mathrubhumi.com/news/kerala/cinematographer-shaji-kumar-passes-away-hhk4lhlw"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "😊 Today is Monday, 9 November 2026, and there are a few special observances today.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ol><li><b>World Science Day for Peace and Development 🌍</b>Celebrates science's contribution to peace, progress and sustainable development. 2026 theme: Common Ground Through Science Diplomacy <br> November 10 is World Science Day for Peace and Development. India's National Science Day is celebrated on February 28.</li><li><b>. Govardhan Puja 🙏</b>A Hindu festival celebrating Lord Krishna and the protection of nature</li><li><b>Gujarati New Year 🪔</b>Celebrated by many Gujarati communities today.</li></ol>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.unesco.org/en/days/science-peace-development?hub=748&utm_source=chatgpt.com"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'മമ്മൂട്ടിക്കെതിരെയുള്ള പഴയ വിവാദ ഫേസ്ബുക്ക് പോസ്റ്റ് നീക്കംചെയ്ത് ബി. ഗോപാലകൃഷ്ണൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b>&nbsp;2025-ലെ സംസ്ഥാന&nbsp;ചലച്ചിത്ര അവാർഡ് പ്രഖ്യാപനത്തിന് പിന്നാലെ&nbsp;മമ്മൂട്ടി ഉൾപ്പെടെയുള്ള&nbsp;മുസ്ലീം വിഭാഗത്തിൽപ്പെട്ട അവാർഡ് ജേതാക്കൾക്കെതിരെ&nbsp;ഫേസ്ബുക്കിൽ പങ്കുവെച്ച വിദ്വേഷ&nbsp;പോസ്റ്റ്&nbsp;നീക്കംചെയ്ത്&nbsp;ബിജെപി നേതാവ് ബി. ഗോപാലകൃഷ്ണൻ.&nbsp;അവാർഡ് ലഭിച്ച മമ്മൂട്ടി ഉൾപ്പെടെയുള്ള മുസ്ലിം നാമധാരികളായ അവാർഡ് ജേതാക്കളുടെ പേരുകൾ പരാമർശിച്ച് പരിഹസിക്കുന്ന രീതിയിലായിരുന്നു പോസ്റ്റ് പങ്കുവെച്ചിരുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/b-gopalakrishnan-deletes-facebook-post-against-mammootty-ml9thjo3"
+    },
+    {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "എല്ലാവിധ ഓൺ സേവനങ്ങൾ വിരൽ തുമ്പിൽ ലഭ്യമാക്കുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt2.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "35",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഐസിഎസ്ഇ പത്ത്, പന്ത്രണ്ട് ക്ലാസ് പരീക്ഷാ തീയതി പ്രഖ്യാപിച്ചു; ടൈംടേബിൾ പുറത്ത്, അറിയേണ്ട കാര്യങ്ങൾ"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> അടുത്ത വർഷത്തെ ഐസിഎസ്ഇ പത്താം ക്ളാസ്,​ പന്ത്രണ്ടാം ക്ളാസ് ബോർഡ് പരീക്ഷകളുടെ ടൈംടേബിൾ പ്രഖ്യാപിച്ചു. കൗൺസിൽ ഫോർ ദ ഇന്ത്യൻ സ്കൂൾ സർട്ടിഫിക്കറ്റ് എക്സാമിനേഷൻസ് ആണ് ടൈംടേബിൾ പ്രസിദ്ധീകരിച്ചത്. പത്താം ക്ലാസ് പരീക്ഷ ഫെബ്രുവരി 15ന് ആരംഭിച്ച് മാർച്ച് 31ന് അവസാനിക്കും. പന്ത്രണ്ടാം ക്ലാസ് പരീക്ഷകൾ ഫെബ്രുവരി ഒമ്പതിന് തുടങ്ങി ഏപ്രിൽ എട്ടിന് പൂർത്തിയാകും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/icse-isc-board-exam-2027-timetable-released-class-10-12-1824784"
+    },
+     {
+      "id": "36",
+      "type": "news",
+      "order": 40,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "'ഓപ്പറേഷൻ ബ്ളൂ സ്റ്റാറിലെ ചിത്രങ്ങൾ കണ്ട് ഇന്ദിരാ ഗാന്ധി കരഞ്ഞു'; പഞ്ചാബിൽ പുതിയ വിവാദം"
+      },
+      "summary": {
+        "ml": "<b>ചണ്ഡിഗഡ്: </b>ഓപ്പറേഷൻ ബ്ളൂ സ്റ്റാറിനിടെ പുറത്തുവന്ന ചിത്രങ്ങളിൽ മുൻ പ്രധാനമന്ത്രി ഇന്ദിരാ ഗാന്ധി അസ്വസ്ഥയായിരുന്നുവെന്ന വെളിപ്പെടുത്തലിൽ പ‌ഞ്ചാബിൽ പുതിയ വിവാദം. കോൺഗ്രസ് നേതാവ് സോണിയ ഗാന്ധിയുടെ 'ബിലോഗിംഗ് എ ജേർണി ഒഫ് ലവ്' എന്ന ഓർമ്മക്കുറിപ്പിൽ ഇക്കാര്യം പരാമർശിക്കുന്നുണ്ടെന്നാണ് റിപ്പോർട്ട്. പുസ്‌തകം ഇന്ന് പുറത്തിറങ്ങിയിരിക്കെയാണ് പുതിയ വിവാദം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/sonia-gandhi-operation-blue-star-controversy-1824724"
+    },
+   
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'UDF യോഗം ചേരാത്തത് എന്തെന്ന് ചെയർമാനോട് ചോദിക്കണം, കാര്യങ്ങളൊക്കെ പുറത്തുവരട്ടെ'; സതീശനെതിരേ വീണ്ടും അടൂർപ്രകാശ്"
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മുഖ്യമന്ത്രി വി.ഡി. സതീശനോടുള്ള അതൃപ്തി വീണ്ടും പ്രകടിപ്പിച്ച് യു.ഡി.എഫ്. കൺവീനർ അടൂർ പ്രകാശ്. യു.ഡി.എഫ്. യോഗം ചേരാത്തത് എന്തെന്ന് ചെയർമാനോട് ചോദിക്കണം. മന്ത്രിസഭയിൽ കൂട്ടുത്തരവാദിത്വം ഉണ്ട് എന്നതിനുള്ള തെളിവാണ് പുറത്തുവരുന്നത് എന്നും അടൂർപ്രകാശ് പരിഹസിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/adoor-prakash-criticizes-vd-satheesan-udf-meeting-bqwxifrp"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കുട്ടികളുടെ വാഹന ഉപയോഗം; രക്ഷിതാക്കൾക്ക് നിയന്ത്രിക്കാനായില്ലെങ്കിൽ വാഹനം വിൽക്കട്ടെ- ഗതാഗത മന്ത്രി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> കുട്ടികളുടെ വാഹന ഉപയോഗത്തിൽ കർശന നടപടി സ്വീകരിക്കുമെന്ന് ഗതാഗത മന്ത്രി സി.പി.ജോൺ. കുട്ടികൾ വാഹനം ഉപയോഗിച്ചാൽ രക്ഷിതാക്കൾക്കെതിരെയായിരിക്കും നടപടിയെടുക്കുക. കുട്ടികളെ നിയന്ത്രിക്കാനായില്ലെങ്കിൽ രക്ഷിതാക്കൾ വാഹനം വിൽക്കട്ടെയെന്നും മന്ത്രി പറഞ്ഞു.&nbsp;കുട്ടികൾ ഉൾപ്പെട്ട വാഹാനാപകട കേസുകൾ പെരുകുന്നതിനിടെയിലാണ് മന്ത്രിയുടെ പ്രതികരണം",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/kerala-transport-minister-warns-parents-minor-driving-mu2y7bqb"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 39,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ലോകകേരളസഭ നൽകിയത് അറുനൂറോളം ശുപാർശകൾ; നടപ്പായത് 20-ൽ താഴെ മാത്രം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ലോകകേരളസഭയുടെ അഞ്ചുസമ്മേളനങ്ങളിലൂടെ അറുനൂറോളം നിർദേശങ്ങൾ സർക്കാരിനുമുന്നിൽ വന്നെങ്കിലും നടപ്പായത് ഏതാനും ചില തീരുമാനങ്ങൾ മാത്രം. അതും ഇത്തരമൊരു സമ്മേളനം ചേരാതെതന്നെ തീരുമാനിക്കാവുന്നവ. 20-ൽ താഴെമാത്രം നിർദേശങ്ങൾ നടപ്പായെന്നാണ് നോർക്കയുടെ കണക്ക്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/loka-kerala-sabha-effectiveness-and-recommendations-analysis-jqsa2zv9"
+    },
+
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "സോണിയയുടെ ആത്മകഥ ഇന്ന് വിപണിയിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> മുതിർന്ന കോൺഗ്രസ് നേതാവ് സോണിയ ഗാന്ധിയുടെ ആത്മകഥ 'ബിലോംഗിംഗ്: എ ജേർണി ഒഫ് ലവ്' ഇന്ന് പുറത്തിറങ്ങും. ഇറ്റലിയിലെ ബാല്യകാലവും രാജീവ് ഗാന്ധിയുടെ ഭാര്യയായി ഇന്ത്യയിലെത്തിയതും ദേശീയ രാഷ‌്‌ട്രീയത്തിൽ നിർണായക പങ്കുവഹിച്ചതുമെല്ലാം വിവരിക്കുന്ന പുസ്‌തകത്തിലെ ഉള്ളടക്കം ഇതിനകം ചർച്ചയായിക്കഴിഞ്ഞു. ഹാർപ്പർ കോളിൻസ് ഇന്ത്യയാണ് പ്രസാധകർ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/national-1824700"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "നക്‌സൽ പ്രയോഗം: മോദിയെ  സംവാദത്തിന് ക്ഷണിച്ച് രാഹുൽ"},
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> ഛത്തീസ്ഗഢിലെ ബസ്‌തറിൽ സി.ആർ.പി.എഫ് ജവാൻമാർക്കൊപ്പമുള്ള ദീപാവലി ആഘോഷ ചടങ്ങിൽ 'നക്‌സൽ' പ്രയോഗവുമായി ബന്ധപ്പെട്ട് പ്രധാനമന്ത്രി നരേന്ദ്രമോദിയെ സംവാദത്തിന് ക്ഷണിച്ച് കോൺഗ്രസ് നേതാവ് രാഹുൽ ഗാന്ധി. വിവിധ വിഷയങ്ങളിൽ ഇത് മൂന്നാം തവണയാണ് രാഹുലിന്റെ സംവാദ വെല്ലുവിളി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/news-360/national/national-1824658"
+    },
+
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "world"
+      },
+      "title": {
+        "ml": "സർക്കാർ രൂപവത്കരണം: പ്രതിപക്ഷ നേതാക്കളുമായി കരാറുണ്ടാക്കി ഐസൻകോട്ട്; നെസെറ്റ് പദവികളിൽ ധാരണയിലെത്തി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ജറുസലേം:</b> ഇസ്രയേലിൽ പുതിയ സർക്കാർ രൂപീകരിക്കുന്നതിനുള്ള <a href='https://www.mathrubhumi.com/news/world/benjamin-netanyahu-rule-ends-gadi-eizenkot-israel-government-ygzedgv7'>ഔദ്യോഗിക ചുമതല ലഭിച്ചതോടെ</a>  പദവികൾ സംബന്ധിച്ച് പ്രതിപക്ഷ നേതാക്കളുമായി ധാരണയിലെത്തി മുൻ സൈനിക മേധാവി ഗാദി ഐസൻകോട്ട്. നെസെറ്റിലെ പ്രധാന പദവികൾ പങ്കിടുന്നതിനായി പ്രതിപക്ഷ നേതാക്കളായ നഫ്താലി ബെനറ്റ്, യെയർ ഗോലാൻ, അവിഗ്ഡോർ ലീബർമാൻ, യെയർ ലാപിഡ് എന്നിവരുമായി താൻ കരാറിലെത്തിയതായി ഐസൻകോട്ട് വ്യക്തമാക്കി.", 
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/world/gadi-eisenkot-israel-government-formation-opposition-deal-e5oa7it0"
+    },
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "title": {
+        "ml": "The weather in Kerala tomorrow (Wednesday, November 11, 2026) will be warm and mostly cloudy, with a high of 33°C and a low of 24°C.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>Key Forecast Details for Tomorrow</b><br><ul><li><strong>Daytime Conditions:</strong> Mostly cloudy skies with a high temperature around 33°C (feels like up to 39°C during peak hours).</li><li><strong>Precipitation Chance:</strong> Low to moderate (around 10% to 15% chance of passing light rain or isolated showers).</li><li><strong>Nighttime Conditions:</strong> Cloudy with a low temperature around 24°C.</li><li><strong>Humidity:</strong> Ranging from about 58% during the afternoon to roughly 88–90% at night.</li><li><strong>Wind:</strong> Light breezes coming from the southwest at about 3 mph.</li></ul>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://mausam.imd.gov.in/thiruvananthapuram/"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "കേരള പി. എസ്. സി.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കേരളത്തിലെ സര്‍ക്കാര്‍, അര്‍ദ്ധ സര്‍ക്കാര്‍, പൊതുമേഖലെ സ്ഥാപനങ്ങളിലേക്ക് വിവിധ തസ്തികകള്‍ക്കേ അപേക്ഷിക്കുവാന്‍ സന്ദര്‍ശിക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/PSC.png",
+      "link": "https://www.keralapsc.gov.in/home-2"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "160 റൺസുമായി കത്തിക്കയറി ആര്യവീർ സെവാഗ്, നിർണായകമത്സരത്തിൽ മികച്ച സ്കോർ പടുത്തുയർത്തി ഇന്ത്യ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>അൽ അമറാത്ത്(ഒമാൻ):</b>&nbsp;അണ്ടർ-19 ഏഷ്യാകപ്പിൽ ആര്യവീർ സെവാഗ് ഒരിക്കൽ കൂടി കത്തിക്കയറിയപ്പോൾ യുഎഇയ്ക്കെതിരേ മികച്ച സ്കോർ പടുത്തുയർത്തി ഇന്ത്യ. നിശ്ചിത അമ്പത് ഓവറിൽ ഇന്ത്യ ഏഴ് വിക്കറ്റ് നഷ്ടത്തിൽ 309 റൺസടുത്തു. 160 റൺസുമായി ഇന്ത്യൻ സ്കോറിലേക്ക് നിർണായക സംഭാവന നൽകിയ ആര്യവീർ മൈതാനത്ത് നിറഞ്ഞുനിന്നു. 17 ഫോറുകളും ഏഴ് സികസ്‌റുമടങ്ങുന്നതായിരുന്നു ഇന്നിങ്‌സ്. ഇരുടീമുകൾക്കും നിർണായകമാണ് മത്സരം. ജയിക്കുന്നവർക്ക് സെമിയിലെത്താം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/sports/cricket/u19-asia-cup-india-uae-fwhsu1oj"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 45,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "ആര്യവീർ‌ ഉയർത്തിയ റൺമലയ്‌ക്കു മുന്നിൽ മുട്ടുകുത്തി യുഎഇ; വമ്പൻ ജയവുമായി ഇന്ത്യ സെമിഫൈനലിൽ, എതിരാളികൾ അഫ്‍ഗാനിസ്ഥാൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>അൽ അമിറാത്ത് (ഒമാൻ)∙</b> പറ്റുന്നതു പോലെയെല്ലാം യുഎഇ പൊരുതി നോക്കി, ഒടുവിൽ ഇന്ത്യയുടെ റൺമലയ്ക്കു മുന്നിൽ അടിയറവു പറഞ്ഞു. അണ്ടർ 19 ഏഷ്യാ കപ്പ് ക്രിക്കറ്റിലെ നിർണായക മത്സരത്തിൽ യുഎഇയെ തോൽപ്പിച്ച് ഇന്ത്യ സെമി ഫൈനലിൽ കടന്നു. 70 റൺസിനാണ് ഇന്ത്യയുടെ കൗമാരസംഘം യുഎഇയെ തോൽപ്പിച്ചത്. ഇന്ത്യ ഉയർത്തിയ 310 റൺസ് വിജയലക്ഷ്യം പിന്തുടർന്ന യുഎഇയുടെ ഇന്നിങ്സ് 50 ഓവറിൽ 239 റൺസിൽ അവസാനിച്ചു. അർധസെഞ്ചറി നേടിയ അഹമ്മദ് ഖുദാദാദ് (74 പന്തിൽ 74), നൂറുല്ല അയോബി (25 പന്തിൽ 39), യായിൻ റായ് (44 പന്തിൽ 29), ക്യാപ്റ്റൻ അയാൻ മിസ്ബ (53 പന്തിൽ 27) എന്നിവരാണ് യുഎഇയ്ക്കു വേണ്ടി പൊരുതിയത്. ഇന്ത്യയ്ക്കു വേണ്ടി പന്തെറിഞ്ഞ ഏഴു ബോളർമാരും വിക്കറ്റ് വീഴ്ത്തി. ഇഷാൻ സൂദ് നാലു വിക്കറ്റ് വീഴ്ത്തി. 12ന് അഫ്ഗാനിസ്ഥാനെതിരെയാണ് ഇന്ത്യയുടെ സെമിഫൈനൽ മത്സരം.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/11/10/u19-asia-cup-2026-india-vs-uae-u19-live-score-highlights.html"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "‘160 റൺസുമായി കത്തിക്കയറി ആര്യവീർ സെവാഗ്, നിർണായകമത്സരത്തിൽ മികച്ച സ്കോർ പടുത്തുയർത്തി ഇന്ത്യ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> കൊച്ചിയിൽ ഡോക്ടറെ മർദിച്ച കേസിൽ തർക്കം തീർക്കാൻ ഡോക്ടർ ജോൺസൺ കെ.എഫ്. വർഗീസ് തങ്ങൾക്ക് ഒരു കോടി രൂപ വാഗ്ദാനം ചെയ്തുവെന്ന് പ്രതികളുടെ മൊഴി. പിന്നീട് ഇതുമായി ബന്ധപ്പെട്ട്&nbsp;തർക്കങ്ങൾ ഉണ്ടായെന്നും പ്രതികൾ പറഞ്ഞു. ഇരുവരുമായി ഇന്ന് തെളിവെടുപ്പ് നടക്കും. അതേസമയം ഒളിവിലുള്ള ഡോക്ടറെ പിടികൂടാൻ ശ്രമം തുടരുന്നതായി അന്വേഷണ സംഘം അറിയിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/kochi-doctor-assault-case-rs-1-crore-offer-xtfvzjrq"
+    },
+
+    {
+      "id": "72",
+      "type": "news",
+      "order": 37,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "‘'പീഡനവിവരം ഒതുക്കാൻ ഒരു കോടി വാഗ്ദാനം ചെയ്ത് ഡോക്ടർ, തർക്കം'; ഡോക്ടറെ പിടികൂടാനാകാതെ പോലീസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം∙</b> ‘‘ഓടിക്കൊണ്ടിരിക്കുന്ന ട്രെയിൻ ആയിരുന്നെങ്കിൽ അയാൾ എന്നെ  <a href='https://www.manoramaonline.com/topics/crime/attack.html' target='_blank' rel='noopener noreferrer'>വലിച്ചു പുറത്തേക്ക് ഇട്ടേനെ</a> . മറ്റൊരു സൗമ്യയായി ഞാൻ മാറിയേനെ. എങ്കിൽ എനിക്ക് ഇങ്ങനെ പറയാൻ പോലും പറ്റുമായിരുന്നില്ല. രാത്രിയിലോ അല്ലെങ്കിൽ ഓടിക്കൊണ്ടിരിക്കുന്ന ട്രെയിനോ ആയിരുന്നെങ്കിൽ എന്താവും സംഭവിക്കുക. ഇതിപ്പോ ട്രെയിൻ നിർത്തി പ്ലാറ്റ്‌ഫോമിൽ ആയതുകൊണ്ട് ഇങ്ങനെ ആയി’’– ഇന്നു രാവിലെ മലബാർ എക്‌സ്പ്രസിൽ വച്ചും തുടർന്ന് റെയിൽവേ സ്‌റ്റേഷനിൽവച്ചും ആക്രമണത്തിന് ഇരയായ യുവതി തന്റെ ദുരനുഭവം കണ്ണീരോടെ പറയുന്നു. യുവതിയുടെ പരാതിയിൽ ആറ്റിങ്ങൽ സ്വദേശി വിജേഷിനെ റെയിൽവേ പൊലീസ് അറസ്റ്റു ചെയ്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/10/woman-assaulted-on-malabar-express-accused-arrested-at-pettah-railway-station.html"
+    },
+
+
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കാലടി സർവകലാശാല; എം.ബി. രാജേഷിന്റെ ഭാര്യയുടേതടക്കം 19 നിയമനങ്ങൾ അനധികൃതമെന്ന് റിപ്പോർട്ട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> കാലടി സംസ്‌കൃത സർവകലാശാലയിൽ 2021-ൽ നടത്തിയ 19 അധ്യാപക നിയമനങ്ങൾക്ക് അംഗീകാരമില്ലെന്ന് ഓഡിറ്റ് വിഭാഗം കണ്ടെത്തി. ഡോ. ധർമ്മരാജ് അടാട്ട് വൈസ് ചാൻസലറായിരിക്കേ നടന്ന ഈ നിയമനങ്ങൾ സർക്കാർ നിർദേശത്തിലുള്ള റോസ്റ്റർ പാലിച്ചില്ലെന്നാണ് കണ്ടെത്തൽ.&nbsp;നിയമനം നേടിയവരിൽ മുൻമന്ത്രി എം.ബി. രാജേഷിന്റെ ഭാര്യ നിനിത കണിച്ചേരിയും ഉൾപ്പെടും." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/kaladi-university-teacher-appointments-afs4ad0l"
+    },
+    
+    {
+      "id": "9",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "നവംബർ 12ന് സംസ്ഥാനത്ത് ഓട്ടോ–ടാക്സി പണിമുടക്ക്; പ്രഖ്യാപനവുമായി സംയുക്ത തൊഴിലാളി യൂണിയൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ഓട്ടോ ടാക്സി നിരക്ക് വർദ്ധന ആവശ്യപ്പെട്ട് സംസ്ഥാനത്ത് നവംബർ 12ന് 24 മണിക്കൂർ പണിമുടക്ക് പ്രഖ്യാപിച്ച് സംയുക്ത തൊഴിലാളി യൂണിയൻ. ഇന്ന് (നവംബർ 11)​ അർദ്ധരാത്രി ആരംഭിക്കുന്ന പണിമുടക്ക് നാളെ (നവംബർ 12)​ അ‌‌ർദ്ധരാത്രി വരെ തുടരും. നിരക്ക് വർദ്ധന ഉൾപ്പെടെയുള്ള ആവശ്യങ്ങൾ ഉന്നയിച്ചാണ് തൊഴിലാളികൾ സമരത്തിനിറങ്ങുന്നത്." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://keralakaumudi.com/kerala/general/kerala-auto-taxi-strike-november-12-joint-trade-union-1824771"
+    },
+
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml":"തിങ്ങി ഞെരുങ്ങി വിദ്യാർഥികൾ, ക്ലാസ്മുറികളായി വരാന്തകൾ, ‘ഫൈന’ല്ലാത്ത തൃശൂർ ഗവ. ഫൈൻ ആർട്സ് കോളജ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തൃശൂർ ∙</b> സാംസ്കാരിക നഗരിയുടെ ഹൃദയഭാഗത്തായി അത്ര ‘ഫൈന’ല്ലാത്ത ഒരു ഫൈൻ ആർട്സ് കോളജുണ്ട്. മുൻ മുഖ്യമന്ത്രി കെ.കരുണാകരൻ, ആർട്ടിസ്റ്റ് നമ്പൂതിരി, സംവിധായകരായ പി.എൻ.മേനോൻ, ഭരതൻ എന്നുതുടങ്ങി പ്രമുഖരായ പലരും പഠിച്ചിറങ്ങിയ തൃശൂർ ഗവ. ഫൈൻ ആർട്സ് കോളജിന്റെ നിലവിലെ സ്ഥിതിയാണ് പറഞ്ഞുവരുന്നത്.",
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/11/10/thrissur-fine-arts-college-infrastructure-crisis.html"
+    },
+    {
+       "id": "22",
+      "type": "news",
+      "order": 36,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml": "രാഷ്ട്രീയ ഏകതാ ദിവസ് റാലിയിൽ പങ്കെടുത്ത്് റെയിൽവേ സംരക്ഷണ സേനാംഗം സജീവ് കുമാർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം </b>∙ ‘രാഷ്ട്രീയ ഏകതാ ദിവസ്’ (ദേശീയ ഐക്യദിനം) ത്തോടനുബന്ധിച്ച് ‘ലഹരിക്കെതിരെ പോരാട്ടം’ (Fight Against Drugs) എന്ന പ്രമേയത്തിൽ ഡൽഹിയിൽ നിന്ന് ഗുജറാത്തിലെ ഏകതാ നഗറിലേക്ക് ദേശീയതലത്തിൽ സംഘടിപ്പിച്ച മോട്ടോർ സൈക്കിൾ റാലിയിലും തുടർന്ന് നടന്ന ദേശീയ ഐക്യദിന പരേഡിലും തിരുവനന്തപുരം ഡിവിഷനിലെ റെയിൽവേ സംരക്ഷണ സേനാംഗമായ സജീവ് കുമാർ ദക്ഷിണ റെയിൽവേയെ പ്രതിനിധീകരിച്ച് പങ്കെടുത്തു. പ്രധാനമന്ത്രി നരേന്ദ്ര മോദി മുഖ്യാതിഥിയായി പങ്കെടുത്ത ചടങ്ങിൽ റാലിയിലും പരേഡിലും സജീവ സാന്നിധ്യമായിരുന്നു സജീവ് കുമാർ. ഒക്ടോബർ 31-ന് ആണ് ‘രാഷ്ട്രീയ ഏകതാ ദിവസ്’.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2026/11/10/southern-railway-rpf-officer-rashtriya-ekta-diwas-rally.html"
+    },
+   {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "എല്ലാ ഓറയും ഒറ്റയടിക്ക് പോയി! മരവിപ്പിക്കുന്ന തണുപ്പിൽ മനുഷ്യനെ ഓടിത്തോൽപ്പിക്കാനെത്തിയ ഹ്യൂമനോയ്ഡ് റോബട്ടിന് സംഭവിച്ചത്...."
+      },
+      "summary": {
+        "ml": "മൈനസ് 24 ഡിഗ്രി തണുപ്പിൽ മനുഷ്യരോടൊപ്പം മാരത്തണിൽ പങ്കെടുക്കാനിറങ്ങിയ 'ക്വസ്റ്റർ' എന്ന ഹ്യൂമനോയ്ഡ് റോബട്ടിന്റെ 'ആവേശം' വെറും മൂന്ന് കിലോമീറ്റർ മാത്രമായിരുന്നു! പ്രത്യേക തെർമൽ ജാക്കറ്റുകളൊക്കെ അണിഞ്ഞ് വമ്പൻ ബില്‍ഡപ്പോടെ ഇറങ്ങിയ റോബട്ടിന് കടുത്ത ശൈത്യത്തിൽ ബാറ്ററി ചോർന്നുപോയതോടെ ഒടുവിൽ ഓട്ടം പാതിവഴിയിൽ അവസാനിപ്പിക്കേണ്ടി വന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/11/10/humanoid-robot-antarctic-marathon-failure.html"
+    },  
+    {
+      "id": "81",
+      "type": "news",
+      "order": 46,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ഇന്റർനെറ്റ് വേണ്ട; ഉപഗ്രഹത്തിൽ നിന്ന് നേരിട്ട് കാലാവസ്ഥ അറിയാം,68,000 രൂപയുടെ 'മാന്ത്രിക ഉപകരണവു'മായി വിദ്യാർഥി"
+      },
+      "summary": {
+        "ml": "മഴക്കാലത്ത് ഹിമാലയൻ മലനിരകളിൽ മൊബൈൽ ടവറുകൾ നിലംപൊത്തുമ്പോൾ പുറംലോകവുമായുള്ള ബന്ധം പൂർണമായി നഷ്ടപ്പെടുക പതിവാണ്. ദുരന്തമുഖത്ത് കാലാവസ്ഥാ വിവരങ്ങൾ പോലും അറിയാൻ കഴിയാതെ വലയുന്ന വിദൂര ഗ്രാമങ്ങൾക്ക് പ്രതീക്ഷയായി ഹൈദരാബാദിൽ നിന്നൊരു പ്ലസ്ടു വിദ്യാർഥിയുടെ കണ്ടുപിടിത്തം. ഇന്റർനെറ്റോ മൊബൈൽ നെറ്റ്​വർക്കോ ഇല്ലാതെ കാലാവസ്ഥാ ഉപഗ്രഹങ്ങളിൽ നിന്ന് നേരിട്ട് മേഘങ്ങളുടെ ചിത്രങ്ങളും വിവരങ്ങളും ഡൗൺലോഡ് ചെയ്യാവുന്ന 'സമ്മിറ്റ്സാഥി' (SummitSathi) എന്ന വിപ്ലവകരമായ ഉപകരണവുമായി എത്തിയിരിക്കുകയാണ് ആഗാം ജെയിൻ (Aagam Jain) എന്ന മിടുക്കൻ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/science/2026/11/10/summitsathi-weather-device-aagam-jain.html"
+    },  
+   
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml": "Select a Computer Configuraton <br> Selecting the right computer configuration depends mainly on what you want to use the computer for, your budget, and how long you expect it to last.",
+        "en": ""
+      },
+      "summary": 
+      {
+        "ml": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Computer Configuration Guide</title>\n<style>\nbody { font-family: Arial, sans-serif; margin: 20px; }\nh2 { color: #1f4e79; margin-top: 25px; }\ntable { width: 100%; border-collapse: collapse; margin-bottom: 25px; }\nth, td { border: 1px solid #333; padding: 10px; text-align: left; }\nth { background-color: #d9eaf7; }\ntr:nth-child(even) { background-color: #f2f2f2; }\n</style>\n</head>\n<body>\n\n<h1>Computer Configuration Guide</h1>\n\n<h2>1. Identify Your Purpose</h2>\n<table>\n<tr><th>Usage</th><th>Recommended Configuration</th></tr>\n<tr><td>Basic tasks (MS Office, browsing, email)</td><td>Entry-level</td></tr>\n<tr><td>Programming and software development</td><td>Mid-range</td></tr>\n<tr><td>Graphic design and photo editing</td><td>Mid-range to high-end</td></tr>\n<tr><td>Video editing and 3D modelling</td><td>High-end</td></tr>\n<tr><td>Gaming</td><td>High-end with dedicated GPU</td></tr>\n<tr><td>AI and machine learning</td><td>High-end GPU and RAM</td></tr>\n</table>\n\n<h2>2. Understand the Important Components</h2>\n<table>\n<tr><th>No.</th><th>Component</th><th>Description</th><th>Recommended Configuration</th></tr>\n<tr><td>1</td><td>Processor (CPU)</td><td>The brain of the computer.</td><td>Basic: Intel Core i3 / AMD Ryzen 3<br>Recommended: Intel Core i5 / AMD Ryzen 5<br>Advanced: Intel Core i7 / AMD Ryzen 7</td></tr>\n<tr><td>2</td><td>RAM</td><td>Determines how many applications you can run smoothly.</td><td>Basic: 8 GB<br>Recommended: 16 GB<br>Heavy workloads: 32–64 GB</td></tr>\n<tr><td>3</td><td>Storage</td><td>Stores your operating system, software and files.</td><td>Basic: 256 GB SSD<br>Recommended: 512 GB SSD<br>Heavy workloads: 1 TB or more SSD</td></tr>\n<tr><td>4</td><td>Graphics Card (GPU)</td><td>Important for gaming, video editing, 3D design and AI.</td><td>Basic: Integrated graphics<br>Advanced: Dedicated NVIDIA GeForce RTX or AMD Radeon GPU</td></tr>\n<tr><td>5</td><td>Motherboard</td><td>Connects all computer components.</td><td>Must support the processor, RAM generation, storage and future upgrades.</td></tr>\n<tr><td>6</td><td>Power Supply (PSU)</td><td>Supplies power to all computer components.</td><td>Choose a reliable PSU with sufficient wattage for the CPU and GPU.</td></tr>\n</table>\n\n<h2>3. Example Recommended Configurations</h2>\n<table>\n<tr><th>Component</th><th>General-Purpose PC</th><th>Performance PC</th></tr>\n<tr><td>CPU</td><td>Intel Core i5 / AMD Ryzen 5</td><td>Intel Core i7 / AMD Ryzen 7</td></tr>\n<tr><td>RAM</td><td>16 GB</td><td>32 GB</td></tr>\n<tr><td>Storage</td><td>512 GB NVMe SSD</td><td>1 TB NVMe SSD</td></tr>\n<tr><td>GPU</td><td>Integrated graphics</td><td>Dedicated NVIDIA RTX GPU</td></tr>\n<tr><td>PSU</td><td>450–550 W</td><td>650–850 W</td></tr>\n<tr><td>Monitor</td><td>Full HD</td><td>QHD or 4K</td></tr>\n</table>\n\n</body>\n</html>"
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "⚓ നേവിയിൽ സെയിലറാകാം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പ്ലസു ടൂ യോഗ്യതയുള്ളവര്ക്ക് നേവിയിൽ സെയിലറാകാംഷയ</b>",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.joinindiannavy.gov.in/"
+    },
+    
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :81,106.65<span style='color:green;'> +107.75(▲  2.13%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 25,044.65 <span style='color:green;'> +58.25(▲ +0.23%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:red;'> ₹14,460(▲ ₹ +10)   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:red;'>₹ 205 (▼ ₹ 0  ) </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+    {
+      "id": "908",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഉപകാര സ്മരണ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<span style='color:red; fornt-weight:bold;'>വിശുദ്ധ യൂദാസ്ലീഹായുടെ നൊവേന.</span><br> മിശിഹായുടെ സ്നേഹിതനും വിശ്വസ്തദാസനുമായ വി. യൂദാശ്ലീഹായേ, ഏറ്റവും കഷ്ടപ്പെടുന്ന എനിക്കുവേണ്ടി അപേക്ഷിക്കണമേ. യാതൊരു സഹായവും ഫലസിദ്ധിയുമില്ലാതെ വരുന്ന സന്ദര്‍ഭത്തില്‍ ഏറ്റവും ത്വരിതവും, ഗോചരവുമായ സഹായം ചെയ്യുന്നതിന് അങ്ങേക്ക് വിശേഷവിധിയായാി കിട്ടിയിരിക്കുന്ന അനുഗ്രഹത്തെ അങ്ങ് ഉപയോഗിക്കണമെ. എന്‍റെ എല്ലാ ആവശ്യങ്ങളിലും വിശിഷ്യ(ആവശ്യം പറയുക) അങ്ങേ സഹായം ഞാനപേക്ഷിക്കുന്നു. ഭാഗ്യപ്പെട്ട യൂദാസ്ലീഹായേ, അങ്ങേ ഈ അനുഗ്രഹത്തെ ഞാന്‍ സദാ ഓര്‍ക്കുമെന്നും അങ്ങേ സ്തുതികളെ ലോകത്തെങ്ങും അറിയിക്കുമെന്നും ഞാന്‍ വാഗ്ദാനം ചെയ്യുന്നു. <b>ആമ്മേന്‍</b>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/stjude.jpg",
+      "link": ""
+    },
+
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "950",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "ന്യൂസ്",
+        "en": "paper"
+      },
+      "title": {
+        "ml": "<b>📰</b> പ്രമുഖ പത്രങ്ങളിലൂടെ..................",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ul><li><a href='https://keralakaumudi.com/' target='_blank'>കേരള കൌമുദി</a> </li><li> <a href='https://www.mathrubhumi.com/' target='_blank'>മാതൃഭൂമി</a> </li><li> <a href='https://www.deepika.com/' target='_blank'>ദീപിക</a></li><li><a href='https://www.manoramaonline.com/' target='_blank'>മലയാള മനോരമ</a></li></ul><br>🌐 Web Sites.<br><ul><li><a href='https://www.reporterlive.com/' target='_blank'> റിപ്പോര്‍ട്ടര്‍ ടി.വി.</a> </li><li><a href='https://www.asianetnews.com/' target='_blank'> ഏഷ്യനെറ്റ് ന്യൂസ് </a> </li><li><a href='https://www.twentyfournews.com/' target='_blank'> ട്വിന്‍റി ഫോര്‍ ന്യൂസ് </a> </li></ul>",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "906",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സുര്യനു കീഴില്‍ ഏതൊരു ഓണ്‍ലൈന്‍ സേവനങ്ങള്‍ക്കും.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "ഞങ്ങളെ ബന്ധപ്പെടുക. Experienced Professionals since 1986.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/anyservices.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "907",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "ആശംസകള്‍",
+        "en": "gret"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

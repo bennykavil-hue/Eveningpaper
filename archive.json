@@ -10,6 +10,14 @@
     "showLegacyNotice": true
   },
   "issues": [
+
+      {
+      "issue": 506,
+      "date": "2026-11-11",
+      "status": "To be published",
+      "path": "https://bennykavil-hue.github.io/Eveningpaper/11112026/"
+    },
+   
      {
       "issue": 505,
       "date": "2026-11-10",

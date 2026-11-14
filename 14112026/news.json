@@ -1,0 +1,1126 @@
+{
+  "settings": {
+    "publicationDate": "2026-11-14",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "തുലാം 28, 1202",
+      "en": "Thulam 118, 1202"
+    },
+    "hijriDate": {
+      "ml": "04 ജമാദുൽ അവ്വൽ - ജമാദുല്‍ ആഖിര്‍ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 509,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "news",
+        "category": "ന്യൂസ്"
+      },
+
+      {
+        "id": "weather",
+        "category": "കാലാവസ്ഥ"
+      },
+
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "gret",
+        "category": "ആശംസകള്‍"
+      },
+
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Kindness is a small act that creates a big difference.",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+        "label": {
+        "ml": "വാര്‍ത്ത ഉറവിടം",
+        "en": "news"
+      },
+      "link": "#news"
+    },
+    
+     {
+        "label": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "link": "#weather"
+    },
+ 
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "ആശംസകള്‍",
+        "en": "Greetings"
+      },
+      "link": "#gret"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "'എല്ലാ തെളിവുകളും ഈ ഫോണിലുണ്ട്'; പരസ്യ സംവാദത്തിന് പ്രധാനമന്ത്രിയെ വെല്ലുവിളിച്ച് രാഹുൽ ഗാന്ധി",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "ന്യൂഡൽഹി: പ്രധാനമന്ത്രി നരേന്ദ്രമോദി തന്റെ ഫോൺ ചോർത്തുന്നുവെന്ന് ലോക്‌സഭാ പ്രതിപക്ഷ നേതാവ് രാഹുൽഗാന്ധി‌. പ്രധാനമന്ത്രിക്കെതിരായ എല്ലാ തെളിവുകളും തന്റെ ഫോണിലുണ്ടെന്നും അദ്ദേഹം അവകാശപ്പെട്ടു. വിവിധ ഭാഷകളിൽ പ്രധാനമന്ത്രിയുമായി നേരിട്ടുള്ള സംവാദം നടത്തണമെന്ന ആവശ്യവും രാഹുൽ ഗാന്ധി ആവർത്തിച്ചു.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.keralakaumudi.com/news-360/national/rahul-gandhi-accuses-pm-modi-of-phone-tapping-claims-proof-in-phone-1825900"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "🌍 Today – 14 November 2026 (Saturday)",
+        "en": ""
+      },
+      "summary": {
+       "ml":"<h3>1. Children's Day – India (ശിശുദിനം)</h3><p>Celebrated on the birth anniversary of Pandit Jawaharlal Nehru, India's first Prime Minister.</p><p><b>Message:</b> Every child is a bundle of dreams, hopes and possibilities. Let us nurture their dreams and build a brighter tomorrow.</p><hr><h3>2. World Diabetes Day (ലോക പ്രമേഹ ദിനം)</h3><p>Observed every year on November 14 to raise awareness about diabetes.</p><p><b>2026 Theme:</b> Early Action on Diabetes.</p><p><b>Message:</b> Prevention begins with awareness. Eat healthy, stay active and take care of your health.</p><hr><h3>3. International Day against Illicit Trafficking in Cultural Property</h3><p>A UNESCO observance highlighting the protection of cultural heritage and the prevention of illegal trade in cultural objects.</p>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.timeanddate.com/holidays/fun/world-kindness-day?utm_source=chatgpt.com"
+    },
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "വി​ളി​ച്ചി​ട്ടും മ​റു​പ​ടി​യി​ല്ല, ടി​ക്ക​റ്റ് റ​ദ്ദാ​ക്കി​യ​ത് അ​വ​സാ​ന നി​മി​ഷം; വി​ശ​ദീ​ക​ര​ണ​വു​മാ​യി തി​രു​വ​ഞ്ചൂ​ർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോ​ട്ട​യം:</b> കാ​സ​ർ​ഗോ​ഡ് കാ​നാ​യി കു​ഞ്ഞി​രാ​മ​ൻ പൂ​ർ​ത്തി​യാ​ക്കി​യ ശി​ൽ​പ​ങ്ങ​ളു​ടെ അ​നാ​ച്ഛാ​ദ​ന​ച്ച​ട​ങ്ങി​ൽ പ​ങ്കെ​ടു​ക്കാ​തി​രു​ന്ന​ത് ആ​ശ​യ​വി​നി​മ​യ​ത്തി​ലെ അ​പാ​ക​ത മൂ​ല​മാ​ണെ​ന്ന് സ്പീ​ക്ക​ർ തി​രു​വ​ഞ്ചൂ​ർ രാ​ധാ​കൃ​ഷ്ണ​ൻ. കാ​സ​ർ​ഗോ​ട്ടേ​ക്ക് പോ​കാ​ൻ തീ​രു​മാ​നി​ച്ചി​രു​ന്നു. എ​ന്നാ​ൽ അ​വ​സാ​ന നി​മി​ഷം വ​രെ സം​ഘാ​ട​ക​രു​മാ​യി ബ​ന്ധ​പ്പെ​ടാ​ൻ ശ്ര​മി​ച്ചെ​ങ്കി​ലും കൃ​ത്യ​മാ​യ മ​റു​പ​ടി ല​ഭി​ച്ചി​ല്ലെ​ന്നും അ​ദ്ദേ​ഹം വ്യ​ക്ത​മാ​ക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/thiruvanchur-radhakrishnan-explains-his-stand-on-the-kasaragod-controversy-215383"
+    },
+    
+     {
+      "id": "2",
+      "type": "news",
+      "order": 50,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മ​രു​ന്ന് വാ​ങ്ങാ​ന്‍ ക​പ്പ​ലി​ല്‍ നി​ന്നി​റ​ങ്ങി; കൊ​ച്ചി​യി​ല്‍ ന​ങ്കൂ​ര​മി​ട്ട ക​പ്പ​ലി​ലെ എ​ന്‍​ജി​നീ​യ​റെ കാ​ണാ​നി​ല്ല",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊ​ച്ചി:</b> എ​റ​ണാ​കു​ളം വെ​ല്ലിം​ഗ്ട​ണ്‍ ഐ​ല​ന്‍​ഡി​ല്‍ ന​ങ്കൂ​ര​മി​ട്ട ക​പ്പ​ലി​ലെ എ​ന്‍​ജി​നീ​യ​റെ കാ​ണാ​നി​ല്ലെ​ന്ന് പ​രാ​തി. മ​ഹാ​രാ​ഷ്ട്ര സ്വ​ദേ​ശി അ​ബീ​ദ് മു​ക്തി​യാ​ര്‍ ജ്വാ​ലെ​യെ (32) ആ​ണ് കാ​ണാ​താ​യ​ത്. വ്യാ​ഴാ​ഴ്ച വൈ​കി​ട്ട് 4.30 ഓ​ടെ പ​നി ബാ​ധി​ച്ച​തി​നെ തു​ട​ര്‍​ന്ന് മ​രു​ന്ന് വാ​ങ്ങാ​നാ​യി ക​പ്പ​ലി​ല്‍ നി​ന്ന് പു​റ​ത്തു​പോ​യ​താ​യി​രു​ന്നു ഇ​യാ​ള്‍. എ​ന്നാ​ല്‍ പി​ന്നീ​ട് തി​രി​ച്ചെ​ത്തി​യി​ല്ല.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/got-off-the-ship-to-buy-medicine-engineer-of-a-ship-anchored-in-kochi-is-missing-215393"
+    },
+   {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "എല്ലാവിധ ഓൺ സേവനങ്ങൾ വിരൽ തുമ്പിൽ ലഭ്യമാക്കുന്നു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt2.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "35",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ലക്ഷ്യം ഒറ്റയ്ക്ക് 260 സീറ്റ്; യു പി നിലനിര്‍ത്താന്‍ തന്ത്രങ്ങള്‍ മെനഞ്ഞ് ബിജെപി"
+      },
+      "summary": {
+        "ml": "<b>ലഖ്‌നൗ:</b> അടുത്ത വര്‍ഷം നടക്കാനിരിക്കുന്ന ഉത്തര്‍പ്രദേശ് നിയമസഭാ തെരഞ്ഞെടുപ്പില്‍ അധികാരം നിലനിര്‍ത്താന്‍ തന്ത്രങ്ങള്‍ മെനഞ്ഞ് ബിജെപി. 403 അംഗ നിയമസഭയില്‍ ഒറ്റയ്ക്ക് 260 സീറ്റുകള്‍ സ്വന്തമാക്കാനാണ് ബിജെപി ലക്ഷ്യമിടുന്നത്. കഴിഞ്ഞ തെരഞ്ഞെടുപ്പില്‍ നഷ്ടപ്പെടുകയോ തിരിച്ചടി നേരിടുകയോ ചെയ്തതും സമാജ്‌വാദി പാര്‍ട്ടി വിജയിക്കുകയും ചെയ്ത 90ഓളം സീറ്റുകളില്‍ പ്രത്യേകം ശ്രദ്ധ ചെലുത്താനും ബിജെപി ഒരുങ്ങുന്നു.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.reporterlive.com/topnews/national/2026/11/14/bjp-targets-260-seats-in-uttar-pradesh-assembly-election"
+    },
+     {
+      "id": "36",
+      "type": "news",
+      "order": 40,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "വിമാനയാത്രയെയും തകരാറിലാക്കി മൈക്രോസോഫ്റ്റ് സേവനത്തിലെ തടസം, മൂന്ന് സർവീസ് റദ്ദാക്കി"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> മൈക്രോസോഫ്‌റ്റ് സേവനങ്ങൾ ലോകമാകെ തടസപ്പെട്ടതിന് പിന്നാലെ രാജ്യത്തെ ചില വിമാനസർവീസുകളെയും ബാധിച്ചതായി വിവരം. മൈക്രോസോഫ്റ്റ് തകരാർ വന്നതോടെ ഡൽഹിയിൽ നിന്ന് മൂന്ന് സർവീസുകളാണ് റദ്ദാക്കിയത്. സ്‌പൈസ് ജെറ്റാണ് സർവീസുകൾ റദ്ദാക്കിയെന്ന് കമ്പനി അറിയിച്ചിരിക്കുന്നത്. മറ്റ് കമ്പനികളൊന്നും ഇതുവരെ സർവീസുകൾ റദ്ദാക്കിയിട്ടില്ല എന്നാൽ യാത്രക്കാർ വിവരം പരിശോധിച്ച് ഉറപ്പിക്കണമെന്നാണ് നിർദ്ദേശം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/news-360/national/microsoft-outage-disrupts-spicejet-flights-india-1825907"
+    },
+     {
+      "id": "36",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ട്രെയിനുകളിലെ ആർഎസി സംവിധാനം ഒഴിവാക്കാൻ നീക്കം; മുഴുവൻ നിരക്ക് ഈടാക്കി പകുതി ബെർത്ത് നൽകുന്നതിലെ യാത്രക്കാരുടെ പരാതിക്ക് പരിഹാരമാകും"
+      },
+      "summary": {
+        "ml": "<b>ദില്ലി:</b> ട്രെയിൻ യാത്രക്കാരുടെ ദീർഘകാലമായുള്ള ആശങ്കകളും പരാതികളും പരിഗണിച്ച് നിലവിലുള്ള ആർ എ സി (RAC) സംവിധാനം ഒഴിവാക്കാൻ ഇന്ത്യൻ റെയിൽവെയുടെ നീക്കം. നിലവിലെ ആർ എ സി സംവിധാനമനുസരിച്ച് രണ്ട് യാത്രക്കാർക്കായി ഒരു ബെർത്ത് മാത്രമാണ് അനുവദിക്കുന്നത്. പകുതി ബെർത്ത് മാത്രമാണ് ലഭിക്കുന്നതെങ്കിലും യാത്രക്കാരിൽ നിന്ന് മുഴുവൻ ടിക്കറ്റ് നിരക്കാണ് ഈടാക്കുന്നത്. ഇത് യാത്രക്കാർക്കിടയിൽ വലിയ പ്രതിഷേധത്തിനും അസൗകര്യങ്ങൾക്കും കാരണമാകുന്ന സാഹചര്യത്തിലാണ് പുതിയ പരിഷ്കരണത്തിന് ആലോചന നടക്കുന്നത്. പണം മുഴുവൻ നൽകുന്ന യാത്രക്കാർക്ക് പൂർണ്ണമായ ബെർത്തുകൾ തന്നെ ഉറപ്പാക്കണമെന്നതാണ് യാത്രക്കാരുടെ ഭാഗത്തുനിന്നുയരുന്ന പ്രധാന ആവശ്യം. ഇനി അഥവാ ആർ എ സി ടിക്കറ്റുകൾ തുടർന്നും നൽകുന്നുണ്ടെങ്കിൽ പകുതി നിരക്ക് മാത്രമേ ഈടാക്കാവൂ എന്നും യാത്രക്കാർ ചൂണ്ടിക്കാട്ടുന്നു. യാത്രക്കാരുടെ ഈ ആവശ്യങ്ങൾ ഗൗരവമായി പരിഗണിച്ചുകൊണ്ടാണ് ആർ എ സി സംവിധാനം നിർത്തലാക്കാനുള്ള നീക്കം റെയിൽവേ മന്ത്രാലയം സജീവമായിരിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/india-news/move-to-scrap-rac-system-in-trains-following-passenger-complaints-over-full-fare-for-shared-berths-articleshow-us09de8"
+    },
+   
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ആ​ണ​ത്ത​മു​ണ്ടെ​ങ്കി​ൽ പ​ര​സ്യ​മാ​യി പ​റ​യ​ണം; വെ​ല്ലു​വി​ളി​ച്ച് രാ​ജ്മോ​ഹ​ൻ ഉ​ണ്ണി​ത്താ​ൻ"
+      },
+      "summary": {
+        "ml": "<b>കാ​സ​ർ​ഗോ​ഡ്:</b> കെ​പി​സി​സി ഭാ​ര​വാ​ഹി യോ​ഗ​ത്തി​ൽ ത​നി​ക്കെ​തി​രെ രൂ​ക്ഷ​വി​മ​ർ​ശ​നം ഉ​യ​ർ​ന്നെ​ന്ന വാ​ർ​ത്ത​ക​ളി​ൽ പ്ര​തി​ക​രി​ച്ച് രാ​ജ്മോ​ഹ​ൻ ഉ​ണ്ണി​ത്താ​ൻ എംപി. പാ​ർ​ട്ടി​ക്കു​ള്ളി​ൽ ന​ട​ക്കു​ന്ന കാ​ര്യ​ങ്ങ​ളെ​ക്കു​റി​ച്ച് ര​ഹ​സ്യ​ച​ർ​ച്ച​ക​ൾ​ക്ക് മ​റു​പ​ടി പ​റ​യാ​നി​ല്ലെ​ന്നും വി​മ​ർ​ശ​ന​മു​ണ്ടെ​ങ്കി​ൽ പ​ര​സ്യ​മാ​യി ഉ​ന്ന​യി​ക്ക​ണ​മെ​ന്നും അ​ദ്ദേ​ഹം തു​റ​ന്ന​ടി​ച്ചു. ആ​ണ​ത്ത​മു​ണ്ടെ​ങ്കി​ൽ ഇ​തൊ​ക്കെ പ​ര​സ്യ​മാ​യി പ​റ​യ​ണം. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/rajmohan-unnithan-issues-a-challenge-215377"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "മ​ഹാ​ത്മാ​ഗാ​ന്ധി സ​ര്‍​വ​ക​ലാ​ശാ​ല​യി​ലെ മാ​ധ്യ​മ വി​ല​ക്ക് ജ​നാ​ധി​പ​ത്യ വി​രു​ദ്ധം, അ​ടി​യ​ന്ത​ര​മാ​യി പി​ന്‍​വ​ലി​ക്ക​ണം: റോ​ജി എം. ​ജോ​ണ്‍",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊ​ച്ചി:</b> മ​ഹാ​ത്മാ​ഗാ​ന്ധി സ​ര്‍​വ​ക​ലാ​ശാ​ല​യി​ലെ മാ​ധ്യ​മ നി​യ​ന്ത്ര​ണ​ത്തി​ല്‍ പ്ര​തി​ക​രി​ച്ച് ഉ​ന്ന​ത വി​ദ്യാ​ഭ്യാ​സ മ​ന്ത്രി റോ​ജി എം. ​ജോ​ണ്‍. സ​ര്‍​വ​ക​ലാ​ശാ​ല​യി​ല്‍ മാ​ധ്യ​മ​പ്ര​വ​ര്‍​ത്ത​ക​ര്‍​ക്ക് പ്ര​വേ​ശി​ക്കു​ന്ന​തി​നും വാ​ര്‍​ത്ത​ക​ള്‍ ശേ​ഖ​രി​ക്കു​ന്ന​തി​നും വൈ​സ് ചാ​ന്‍​സ​ല​റു​ടെ മു​ന്‍​കൂ​ര്‍ അ​നു​മ​തി നി​ര്‍​ബ​ന്ധ​മാ​ക്കി​ക്കൊ​ണ്ടു​ള്ള ഉ​ത്ത​ര​വ് ജ​നാ​ധി​പ​ത്യ വി​രു​ദ്ധ​മാ​ണെ​ന്ന് മ​ന്ത്രി ഫേ​സ്ബു​ക്ക് പോ​സ്റ്റി​ല്‍ കു​റി​ച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/media-ban-at-mahatma-gandhi-university-is-anti-democratic-must-be-withdrawn-immediately-roji-m-john-215366"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 39,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ബൈ​റ്റ് വേ​ണ​മെ​ങ്കി​ൽ അ​നു​മ​തി വേ​ണം; മാ​ധ്യ​മ​വി​ല​ക്കി​ല്ലെ​ന്ന് എം​ജി സ​ർ​വ​ക​ലാ​ശാ​ല വൈ​സ് ചാ​ൻ​സ​ല​ർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോ​ട്ട​യം:</b> മ​ഹാ​ത്മാ​ഗാ​ന്ധി സ​ർ​വ​ക​ലാ​ശാ​ല​യി​ൽ മാ​ധ്യ​മ​പ്ര​വ​ർ​ത്ത​ക​ർ​ക്ക് വി​ല​ക്ക് ഏ​ർ​പ്പെ​ടു​ത്തി​യി​ട്ടി​ല്ലെ​ന്ന് വൈ​സ് ചാ​ൻ​സ​ല​ർ. മാ​ധ്യ​മ​പ്ര​വ​ർ​ത്ത​ക​രെ സ​ർ​വ​ക​ലാ​ശാ​ല​യി​ൽ​നി​ന്ന് വി​ല​ക്കാ​നോ വാ​ർ​ത്താ​ശേ​ഖ​ര​ണം ത​ട​യാ​നോ തീ​രു​മാ​നി​ച്ചി‌​ട്ടി​ല്ല. ഇ​തു​സം​ബ​ന്ധി​ച്ച ആ​ശ​ങ്ക​ക​ൾ അ​ടി​സ്ഥാ​ന​ര​ഹി​ത​മാ​ണെ​ന്നും സ​ർ​വ​ക​ലാ​ശാ​ല വ്യ​ക്ത​മാ​ക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/vicechancellor-said-that-journalists-have-not-been-barred-from-entering-mahatma-gandhi-university-215362"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 39,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സ‌ർക്കാരിന്റെ പുതിയ നീല കലണ്ടറിന് വൻ ഡിമാൻഡ്, പത്തുലക്ഷം കൂടി പുതിയതായി അച്ചടിക്കാൻ തീരുമാനം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സംസ്ഥാന സർക്കാരിന്റെ 2027ലെ പുതിയ കലണ്ടറിന് റെക്കോഡ് വിൽപന. ഇത്തവണ നീല നിറത്തിലെ പശ്ചാത്തലത്തിലുള്ള കലണ്ടറാണ് സർക്കാർ പുറത്തിറക്കിയത്. ഒക്‌ടോബർ 23നാണ് പുതിയ കലണ്ടറിന്റെ വിൽപന ആരംഭിച്ചത്. നവംബർ 12 വരെയുള്ള കണക്കുകൾ പ്രകാരം 1,72,836 കലണ്ടറുകളാണ് വിറ്റഴിച്ചത്. 40 രൂപയാണ് കലണ്ടറിന് വില.",
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://www.keralakaumudi.com/kerala/general/kerala-government-calender-sees-record-selling-1826261"
+    },
+
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "ഇഫി 28ന് തുടങ്ങും, പനോരമയിൽ 'സർവ്വം മായ'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പനാജി.</b>ഈ മാസം 20 ന് ഗോവയിൽ ആരംഭിക്കുന്ന ഇന്ത്യയുടെ രാജ്യാന്തര ചലച്ചിത്രോത്സവമായ ഇഫിയുടെ 57ാമത് എഡിഷനിൽ പോളിഷ് സംവിധായകൻ പാവ്ലോ പാവ്ലികോവ്സ്ക്കി സംവിധാനം ചെയ്ത ' ഫാദർ ലാൻഡ് ' ഉദ്ഘാടന ചിത്രമാകും .കാൻ ചലച്ചിത്രോത്സവത്തിൽ മികച്ച സംവിധായകനുള്ള അവാർഡ് നേടിയ ചിത്രമാണിത്.ആന്റണി ചെൻ സംവിധാനം ചെയ്ത 'വീ ഓൾ ആർ സ്ട്രെയിഞ്ചേഴ്സ് ' ആണ് 28 ന് പ്രദർശിപ്പിക്കുന്ന സമാപന ചിത്രം.86 രാജ്യങ്ങളിൽ നിന്നായി 150 ഓളം സിനിമകൾ പ്രദർശിപ്പിക്കും.ഏഴായിരത്തോളം ഡെലിഗേറ്റുകൾ പങ്കെടുക്കുമെന്ന് ഗോവ മുഖ്യമന്ത്രി പ്രമോദ് സാവന്ത് ഫെസ്റ്റിവൽ ഡയറക്ടർ അശുതോഷ് ഗവാരിക്കർ എന്നിവർ ഇന്നലെ വാർത്താ സമ്മേളനത്തിൽ അറിയിച്ചു.",
+        "en": ""
+      },
+      "image": " images/news04.jpg",
+      "link": "https://www.keralakaumudi.com/news-360/national/national-1826022"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "32",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "'സോണിയ ഗാന്ധി ദുരൂഹതയുള്ള വിദേശ വനിത'; വിവാദ പരാമർശത്തിൽ കങ്കണയ്‌ക്കെതിരെ കേസ്"},
+      "summary": {
+        "ml": "<b>ഷിംല:</b> ഗാന്ധി കുടുംബത്തിനെതിരെ അപകീർത്തികരമായ സോഷ്യൽമീഡിയ പോസ്റ്റുകൾ പങ്കുവച്ച ബിജെപി എംപിയും നടിയുമായ കങ്കണ റണാവത്തിനെതിരെ കേസ്. ഷിംല പൊലീസാണ് കേസെടുത്തത്. മുൻ പ്രധാനമന്ത്രിമാരായ ഇന്ദിരാഗാന്ധി, രാജീവ് ഗാന്ധി, രാജീവ് ഗാന്ധിയുടെ സഹോദരൻ സഞ്ജയ് ഗാന്ധി എന്നിവരുടെ മരണത്തെക്കുറിച്ച് കങ്കണയുടെ പോസ്റ്റുകളിൽ പ്രകോപനപരമായ പരാമർശങ്ങൾ ഉണ്ടെന്ന് ആരോപിച്ച് ഷിംല സ്വദേശിയായ അതുൽ ശർമ നൽകിയ പരാതിയുടെ അടിസ്ഥാനത്തിലാണ് കേസ് ഫയൽ ചെയ്‌തത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/news-360/national/kangana-ranaut-gandhi-family-social-media-case-1826210"
+    },
+
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "world"
+      },
+      "title": {
+        "ml": "ആ​കാ​ശം പെ​ട്ടെ​ന്ന് ശൂ​ന്യ​മാ​യി; അ​മേ​രി​ക്ക​യി​ൽ എ​ന്താ​ണ് സം​ഭ​വി​ച്ച​ത്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വാ​ഷിം​ഗ്ട​ൺ:</b> ഒ​രു നി​മി​ഷം​കൊ​ണ്ട് അ​മേ​രി​ക്ക​ൻ ആ​കാ​ശം നി​ശ്ച​ല​മാ​യി. പു​റ​പ്പെ​ടേ​ണ്ട വി​മാ​ന​ങ്ങ​ൾ കൂ​ട്ട​ത്തോ​ടെ റ​ദ്ദാ​ക്ക​പ്പെ​ടു​ന്നു. ആ​കാ​ശ​ത്തു​ള്ള വി​മാ​ന​ങ്ങ​ൾ സു​ര​ക്ഷി​ത​മാ​യി നി​ല​ത്തി​റ​ക്കു​ന്നു. അ​മേ​രി​ക്ക​യി​ൽ ഇ​ന്ന​ലെ ന​ട​ന്ന​ത് 2001 സെ​പ്റ്റം​ബ​ർ11​ലെ ത​നി​യാ​വ​ർ​ത്ത​മെ​ന്ന് പ​ല​രും ചി​ന്തി​ച്ചു​കാ​ണും. എ​ന്നാ​ൽ അ​താ​യി​രു​ന്നി​ല്ല കാ​ര​ണം.<p>എ​യ​ർ ട്രാ​ഫി​ക് ക​ൺ​ട്രോ​ൾ സം​വി​ധാ​ന​ങ്ങ​ളി​ലു​ണ്ടാ​യ ഗു​രു​ത​ര​മാ​യ ആ​ശ​യ​വി​നി​മ​യ ത​ക​രാ​റാ​ണ് രാ​ജ്യ​ത്തെ മു​ൾ​മു​ന​യി​ൽ നി​ർ​ത്തി​യ​ത്. യാ​ത്ര​ക്കാ​രു​ടെ സു​ര​ക്ഷ മു​ൻ​നി​ർ​ത്തി ഫെ​ഡ​റ​ൽ ഏ​വി​യേ​ഷ​ൻ അ​ഡ്മി​നി​സ്ട്രേ​ഷ​ൻ രാ​ജ്യ​വ്യാ​പ​ക​മാ​യി വി​മാ​ന സ​ർ​വീ​സു​ക​ൾ താ​ത്കാ​ലി​ക​മാ​യി നി​ർ​ത്തി​വ​യ്ക്കു​ക​യാ​യി​രു​ന്നു. ഏ​ക​ദേ​ശം 15 ല​ക്ഷം യാ​ത്ര​ക്കാ​രെ​യാ​ണ് പ്ര​തി​സ​ന്ധി ബാ​ധി​ച്ച​ത്.", 
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/international/thousands-of-passengers-stranded-across-the-us-as-flights-were-grounded-215395"
+    },
+    {
+      "id": "43",
+      "type": "news",
+      "order": 56,
+      "category": {
+        "ml": "ലോകം",
+        "en": "world"
+      },
+      "title": {
+        "ml": "മൊസാദ് തലവൻ വാഷിങ്ടണിൽ; എങ്ങനെയും ഇറാനെ ആക്രമിക്കാൻ നെതന്യാഹു, തടയുമെന്ന് ഐസൻകോട്ട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വാഷിങ്ടൺ:</b> അധികാരം നഷ്ടപ്പെടുന്നതിന്റെ വക്കിൽ നിൽക്കുന്ന ഇസ്രായേൽ കാവൽ പ്രധാനമന്ത്രി ബെഞ്ചമിൻ നെതന്യാഹു ഇറാനെതിരെ പുതിയ സൈനികനീക്കത്തിന് കോപ്പുകൂട്ടുന്നതിനിടെ, ഇസ്രായേൽ ചാരസംഘടനയായ മൊസാദിന്റെ മേധാവി റോമൻ ഗോഫ്മാൻ അടിയന്തരമായി അമേരിക്കയിലെത്തി. അതേസമയം, ഇസ്രായേലിൽ പുതിയ സർക്കാർ രൂപവത്കരണത്തിന് ചുക്കാൻ പിടിക്കുന്ന യാഷാർ പാർട്ടി നേതാവും മുൻ ഐ.ഡി.എഫ്. മേധാവിയുമായ ഗാഡി ഐസൻകോട്ട്, നെതന്യാഹുവിന്റെ നീക്കങ്ങൾ തടയാനുള്ള പ്രതിരോധം തീർക്കുകയാണ്. മൊസാദ് മേധാവി റോമൻ ഗോഫ്മാൻ അമേരിക്കൻ ചാരസംഘടനയായ സി.ഐ.എ.യുടെ ഡയറക്ടർ ജോൺ റാറ്റ്ക്ലിഫുമായും മറ്റ് മുതിർന്ന ഉദ്യോഗസ്ഥരുമായും ഇറാൻ യുദ്ധസാഹചര്യങ്ങളെക്കുറിച്ച് ചർച്ച നടത്തി. ഡൊണാൾഡ് ട്രംപിന്റെ പ്രത്യേക പ്രതിനിധി സ്റ്റീവ് വിറ്റ്കോഫുമായി ചർച്ച നടത്തുന്നതിനായി ഗോഫ്മാൻ മയാമിയിലേക്ക് പോകുമെന്നും 'ആക്സിയോസ്' റിപ്പോർട്ട് ചെയ്തു.", 
+        "en": ""
+      },
+      "image": "",
+      "link": "hhttps://www.mathrubhumi.com/news/world/netanyahu-war-moves-gadi-eisenkot-israel-icx0wqnd"
+    },
+
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "title": {
+        "ml": "ചുഴലിക്കാറ്റിന് സാദ്ധ്യത, ബംഗാൾ ഉൾക്കടലിൽ ന്യൂനമർദ്ദം ശക്തിപ്രാപിക്കുന്നു; സംസ്ഥാനത്ത് മഴ മുന്നറിയിപ്പ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം: സംസ്ഥാനത്ത് വരും ദിവസങ്ങളിൽ മഴയ്ക്ക് സാദ്ധ്യതയെന്ന് കാലാവസ്ഥാ വകുപ്പിന്റെ മുന്നറിയിപ്പ്. തെക്കുകിഴക്കൻ ബംഗാൾ ഉൾക്കടലിൽ ന്യൂനമർദ്ദം രൂപപ്പെട്ടതാണ് മഴയ്ക്ക് കാരണമാകുന്നത്. നാളെയോടെ (നവംബർ 14) ഇത് ശക്തി കൂടിയ ന്യൂനമർദമായി മാറിയേക്കും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/kerala/general/bay-of-bengal-low-pressure-cyclone-alert-kerala-rain-warning-1825897"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "കേരള പി. എസ്. സി.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കേരളത്തിലെ സര്‍ക്കാര്‍, അര്‍ദ്ധ സര്‍ക്കാര്‍, പൊതുമേഖലെ സ്ഥാപനങ്ങളിലേക്ക് വിവിധ തസ്തികകള്‍ക്കേ അപേക്ഷിക്കുവാന്‍ സന്ദര്‍ശിക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/PSC.png",
+      "link": "https://www.keralapsc.gov.in/home-2"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "അ​ണ്ട​ർ 19 ഏ​ഷ്യ ക​പ്പ് ഫൈ​ന​ൽ‌; ഇ​ന്ത്യ​യ്ക്കെ​തി​രെ പാ​ക്കി​സ്ഥാ​ന് കൂ​റ്റ​ൻ സ്കോ​ർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>അ​ൽ അ​മെ​റാ​ത്ത്:</b> അ​ണ്ട​ർ 19 ഏ​ഷ്യ ക​പ്പ് ഫൈ​ന​ലി​ൽ ഇ​ന്ത്യ​യ്ക്കെ​തി​രെ പാ​ക്കി​സ്ഥാ​ന് കൂ​റ്റ​ൻ സ്കോ​ർ. ആ​ദ്യം ബാ​റ്റ് ചെ​യ്ത പാ​ക്കി​സ്ഥാ​ൻ 50 ഓ​വ​റി​ൽ ഒ​മ്പ​ത് വി​ക്ക​റ്റ് ന​ഷ്ട​ത്തി​ൽ 337 റ​ൺ‌​സാ​ണെ​ടു​ത്ത​ത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/sports/under-19-asia-cup-final-pakistan-posts-a-massive-score-against-india-215381"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 45,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "എ​ല്ലാ​വ​രും ഏ​ഴാം ന​മ്പ​ർ ജ​ഴ്‌​സി​യി​ൽ, ഏ​ഴാം മി​നി​റ്റി​ൽ ക​ളി നി​ർ​ത്തും; CR7ന് ​ആ​ദ​ര​മ​ർ​പ്പി​ക്കാ​ൻ പോ​ർ​ച്ചു​ഗ​ൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ലി​സ്ബ​ൺ:</b> ക്രി​സ്റ്റ്യാ​നോ റൊ​ണാ​ൾ​ഡോ​യ്ക്ക് ആ​ദ​ര​മ​ർ​പ്പി​ക്കാ​ൻ വ്യ​ത്യ​സ്ത​മാ​യ നീ​ക്ക​വു​മാ​യി പോ​ർ​ച്ചു​ഗ​ൽ ടീം. ​യു​വേ​ഫ നേ​ഷ​ൻ​സ് ലീ​ഗി​ൽ ഡെ​ൻ​മാ​ർ​ക്കി​നെ​തി​രാ​യ മ​ത്സ​ര​ത്തി​നി​ടെ​യാ​ണ് ഫു​ട്ബോ​ൾ ഇ​തി​ഹാ​സ​ത്തി​ന് സ​ഹ​താ​ര​ങ്ങ​ൾ ആ​ദ​ര​മ​ർ​പ്പി​ക്കു​ന്ന​ത്. മ​ത്സ​ര​ത്തി​ന് മു​ന്നോ​ടി​യാ​യി ഗ്രൗ​ണ്ടി​ലേ​ക്ക് പ്ര​വേ​ശി​ക്കു​മ്പോ​ൾ പോ​ർ​ച്ചു​ഗ​ൽ താ​ര​ങ്ങ​ളെ​ല്ലാം റൊ​ണാ​ൾ​ഡോ​യു​ടെ ഐ​തി​ഹാ​സി​ക​മാ​യ ഏ​ഴാം ന​മ്പ​ർ ജ​ഴ്‌​സി അ​ണി​യും. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/sports/portugal-team-pays-tribute-to-cristiano-ronaldo-215373"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "എം​വി​ഡി​യു​ടെ പേ​രി​ല്‍ വ്യാ​ജ സ​ന്ദേ​ശം; യു​വാ​വി​ല്‍ നി​ന്നും മൂ​ന്നു ല​ക്ഷം ത​ട്ടി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊ​ച്ചി:</b> ഗ​താ​ഗ​ത നി​യ​മം തെ​റ്റി​ച്ച​തി​ന് പി​ഴ അ​ട​ക്ക​ണ​മെ​ന്ന് ആ​വ​ശ്യ​പ്പെ​ട്ട് വ​ന്ന സ​ന്ദേ​ശ​ത്തി​ന്‍റെ ലി​ങ്കി​ല്‍ ക​യ​റി​യ യു​വാ​വി​ന് ക്രെ​ഡി​റ്റ് കാ​ര്‍​ഡി​ല്‍ നി​ന്ന് മൂ​ന്നു ല​ക്ഷം രൂ​പ ന​ഷ്ട​മാ​യി. മു​ന​മ്പം മാ​ണി​ബ​സാ​ര്‍ സ്വ​ദേ​ശി​യാ​യ യു​വാ​വി​നാ​ണ് പ​ണം ന​ഷ്ട​മാ​യ​ത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/fake-message-in-the-name-of-mvd-youth-loses-3-lakh-in-online-scam-215346"
+    },
+
+    {
+      "id": "72",
+      "type": "news",
+      "order": 37,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "ഡീ​സ​ൽ അ​ടി​ച്ചു​മാ​റ്റി വി​ൽ​പ്പ​ന; മൂ​ന്ന് കെ​എ​സ്ആ​ർ​ടി​സി ജീ​വ​ന​ക്കാ​ർ​ക്ക് 'പ​ണി​കി​ട്ടി'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ആ​ല​പ്പു​ഴ:</b> കെ​എ​സ്ആ​ർ​ടി​സി ബ​സു​ക​ളി​ൽ​നി​ന്ന് ഡീ​സ​ൽ മോ​ഷ്ടി​ച്ച് വി​ൽ​പ്പ​ന ന​ട​ത്തി​യ സം​ഭ​വ​ത്തി​ൽ മൂ​ന്ന് ജീ​വ​ന​ക്കാ​ർ​ക്ക് സ​സ്പെ​ൻ​ഷ​ൻ. ചേ​ർ​ത്ത​ല ഡി​പ്പോ​യി​ലെ മെ​ക്കാ​നി​ക്ക​ൽ വി​ഭാ​ഗ​ത്തി​ലെ ജീ​വ​ന​ക്കാ​രാ​യ ക​ണ്ണ​ൻ, ശ​ര​ത്, ജ​യേ​ഷ് എ​ന്നി​വ​ർ​ക്കെ​തി​രെ​യാ​ണ് ന​ട​പ​ടി. സം​ഭ​വ​ത്തി​ൽ അ​സി​സ്റ്റ​ന്‍റ് ട്രാ​ൻ​സ്പോ​ർ​ട്ട് ഓ​ഫീ​സ​ർ പൊ​ലി​സി​ൽ പ​രാ​തി​ ന​ൽ​കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/kerala/three-ksrtc-employees-suspended-for-stealing-and-selling-diesel-from-buses-215320"
+    },
+
+
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സംഘപരിവാര്‍ പ്രസിദ്ധീകരണം 'മയില്‍പ്പീലി'യുടെ സ്‌കോളര്‍ഷിപ്പ് നടത്താന്‍ സ്കൂളുകള്‍ക്ക് അനുമതി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം: </b>സംഘപരിവാര്‍ പ്രസിദ്ധീകരണത്തിന്റെ സ്‌കോളര്‍ഷിപ്പ് മത്സരം സംഘടിപ്പിക്കാന്‍ അനുമതി. ദേശീയ അധ്യാപക പരിഷത്ത് ജനറല്‍ സെക്രട്ടറി ടി അനൂപ് കുമാറിനാണ് പൊതുവിദ്യാഭ്യാസ ഡയറക്ടര്‍ അനുമതി നല്‍കിയത്. യു പി, ഹൈസ്‌കൂള്‍ വിദ്യാര്‍ത്ഥികള്‍ക്കായി യംഗ് സ്‌കോളര്‍ എക്‌സാം എന്ന പേരിലാണ് സ്‌കോളര്‍ഷിപ്പ് പദ്ധതി." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/11/14/scholarship-competition-permission-granted-for-sangh-parivar-publication-event"
+    },
+    
+    {
+      "id": "9",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'വി എച്ച് ഗ്ലോബലിൽ നിന്നും വൈദ്യുതി വാങ്ങിയതിൽ ദുരൂഹത'; അഴിമതി ആരോപണവുമായി പ്രതിപക്ഷം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> വി എച്ച് ഗ്ലോബലില്‍ നിന്നും വൈദ്യുതി വാങ്ങിയതില്‍ ദുരൂഹത ആരോപിച്ച് പ്രതിപക്ഷം. വിച്ച് ഗ്ലോബല്‍ വൈദ്യുതി വാങ്ങിയതിലെ മുഖ്യമന്ത്രിയുടേയും ചീഫ് സെക്രട്ടറിയുടെയും പങ്ക് അന്വേഷിക്കണമെന്നാണ് പ്രതിപക്ഷത്തിന്റെ ആവശ്യം. വി എച്ച് ഗ്ലോബലില്‍ നിന്ന് 200 മെഗാവാട്ട് വൈദ്യുതി 11 രൂപ നിരക്കില്‍ വാങ്ങിയിട്ടുണ്ട്. ഇതിന് റെഗുലേറ്ററി കമ്മീഷന്റെ മുന്‍കൂര്‍ അനുമതി ഉണ്ടായിട്ടില്ലെന്നും ഗുരുതരമായ അഴിമതി ശ്രമം നടന്നുവെന്നുമാണ് ആരോപണം. ഇലക്ട്രിസിറ്റി എംപ്ലോയീസ് ഫെഡറേഷന്‍ ഓഫ് ഇന്ത്യ റിസര്‍ച്ച് വിങ് കണ്‍വീനര്‍ ഡോ. എംജി സുരേഷ് കുമാറാണ് ആരോപണം ഉന്നയിച്ച് രംഗത്തുവന്നത്" ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.reporterlive.com/topnews/kerala/2026/11/14/vh-global-power-purchase-corruption-allegation-opposition"
+    },
+
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml":"‘ഗുരുവായൂർ ഹെറിറ്റേജ് സിറ്റി ട്രാൻസ്ഫർമേഷൻ’; തീർഥാടകരെ കാത്ത് വിപുലമായ സൗകര്യങ്ങൾ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഗുരുവായൂർ </B>∙ വികസന രംഗത്ത് വൻകുതിപ്പിനൊരുങ്ങി ഗുരുവായൂർ നഗരസഭ. നാട്ടുകാർക്കും തീർഥാടകർക്കും മികച്ച സൗകര്യങ്ങൾ ലഭ്യമാക്കുന്നതും നഗരസഭയുടെ ആസ്തിയും വരുമാനവും വൻതോതിൽ വർധിക്കുന്നതുമായ 11 മെഗാ പദ്ധതികൾ തയാറാക്കി ഗുരുവായൂർ നഗരസഭ കേന്ദ്ര സർക്കാരിന്റെ അർബൻ ചാലഞ്ച് ഫണ്ട് (യുസിഎഫ്) ലഭിക്കാനുള്ള പ്രാഥമിക അംഗീകാരത്തിനായി സമർപ്പിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/11/13/guruvayoor-municipality-development-projects.html"
+    },
+    {
+       "id": "22",
+      "type": "news",
+      "order": 36,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml": "മുംബൈയിൽനിന്ന് ഒറ്റപ്പാലത്തേക്ക്, കടയിൽ ജോലി; ബിഷ്ണോയ് സംഘവുമായി ബന്ധമുള്ള ഗുരുമൂർത്തി പിടിയിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഒപാലക്കാട്∙</b> അധോലോക കുറ്റവാളി <a href='https://www.manoramaonline.com/topics/crime/lawrencebishnoi.html' target='_blank' rel='noopener noreferrer'>ലോറൻസ് ബിഷ്ണോയ്</a>  സംഘവുമായി ബന്ധമുള്ള യുവാവ് അറസ്റ്റിൽ. തമിഴ്നാട് സ്വദേശിയായ ഗുരുമൂർത്തിയാണ് (27) തൃശൂർ സിറ്റി പൊലീസിന്റെ പിടിയിലായത്. യുഎപിഎ ചുമത്തിയ ഇയാളെ കോടതി റിമാൻഡ് ചെയ്തു. ഗുരുമൂർത്തി സമൂഹമാധ്യമത്തിലൂടെ ബിഷ്ണോയ് സംഘവുമായി ബന്ധപ്പെട്ടതായി വിവരം ലഭിച്ചതിനെതുടർന്നാണ് തൃശൂർ പൊലീസ് ഒറ്റപ്പാലത്തെത്തി ഇയാളെ പിടികൂടിയത്. നാലു മാസമായി തൃക്കങ്ങോട്ടെ കടയിൽ ജോലി ചെയ്യുകയായിരുന്നു യുവാവ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/13/lawrence-bishnoi-gang-suspect-arrested-ottapalam-tamil-nadu-native.html"
+    },
+   {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "നവംബർ 16ന് ഇന്റർനെറ്റ് നിലയ്ക്കും, 17ന് ലോകം ഇരുട്ടിലാകും?' പുതിയൊരു ‘പ്രവചന’ വിവാദം ഇന്റർനെറ്റിൽ പടരുന്നു"
+      },
+      "summary": {
+        "ml": "അനിമേഷൻ പരമ്പരയായ ‘ദ് സിംപ്സൺസ്’ (The Simpsons) മുൻകാലങ്ങളിൽ പല ലോകസംഭവങ്ങളും മുൻകൂട്ടി പ്രവചിച്ചുവെന്ന വാദങ്ങൾ സോഷ്യൽ മീഡിയയിൽ എപ്പോഴും ചർച്ചയാകാറുണ്ട്. ട്രംപിന്റെ പ്രസിഡന്റ് സ്ഥാനാരോഹണവും കോവിഡ് മഹാമാരിയും പ്രവചിച്ചുവെന്ന കഥകൾക്ക് പിന്നാലെ, ഇപ്പോൾ വീണ്ടും പുതിയൊരു ‘പ്രവചന’ വിവാദമാണ് ഇന്റർനെറ്റിൽ പടരുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/11/13/jensen-huang-steps-down-nvidia-ceo.html"
+    },  
+    {
+      "id": "81",
+      "type": "news",
+      "order": 46,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ഒരു വിവാഹേതരബന്ധ വിവാദം! ജെൻസൻ ഹുവാങ്ങിന് നഷ്ടമാകുന്നത് 900 കോടിയിലധികം രൂപ; ആകെ സമ്പത്ത് എത്രയെന്ന് നോക്കാം"
+      },
+      "summary": {
+        "ml": "എൻവിഡിയ സിഇഒ സ്ഥാനത്തുനിന്ന് ജെൻസൻ ഹുവാങ് പടിയിറങ്ങുമ്പോൾ, കമ്പനി നൽകാനിരുന്ന ഏകദേശം 10.8 കോടി ഡോളറിന്റെ (900 കോടി രൂപയിലധികം) ഓഹരി ആനുകൂല്യങ്ങൾ അദ്ദേഹത്തിന് നഷ്ടമാകുമത്രെ. 33 വർഷത്തെ നേതൃത്വത്തിലൂടെ ഹുവാങ് നേടിയ വൻ സമ്പത്തിന്റെ ചെറിയൊരു ഭാഗം മാത്രമാണ് ഇതെങ്കിലും, ഈ ഇടിവ് അദ്ദേഹത്തിന്റെ ആസ്തിയിലും പ്രതിഫലിച്ചിട്ടുണ്ട്. ബ്ലൂംബെർഗ് റിപ്പോർട്ട് പ്രകാരം, ഇതുവരെ കൈമാറ്റം ചെയ്യപ്പെടാത്ത ഓഹരി ആനുകൂല്യങ്ങളിലൂടെ ഏകദേശം 10.8 കോടി ഡോളർ അദ്ദേഹത്തിന് നഷ്ടമാകും. ഇന്ത്യൻ രൂപയിൽ ഇത് 900 കോടി രൂപയിലധികം വരും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/11/14/jensen-huang-resignation-nvidia-ceo.html"
+    },  
+   
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml":"<b>HARD DISK DRIVE (HDD)</b><p>An <strong>HDD (Hard Disk Drive)</strong> is a traditional, non-volatile computer data storage device that keeps your files, applications, and operating system safe even when the computer is turned off.</p>",
+        "en": ""
+      },
+      "summary": 
+      {
+        "ml":"<h3>How It Works</h3><ul><li><strong>Spinning Platters:</strong> Inside the sealed metal case, data is written onto one or more rapidly rotating magnetic disks called platters.</li><li><strong>Read/Write Heads:</strong> A tiny mechanical arm with a magnetic head moves across the spinning platters to read or record data, working much like a record player needle.</li><li><strong>Non-Volatile:</strong> Unlike RAM (which clears when you power down your device), an HDD retains all its data permanently until you delete or overwrite it.</li></ul><h3>Key Characteristics</h3><ul><li><strong>Pros:</strong> They offer massive storage capacities at a much lower cost per gigabyte compared to newer drives.</li><li><strong>Cons:</strong> Because they rely on physical moving parts, they are slower, noisier, generate more heat, and are more vulnerable to physical damage from drops or shocks than solid-state drives.</li></ul><h3>Common Uses</h3><ul><li><strong>Bulk Storage:</strong> Storing large media libraries like movies, high-resolution photos, and music.</li><li><strong>Backups &amp; Archives:</strong> Acting as external backup drives or long-term data repositories for servers and enterprise cloud data centers.</li></ul>"
+      },
+      "image": " images/news05.jpg",
+      "link": "https://www.google.com/search?q=what+is+HDD&oq=what+is+HDD&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABiABBi0BzIKCAIQABiABBi0BzIKCAMQABixAxiABDIKCAQQABiABBi0BzIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIKCAgQABiABBi0BzIKCAkQABiABBi0B9IBCDUwNjNqMGo0qAIAsAIB&sourceid=chrome&source=chrome.ob&ie=UTF-8"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": "/"
+    },
+    
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :81,592.45<span style='color:red;'> -318.55(▼  0.39%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 25,144.30 <span style='color:red;'> -155.05(▼ -0.61)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:green;'> ₹12,615 ▲ ₹ +25)   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:silver;'>₹ 195 (▼ ₹ 0  ) </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+    {
+      "id": "908",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഉപകാര സ്മരണ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<span style='color:red; fornt-weight:bold;'>വിശുദ്ധ യൂദാസ്ലീഹായുടെ നൊവേന.</span><br> മിശിഹായുടെ സ്നേഹിതനും വിശ്വസ്തദാസനുമായ വി. യൂദാശ്ലീഹായേ, ഏറ്റവും കഷ്ടപ്പെടുന്ന എനിക്കുവേണ്ടി അപേക്ഷിക്കണമേ. യാതൊരു സഹായവും ഫലസിദ്ധിയുമില്ലാതെ വരുന്ന സന്ദര്‍ഭത്തില്‍ ഏറ്റവും ത്വരിതവും, ഗോചരവുമായ സഹായം ചെയ്യുന്നതിന് അങ്ങേക്ക് വിശേഷവിധിയായാി കിട്ടിയിരിക്കുന്ന അനുഗ്രഹത്തെ അങ്ങ് ഉപയോഗിക്കണമെ. എന്‍റെ എല്ലാ ആവശ്യങ്ങളിലും വിശിഷ്യ(ആവശ്യം പറയുക) അങ്ങേ സഹായം ഞാനപേക്ഷിക്കുന്നു. ഭാഗ്യപ്പെട്ട യൂദാസ്ലീഹായേ, അങ്ങേ ഈ അനുഗ്രഹത്തെ ഞാന്‍ സദാ ഓര്‍ക്കുമെന്നും അങ്ങേ സ്തുതികളെ ലോകത്തെങ്ങും അറിയിക്കുമെന്നും ഞാന്‍ വാഗ്ദാനം ചെയ്യുന്നു. <b>ആമ്മേന്‍</b>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/stjude.jpg",
+      "link": ""
+    },
+
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "950",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "ന്യൂസ്",
+        "en": "paper"
+      },
+      "title": {
+        "ml": "<b>📰</b> പ്രമുഖ പത്രങ്ങളിലൂടെ..................",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ul><li><a href='https://keralakaumudi.com/' target='_blank'>കേരള കൌമുദി</a> </li><li> <a href='https://www.mathrubhumi.com/' target='_blank'>മാതൃഭൂമി</a> </li><li> <a href='https://www.deepika.com/' target='_blank'>ദീപിക</a></li><li><a href='https://www.manoramaonline.com/' target='_blank'>മലയാള മനോരമ</a></li></ul><br>🌐 Web Sites.<br><ul><li><a href='https://www.reporterlive.com/' target='_blank'> റിപ്പോര്‍ട്ടര്‍ ടി.വി.</a> </li><li><a href='https://www.asianetnews.com/' target='_blank'> ഏഷ്യനെറ്റ് ന്യൂസ് </a> </li><li><a href='https://www.twentyfournews.com/' target='_blank'> ട്വിന്‍റി ഫോര്‍ ന്യൂസ് </a> </li></ul>",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "906",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സുര്യനു കീഴില്‍ ഏതൊരു ഓണ്‍ലൈന്‍ സേവനങ്ങള്‍ക്കും.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "ഞങ്ങളെ ബന്ധപ്പെടുക. Experienced Professionals since 1986.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/anyservices.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "907",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "ആശംസകള്‍",
+        "en": "gret"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

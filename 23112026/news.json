@@ -1,0 +1,1166 @@
+{
+  "settings": {
+    "publicationDate": "2026-11-22",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "വൃശ്ചികം 07, 1202",
+      "en": "Thulam 118, 1202"
+    },
+    "hijriDate": {
+      "ml": "12 ജമാദുൽ അവ്വൽ - ജമാദുല്‍ ആഖിര്‍ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 518,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "news",
+        "category": "ന്യൂസ്"
+      },
+
+      {
+        "id": "weather",
+        "category": "കാലാവസ്ഥ"
+      },
+
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "gret",
+        "category": "ആശംസകള്‍"
+      },
+
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Small actions create great changes. Be responsible, be grateful and make the world a better place!",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+        "label": {
+        "ml": "വാര്‍ത്ത ഉറവിടം",
+        "en": "news"
+      },
+      "link": "#news"
+    },
+    
+     {
+        "label": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "link": "#weather"
+    },
+ 
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "ആശംസകള്‍",
+        "en": "Greetings"
+      },
+      "link": "#gret"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "ജനങ്ങൾക്കും നിയമസഭയിൽ ചോദ്യങ്ങൾ നേരിട്ട് ചോദിക്കാം; കൂടിയാലോചനകൾ തുടങ്ങിയതായി സ്പീക്കർ തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "കാലടി സർവകലാശാലാ വിദ്യാർത്ഥികൾക്ക് ആശ്വാസം;   സസ്‌പെൻഷൻ ഹൈക്കോടതി റദ്ദാക്കി",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി: </b>കാലടി സർവകലാശാലയിലെ വിദ്യാർത്ഥികളുടെ സസ്‌പെൻഷൻ റദ്ദാക്കി ഹൈക്കോടതി. ഇവർക്ക് പരീക്ഷ എഴുതാനുള്ള അനുമതിയും ഹൈക്കോടതി നൽകി. വിസിയെ കയ്യേറ്റം ചെയ്തുവെന്ന പേരിൽ കഴിഞ്ഞ സെപ്തംബർ ഒൻപതിനാണ് 14 വിദ്യാർത്ഥികളെ അച്ചടക്ക നടപടിയുടെ ഭാഗമായി സർവകലാശാല സസ്‌പെൻഡ് ചെയ്തത്. നിയമവിരുദ്ധമാണെന്ന് കണ്ടെത്തിയാണ് കോടതി സസ്‌പെൻഷൻ റദ്ദാക്കിയത്. സസ്‌പെൻഷനെ തുടർന്നുണ്ടായ അച്ചടക്ക സമിതിയുടെ അന്വേഷണ റിപ്പോർട്ടും റദ്ദാക്കി. പകരം പുതിയ അന്വേഷണം നടത്താൻ ഉത്തരവിട്ടു.",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.keralakaumudi.com/kerala/general/high-court-suspended-kalady-university-students-suspension-1829305"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "🌍 Special Days Today – 23 November 2026",
+        "en": ""
+      },
+      "summary": {
+       "ml": "<section><h2>1. Fibonacci Day</h2><p>Celebrated every November 23 (11/23), representing the first four numbers of the Fibonacci sequence: 1, 1, 2, 3.</p><p>The sequence appears in mathematics, nature, architecture and art.</p></section><section><h2>2. Birth Anniversary of Durga Das</h2><p>Durga Das was a distinguished Indian journalist and editor, born on 23 November 1900. He made significant contributions to Indian journalism.</p></section><section><h2>3. Death Anniversary of Acharya Jagadish Chandra Bose</h2><p>Remembering the pioneering Indian scientist who passed away on 23 November 1937.</p><p>He made remarkable contributions to physics, radio science and plant physiology. His experiments demonstrated the responses of plants to external stimuli.</p></section><section><h2>4. World AMR Awareness Week</h2><p>Observed internationally and relevant to India, this campaign promotes responsible use of antibiotics and awareness of antimicrobial resistance.</p></section>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.un.org/observances/list-days-weeks?utm_source=chatgpt.com"
+    },
+        {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പി ജയരാജനെതിരെ പാർട്ടിയിൽ ഗുരുതര പരാതി; അന്വേഷണ കമ്മീഷനെ വെച്ച് സിപിഎം; പല ജില്ലകളിലും ക്വട്ടേഷൻ സംഘവുമായി ബന്ധമെന്ന് ഇ.പി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം: സിപിഎമ്മിൽ മുതിർന്ന നേതാക്കളായ ഇ.പി ജയരാജനും പി.ജയരാജനും തമ്മിലെ തർക്കം പുതിയ തലത്തിലേക്ക്. ഇ.പി ജയരാജനുമായി ബന്ധപ്പെട്ട വൈദേഹം റിസോർട് വിവാദവും പി.ജയരാജനെതിരെ ഉയർന്ന ക്വട്ടേഷൻ സംഘങ്ങളുമായുള്ള ബന്ധവും അന്വേഷിക്കാൻ പാർട്ടി കമ്മീഷനെ നിയമിച്ചു. സിപിഎം സംസ്ഥാന സെക്രട്ടേറിയേറ്റ് അംഗങ്ങളായ കെ.എൻ ബാലഗോപാലും ടി.പി രാമകൃഷ്‌ണനുമാണ് അന്വേഷണ കമ്മീഷൻ അംഗങ്ങൾ.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/ep-jayarajan-vs-p-jayarajan-cpm-appoints-two-member-commission-to-examine-allegations-articleshow-oggvgvc"
+    },
+    
+     {
+      "id": "2",
+      "type": "news",
+      "order": 50,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "അവധി ദിവസങ്ങളിലും പ്രതീക്ഷിച്ച പുരോഗതിയില്ല, ശബരിമലയിൽ ദർശനത്തിനെത്തുന്ന തീർത്ഥാടകരുടെ എണ്ണത്തിൽ കുറവ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പത്തനംതിട്ട:</b> ശബരിമലയിൽ ദർശനത്തിനെത്തിയ തീർത്ഥാടകുടെ എണ്ണത്തിൽ കുറവ്. ഇന്നലെ ദർശനത്തിന് 60,003 തീർത്ഥാടകരാണ് എത്തിയത്. കഴിഞ്ഞ ദിവസത്തെ അപേക്ഷിച്ച് തീർഥാടകരുടെ എണ്ണത്തിൽ കുറവുണ്ടായി. ശനിയാഴ്ച 61677 പേർ ശബരിമലയിൽ ദർശനത്തിന് എത്തിയിരുന്നു. ആഴ്ചയുടെ അവസാനവും തീർഥാടകരുടെ എണ്ണം കാര്യമായി വർധിച്ചില്ലെന്നാണ് കണക്കുകൾ സൂചിപ്പിക്കുന്നത്. വിർച്വൽ ക്യൂ ബുക്കിംഗ് ഈ ദിവസങ്ങളിൽ പൂർണമായിരുന്നു. വെള്ളി, ശനി , ഞായർ ദിവസങ്ങളിൽ സന്നിധാനത്ത് എത്തിയത് 1,82,315 തീർത്ഥാടകർ മാത്രം. രണ്ടേകാൽ ലക്ഷത്തോളം പേർ വിർച്വൽ ക്യൂ വഴി ദർശനത്തിന് ബുക്ക് ചെയ്തിരുന്നു. സ്പോട്ട് ബുക്കിങ്ങിലും അനുപാതികമായ കുറവുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/decrease-in-the-number-of-pilgrims-arriving-at-sabarimala-for-darshan-articleshow-2mpw6al"
+    },
+   {
+      "id": "908",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ശബരിമല വെർച്വൽ 'ക്യൂ' ബുക്കിങ്ങ്.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല, സമയ നിബന്ധങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/sabrimala.png",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "35",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "കുപ്പിവെള്ളത്തിൽ കാൻസറിന് കാരണമാകുന്ന രാസ വസ്തുക്കൾ; ബിസ്‌ലേരിക്കെതിരെ പ്രോസിക്യൂഷന് അനുമതി നൽകി എഫ്എസ്എസ്എഐ"
+      },
+      "summary": {
+        "ml": "<b>ദില്ലി:</b> ബിസ്‌ലേരി ഉൾപ്പെടെ അഞ്ച് കമ്പനികൾക്കെതിരെ പ്രോസിക്യൂഷന് അനുമതി നൽകി എഫ്എസ്എസ്എഐ. ബിസ്‌ലേരിയുടെ പാക്കേജ് കുടിവെള്ള സാമ്പിൾ സുരക്ഷാ മാനദണ്ഡങ്ങൾ ലംഘിച്ചതായി കണ്ടെത്തിയതിനെ തുടർന്നാണ് നടപടി. അനുവദനീയമായ അളവിൽ കൂടുതൽ ബ്രോമേറ്റ്, പിഎഎച്ച് രാസവസ്തുക്കൾ കണ്ടെത്തി. വസന്ത് മസാല, ടിറ്റ്-ബിറ്റ് ഫുഡ്‌സ്, മിമാൻസ ഇൻഡസ്ട്രീസ്, ആശ കൺഫെക്ഷനറി എന്നിവയാണ് മറ്റ് കമ്പനികൾ. രണ്ട് സ്ഥാപനങ്ങളുടെ ലൈസൻസ് ഭക്ഷ്യസുരക്ഷാ ലംഘനത്തെ തുടർന്ന് സസ്‌പെൻഡ് ചെയ്തു. ആശ കൺഫെക്ഷനറിയുടെ ചോക്ലേറ്റ് കുക്കീസ് തിരിച്ചുവിളിക്കാനും നിർദേശിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/india-news/cancer-causing-chemicals-in-bottled-water-fssai-grants-permission-for-prosecution-against-bisleri-articleshow-yu0fhgg"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "മൂന്നിലധികം മുറികളുള്ള വീട്, എസി, കാർ, സർക്കാർ ജോലി; സൗജന്യ റേഷൻ വാങ്ങുന്നവരിൽ 13.2% പേർ അനർഹരെന്ന് കേന്ദ്ര പഠനം"
+      },
+      "summary": {
+        "ml": "<b>ദില്ലി:</b> കേന്ദ്ര സർക്കാരിന്റെ പ്രധാൻമന്ത്രി ഗരീബ് കല്യാൺ അന്ന യോജന പദ്ധതിയിൽ വൻതോതിൽ അനർഹർ കടന്നുകൂടിയതായി ഞെട്ടിക്കുന്ന റിപ്പോർട്ട്. രാജ്യത്തെ സൗജന്യ റേഷൻ ഗുണഭോക്താക്കളിൽ 13.2 ശതമാനം പേരും അനർഹരാണെന്നാണ് കേന്ദ്ര ഭക്ഷ്യ-പൊതുവിതരണ വകുപ്പ് നടത്തിയ പഠനത്തിൽ കണ്ടെത്തി. 51,303 ഗുണഭോക്തൃ കുടുംബങ്ങളിൽ നടത്തിയ പഠനത്തിലാണ് ഞെട്ടിക്കുന്ന കണ്ടെത്തൽ. പശ്ചിമ ബംഗാളിലാണ് ഏറ്റവും ഉയർന്ന അനർഹ ഗുണഭോക്താക്കൾ. 39.5% പേരാണ് പദ്ധതിയിൽ അനർഹരായി കണ്ടെത്തിയത്. ദേശീയ ഭക്ഷ്യസുരക്ഷാ നിയമത്തിന് കീഴിൽ സൗജന്യ റേഷൻ കൈപ്പറ്റുന്നവരിൽ കാറുള്ളവരും സർക്കാർ ജോലിക്കാരുമടക്കം ഉൾപ്പെടുന്നുണ്ടെന്നാണ് റിപ്പോർട്ട് വ്യക്തമാക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/india-news/study-flags-13-percentage-inclusion-error-in-pm-garib-kalyan-scheme-shocking-report-articleshow-vbz65dq"
+    },
+
+
+     {
+      "id": "36",
+      "type": "news",
+      "order": 40,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "രാജസ്ഥാൻ ഫലം 'ഡബിൾ എൻജിൻ' ഭരണത്തിനുള്ള മറുപടി: രാഹുൽ"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി: രാജസ്ഥാൻ പഞ്ചായത്ത് തിരഞ്ഞെടുപ്പിലെ ബി.ജെ.പിയുടെ തോൽവി 'ഡബിൾ എൻജിൻ' ഭരണത്തിന് ലഭിച്ച മറുപടിയെന്ന് ലോക്‌സഭ പ്രതിപക്ഷ നേതാവ് രാഹുൽ ഗാന്ധി. ബി.ജെ.പി ഭരിക്കുന്ന സംസ്ഥാനത്തു നിന്നാണ് അവർക്ക് തിരിച്ചടി കിട്ടിയിരിക്കുന്നത്. ബി.ജെ.പി തൊഴിലുറപ്പ് പദ്ധതി അട്ടിമറിച്ചു. കർഷകരെ നഷ്‌ടത്തിലേക്ക് തള്ളിവിട്ടു,പഞ്ചായത്തുകളുടെ അധികാരം കവർന്നു. വിലക്കയറ്റവും തൊഴിലില്ലായ്‌മയും അടക്കം ഗ്രാമങ്ങൾ സഹിച്ചു കഴിയുകയായിരുന്നു. ഇപ്പോൾ അവർ ശബ്‌ദമുയർത്തി. ഇത് രാജസ്ഥാനിലെ മാത്രമല്ല,രാജ്യത്തെ ഓരോ ഗ്രാമത്തിന്റെയും ശബ്‌ദമാണെന്ന് രാഹുൽ കൂട്ടിച്ചേർത്തു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/news-360/national/national-1828963"
+    },
+     {
+      "id": "36",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "യു.പി തിരഞ്ഞെടുപ്പ്: പ്രതിപക്ഷ ഐക്യം ഉറപ്പിക്കാൻ നീക്കം"
+      },
+      "summary": {
+        "ml": "<b>ന്യൂ‌‌ഡൽഹി:</b> 'ഇന്ത്യ' സഖ്യത്തിൽ നിന്ന് പുറത്തുപോയവരെ ചേർത്തുനിറുത്തി ഉത്തർപ്രദേശിൽ ഭരണം പിടിക്കാൻ നീക്കങ്ങൾ ഊർജ്ജിതമാക്കി സമാജ്‌വാദി പാർട്ടി. കഴിഞ്ഞദിവസം ലക്‌നൗവിൽ ആം ആദ്മി പാർട്ടി രാജ്യസഭാ എം.പി സഞ്ജയ് സിംഗുമായി സമാജ്‌വാദി പാർട്ടി ദേശീയ അദ്ധ്യക്ഷൻ അഖിലേഷ് യാദവ് ചർച്ച നടത്തിയത് പ്രതിപക്ഷ ഐക്യമുറപ്പിക്കുന്നതിന്റെ ഭാഗമായാണ്. സീറ്രു വീതംവയ്പ്പിലും ചർച്ച നടന്നുവെന്നാണ് സൂചനകൾ. വിവിധ വിഷയങ്ങൾ സംസാരിച്ചെന്നും മകളുടെ വിവാഹത്തിന് അഖിലേഷിനെ ക്ഷണിച്ചെന്നും സഞ്ജയ് സിംഗ് പ്രതികരിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/news-360/national/national-1828956"
+    },
+   
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "പമ്പയില്‍ വസ്ത്രം ഉപേക്ഷിച്ചാല്‍ 5000 രൂപ പിഴ; അടച്ചില്ലെങ്കില്‍ പ്രോസിക്യൂഷന്‍ നടപടി"
+      },
+      "summary": {
+        "ml": "<b>പത്തനംതിട്ട:</b> പമ്പാനദിയില്‍ തീര്‍ത്ഥാടകര്‍ വസ്ത്രങ്ങള്‍ ഉപേക്ഷിക്കുന്നതിന് കര്‍ശന നിരോധനമേര്‍പ്പെടുത്തി. പമ്പാനദിയിലും സ്‌നാനഘട്ടങ്ങളിലും വസ്ത്രങ്ങള്‍ ഉപേക്ഷിച്ചാല്‍ 5000 രൂപ വരെ പിഴ ചുമത്തും. പിഴ അടച്ചില്ലെങ്കില്‍ പ്രോസിക്യൂഷന്‍ നടപടി സ്വീകരിക്കുമെന്ന് ശബരിമല എഡിഎം ദിലീപ് കെ കൈനിക്കര ഉത്തരവില്‍ വ്യക്തമാക്കി. നവംബര്‍ 22 മുതല്‍ രണ്ടു മാസത്തേക്കാണ് നിരോധന ഉത്തരവ്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mangalam.com/news/detail/883093-latest-news-sabarimalapambaclothesdisposal5000fineadmorder.html"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "‘വിവിധ ചേരികളിൽ നിൽക്കുന്നവരെ കൊലപ്പെടുത്തുക എന്നത് കണ്ണൂരിൽ നടന്നുകൊണ്ടിരുന്ന കാര്യം, വിധിയിൽ ആശ്വാസം’",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>‘വിവിധ ചേരികളിൽ നിൽക്കുന്നവരെ കൊലപ്പെടുത്തുക എന്നത് കണ്ണൂരിൽ നടന്നുകൊണ്ടിരുന്ന കാര്യം, വിധിയിൽ ആശ്വാസം’ <a href='https://www.mathrubhumi.com/crime/news/payyanur-cpm-worker-dhanraj-case-verdict-re8aanbz'>കോടതിയുടെ വിധി</a> യിൽ പ്രതികരണവുമായി പയ്യന്നൂർ എം.എൽ.എ. വി. കുഞ്ഞികൃഷ്ണൻ. കേസിലെ പ്രതികൾ കുറ്റക്കാരാണെന്ന് കോടതി കണ്ടെത്തിയതും അവർക്ക് ശിക്ഷ ഉറപ്പായതും ആശ്വാസകരമായ കാര്യമാണെന്ന് അദ്ദേഹം പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/dhanaraj-murder-case-verdict-v-kunhikrishnan-reaction-wb1h3u1b"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 39,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'ഉണ്ണിത്താൻ 'സ്‌മോൾ ബോയ്', മകൻ ഇപ്പോൾ ബിജെപിയിലെ ഏത് ഗ്രൂപ്പിലാണ്'; പരിഹാസവുമായി എ ഗ്രൂപ്പ്, കോൺഗ്രസിൽ കലാപം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം: പുതിയ സർക്കാർ അധികാരമേറ്റ് ആറു മാസം മാത്രം പിന്നിടുമ്പോഴും കോൺഗ്രസിനുള്ളിലെ ഗ്രൂപ്പ് തർക്കങ്ങളും പരസ്യപോരും രൂക്ഷമാകുന്നു. കാസർകോട് എംപി രാജ്‌മോഹൻ ഉണ്ണിത്താനെതിരെ എ ഗ്രൂപ്പിലെ യുവനേതാക്കൾ കടുത്തഭാഷയിലെ വിമർശനവും പരിഹാസവുമായി രംഗത്തെത്തി. ഷാഫി പറമ്പിലിനെ കുറിച്ച് ഉണ്ണിത്താൻ നടത്തിയ പരാമർശമാണ് എ ഗ്രൂപ്പിനെ പ്രകോപിപ്പിച്ചത്. ഷാഫി ഏത് ഗ്രൂപ്പാണെന്ന് കേരളത്തിൽ അരിയാഹാരം കഴിക്കുന്ന എല്ലാവർക്കും അറിയാം എന്നായിരുന്നു ഉണ്ണിത്താന്റെ പരിഹാസം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/rajmohan-unnithan-shafi-parambil-congress-a-group-rift-d3q3u3bc"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 39,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ജനങ്ങൾക്കും നിയമസഭയിൽ ചോദ്യങ്ങൾ നേരിട്ട് ചോദിക്കാം; കൂടിയാലോചനകൾ തുടങ്ങിയതായി സ്പീക്കർ തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> ജനപ്രതിനിധിസഭയിൽ നേരിട്ടു ചോദ്യംചോദിക്കാൻ കഴിയുന്നതരത്തിൽ ജനങ്ങളുടെ ദിവസം ആഘോഷിക്കാനുള്ള ആലോചന തുടങ്ങിയതായി സ്പീക്കർ തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ. സംസ്ഥാന മനുഷ്യാവകാശ കമ്മിഷൻ നടത്തിയ ‘അഭിപ്രായസ്വാതന്ത്ര്യവും ഫോർത്ത് എസ്റ്റേറ്റും: ഭാവിയിലേക്കുള്ള പുതിയ ചിന്താധാരകൾ’ എന്ന സെമിനാർ ഉദ്ഘാടനം ചെയ്യുകയായിരുന്നു അദ്ദേഹം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/thiruvanchoor-radhakrishnan-speaker-assembly-peoples-day-questions-hozcx3pj"
+    },
+
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "പാക് മന്ത്രിക്കും സംഘത്തിനും താജ്മഹൽ സന്ദർശിക്കാൻ അനുമതി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി:</b> ഷാംഗ്ഹായ് സഹകരണ സംഘടന സാംസ്കാരിക ഉച്ചകോടിയിൽ പങ്കെടുക്കാൻ ഡൽഹിയിലെത്തിയ പാക്കിസ്ഥാൻ പ്രതിനിധി സംഘത്തിന് താജ്മഹൽ സന്ദർശിക്കാൻ അനുമതി നൽകിയിട്ടുണ്ടെന്ന് കേന്ദ്ര വിദേശകാര്യ മന്ത്രാലയം.<br> എന്നാൽ ദേശീയ തലസ്ഥാനത്തെ നിസാമുദ്ദീൻ ദർഗ സന്ദർശിക്കാനുള്ള അവരുടെ നിർദ്ദേശത്തിന് സുരക്ഷാ ക്ലിയറൻസ് നൽകിയിട്ടില്ലെന്നും വിദേശകാര്യ മന്ത്രാലയം വ്യക്തമാക്കി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/national/permission-granted-for-pakistani-minister-and-delegation-to-visit-the-taj-mahal-218774"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "world"
+      },
+      "title": {
+           "ml": "ചൈനയിൽനിന്ന് 405 ടൺ മിസൈൽ ഇന്ധനം, ദശലക്ഷക്കണക്കിന് സിം കാർഡുകൾ; ബംഗ്ലാദേശിലേക്കുള്ള കപ്പൽ പിടിച്ചെടുത്ത് ഇന്തൊനീഷ്യ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ബെലവാൻ (ഇന്തൊനീഷ്യ): ചൈനയിൽനിന്ന് ബംഗ്ലാദേശിലേക്ക് പുറപ്പെട്ട ചരക്കുകപ്പൽ പിടിച്ചെടുത്ത്&nbsp;ഇന്തൊനീഷ്യൻ നാവികസേന. കപ്പലിൽനിന്ന് മിസൈൽ നിർമാണത്തിന് ഉപയോഗിക്കുന്ന 405 ടൺ സോഡിയം പെർക്ലോറേറ്റും ലക്ഷക്കണക്കിന് വ്യാജ 4ജി സിം കാർഡുകളും കണ്ടെത്തിയതിനെത്തുടർന്നാണ്&nbsp;നടപടി.", 
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/world/indonesia-seizes-china-bangladesh-ship-missile-chemicals-jm2hwzf5"
+    },
+    {
+      "id": "43",
+      "type": "news",
+      "order": 56,
+      "category": {
+        "ml": "ലോകം",
+        "en": "world"
+      },
+      "title": {
+        "ml": "രണ്ടുവർഷത്തെ രഹസ്യ നീക്കം, ലക്ഷ്യം എഐ ചിപ്പുകൾ; US നിയന്ത്രണങ്ങൾ മറികടക്കാൻ ചൈന ചാരപ്രവർത്തനം നടത്തിയെന്ന് റിപ്പോർട്ട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂയോർക്ക്:</b> അത്യാധുനിക സെമികണ്ടക്ടർ ചിപ്പുകൾ സ്വന്തമാക്കാനും ആഗോള ചിപ്പ് വ്യവസായത്തെക്കുറിച്ചുള്ള രഹസ്യവിവരങ്ങൾ ശേഖരിക്കാനും ചൈന രണ്ടുവർഷത്തിലേറെയായി രഹസ്യനീക്കം നടത്തിയെന്ന് റിപ്പോർട്ട്. യുഎസും സഖ്യരാജ്യങ്ങളും ഏർപ്പെടുത്തിയ കയറ്റുമതി നിയന്ത്രണങ്ങൾ മറികടക്കാനാണ് ചൈനയുടെ രഹസ്യാന്വേഷണ ഏജൻസിയായ രാജ്യസുരക്ഷാ മന്ത്രാലയം (എംഎസ്എസ്) ഈ നീക്കം നടത്തിയത്. ചൈനീസ് കമ്പനികൾക്ക് അത്യാധുനിക ചിപ്പുകൾ ലഭ്യമാക്കുക, അവ രഹസ്യമായി രാജ്യത്തെത്തിക്കുക എന്നിവയായിരുന്നു പദ്ധതിയുടെ ലക്ഷ്യം. ചിപ്പ് വ്യവസായത്തെക്കുറിച്ചും വിതരണ ശൃംഖലകളെക്കുറിച്ചും വിവരങ്ങൾ ശേഖരിക്കാനും നീക്കം നടന്നു. യുഎസ് മാധ്യമമായ ന്യൂയോർക്ക് ടൈംസ് പുറത്തുവിട്ട റിപ്പോർട്ടിലാണ് ഇക്കാര്യങ്ങൾ പറയുന്നത്." , 
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mathrubhumi.com/news/world/china-spy-campaign-advanced-ai-chips-us-export-curbs-fjybm4g3"
+    },
+
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "title": {
+        "ml": "Tomorrow (Tuesday, November 24, 2026), Kerala is expected to be partly sunny with a high of 34°C and a low of 24°C.",
+        "en": ""
+      },
+      "summary": {
+        "ml":  "<ul><li><strong>Sky &amp; Rain:</strong> Sunny to partly sunny in the morning, turning cloudier by afternoon with a 15% chance of rain.</li><li><strong>Humidity &amp; Wind:</strong> Average humidity around 75% with light east winds at 3 mph.</li><li><strong>UV Index:</strong> Moderate to high (6).</li></ul>",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "കേരള പി. എസ്. സി.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കേരളത്തിലെ സര്‍ക്കാര്‍, അര്‍ദ്ധ സര്‍ക്കാര്‍, പൊതുമേഖലെ സ്ഥാപനങ്ങളിലേക്ക് വിവിധ തസ്തികകള്‍ക്കേ അപേക്ഷിക്കുവാന്‍ സന്ദര്‍ശിക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/PSC.png",
+      "link": "https://www.keralapsc.gov.in/home-2"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "‘കീപ്പർ’ വരെ പന്തെറിഞ്ഞിട്ടും രക്ഷയില്ല, ‘കോട്ട’ കെട്ടി കിവീസ്; ഒരു മണിക്കൂർ മുന്‍പേ സമനിലയ്ക്ക് കൈ കൊടുത്ത് ഇന്ത്യ!",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വെല്ലിങ്ടൻ ∙</b> ഇന്ത്യയുടെ വിജയമോഹങ്ങൾക്കു മുന്നിൽ മിച്ചലും ഫിലിപ്സും ചേർന്ന് കെട്ടിയ ‘കോട്ട’ പൊളിക്കാൻ സാധിക്കാതിരുന്നതോടെ ന്യൂസീലൻഡിനെതിരായ ആദ്യ ടെസ്റ്റിൽ ഗില്ലിനും സംഘത്തിനും സമനില. രണ്ടാം ഇന്നിങ്സിൽ ന്യൂസീലൻഡ് സ്കോർ 5ന് 239 റൺസ് എന്ന നിലയിൽ നിൽക്കെ ഇന്ത്യ സമനിലയ്ക്കു കൈകൊടുക്കുകയായിരുന്നു. അവസാന ദിവസത്തെ കളി ഒരു മണിക്കൂർ കൂടിയുണ്ടായിരുന്നെങ്കിലും ശേഷിക്കുന്ന അഞ്ച് വിക്കറ്റുകൾ വീഴ്ത്താനാകില്ലെന്ന് തിരിച്ചറിഞ്ഞതോടെയാണ് ക്യാപ്റ്റൻ ശുഭ്മൻ ഗിൽ സമനിലയ്ക്ക് സമ്മതിച്ചത്. സ്കോർ: ന്യൂസീലൻഡ് 368, 5ന് 239. ഇന്ത്യ 9ന് 720 ഡിക്ലയേഡ്. ഡാരിൽ മിച്ചൽ (186 പന്തിൽ 49*), ഗ്ലെൻ ഫിലിപ്സ് (126 പന്തിൽ 26*) എന്നിവർ ചേർന്ന് ആറാം വിക്കറ്റിൽ പ്രതിരോധക്കോട്ട കെട്ടിയതാണ് കിവീസിനെ തോൽവിയിൽനിന്നു രക്ഷിച്ചത്. ആദ്യ ഇന്നിങ്സിൽ കിവീസിനെ വലിയ തകർച്ചയിൽനിന്ന് രക്ഷിച്ച ഹെൻറി നിക്കോൾസാണ് പ്ലെയർ ഓഫ് ദ് മാച്ച്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/11/23/india-vs-new-zealand-1st-test-day-5-live-score.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 45,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "കനത്ത മഴയിൽ ജലനിരപ്പുയര്‍ന്നു, വൈറ്റ് വാട്ടർ കയാക്കിങ് മത്സരങ്ങൾ റദ്ദാക്കി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കോഴിക്കോട്∙ </b>കനത്ത മഴയിൽ ചാലിപ്പുഴയിൽ അപകടകരമായ രീതിയിൽ ജലനിരപ്പ്&nbsp; ഉയർന്നതിനാൽ ശനിയാഴ്ചത്തെ മലബാർ റിവർ ഫെസ്റ്റിവൽ വൈറ്റ് വാട്ടർ കയാക്കിങ് മത്സരങ്ങൾ റദ്ദാക്കി. ഫയർ ഫോഴ്സിന്റെ നിർദേശ പ്രകാരം താരങ്ങളെയും കയാക്കിങ് ഉപകരണങ്ങളും സുരക്ഷിതസ്ഥാനങ്ങളിലേക്ക് മാറ്റിയതായും കോടഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് പ്രസിഡന്റ് അന്നക്കുട്ടി ദേവസ്യ, അഡ്വഞ്ചർ ടൂറിസം സിഇഒ ബിനു കുര്യാക്കോസ് എന്നിവർ അറിയിച്ചു. പുലിക്കയത്തുനിന്ന് കയാക്കിങ് സെന്ററിന്റെ ഭാഗത്തേക്ക് പൊതുജനങ്ങൾ പ്രവേശിക്കരുതെന്നും കോടഞ്ചേരി ഗ്രാമ പഞ്ചായത്തിലെ ജനങ്ങൾ ജാഗ്രത പാലിക്കണമെന്നും പുഴയിലോ വെള്ളക്കെട്ടിലോ&nbsp; ഇറങ്ങരുതെന്നും പ്രസിഡന്റ് മുന്നറിയിപ്പ് നൽകി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/local-sports/2026/08/01/malabar-river-festival-cancelled.html"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "സിപിഎം പ്രവർത്തകൻ ധനരാജ് കൊല്ലപ്പെട്ട കേസ്; ആദ്യ മൂന്ന് പ്രതികൾ കുറ്റക്കാർ, 16 പേരെ വെറുതെവിട്ടു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കണ്ണൂർ: സംസ്ഥാനത്ത് ഏറെ കോളിളക്കം സൃഷ്ടിച്ച പയ്യന്നൂർ രാമന്തളി കാരന്താട്ടെ ഡി.വൈ.എഫ്.ഐ നേതാവ് സി. ധനരാജ് കൊല്ലപ്പെട്ട കേസിൽ വിധി പുറത്ത്. കേസിലെ ആദ്യ മൂന്ന് പ്രതികളുടെ കൊലക്കുറ്റം തെളിഞ്ഞതായി കോടതി കണ്ടെത്തി. ടി പി ബിജു ആണ് കേസിലെ ഒന്നാം പ്രതി. എം വിപിൻ രണ്ടാം പ്രതിയും എം വൈശാഖ് മൂന്നാം പ്രതിയുമാണ്. കൊല നടന്ന സ്ഥലത്ത് 11 പ്രതികളാണുണ്ടായിരുന്നത്. ഇതിൽ നേരിട്ട് കൃത്യം നിർവഹിച്ച ആദ്യ മൂന്ന് പ്രതികൾക്കെതിരെയുള്ള കുറ്റം തെളിഞ്ഞതായാണ് കോടതിയുടെ കണ്ടെത്തൽ. നാല് മുതൽ 20 വരെയുള്ള ബാക്കി 16 പ്രതികളെ വെറുതെവിട്ടു. സംശയത്തിന്റെ ആനുകൂല്യത്തിലാണ് ഇവരെ വെറുതെവിട്ടത്. ശിക്ഷാവിധിയിൽ ഉച്ചയ്ക്കുശേഷം വാദം തുടരും.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/kerala/general/dhanaraj-murder-case-verdict-out-1829310"
+    },
+
+    {
+      "id": "72",
+      "type": "news",
+      "order": 37,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "കട്ടപ്പനയില്‍ മന്തി കഴിച്ച 37 പേര്‍ക്ക് ഭക്ഷ്യവിഷബാധ; രണ്ട് പേരുടെ നില ഗുരുതരം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കട്ടപ്പന:</b> മന്തി കഴിച്ച 37 പേര്‍ക്ക് ഭക്ഷ്യവിഷബാധയേറ്റു. കട്ടപ്പനയിലാണ് സംഭവം. ഇടുക്കിയില്‍ വിനോദ സഞ്ചാരത്തിനെതിയ തിരൂര്‍ സ്വദേശികളായ വിദ്യാര്‍ഥികള്‍ ഉള്‍പ്പെടെയുള്ളവര്‍ക്കാണ് ഭക്ഷ്യ വിഷബാധയേറ്റത്. ഇതില്‍ രണ്ട് പേരുടെ നില",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mangalam.com/news/detail/883105-latest-news-37sufferfoodpoisoningaftereatingmandi.html"
+    },
+
+
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "അനുവാദമില്ലാതെ മൊബൈൽ നമ്പർ ഉപയോഗിച്ചു; ‘ഓഫിസർ ഓൺ ഡ്യൂട്ടി’ ചിത്രത്തിന്റെ നിർമാതാവിനും നെറ്റ്ഫ്ലിക്സിനുമെതിരെ കേസെടുക്കാൻ നിർദേശം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി ∙ കുഞ്ചാക്കോ ബോബൻ നായകനായ ‘ഓഫിസർ ഓൺ ഡ്യൂട്ടി’ എന്ന ചിത്രത്തിൽ കണ്ണൂർ സ്വദേശിയുടെ മൊബൈൽ ഫോൺ നമ്പർ അനുവാദമില്ലാതെ ഉപയോഗിച്ച സംഭവത്തിൽ നിർമാതാവ് <a href='https://www.manoramaonline.com/topics/movie/martin-prakkat.html?page=2' target='_blank' rel='noopener noreferrer'>മാർട്ടിൻ പ്രക്കാട്ടിനും</a>  ചിത്രത്തിന്റെ ഒടിടി പ്രദർശന പ്ലാറ്റ്‌ഫോമായ നെറ്റ്ഫ്ലിക്സിനുമെതിരെ <a href=`https://www.manoramaonline.com/topics/crime/crime-news.html` target=`_blank` rel=`noopener noreferrer`>കേസെടുക്കാൻ നിർദേശം</a> . എറണാകുളം ചീഫ് ജുഡീഷ്യൽ മജിസ്ട്രേറ്റ് കോടതിയാണ് എറണാകുളം സെൻട്രൽ <a href=`https://www.manoramaonline.com/topics/judiciary/lawndorder/keralapolice.html` target=`_blank` rel=`noopener noreferrer`>പൊലീസിന്</a>  ഇത് സംബന്ധിച്ച് നിർദേശം നൽകിയത്." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/23/officer-on-duty-movie-mobile-number-martin-prakkat-netflix-legal-trouble.html"
+    },
+    
+    {
+      "id": "9",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "വയോജനങ്ങളുടെ സംരക്ഷണത്തിനുള്ള നിയമം കൊണ്ടുവരുമെന്ന് മുഖ്യമന്ത്രി; സ്വത്ത് എഴുതി വാങ്ങി തെരുവിൽ ഉപേക്ഷിക്കുന്ന മക്കൾക്ക് കനത്ത ശിക്ഷ നൽകും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>വയോജനങ്ങളുടെ സംരക്ഷണത്തിനുള്ള നിയമം കൊണ്ടുവരുമെന്നും മാതാപിതാക്കളുടെ സ്വത്ത് എഴുതി വാങ്ങി തെരുവിൽ ഉപേക്ഷിക്കുന്ന മക്കൾക്ക് കനത്ത ശിക്ഷ നൽകുമെന്ന് മുഖ്യമന്ത്രി വിഡി സതീശൻ. നിയമം പ്രാബല്യത്തിൽ വന്നാൽ മൂന്ന് വർഷം തടവ്ശിക്ഷ ലഭിക്കുമെന്നും ഇനി ആരും തെരുവിൽ ഉപേക്ഷിക്കപ്പെടരുതെന്നും വിഡി സതീശൻ പറഞ്ഞു. പത്തനാപുരം ഗാന്ധിഭവനിലെ അന്തേവാസികൾക്കായി ലുലു ഗ്രൂപ്പ് നിർമ്മിച്ചു നൽകിയ പിതൃഭവനത്തിൻ്റെ ഉദ്ഘാടനം ചെയ്ത് സംസാരിക്കുകയായിരുന്നു അ​ദ്ദേഹം." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.asianetnews.com/kerala-news/chief-minister-says-law-for-protection-of-elderly-will-be-introduced-articleshow-aqlkga5"
+    },
+
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml":"തൂക്കം കൂട്ടാൻ തേങ്ങയ്ക്കുള്ളിൽ കല്ലുതിരുകി തട്ടിപ്പ്; 'കണ്ണ്' ഭാഗം വിദഗ്ധമായി തുരന്ന് കല്ല് നിറച്ചു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവമ്പാടി ∙ </b>കന്റീനിൽ ഭക്ഷണം ഒരുക്കാൻ തേങ്ങ പൊട്ടിച്ചപ്പോൾ ഉള്ളിൽ കല്ലുകൾ കണ്ട് അമ്പരന്ന് പാചകക്കാരൻ. തേങ്ങ വിശദമായി പരിശോധിച്ചപ്പോൾ തെളിഞ്ഞത് തൂക്കം കൂട്ടാനുള്ള പുത്തൻ തട്ടിപ്പ് രീതി. തിരുവമ്പാടിയിലെ ഒരു കടയിൽ നിന്നു വാങ്ങിയ തേങ്ങ പൊട്ടിച്ചപ്പോഴാണ് ഉള്ളിൽ നിറയെ ചെറിയ കല്ലുകൾ കണ്ടത്. സൂക്ഷ്മ പരിശോധനയിൽ ആണ് തട്ടിപ്പ് കണ്ടെത്തിയത്. ",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.manoramaonline.com/district-news/kozhikode/2026/11/23/stones-found-inside-coconut-kerala.html"
+    },
+    {
+       "id": "22",
+      "type": "news",
+      "order": 36,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml": "തിരക്കേറിയ ഹൈവേയിലെ പാലം പൊളിക്കുന്നു; കാൽനടയാത്ര പോലും അസാധ്യമെന്ന് നാട്ടുകാർ, പ്രതിഷേധം" ,
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പാറശാല ∙ റെയിൽവേപ്പാത ഇരട്ടിപ്പിക്കലിന്റെ ഭാഗമായി തിരക്കേറിയ പാറശാല– വെളളറട മലയോര ഹൈവേയിലെ പ്രധാന പാലം പൊളിക്കാനുളള നീക്കം നാട്ടുകാരിൽ കടുത്ത ആശങ്കയുണർത്തുന്നു. കാൽനടയാത്രക്കാർക്കു പോലും സഞ്ചരിക്കാൻ പകരം സംവിധാനം ഒരുക്കാതെ പാലം പൊളിക്കാനുളള റെയിൽവേയുടെ നീക്കമാണ് നാട്ടുകാരെ വെട്ടിലാക്കിയിരിക്കുന്നത്.&nbsp;തിരുവനന്തപുരം– കന്യാകുമാരി റെയിൽപ്പാത വികസനവുമായി ബന്ധപ്പെട്ട് പാറശാല ബ്ലോക്ക് ഓഫീസിനു മുന്നിലെ പാലമാണ് പൊളിക്കുന്നത്. ഇതിന്റെ ടെൻഡർ നടപടികൾ പൂർത്തിയായിട്ടുണ്ട്. ",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2026/11/23/parassala-railway-bridge-demolition-news.html"
+    },
+   {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "പ്രണയപ്പനിയിൽ വീണ മുൻ 'എൻവിഡിയ മേധാവി'; 'ഹണിട്രാപ്പിൽ' കുടുങ്ങിയതോ? ആലിസ് ഹുവാങും ചൈനീസ് ചാരനും തമ്മിലുള്ള ബന്ധം പുറത്ത്!"
+      },
+      "summary": {
+        "ml": "എഐ ചിപ് നിർമാതാക്കളായ എൻവിഡിയയുടെ മുൻ മേധാവി ജെൻസൻ ഹുവാങ്ങിന് കസേര തെറിക്കാൻ കാരണമായ വിവാദ സുഹൃത്ത് ആലിസ് ഹുവാങ്ങിന് ചൈനീസ് ചാരസംഘടനയുമായി രഹസ്യബന്ധമുണ്ടായിരുന്നതായി ഞെട്ടിക്കുന്ന വെളിപ്പെടുത്തൽ. ജെൻസൻ ഹുവാങ്ങുമായുള്ള രഹസ്യപ്രണയം കൊടുമ്പിരികൊണ്ടിരുന്ന കാലത്ത്, ഒരു വർഷത്തിലേറെയായി ആലിസ് ചൈനീസ് രഹസ്യാന്വേഷണ ഉദ്യോഗസ്ഥനുമായി നിരന്തരം ബന്ധപ്പെട്ടിരുന്നതായാണ് ന്യൂയോർക്ക് ടൈംസ് റിപ്പോർട്ട് ചെയ്യുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/11/23/nvidia-ceo-jensen-huang-resignation-china-spy-scandal.html"
+    },  
+    {
+      "id": "81",
+      "type": "news",
+      "order": 46,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "പ്രണയത്തിന്റെ മുഖംമൂടിയണിഞ്ഞ ചാരക്കെണി! എന്താണ് ഹണി ട്രാപ്? എന്തുകൊണ്ട് ഉന്നതർ വലയിൽ കുടുങ്ങുന്നു? "
+      },
+      "summary": {
+        "ml": "ഫോണിലേക്കു വരുന്ന ഒരൊറ്റ ‘ഹായ്’ മെസേജിലോ, അപ്രതീക്ഷിതമായൊരു ഫ്രണ്ട് റിക്വസ്റ്റിലോ തുടങ്ങുന്ന സൗഹൃദം, പിന്നാലെ പ്രണയവും സൗഹൃദവും നടിച്ച് ജീവിതവും സമ്പാദ്യവും രഹസ്യങ്ങളുമെല്ലാം തട്ടിയെടുക്കുന്ന നിശബ്ദ കെണി. സമകാലിക വാർത്തകളിൽ ഇടയ്ക്കിടെ കേൾക്കുന്ന ഈ ‘ഹണി ട്രാപ്’ വെറുമൊരു ചതിക്കുഴിയല്ല, മറിച്ച് അതിവിദഗ്ധമായി ആസൂത്രണം ചെയ്യുന്ന ചാരവൃത്തി തന്ത്രം കൂടിയാണ്. എന്താണ് ഹണി ട്രാപ്? എങ്ങനെയാണ് ആളുകൾ ഇതിൽ വീഴുന്നത്? വിശദമായി പരിശോധിക്കാം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/technology-news/2026/11/21/digital-age-and-social-media-exploitation-in-honey-traps-explained.html"
+    },  
+    {
+      "id": "81",
+      "type": "news",
+      "order": 58,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ആക്ടീവ് സെഷനുകൾ ദുരുപയോഗ ചെയ്യപ്പെടും, എല്ലായിപ്പോഴും ലോഗ് ഔട്ട് ചെയ്യാൻ ശ്രദ്ധിക്കണം; വാട്സ്ആപ്പ് വെബ് ഉപഭോക്താക്കൾക്ക് മുന്നറിയിപ്പ്"
+      },
+      "summary": {
+        "ml": "ഡൽഹി: വാട്ട്‌സ്ആപ്പ് വഴി രഹസ്യ വിവരങ്ങൾ പങ്കിടുന്നത് ഒഴിവാക്കണമെന്ന് കേന്ദ്ര ആഭ്യന്തര മന്ത്രാലയം. ഔദ്യോഗിക പ്രവർത്തികൾക്കായുള്ള വാട്ട്‌സ്ആപ്പ് ഉപയോഗം ഒഴിവാക്കാൻ നിർദ്ദേശം. രഹസ്യ വിവരങ്ങൾ പങ്കിടുന്നത് ഒഴിവാക്കണമെന്ന് മുന്നറിയിപ്പ് നൽകി. ഉപയോഗിക്കുന്നവർ എല്ലായിപ്പോഴും ലോഗ് ഔട്ട് ചെയ്യാൻ ശ്രദ്ധിക്കണമെന്ന് കേന്ദ്രം അറിയിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/11/23/whatsapp-web-users-alert-mha-warns-account-misuse.htmlhttps://www.manoramaonline.com/technology/technology-news/2026/11/21/digital-age-and-social-media-exploitation-in-honey-traps-explained.html"
+    },  
+   
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml":"First man made Object compeleted to reach a distance of one light-day",
+        "en": ""
+      },
+      "summary": 
+      {
+        "ml":"<p><b>Voyager 1 </b> is the first and only human-made object to reach a distance of one light-day from Earth, achieving the milestone on November 18, 2026.</p><br><ul><li><strong>Distance:</strong> One light-day equals about 16.1 billion miles (25.9 billion kilometers)—the distance light travels in 24 hours.</li><li><strong>Communication lag:</strong> Radio signals traveling at the speed of light take 24 hours one way, making a full command-and-reply round trip take 48 hours.</li><li><strong>Mission timeline:</strong> Launched in September 1977, the probe took over 49 years traveling through space (and is now in interstellar space) to reach this point.</li><li><strong>Current trajectory:</strong> Cruising at roughly 38,000 mph (61,000 km/h), it is heading toward the star Gliese 445 (AC +79 3888), passing within about 1.7 light-years in roughly 40,000 years</li></ul>"
+      },
+      "image": "",
+      "link": "https://www.google.com/search?q=Voyager+1+is+the+first+and+only+human-made+object+to+reach+a+distance+of+one+light-day+from+Earth%2C+achieving+the+milestone+on+November+18%2C+2026.%0D%0A%E2%80%A2+Distance%3A+One+light-day+equals+about+16.1+billion+miles+%2825.9+billion+kilometers%29%E2%80%94the+distance+light+travels+in+24+hours.%0D%0A%E2%80%A2+Communication+lag%3A+Radio+signals+traveling+at+the+speed+of+light+take+24+hours+one+way%2C+making+a+full+command-and-reply+round+trip+take+48+hours.%0D%0A%E2%80%A2+Mission+timeline%3A+Launched+in+September+1977%2C+the+probe+took+over+49+years+traveling+through+space+%28and+is+now+in+interstellar+space%29+to+reach+this+point.%0D%0A%E2%80%A2+Current+trajectory%3A+Cruising+at+roughly+38%2C000+mph+%2861%2C000+km%2Fh%29%2C+it+is+heading+toward+the+star+Gliese+445+%28AC+%2B79+3888%29%2C+passing+within+about+1.7+light-years+in+roughly+40%2C000+years%0D%0Aconvert+to+html+tags+in+single+line+JSON+format&sca_esv=c86f25960ce954bc&sxsrf=AKL5yDgpO_EFrmkdSePkAmdtwe_xncIYAQ%3A1795421286254&source=hp&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_krzDywRAQ7AnJwU2t_4tv5RRoGpXB8qY3dgaTJKYqG04I-Kgx40mtA78hePpIAtZ6MZ0GuMWVJ3nURTuyghEUDW7QpZ6F9aixc8P81p8YC5T5-geDkQO-Gmg_dcyezvGcEyd9s1xX9JNU3agmUrHDpMXQsl5Ifefsk1q28alIry7bQWVFA-V2qUttoWx0rqZKAMPYtA&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwj10vS_0Z2YAxVXSGcHHSkpKjYQ2J8OegQIFxAD&mstk=AUtExfAg31QtGv-oM2IPKZr6nd6uwNZz2cCkL8_9_47Qi_j80kUmK4luevyTwnyxNSacNOO5JzLFwyQlEV26IRhxttxqvZYdwoeWfW54iR0M7-uVYWcuhtaPeNgQWun0bE4vQQGvMERL2h1Yw6nEyPh932718HF8nIccq3s&csuir=1&udm=50&biw=1920&bih=945&dpr=1&mtid=bfQDa6jPBdOOseMP6Of0mA0"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": "/"
+    },
+    
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :82,435.99<span style='color:red;'> −1,483.72( ▼ 1.77%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 25,349.65 <span style='color:red;'> -450.95 ( ▼ -1.75%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:green;'> ₹ 11,680  ₹ +148 ▲ )   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:silver;'>₹ 175 ( ₹ -5 ▼ ) </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+    {
+      "id": "908",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഉപകാര സ്മരണ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<span style='color:red; fornt-weight:bold;'>വിശുദ്ധ യൂദാസ്ലീഹായുടെ നൊവേന.</span><br> മിശിഹായുടെ സ്നേഹിതനും വിശ്വസ്തദാസനുമായ വി. യൂദാശ്ലീഹായേ, ഏറ്റവും കഷ്ടപ്പെടുന്ന എനിക്കുവേണ്ടി അപേക്ഷിക്കണമേ. യാതൊരു സഹായവും ഫലസിദ്ധിയുമില്ലാതെ വരുന്ന സന്ദര്‍ഭത്തില്‍ ഏറ്റവും ത്വരിതവും, ഗോചരവുമായ സഹായം ചെയ്യുന്നതിന് അങ്ങേക്ക് വിശേഷവിധിയായാി കിട്ടിയിരിക്കുന്ന അനുഗ്രഹത്തെ അങ്ങ് ഉപയോഗിക്കണമെ. എന്‍റെ എല്ലാ ആവശ്യങ്ങളിലും വിശിഷ്യ(ആവശ്യം പറയുക) അങ്ങേ സഹായം ഞാനപേക്ഷിക്കുന്നു. ഭാഗ്യപ്പെട്ട യൂദാസ്ലീഹായേ, അങ്ങേ ഈ അനുഗ്രഹത്തെ ഞാന്‍ സദാ ഓര്‍ക്കുമെന്നും അങ്ങേ സ്തുതികളെ ലോകത്തെങ്ങും അറിയിക്കുമെന്നും ഞാന്‍ വാഗ്ദാനം ചെയ്യുന്നു. <b>ആമ്മേന്‍</b>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/stjude.jpg",
+      "link": ""
+    },
+
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "950",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "ന്യൂസ്",
+        "en": "paper"
+      },
+      "title": {
+        "ml": "<b>📰</b> പ്രമുഖ പത്രങ്ങളിലൂടെ..................",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ul><li><a href='https://keralakaumudi.com/' target='_blank'>കേരള കൌമുദി</a> </li><li> <a href='https://www.mathrubhumi.com/' target='_blank'>മാതൃഭൂമി</a> </li><li> <a href='https://www.deepika.com/' target='_blank'>ദീപിക</a></li><li><a href='https://www.manoramaonline.com/' target='_blank'>മലയാള മനോരമ</a></li></ul><br>🌐 Web Sites.<br><ul><li><a href='https://www.reporterlive.com/' target='_blank'> റിപ്പോര്‍ട്ടര്‍ ടി.വി.</a> </li><li><a href='https://www.asianetnews.com/' target='_blank'> ഏഷ്യനെറ്റ് ന്യൂസ് </a> </li><li><a href='https://www.twentyfournews.com/' target='_blank'> ട്വിന്‍റി ഫോര്‍ ന്യൂസ് </a> </li></ul>",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "907",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സുര്യനു കീഴില്‍ ഏതൊരു ഓണ്‍ലൈന്‍ സേവനങ്ങള്‍ക്കും.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "ഞങ്ങളെ ബന്ധപ്പെടുക. Experienced Professionals since 1986.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/anyservices.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "907",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "ആശംസകള്‍",
+        "en": "gret"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}

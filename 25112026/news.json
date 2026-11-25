@@ -1,0 +1,1205 @@
+{
+  "settings": {
+    "publicationDate": "2026-11-25",
+    "defaultLanguage": "ml",
+    "malayalamDate": {
+      "ml": "വൃശ്ചികം 09, 1202",
+      "en": "Thulam 118, 1202"
+    },
+    "hijriDate": {
+      "ml": "15 ജമാദുൽ അവ്വൽ - ജമാദുല്‍ ആഖിര്‍ 1448",
+      "en": ""
+    },
+    "volume": 3,
+    "issue": 520,
+    "edition": {
+      "ml": "നാടിന്‍റെ സ്പന്ദനം.. ",
+      "en": "Evening Edition"
+    },
+    "specialDay": {
+      "ml": "",
+      "en": ""
+    },
+    "footerNotice": {
+      "ml": "അബോക്കസ് ഇന്റലിമാക് പ്രസിദ്ധീകരണം. നിങ്ങളുടെ അഭിപ്രായങ്ങൾ 9745397722 എന്ന നമ്പരിലേക്ക് വാട്ട്സ് ആപ്പ് ചെയ്യുക.",
+      "en": "For feedback and suggestions, WhatsApp 9745397722."
+    },
+    "copyright": {
+      "ml": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം",
+      "en": "All Rights Reserved"
+    },
+    "navigationSections": [
+      {
+        "id": "kerala",
+        "category": "കേരളം"
+      },
+      {
+        "id": "news",
+        "category": "ന്യൂസ്"
+      },
+
+      {
+        "id": "weather",
+        "category": "കാലാവസ്ഥ"
+      },
+
+      {
+        "id": "local",
+        "category": "പ്രാദേശികം"
+      },
+      {
+        "id": "india",
+        "category": "ഇന്ത്യ"
+      },
+      {
+        "id": "world",
+        "category": "ലോകം"
+      },
+      {
+        "id": "employment",
+        "category": "തൊഴിലവസരം"
+      },
+      {
+        "id": "cartoon",
+        "category": "കാര്‍ട്ടൂണ്‍ കോര്‍ണര്‍"
+      },
+      {
+        "id": "GK",
+        "category": "പൊതുവിജ്ഞാനം"
+      },
+      {
+        "id": "sports",
+        "category": "കായികം"
+      },
+      {
+        "id": "crime",
+        "category": "കുറ്റകൃത്യം"
+      },
+      {
+        "id": "technology",
+        "category": "ടെക്നോളജി"
+      },
+      {
+        "id": "business",
+        "category": "ബിസിനസ്"
+      },
+      {
+        "id": "gret",
+        "category": "ആശംസകള്‍"
+      },
+
+      {
+        "id": "obit",
+        "category": "നിര്യാതനായി"
+      }
+    ]
+  },
+  "labels": {
+    "ml": {
+      "breaking": "BREAKING"
+    },
+    "en": {
+      "breaking": "BREAKING"
+    }
+  },
+  "branding": {
+    "name": {
+      "ml": "സായാഹ്ന വാർത്ത.",
+      "en": "Evening News"
+    },
+    "tagline": {
+      "ml": "നമ്മുടെ നാടിന്റെ ഇന്നത്തെ പ്രധാന വാർത്തകൾ",
+      "en": "Today's important news"
+    },
+    "motto": {
+      "ml": "Small actions create great changes. Be responsible, be grateful and make the world a better place!",
+      "en": ""
+    }
+  },
+  "navigation": [
+    {
+      "label": {
+        "ml": "കഴിഞ്ഞപതിപ്പുകള്‍",
+        "en": "last Editions"
+      },
+      "link": "https://bennykavil-hue.github.io/Eveningpaper/"
+    },
+    {
+      "label": {
+        "ml": "ഇന്നത്തെ ടിപ്പ്",
+        "en": "Knoweldgetip"
+      },
+      "link": "#knowledgeTipSection"
+    },
+    {
+        "label": {
+        "ml": "വാര്‍ത്ത ഉറവിടം",
+        "en": "news"
+      },
+      "link": "#news"
+    },
+    
+     {
+        "label": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "link": "#weather"
+    },
+ 
+    {
+      "label": {
+        "ml": "കേരളം",
+        "en": "Kerala"
+      },
+      "link": "#kerala"
+    },
+    {
+      "label": {
+        "ml": "പ്രാദേശികം",
+        "en": "Local"
+      },
+      "link": "#local"
+    },
+    {
+      "label": {
+        "ml": "ഇന്ത്യ",
+        "en": "India"
+      },
+      "link": "#india"
+    },
+    {
+      "label": {
+        "ml": "കാർട്ടൂൺ",
+        "en": "cartoon"
+      },
+      "link": "#cartoon"
+    },
+    {
+      "label": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "link": "#employment"
+    },
+    {
+      "label": {
+        "ml": "ലോകം",
+        "en": "World"
+      },
+      "link": "#world"
+    },
+    {
+      "label": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "link": "#crime"
+    },
+    {
+      "label": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "link": "#technology"
+    },
+    {
+      "label": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "link": "#sports"
+    },
+    {
+      "label": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "link": "#GK"
+    },
+    {
+      "label": {
+        "ml": "ബിസിനസ്",
+        "en": "Business"
+      },
+      "link": "#business"
+    },
+    {
+      "label": {
+        "ml": "ആശംസകള്‍",
+        "en": "Greetings"
+      },
+      "link": "#gret"
+    },
+    {
+      "label": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "link": "#obit"
+    }
+  ],
+  "breakingNews": [
+    {
+      "title": {
+        "ml": "പാലക്കാട് ക്ളാസ് മുറിയിൽ ഒൻപതാം ക്ളാസുകാരന് വെടിയേറ്റു; വെടിവച്ചത് സഹപാഠി",
+        "en": ""
+      }
+    }
+  ],
+  "columnTitles": {
+    "ml": [
+      "പ്രധാന വാർത്തകൾ",
+      "വാർത്തകൾ",
+      "കേരളം • ഇന്ത്യ • ലോകം"
+    ],
+    "en": [
+      "Main News",
+      "News",
+      "Kerala • India • World"
+    ]
+  },
+  "news": [
+    {
+      "id": "001",
+      "type": "lead",
+      "order": 1,
+      "category": {
+        "ml": "പ്രധാന വാർത്ത",
+        "en": "Top Story"
+      },
+      "title": {
+        "ml": "‘ലക്ഷത്തിൽ ഒരെണ്ണം മാത്രമേ ഇങ്ങനെയുണ്ടാകൂ’; വരടിമലയിൽ അപൂർവയിനം പിങ്ക് പുൽച്ചാടി",
+        "en": "August 26 Space Day"
+      },
+      "summary": {
+        "ml": "<b>അഗളി </b>∙ അട്ടപ്പാടി വരടിമലയിൽ അപൂർവയിനം പുൽച്ചാടിയെ കണ്ടെത്തി. അട്ടപ്പാടി സഹകരണ ഫാമിങ് സൊസൈറ്റിയുടെ വരടിമല ഫാമിലാണ് പിങ്ക് നിറത്തിലുള്ള പുൽച്ചാടിയെ (പിങ്ക് ഗ്രാസ്ഹോപ്പർ) ഫാം യൂണിറ്റ് ഓഫിസർ നൗഷാദ് ചേന്നാട്ടിൽ കണ്ടത്. സമൂഹമാധ്യമത്തിൽ നൗഷാദ് പങ്കുവച്ച ഫോട്ടോകളും വിവരങ്ങളും ശ്രദ്ധയിൽപെട്ട തൃശൂർ കണ്ണാറ വാഴഗവേഷണ കേന്ദ്രത്തിലെ എൻഡമോളജിസ്റ്റ് പ്രഫ. ഡോ. ഗവാസ് രാകേഷ്, നൗഷാദിന്റെ പക്കൽനിന്ന് വിവരങ്ങൾ ശേഖരിച്ചു.&nbsp;",
+        "en": ""
+      },
+      "image": " images/lead.jpg",
+      "link": "https://www.manoramaonline.com/district-news/palakkad/2026/11/25/rare-pink-grasshopper-attappadi.html"
+    },
+    {
+      "id": "001",
+      "type": "news",
+      "order": 1,
+      "category": {
+        "ml": "കാർട്ടൂൺ",
+        "en": ""
+      },
+      "title": {
+        "ml": "🌍 Special Days Today – 25 November 2026",
+        "en": ""
+      },
+      "summary": {
+       "ml": "<h2>1. International Day for the Elimination of Violence against Women <small>(United Nations Observance)</small></h2><p>Observed every year on <strong>November 25</strong> to raise awareness and promote action to end violence against women and girls.</p><p>This day also marks the beginning of the <strong>16 Days of Activism against Gender-Based Violence</strong>, running from November 25 to December 10.</p><h2>2. Historical Significance</h2><h3>November 25 – The Mirabal Sisters</h3><p>The day commemorates the three <strong>Mirabal sisters</strong> of the Dominican Republic, who were assassinated on November 25, 1960, for opposing dictatorship. Their courage became a symbol of resistance against violence and injustice.</p>",
+        "en": ""
+      },
+      "image": " images/news01.jpg",
+      "link": "https://www.un.org/observances/list-days-weeks?utm_source=chatgpt.com"
+    },
+        {
+      "id": "906",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+
+    {
+      "id": "2",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'ചക്കക്കൊമ്പൻ ദൗത്യം ; ആനയെ മയക്കുവെടിവെച്ചു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ചിന്നക്കനാൽ </B> മേഖലയിൽ ജനവാസ കേന്ദ്രങ്ങളിലിറങ്ങി ജനങ്ങളുടെ ജീവനും സ്വത്തിനും ഭീഷണിയുയർത്തിയ ചക്കക്കൊമ്പനെ മയക്കുവെടിവെച്ചു . ബുധനാഴ്ച ഉച്ചകഴിഞ് മൂന്നേമുക്കാലോടെയാണ് ആദ്യ ഡോസ് മയക്കുവെടി വെച്ചത്. നാലു മണിയോടെ കുങ്കിയാനകളുടെ സഹായത്തോടെ അനുയോജ്യമായ സ്ഥലത്തേക്ക് മാറ്റി റേഡിയോ കോളർ ഘടിപ്പിക്കുന്ന നടപടികൾ ആരംഭിച്ചിട്ടുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mangalam.com/news/detail/883557-latest-news-missionchakkakombanelephantchinnakanalswampweather.html"
+    },
+    
+     {
+      "id": "2",
+      "type": "news",
+      "order": 50,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "സ്വന്തം മണ്ഡലമായ ഹരിപ്പാട്ട് ഓപ്പറേഷൻ തൂഫാൻ നടപ്പാക്കാൻ ചെന്നിത്തലയ്ക്ക് ധൈര്യമില്ല: ജി. സുധാകരൻ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ആലപ്പുഴ:</b> സ്വന്തം മണ്ഡലമായ ഹരിപ്പാട്ട് ഓപ്പറേഷൻ തൂഫാൻ നടപ്പാക്കാൻ ആഭ്യന്തരമന്ത്രി രമേശ് ചെന്നിത്തലയ്ക്ക് ധൈര്യമില്ലെന്ന് മുതിർന്ന നേതാവ് ജി. സുധാകരൻ എംഎൽഎ. ഹരിപ്പാട്ട് നടക്കുന്ന ക്രിമിനൽ പ്രവർത്തനങ്ങളെക്കുറിച്ച് എന്തുകൊണ്ട് നടപടി സ്വീകരിക്കുന്നില്ലെന്നും അദ്ദേഹം ചോദിച്ചു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mangalam.com/news/detail/883550-latest-news-gsudhakaranagainstrameshchennithala.html"
+    },
+   {
+      "id": "908",
+      "type": "news",
+      "order": 3,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ശബരിമല വെർച്വൽ 'ക്യൂ' ബുക്കിങ്ങ്.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, അവധി ദിവസങ്ങളില്ല, സമയ നിബന്ധങ്ങളില്ല  ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/sabrimala.png",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "35",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "തിരുപ്പുറങ്കുണ്ട്രത്ത്‌ ദീപം തെളിച്ചു; കല്‍ത്തൂണിലല്ല; സുപ്രീംകോടതി ഉത്തരവ് നടപ്പായില്ല , വീണ്ടും വിവാദം"
+      },
+      "summary": {
+        "ml": "<b>ചെന്നൈ:</b> അനിശ്‌ചിതത്വത്തിനൊടുവില്‍ മധുര, തിരുപ്പുറങ്കുണ്ട്രം അരുള്‍മിഗു സുബ്രഹ്‌മണ്യസ്വാമി ഗുഹാക്ഷേത്രത്തില്‍ കാര്‍ത്തിക ഉത്സവത്തിന്റെ ഭാഗമായി ദീപം തെളിച്ചത്‌ ഉച്ചിപ്പിള്ളയാര്‍ ക്ഷേത്രത്തില്‍. തര്‍ക്കസ്‌ഥലമായ കുന്നിന്‍മുകളിലെ കല്‍ത്തൂണി (ദീപത്തൂണ്‍) ല്‍ വ്യവസ്‌ഥകള്‍ക്കു വിധേയമായി ദീപം തെളിക്കാന്‍ സുപ്രീം കോടതി അനുമതി നല്‍കിയിരുന്നെങ്കിലും ഉത്തരവ്‌ നടപ്പായില്ല.",
+        "en": ""
+      },
+      "image": " images/news02.jpg",
+      "link": "https://www.mangalam.com/news/detail/883386-india-a-lamp-was-lit-at-thirupparankundram-the-supreme-court-order-was-not-implemented.html"
+    },
+    {
+      "id": "36",
+      "type": "news",
+      "order": 4,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "വ​നി​താ ക​ള​ക്ട​ർ​ക്ക് അ​ശ്ലീ​ല സ​ന്ദേ​ശം; ടി​വി​കെ എം​എ​ൽ​എ​യ്ക്കെ​തി​രെ പ​രാ​തി ന​ൽ​കി ഡിഎംകെ"
+      },
+      "summary": {
+        "ml": "<b>ത​മി​ഴ്‌​നാ​ട്:</b> ടി​വി​കെ എം​എ​ൽ​എ അ​രു​ൾ വി​ഘ്നേ​ശി​നെ​തി​രെ പ​രാ​തി ന​ൽ​കി ഡി​എം​കെ. ജി​ല്ലാ ക​ള​ക്ട​ർ​ക്ക് അ​ശ്ലീ​ല സ​ന്ദേ​ശ​മ​യ​ച്ചെ​ന്ന ആ​രോ​പ​ണ​ത്തി​ലാ​ണ് ഡി​എം​കെ പ​രാ​തി ന​ൽ​കി​യ​ത്. എം​എ​ൽ​എ​യ്ക്കെ​തി​രെ പ​രാ​തി ന​ൽ​കി​യ​താ​യി ഉ​ദ​യ​നി​ധി സ്റ്റാ​ലി​ൻ സ്ഥി​രീ​ക​രി​ച്ചി​ട്ടു​ണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.deepika.com/national/tvk/crime-news/dmk-files-complaint-against-tvk-mla-220666"
+    },
+
+
+     {
+      "id": "36",
+      "type": "news",
+      "order": 40,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "'കരസേനാ ക്യാമ്പിനുനേരെ ചാവേറാക്രമണത്തിന് ശ്രമം;  പദ്ധതി തകർത്ത് സേന, 22കാരൻ അറസ്റ്റിൽ"
+      },
+      "summary": {
+        "ml": "<b>ലക്‌നൗ:</b> ഉത്തർപ്രദേശിൽ ചാവേറാക്രമണ പദ്ധതി തകർത്തു. കരസേനാ ക്യാമ്പിനുനേരെയാണ് ആക്രമണത്തിന് പദ്ധതിയിട്ടത്. സംഭവത്തിൽ ഓൺലൈൻ തീവ്രവാദ ശൃംഖലയുമായി ബന്ധമുള്ള 22 വയസുകാരനെ മീററ്റ് പൊലീസ് അറസ്റ്റ് ചെയ്തു. ഇയാൾ ഒളിവിൽക്കഴിയുകയായിരുന്നു. പാകിസ്ഥാന്റെ പിന്തുണയുള്ള തീവ്രവാദ ശൃംഖലയുമായാണ് യുവാവിന് ബന്ധമുണ്ടായിരുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/news-360/national/up-army-camp-suicide-attack-plot-1830027"
+    },
+     {
+      "id": "36",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "'കുടകിൽ മലയാളികളുടെ തോന്നിവാസം, കേരളത്തിൽ തെങ്ങും കായലുമല്ലാതെ മറ്റൊന്നുമില്ല'; വിവാദ പ്രസംഗവുമായി ബിജെപി മുൻ എംപി"
+      },
+      "summary": {
+        "ml": "<b>കൂർഗ്:</b> കേരളത്തിനും മലയാളികൾക്കുമെതിരെ അധിക്ഷേപ പരാമർശവുമായി ബിജെപി നേതാവും മൈസൂരു മുൻ എംപിയുമായ പ്രതാപ് സിംഹ. മലയാളികൾ കർണാടകത്തിലെത്തി അവിടുത്തെ സംസ്‌കാരം നശിപ്പിക്കുകയാണെന്നും ഗുണ്ടൽപേട്ടിന്റെ പകുതി ഭാഗവും മലയാളികൾ കയ്യേറിയെന്നും അദ്ദേഹം ആരോപിച്ചു. കുടകിൽ നടന്ന ഒരു ഹോക്കി ചാമ്പ്യൻഷിപ്പ് ചടങ്ങിൽ സംസാരിക്കവെയാണ് മുൻ എംപിയുടെ വിവാദ പ്രസംഗം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/news-360/national/pratap-simha-anti-malayali-remarks-1830021"
+    },
+   
+    {
+      "id": "4",
+      "type": "news",
+      "order": 5,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'ഫോണിന്റെ പാസ്‌കോഡ് നൽകാൻ രാഹുൽ മാങ്കൂട്ടത്തിൽ ബാദ്ധ്യസ്ഥൻ'; ഹൈക്കോടതിയിൽ സർക്കാർ"
+      },
+      "summary": {
+        "ml": "<b>കൊച്ചി:</b> ബലാത്സംഗക്കേസിൽ അന്വേഷണസംഘം പിടിച്ചെടുത്ത മൊബൈൽ ഫോണുകളുടെ പാസ്‌കോഡ് കൈമാറാൻ പ്രതിയായ രാഹുൽ മാങ്കൂട്ടത്തിൽ ബാദ്ധ്യസ്ഥനാണെന്ന് സർക്കാർ ഹൈക്കോടതിയിൽ. തിരുവല്ല ബലാത്സംഗക്കേസിൽ രാഹുലിന്റെ രണ്ട് ഫോണുകളാണ് പൊലീസ് കസ്റ്റഡിയിലെടുത്തത്. ഈ ഫോണുകൾ അൺലോക്ക് ചെയ്യുന്നതിന് പാസ്‌കോഡ് നൽകണമെന്ന കീഴ്‌ക്കോടതി ഉത്തരവിനെതിരെ രാഹുൽ സമർപ്പിച്ച ഹർജിയിലാണ് സർക്കാർ ഇന്ന് ഹൈക്കോടതിയിൽ നിലപാട് അറിയിച്ചത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/kerala/general/rahul-mamkootathil-phone-passcode-rape-case-1830035"
+    },
+    {
+      "id": "5",
+      "type": "news",
+      "order": 6,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'ഷാഫി&nbsp; പറമ്പിലുമായുള്ളത്&nbsp; സഹോദരസ്നേഹം, &nbsp;ഗുരുശിഷ്യബന്ധമല്ല'; സൈബർ &nbsp;ആക്രമണം &nbsp;നടത്തിയിട്ടില്ലെന്ന്  രാഹുൽ &nbsp;മാങ്കൂട്ടത്തിൽ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പത്തനംതിട്ട: </b>തനിക്കെതിരെയുള്ള സൈബർ ആക്രമണത്തിന് പിന്നിൽ രാഹുൽ മാങ്കൂട്ടത്തിലാണെന്ന രാജ്‌മോഹൻ ഉണ്ണിത്താൻ എംപിയുടെ പരോക്ഷ ആരോപണത്തിൽ മറുപടിയുമായി പാലക്കാട് മുൻ എംഎൽഎ. താൻ ആർക്കെതിരെയും സൈബർ ആക്രമണം നടത്തിയിട്ടില്ല. രാജ്‌മോഹൻ ഉണ്ണിത്താൻ തന്റെ പേര് പറഞ്ഞതായി ശ്രദ്ധയിൽപ്പെട്ടിട്ടില്ലെന്നും രാഹുൽ പറഞ്ഞു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/kerala/general/rahul-mamkootathil-rajmohan-unnithan-cyber-attack-1830037"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 39,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "ആളെ  കൂട്ടിയും  നന്നായി  അടി  കൊണ്ടും  ജലപീരങ്കി  നനഞ്ഞുമൊക്കെ തന്നെയാണ്  ഇവിടംവരെ  എത്തിയത്'",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> മുൻ മുഖ്യമന്ത്രി ഉമ്മൻ ചാണ്ടിയുടെ വീട്ടിൽ കറങ്ങി നടന്നതുമാത്രമാണ് യൂത്ത് കോൺഗ്രസ് അദ്ധ്യക്ഷനാകാനുള്ള യോഗ്യതയെന്ന യൂത്ത് കോൺഗ്രസ് തിരുവനന്തപുരം ജില്ലാ പ്രസിഡന്റ് നേമം ഷജീറിന്റെ പരിഹാസത്തിന് മറുപടിയുമായി യൂത്ത് കോൺഗ്രസ് നേതാവ് ജെ എസ് അഖിൽ. ഉമ്മൻ‌ചാണ്ടിയുടെ വീട്ടിൽ കറങ്ങി നടക്കാൻ എല്ലാവർക്കും പറ്റില്ല. ഉമ്മൻ‌ചാണ്ടിയുടെ സ്നേഹം കിട്ടുന്നവർക്കും അദ്ദേഹത്തോട് ആത്മാർത്ഥത ഉള്ളവർക്കും മാത്രമേ അദേഹത്തിന്റെ വീട്ടിൽ കയറി ചെല്ലുന്നതിനും മരണം വരെ അദ്ദേഹത്തിനൊപ്പം നിൽക്കുന്നതിനും കഴിഞ്ഞിട്ടുമുള്ളുയെന്നാണ് ജെ എസ് അഖിൽ പ്രതികരണം. ഫേസ്‌ബുക്ക് പോസ്റ്റിലൂടെയായിരുന്നു പ്രതികരണം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/kerala/social-media/js-akhil-answers-to-nemom-shajeer-1830019"
+    },
+    {
+      "id": "3",
+      "type": "news",
+      "order": 39,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "'തനിക്കെതിരായ സൈബർ ആക്രമണത്തിന് പിന്നിൽ ഒരു പ്രധാന വ്യക്തി'; കോൺഗ്രസ് ആഭ്യന്തര തർക്കങ്ങളിൽ പ്രതികരിക്കാതെ മുഖ്യമന്ത്രി",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തിരുവനന്തപുരം:</b> സംസ്ഥാനത്തെ എൽപി സ്‌കൂളുകളിലെ വിദ്യാർത്ഥി - അദ്ധ്യാപക അനുപാതം 1:25 ആക്കി കുറച്ചാലും പുതിയ അദ്ധ്യാപക നിയമനങ്ങൾ സാദ്ധ്യമല്ലെന്ന് മുഖ്യമന്ത്രി വി ഡി സതീശൻ. നിലവിൽ സംസ്ഥാനത്ത് 1:19ഉം കോട്ടയം, പത്തനംതിട്ട ജില്ലകളിൽ 1:11ഉം ആണ് അനുപാതമെന്നും അദ്ദേഹം മന്ത്രിസഭാ യോഗത്തിന് ശേഷം നടത്തിയ വാർത്താസമ്മേളനത്തിൽ പറഞ്ഞു. ഇതോടെ എൽപിഎസ്‌ടി സമരക്കാരുടെ പ്രധാന ആവശ്യം സർക്കാർ തള്ളി.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/kerala/general/vd-satheesan-pressmeet-1830018"
+    },
+
+    {
+      "id": "31",
+      "type": "news",
+      "order": 7,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "തിരുപ്പറംകുൺട്രത്ത് ദീപം തെളിയിക്കാത്തത് ക്ഷേത്രം ട്രസ്റ്റ് വിസമ്മതിച്ചതിനാൽ; സുപ്രീംകോടതിയോട് മാപ്പു പറഞ്ഞ് തമിഴ്നാട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മധുര ∙ <a href='https://www.manoramaonline.com/topics/news/national/states/tamilnadu/madurai.html' target='_blank' rel='noopener noreferrer'>മധുരയിലെ</a> തിരുപ്പറംകുൺട്രം മലയിലെ തർക്കത്തിലുള്ള ദീപത്തൂണിൽ കാർത്തികദീപം തെളിയിക്കാത്തത് ക്ഷേത്ര ബോർഡ് വിസമ്മതിച്ചതിനാലെന്ന് <a href='https://www.manoramaonline.com/topics/news/national/states/tamilnadu.html' target='_blank' rel='noopener noreferrer'>തമിഴ്നാട്</a> സർക്കാർ. തിരുപ്പറംകുൺട്രം ക്ഷേത്രം ട്രസ്റ്റികളുടെ ബോർഡ് ദീപം തെളിയിക്കാനായി ആളുകളെ അയയ്ക്കാൻ വിസമ്മതിച്ചതിനാലാണ് ദീപം തെളിയിക്കാനാകാത്തതെന്ന് മധുര ജില്ലാ ഭരണകൂടം സുപ്രീംകോടതിയെ അറിയിച്ചു. പകരം തിരുപ്പറംകുൺട്രത്തിനു സമീപം, പതിവായി കാർത്തികദീപം തെളിയിക്കുന്ന ഉച്ചിപ്പിള്ളയാർ ക്ഷേത്രത്തിലെ ദീപസ്തംഭത്തിൽ ദീപം തെളിയിക്കുകയാണ് ചെയ്തത്. കുന്നിൻമുകളിലെ ദീപത്തൂണിൽ ഒറ്റത്തവണ വിളക്കു കൊളുത്താൻ സുപ്രീംകോടതി അനുമതി നൽകിയിരുന്നെങ്കിലും വിളക്ക് കൊളുത്തിയിരുന്നില്ല.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/25/karthigai-deepam-thiruparankundram-tamil-nadu-govt-supreme-court-apology.html"
+    },
+    {
+      "id": "31",
+      "type": "news",
+      "order": 57,
+      "category": {
+        "ml": "ഇന്ത്യ",
+        "en": "india"
+      },
+      "title": {
+        "ml": "തിരുപ്പറംകുൺട്രത്ത് ദീപം തെളിയിക്കാത്തത് ക്ഷേത്രം ട്രസ്റ്റ് വിസമ്മതിച്ചതിനാൽ; സുപ്രീംകോടതിയോട് മാപ്പു പറഞ്ഞ് തമിഴ്നാട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "2026 വിടപറയാൻ ദിവസങ്ങൾ മാത്രം ശേഷിക്കുമ്പോൾ ഈ വർഷത്തിൽ <a href='https://author.manoramaonline.com/content/mm/mo/topics/news/year-ender-2026/' target='_blank' rel='noopener noreferrer'>രാജ്യത്തുണ്ടായ, വാർത്തകളിൽ ഇടം നേടിയ സംഭവങ്ങൾ ഒട്ടേറെയാണ്</a>. ഒരു ദിവസം മുതൽ ആഴ്ചകളും മാസങ്ങളും വരെ ചർച്ചകളിൽ തുടർന്ന സംഭവങ്ങൾ വരെ ഇക്കൂട്ടത്തിലുണ്ട്. അവയിൽ ചില സംഭവങ്ങൾ അപ്രതീക്ഷിതമായിരുന്നു പ്രതീക്ഷിച്ചതിലും വലിയ വിഷയങ്ങളായി മാറിയവയും ഉണ്ട്. വ്യക്തികളും വസ്തുക്കളും അപകടങ്ങളും എല്ലാം ഇക്കൂട്ടത്തിൽ പെടുന്നു. 2026ൽ <a href='https://www.manoramaonline.com/news/india.html' target='_blank' rel='noopener noreferrer'>ഇന്ത്യ</a> സാക്ഷ്യം വഹിച്ച നൂറുകണക്കിനു സംഭവങ്ങളെ പ്രധാനപ്പെട്ട പത്ത് സംഭവങ്ങളെന്ന തലക്കെട്ടിലേക്ക് കൊണ്ടുവരുമ്പോൾ ഓർമയിൽ മിന്നുന്ന, ഇപ്പോഴും വാർത്താപ്രാധാന്യമുള്ള തലക്കെട്ടുക്കൾ വീണ്ടും വായിക്കാം, ഓർമ പുതുക്കാം.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/25/year-ender-india-news-2026-major-political-and-national-events-in-india.html"
+    },
+
+    {
+      "id": "904",
+      "type": "news",
+      "order": 8,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Available Online Computer Tutor",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "Experienced Tutor is available for Computer / IT Subjects.<br> Touch me 9745397722",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/onlinetutor.jpg",
+      "link": "https://github.com/bennykavil-hue/bennykavil"
+    },
+    {
+      "id": "42",
+      "type": "news",
+      "order": 11,
+      "category": {
+        "ml": "ലോകം",
+        "en": "world"
+      },
+      "title": {
+           "ml": "ട്രംപ് ഒറ്റ സ്വിച്ച് അമർത്തിയാൽ യൂറോപ്പ് ഇരുട്ടിലാകുമോ? യുഎസ്–യൂറോപ്പ് ‘ടെക് യുദ്ധവും’ ഇന്ത്യയുടെ സുരക്ഷാകവചവും",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഒരൊറ്റ ഭരണകൂട ഉത്തരവിലൂടെ <a href='https://www.manoramaonline.com/topics/technology/microsoft.html' target='_blank' rel='noopener noreferrer'>മൈക്രോസോഫ്റ്റും</a> ഗൂഗിളും ആമസോണും (എഡബ്ല്യുഎസ്) നിശ്ചലമായാൽ ലോകത്തിന് എന്ത് സംഭവിക്കും? ഡബ്ലിൻ എഐ ഉച്ചകോടിക്ക് തൊട്ടുമുൻപ് മൈക്രോസോഫ്റ്റ് സേവനങ്ങൾ പണിമുടക്കിയതോടെ <a href='https://www.manoramaonline.com/topics/nri/european-union.html' target='_blank' rel='noopener noreferrer'>യൂറോപ്പിനെ</a> പിടികൂടിയ ‘കിൽ സ്വിച്ച്’ ഭയവും അമേരിക്കയുടെ വിവാദമായ ‘ക്ലൗഡ് ആക്ട്’ ഉയർത്തുന്ന സുരക്ഷാ ഭീഷണിയുമാണ് ഈ ആഴ്ച ‘രാജ്യാന്തരം – World On Edge’ പരിശോധിക്കുന്നത്.", 
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/24/us-cloud-act-kill-switch-india-upi-data-safety-rajyantharam.html"
+    },
+    {
+      "id": "43",
+      "type": "news",
+      "order": 56,
+      "category": {
+        "ml": "ലോകം",
+        "en": "world"
+      },
+      "title": {
+        "ml": "രണ്ടുവർഷത്തെ രഹസ്യ നീക്കം, ലക്ഷ്യം എഐ ചിപ്പുകൾ; US നിയന്ത്രണങ്ങൾ മറികടക്കാൻ ചൈന ചാരപ്രവർത്തനം നടത്തിയെന്ന് റിപ്പോർട്ട്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ന്യൂഡൽഹി </B>∙ ഇന്ത്യയിലെ രണ്ട് വർഷത്തിലേറെ നീണ്ട പ്രവാസജീവിതത്തിനു ശേഷം <a href='https://www.manoramaonline.com/topics/news/world/countries/bangladesh.html' target='_blank' rel='noopener noreferrer'>ബംഗ്ലദേശിലേക്ക്</a> തീയതി മടങ്ങാൻ മുൻ പ്രധാനമന്ത്രി <a href='https://www.manoramaonline.com/topics/politics/leaders/internationalleaders/sheikhhasina.html' target='_blank' rel='noopener noreferrer'>ഷെയ്ഖ് ഹസീന</a> നിശ്ചയിച്ചു. 1971ൽ പാക്കിസ്ഥാനെതിരായ ബംഗ്ലദേശ് വിമോചന യുദ്ധം അവസാനിച്ചതിന്റെ വാർഷിക ദിനമായ ഡിസംബർ 16ന് അവാമി ലീഗ് നേതാവ് കൂടിയായ ഹസീന ബംഗ്ലദേശിലേക്ക് തിരിച്ചെത്തുമെന്ന് അവരുടെ വക്താവിനെ ഉദ്ധരിച്ച് വാർത്താ ഏജൻസിയായ റോയിട്ടേഴ്‌സ് റിപ്പോർട്ട് ചെയ്തു." , 
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/24/sheikh-hasina-bangladesh-return-december-16-why-this-date.html"
+    },
+
+    {
+      "id": "8",
+      "type": "news",
+      "order": 12,
+      "category": {
+        "ml": "കാലാവസ്ഥ",
+        "en": "weather"
+      },
+      "title": {
+        "ml": "വീണ്ടും മഴയെത്തുന്നു; ഇന്ന് ഒൻപത് ജില്ലകൾക്ക് യെല്ലോ അലർട്ട്, ഇടിമിന്നൽ ജാഗ്രത",
+        "en": ""
+      },
+      "summary": {
+        "ml":  "<b>തിരുവനന്തപുരം:</b> ഒരിടവേളയ്ക്കുശേഷം കേരളത്തിൽ വീണ്ടും മഴയെത്തുന്നു. ഇന്ന് മുതൽ മൂന്ന് ദിവസം വിവിധ ജില്ലകളിൽ കാലാവസ്ഥാ വകുപ്പ് യെല്ലോ അലർട്ട് പുറപ്പെടുവിച്ചു. ഒറ്റപ്പെട്ട ശക്തമായ മഴയ്ക്കുള്ള സാദ്ധ്യതയാണ് പ്രവചിക്കപ്പെട്ടിരിക്കുന്നത്. 24 മണിക്കൂറിൽ 64.5 മില്ലിമീറ്റർ മുതൽ 115.5 മില്ലിമീറ്റർ വരെ മഴ ലഭിക്കുന്ന സാഹചര്യത്തെയാണ് ശക്തമായ മഴ എന്നത് കൊണ്ട് കേന്ദ്ര കാലാവസ്ഥ വകുപ്പ് അർത്ഥമാക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/kerala/general/kerala-rain-alert-yellow-alert-november-27-1830023"
+    },
+    {
+      "id": "91",
+      "type": "news",
+      "order": 14,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "കേരള പി. എസ്. സി.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കേരളത്തിലെ സര്‍ക്കാര്‍, അര്‍ദ്ധ സര്‍ക്കാര്‍, പൊതുമേഖലെ സ്ഥാപനങ്ങളിലേക്ക് വിവിധ തസ്തികകള്‍ക്കേ അപേക്ഷിക്കുവാന്‍ സന്ദര്‍ശിക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/PSC.png",
+      "link": "https://www.keralapsc.gov.in/home-2"
+    },
+    {
+      "id": "51",
+      "type": "news",
+      "order": 15,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "ട്വന്റി20 ക്രിക്കറ്റിലെ ഏറ്റവും ഉയർന്ന രണ്ടാമത്തെ വ്യക്തിഗത സ്കോർ, ഈ റെക്കോർഡ് വൈഭവിന്റേതല്ല, മറ്റൊരു കത്തിക്കൽ!",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഇൻഡോർ </B>∙ റൈസിങ് സ്റ്റാർസ് ഏഷ്യാകപ്പിൽ വൈഭവ് സൂര്യവംശിയുടെ റെക്കോർഡ് ബാറ്റിങ്ങിനിടെ ഇന്ത്യൻ ആഭ്യന്തര ക്രിക്കറ്റിൽ മറ്റൊരു താരത്തിന്റെ കത്തിക്കല്‍. സയ്യിദ് മുഷ്താഖ് അലി ടൂർണമെന്റിലെ ക്യാപ്റ്റൻ പ്രിയാംശ് ആര്യയുടെ വെടിക്കെട്ട് ബാറ്റിങ്ങിന്റെ കരുത്തിൽ തമിഴ്നാടിനെ ഡൽഹി 116 റൺസിന് തോൽപിച്ചു. 68 പന്തിൽ 181 റൺസ് നേടിയ പ്രിയാംശിന്റെ മികവിൽ ആദ്യം ബാറ്റു ചെയ്ത ഡൽഹി 20 ഓവറിൽ 5ന് 275 റൺസ് നേടി.&nbsp;.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/11/25/priyansh-arya-syed-mushtaq-ali-trophy-record.html"
+    },
+    {
+      "id": "52",
+      "type": "news",
+      "order": 45,
+      "category": {
+        "ml": "കായികം",
+        "en": "sports"
+      },
+      "title": {
+        "ml": "ഓപ്പണർമാരുടെ വെടിക്കെട്ട് ബാറ്റിങ്, 37 പന്തിൽ 93 റണ്‍സടിച്ച് അസറുദ്ദീൻ, അസമിനെ നിലത്തുനിർത്താതെ കേരളം, വമ്പൻ വിജയം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>മൊഹാലി∙</b> സയ്യിദ് മുഷ്താഖ് അലി ട്വന്റി20 ടൂർണമെന്റിൽ അസമിനെ ഒൻപത് വിക്കറ്റിന് തോൽപ്പിച്ച് കേരളം. ഓപ്പണർമാരായ മുഹമ്മദ് അസറുദ്ദീന്റെയും രോഹൻ കുന്നുമ്മലിന്റെയും തകർപ്പൻ ബാറ്റിങ്ങാണ് കേരളത്തിന് അനായാസ വിജയം സമ്മാനിച്ചത്. ആദ്യം ബാറ്റ് ചെയ്ത അസം 20 ഓവറിൽ അഞ്ച് വിക്കറ്റിന് 165 റൺസെടുത്തു. മറുപടി ബാറ്റിങ്ങിന് ഇറങ്ങിയ കേരളം ഒരു വിക്കറ്റ് നഷ്ടത്തിൽ 12.3 ഓവറിൽ ലക്ഷ്യത്തിലെത്തി. 93 റൺസുമായി പുറത്താകാതെ നിന്ന മുഹമ്മദ് അസറുദ്ദീനാണ് പ്ലെയർ ഓഫ് ദി മാച്ച്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/11/24/kerala-vs-assam-syed-mushtaq-ali-trophy-mohammed-azharuddeen-rohan-kunnummal-batting.html"
+    },
+    {
+      "id": "71",
+      "type": "news",
+      "order": 17,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "'സിനിമയിൽ കാണിച്ചത് എന്റെ നമ്പർ, വിദേശത്തുനിന്ന് പോലും കോളുകൾ വരുന്നു'; ഓഫീസർ ഓൺ ഡ്യൂട്ടിക്കെതിരെ ക്രിമിനൽ കേസ്",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കുഞ്ചാക്കോ </b> ബോബൻ നായകനായി ജിത്തു അഷ്‌റഫ് സംവിധാനം നി‌ർവഹിച്ച ചിത്രം 'ഓഫീസർ ഓൺ ഡ്യൂട്ടി'ക്കെതിരെ പരാതി. അനുവാദമില്ലാതെ തന്റെ വ്യക്തിഗത മൊബൈൽ നമ്പർ ഉപയോഗിച്ചെന്ന് കാട്ടി എറണാകുളം സ്വദേശിയും ഐടി പ്രൊഫഷണലുമായ അക്ഷയ് പ്രകാശ് ആണ് പരാതി നൽകിയത്. സംഭവത്തിൽ ക്രിമിനൽ കേസ് രജിസ്റ്റർ ചെയ്‌ത് അന്വേഷണം ആരംഭിക്കാൻ കോടതി പൊലീസിന് നിർദേശം നൽകി. തിയേറ്ററിലും ഒടിടിയിലും സിനിമ റിലീസ് ചെയ്‌തതിന് പിന്നാലെ വിദേശത്ത് നിന്നുൾപ്പെടെ കോളുകളും സന്ദേശങ്ങളും തേടിയെത്തുന്നുവെന്നാണ് പരാതിക്കാരൻ അവകാശപ്പെട്ടിരിക്കുന്നത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.keralakaumudi.com/kerala/general/officer-on-duty-movie-complaint-1830028"
+    },
+
+    {
+      "id": "72",
+      "type": "news",
+      "order": 37,
+      "category": {
+        "ml": "കുറ്റകൃത്യം",
+        "en": "crime"
+      },
+      "title": {
+        "ml": "കട്ടപ്പനയില്‍ മന്തി കഴിച്ച 37 പേര്‍ക്ക് ഭക്ഷ്യവിഷബാധ; രണ്ട് പേരുടെ നില ഗുരുതരം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>കട്ടപ്പന:</b> മന്തി കഴിച്ച 37 പേര്‍ക്ക് ഭക്ഷ്യവിഷബാധയേറ്റു. കട്ടപ്പനയിലാണ് സംഭവം. ഇടുക്കിയില്‍ വിനോദ സഞ്ചാരത്തിനെതിയ തിരൂര്‍ സ്വദേശികളായ വിദ്യാര്‍ഥികള്‍ ഉള്‍പ്പെടെയുള്ളവര്‍ക്കാണ് ഭക്ഷ്യ വിഷബാധയേറ്റത്. ഇതില്‍ രണ്ട് പേരുടെ നില",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.mangalam.com/news/detail/883105-latest-news-37sufferfoodpoisoningaftereatingmandi.html"
+    },
+
+
+    {
+      "id": "9",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "രണ്ടാമത്തെ മയക്കുവെടി ‘ഏറ്റില്ല’; ചക്കക്കൊമ്പൻ കാട്ടിലേക്ക് ഓടിമാറി: ഇന്നത്തെ ദൗത്യം ഉപേക്ഷിച്ചു",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ചിന്നക്കനാൽ (ഇടുക്കി)∙ ചക്കക്കൊമ്പന് റേഡിയോ കോളർ ഘടിപ്പിക്കാനുള്ള ദൗത്യം ഉപേക്ഷിച്ചു. രണ്ട് ഡോസ് മയക്കുവെടി വച്ചെങ്കിലും രണ്ടാമത്ത മയക്കുവെടി <a href='https://www.manoramaonline.com/topics/environment/elephant.html'>ആനയ്ക്ക്</a> ഏറ്റിരുന്നില്ല. ഇതോടെയാണ് ദൗത്യം ഇന്നത്തേക്ക് ഉപേക്ഷിച്ചത്. കാലാവസ്ഥ പ്രതീകൂലമാവുകയും സമയം വൈകുകയും ചെയ്തതോടെയാണ് ദൗത്യം അവസാനിപ്പിച്ചത്. പ്രദേശത്ത് മൂടൽ മഞ്ഞും കനത്ത മഴയുമാണ്. നാളെ ദൗത്യം വീണ്ടും തുടങ്ങുമെന്ന് <a href='https://www.manoramaonline.com/topics/news/kerala/organisations/forestdepartment.html'>വനം വകുപ്പ്</a> അറിയിച്ചു. ആന കാട്ടിലേക്ക് ഓടിമാറി.&nbsp;" ,
+        "en": ""
+      },
+      "image": " images/news03.jpg",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/25/chakkakomban-capture-mission-chinnakanal-updates.html"
+    },
+    
+    {
+      "id": "9",
+      "type": "news",
+      "order": 55,
+      "category": {
+        "ml": "കേരളം",
+        "en": "keralam"
+      },
+      "title": {
+        "ml": "കേരളത്തിൽ മികച്ച ഭരണം, കേരളം ഭാരതത്തിന് മാതൃകയാവും; മുഖ്യമന്ത്രിയുടെ നയങ്ങളോട് യോജിപ്പെന്ന് ശശി തരൂർ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>പത്തനംതിട്ട:</b> മുഖ്യമന്ത്രിയെ പിന്തുണച്ച് ശശി തരൂർ എം പി. കേരളത്തിൽ മികച്ച ഭരണം. വയോജന സംരക്ഷണം നല്ല മാതൃക. കേരളം ഭാരതത്തിന് മാതൃകയാവും. തുറമുഖ പദ്ധതികൾ കേരളത്തിന് ഗുണകരമാകും. കൂടുതൽ നിക്ഷേപകരെ കേരളത്തിലേക്ക് ആകർഷിക്കാനാവണം." ,
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.twentyfournews.com/2026/11/24/sashi-tharoor-support-over-v-d-satheeshan.html"
+    },
+
+    {
+      "id": "21",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml":"രാഷ്ട്രപതി 27ന് ഗുരുവായൂർ ക്ഷേത്രദർശനം നടത്തും; മേഖലയിൽ കർശന ഗതാഗത നിയന്ത്രണം",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>ഗുരുവായൂർ </b>∙ രാഷ്ട്രപതി ദ്രൗപദി മുർമു 27ന് ഗുരുവായൂർ ക്ഷേത്രദർശനം നടത്തും. 3ന് അരിയന്നൂർ ശ്രീകൃഷ്ണ കോളജ് ഗ്രൗണ്ടിൽ ഹെലികോപ്റ്ററിൽ ഇറങ്ങും. ശ്രീവത്സം ഗെസ്റ്റ് ഹൗസിൽ നിന്ന് 3.50ന് ക്ഷേത്രദർശനത്തിനു പുറപ്പെടും. 4.15 വരെ ക്ഷേത്രത്തിൽ. 4.30ന് ഗുരുവായൂരിൽ നിന്നു മടങ്ങും. രാഷ്ട്രപതിയുടെ സന്ദർശനത്തിന്റെ ഭാഗമായി ചൂണ്ടൽ മുതൽ ഗുരുവായൂർ കാരക്കാട് ജംക്‌ഷൻ വരെ ഉച്ചയ്ക്ക് ഒന്നിനു ശേഷം ഗതാഗതം അനുവദിക്കില്ല.",
+        "en": ""
+      },
+      "image": " images/news04.jpg",
+      "link": "https://www.manoramaonline.com/district-news/thrissur/2026/11/25/thrissur-traffic-restrictions-president-visit.html"
+    },
+    {
+       "id": "22",
+      "type": "news",
+      "order": 36,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml": "തൃശൂർ മെഡിക്കൽ കോളജിൽ ഗുരുതര അനാസ്ഥ; രോഗി മരിച്ചു കിടന്നത് 36 മണിക്കൂർ" ,
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>തൃശൂർ∙ തൃശൂർ </b><a href='https://www.manoramaonline.com/topics/health/medical-college.html'>മെഡിക്കൽ കോളജ്</a> ആശുപത്രിയിൽ ചികിത്സയിലിരുന്ന രോഗി മരിച്ചു കിടന്നത് 36 മണിക്കൂർ. ആശുപത്രിയിലെ വാർഡിനോടു ചേർന്നുള്ള ശുചിമുറിയിലാണ് മാക്കുട്ടി റാവുത്തർ (77) എന്ന രോഗിയെ മരിച്ച നിലയിൽ കണ്ടെത്തിയത്. നവംബർ 16 നാണ് മാക്കുട്ടിയെ ആശുപത്രിയിൽ പ്രവേശിപ്പിച്ചത്. കഴിഞ്ഞ വ്യാഴാഴ്ച മുതൽ ഇയാളെ കാണാനില്ലായിരുന്നു. തുടർന്ന് തിരച്ചിൽ നടത്തിയെങ്കിലും കണ്ടെത്തിയില്ല. 36 മണിക്കൂറുകൾക്കു ശേഷം ശനിയാഴ്ചയാണ് രോഗിയെ വാർഡിനോടു ചേർന്നുള്ള ശുചിമുറിയിൽ മരിച്ച നിലയിൽ കണ്ടെത്തിയത്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/11/25/thrissur-medical-college-missing-patient-death.html"
+    },
+    {
+       "id": "23",
+      "type": "news",
+      "order": 59,
+      "category": {
+        "ml": "പ്രാദേശികം",
+        "en": "local"
+      },
+      "title": {            
+        "ml": "പെരുമ്പാവൂർ ∙ രാഷ്ട്രപതിയുടെ കാലടി ആദിശങ്കര ജന്മഭൂമി ക്ഷേത്ര ദർശനം പ്രമാണിച്ച് നവംബർ 27ന് രാവിലെ 09.30 മുതൽ ഗതാഗത നിയന്ത്രണം ഏർപ്പെടുത്തി." ,
+        "en": ""
+      },
+      "summary": {
+        "ml": "<b>അതിരപ്പിള്ളി ∙ വേഴാമ്പൽ, മയിൽ തുടങ്ങിയ പക്ഷിവർഗങ്ങളുടെ ആവാസവ്യവസ്ഥയെ പ്രതികൂലമായി ബാധിക്കുന്ന ഹൈമാസ്റ്റ് വിളക്കുകൾ അതിരപ്പിള്ളി, വാഴച്ചാൽ മേഖലയിൽ നിരോധിക്കുന്നതിനു നടപടി ഉണ്ടാകുമെന്ന് കേന്ദ്രമന്ത്രി സുരേഷ് ഗോപി. അതിരപ്പിള്ളി വിനോദസഞ്ചാര മേഖലയുടെ സമഗ്രവികസനം ലക്ഷ്യമാക്കിയുള്ള പഠന റിപ്പോർട്ട് പരിശോധിക്കുന്നതിന്റെ ഭാഗമായി നടത്തിയ സന്ദർശനത്തിലാണ് മന്ത്രി ഇക്കാര്യം അറിയിച്ചത്. പക്ഷികളുടെ ഉറക്കംകെടുത്തുന്ന ഹൈമാസ്റ്റ് ലൈറ്റുകൾ, നിയോൺ ലാംപുകൾ എന്നിവ പക്ഷികളുടെ പ്രജനനത്തെയും ബാധിച്ചിരിക്കുന്നു.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/district-news/ernakulam/2026/11/25/president-kalady-temple-visit-traffic-restrictions.html"
+    },
+   {
+      "id": "81",
+      "type": "news",
+      "order": 26,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "കീ ലെന്റോയിൽ ഇറങ്ങിയോ? 'ഫോക്കസ് മോഡ്' മുതൽ വേഷംമാറൽ വരെ; ജിടിഎ 6 തുടക്കക്കാർ അറിയേണ്ടതെല്ലാം!"
+      },
+      "summary": {
+        "ml": "പതിമൂന്ന് വർഷത്തെ കാത്തിരിപ്പിനൊടുവിൽ ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ 6 (Grand Theft Auto 6 - GTA 6) ഗെയിമിങ് ലോകത്തെത്തിയിരിക്കുകയാണ്. ജെയ്‌സണും ലൂസിയയുമായി ലിയോണിഡയിലെത്തുന്ന കളിക്കാർക്ക് ഇനി മുന്നിൽ തുറക്കുന്നത് കാറുകൾ മോഷ്ടിക്കാനും പൊലീസിനെ വെട്ടിക്കാനും മാത്രമുള്ളൊരു ലോകമല്ല; മുതലകൾ പതിയിരിക്കുന്ന ചതുപ്പുകൾ, നിഗൂഢ ദ്വീപുകൾ, വിചിത്ര മനുഷ്യർ, UFO-കൾ, ഒളിഞ്ഞിരിക്കുന്ന നൂറുകണക്കിന് രഹസ്യങ്ങൾ എന്നിവയടങ്ങിയ വലിയൊരു വിസ്മയലോകമാണ്.&nbsp;",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/gaming-hub/2026/11/25/gta-6-gameplay-tips-and-beginners-guide.html"
+    },  
+    {
+      "id": "81",
+      "type": "news",
+      "order": 46,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ശത്രു ഡ്രോണുകളെ തകർക്കാൻ എഐ കരുത്തുള്ള 'ജ്വാല'; ഇന്ത്യയുടെ ആദ്യ സ്വയംനിയന്ത്രിത മൈക്രോ-മിസൈൽ പരീക്ഷണം വിജയം! "
+      },
+      "summary": {
+        "ml": "ഇന്ത്യൻ പ്രതിരോധ സാങ്കേതികവിദ്യാ കമ്പനിയായ ഐജി ഡിഫൻസ് തദ്ദേശീയമായി വികസിപ്പിച്ച 'ജ്വാല എംകെ-1' (JWALA MK-1) മൈക്രോ-മിസൈൽ സംവിധാനം വിജയകരമായി പരീക്ഷിച്ചു. രാജസ്ഥാനിലെ പൊഖ്‌റാൻ ഫയറിങ് റേഞ്ചിലായിരുന്നു പരീക്ഷണം. 5 കിലോമീറ്റർ പരിധിയിലുള്ള ശത്രു ഡ്രോണുകളെ സ്വയം കണ്ടെത്തി തകർക്കാൻ ശേഷിയുള്ള ഇന്ത്യയുടെ ആദ്യത്തെ സ്വയംനിയന്ത്രിത&nbsp; കൗണ്ടർ-ഡ്രോൺ മൈക്രോ-മിസൈൽ സംവിധാനമാണിത്.",
+        "en": ""
+      },
+      "image": " images/news05.jpg",
+      "link": "https://www.manoramaonline.com/technology/defence/2026/11/23/jwala-mk-1-micro-missile-system.html"
+    },  
+    {
+      "id": "81",
+      "type": "news",
+      "order": 58,
+      "category": {
+        "ml": "ടെക്നോളജി",
+        "en": "technology"
+      },
+      "title": {
+        "ml": "ഐഫോൺ എയർ 2, ഐഫോൺ 18 ഡമ്മി മോഡലുകൾ പുറത്ത്; വരുന്നത് വമ്പൻ മാറ്റങ്ങൾ, '18e' ഉണ്ടാകില്ലെന്ന് സൂചന!"
+      },
+      "summary": {
+        "ml": "ആപ്പിളിന്റെ അടുത്ത സ്മാർട്ഫോൺ നിരയായ ഐഫോൺ എയർ 2 (iPhone Air 2), സ്റ്റാൻഡേർഡ് ഐഫോൺ 18 (iPhone 18) എന്നിവയുടെ ഡമ്മി മോഡലുകൾ ടിപ്സ്റ്റർ സോണി ഡിക്സൺ പങ്കുവച്ചു. കനം കുറഞ്ഞ ഐഫോൺ എയർ 2ൽ ഇരട്ട പിൻക്യാമറ എത്തുമെന്ന സൂചനയാണ് ഡമ്മി മോഡലുകൾ നൽകുന്നത്. അതേസമയം സ്റ്റോറേജ് ഘടകങ്ങളുടെ വില കുതിച്ചുയരുന്നതിനാൽ ഐഫോൺ 18e എത്തുമോ എന്നതിൽ ആശങ്ക നിലനിൽക്കുന്നുണ്ട്.",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.manoramaonline.com/technology/gadgets/2026/11/21/iphone-air-2-and-iphone-18-dummy-models-leaked.html"
+    },  
+   
+    {
+      "id": "101",
+      "type": "news",
+      "order": 23,
+      "category": {
+        "ml": "പൊതുവിജ്ഞാനം",
+        "en": "GK"
+      },
+      "title": {
+        "ml":"The 2026 UN climate summit (COP31) in Antalya, Türkiye",
+        "en": ""
+      },
+      "summary": 
+      {
+        "ml":"<b>Key Highlights of COP31 <b> <br><ul><li><strong>Dates &amp; Leadership:</strong> Held in Antalya, Türkiye, with negotiations extending past the planned November 9–20 schedule. Türkiye hosted the event while Australia's Chris Bowen led negotiations.</li><li><strong>Fossil Fuel Standoff:</strong> Talks collapsed over whether to include commitments on phasing out or transitioning away from fossil fuels. The EU and many other nations rejected a draft that omitted fossil fuels, while major oil- and gas-producing countries resisted stronger language.</li><li><strong>Climate Finance &amp; Consensus:</strong> Disputes over adaptation funding for developing nations and the UN's consensus rule—which allows individual countries to block outcomes—also stalled progress, marking the first UN climate summit without a deal since 2009.</li><li><strong>Earlier 2026 UN Summit:</strong> UN Secretary-General António Guterres also convened a separate Climate Summit 2026 at UN Headquarters in New York on September 23, 2026, focused on clean energy, climate finance, and resilience</li></ul>"
+      },
+      "image": "",
+      "link": "https://www.un.org/en/climatechange/un-climate-conferences"
+    },
+    {
+      "id": "92",
+      "type": "news",
+      "order": 25,
+      "category": {
+        "ml": "തൊഴിലവസരം",
+        "en": "employment"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": "/"
+    },
+    
+    {
+      "id": "019",
+      "type": "news",
+      "order": 61,
+      "category": {
+        "ml": "ബിസിനസ്",
+        "en": "business"
+      },
+      "title": {
+        "ml": "ഇന്നത്തെ ഓഹരി വിപണി",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<a href='https://www.bseindia.com/'>ബി.എസ്. ഇ സെന്‍സെക്സ് :83,938.28 <span style='color:greem;'>+1,502.29( ▲ 1.82%) </span> ഇന്ന് </a><br><a href='https://www.nseindia.com/market-data/live-market-indices'> എൻ.എസ്.ഇ നിഫ്റ്റി : 25,819.25 <span style='color:green;'> +489.60 ( ▲ +1.85%)</a> ",
+        "en": "Short news summary."
+      },
+      "image": "images/sharemarket.png",
+      "link": ""
+    },
+    {
+      "id": "020",
+      "type": "news",
+      "order": 62,
+      "category": {
+        "ml": "'സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "business"
+      },
+      "title": {
+        "ml": "'‍സ്വർണ്ണം, വെള്ളി നിരക്കുകള്‍",
+        "en": "Business news"
+      },
+      "summary": {
+        "ml": "<b> സ്വര്‍ണ്ണം  22K ഗ്രാമിന്  <span style='color:green;'> ₹ 11,420  ₹ -295 ▼  )   </span>) <br> വെള്ളി ഗ്രാമിന്  (<span style='color:silver;'>₹ 165 ( ₹ -10 ▼ ) </span> ) </b>",
+        "en": "Short news summary."
+      },
+      "image": "images/goldsilver.jfif",
+      "link": "https://bullions.co.in/location/thiruvananthapuram/"
+    },
+    {
+      "id": "900",
+      "type": "news",
+      "order": 19,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഇ-സേവനങ്ങള്‍ ഇനി വിരല്‍ തുമ്പില്‍ ",
+        "en": ""
+      },
+      "summary": {
+        "ml": "വരി നില്‍ക്കേണ്ട, യാത്ര ചെയ്യേണ്ട, സമയ പരിധിയില്ല, കലാവസ്ഥ ഭീഷണിയൊന്നുമില്ലാതെ, ഏതൊരു ഇ-സേവനങ്ങളും നിങ്ങളുടെ വിരല്‍തുമ്പല്‍ലഭ്യമാക്കു്ന്നു. ബന്ധപ്പെടുക. <a href='tel:919745397722'><b> 9745397722 </b></a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/e-services.jpg",
+      "link": "https://onlineserviceshub.in/e-district/"
+    },
+    {
+      "id": "901",
+      "type": "news",
+      "order": 9,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍.",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "വെബ് ഡിസൈനര്‍ & ട്രെയിനര്‍. ബന്ധപ്പെടുക <a href='tel:919745397722'>9745397722</a>",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/freelance.png",
+      "link": "https://geocities.ws/bennykavil/"
+    },
+    {
+      "id": "903",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സായഹ്ന വാർത്തകള്‍",
+        "en": "Freelance Web Designer & Coach"
+      },
+      "summary": {
+        "ml": "നിങ്ങളുടെ മൊബൈലില്‍ ലഭിക്കുവാന്‍ ഈ ലിങ്ക് ഉപയോഗിക്കുക.",
+        "en": ""
+      },
+      "image": "https://geocities.ws/e-paper/images/logo.png",
+      "link": "https://chat.whatsapp.com/BGfdihgMvERAhCezlxYanF?s=cl&p=a&ilr=1"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 29,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Are you trapped in Computer / IT issues?",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/Computer_IT_Trouble_350x50.gif",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('May I Help you? Describe your issue, ')"
+    },
+    {
+      "id": "904",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "Online services in your Finger Tips",
+        "en": ""
+      },
+      "summary": {
+        "ml": "No queue / No Travel",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/noqueue.gif",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "905",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തില്‍ പരസ്യം ചെയ്യു.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "കുറഞ്ഞ ചിലവില്‍ സായാഹ്ന പത്രത്തിലൂടെ നിങ്ങളുടെ സേവനങ്ങള്‍, ബിസിനസ്, ആഘോഷങ്ങള്‍, അറിയിപ്പുകള്‍,.......പരസ്യം ചെയ്യുവാനുള്ള സാഹചര്യം.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/advt1.jpg",
+      "link": "https://wa.me/919745397722?text= encodeURIComponent('We will Help you. Semd your requiest here., ')"
+    },
+    {
+      "id": "908",
+      "type": "news",
+      "order": 30,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "ഉപകാര സ്മരണ.",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<span style='color:red; fornt-weight:bold;'>വിശുദ്ധ യൂദാസ്ലീഹായുടെ നൊവേന.</span><br> മിശിഹായുടെ സ്നേഹിതനും വിശ്വസ്തദാസനുമായ വി. യൂദാശ്ലീഹായേ, ഏറ്റവും കഷ്ടപ്പെടുന്ന എനിക്കുവേണ്ടി അപേക്ഷിക്കണമേ. യാതൊരു സഹായവും ഫലസിദ്ധിയുമില്ലാതെ വരുന്ന സന്ദര്‍ഭത്തില്‍ ഏറ്റവും ത്വരിതവും, ഗോചരവുമായ സഹായം ചെയ്യുന്നതിന് അങ്ങേക്ക് വിശേഷവിധിയായാി കിട്ടിയിരിക്കുന്ന അനുഗ്രഹത്തെ അങ്ങ് ഉപയോഗിക്കണമെ. എന്‍റെ എല്ലാ ആവശ്യങ്ങളിലും വിശിഷ്യ(ആവശ്യം പറയുക) അങ്ങേ സഹായം ഞാനപേക്ഷിക്കുന്നു. ഭാഗ്യപ്പെട്ട യൂദാസ്ലീഹായേ, അങ്ങേ ഈ അനുഗ്രഹത്തെ ഞാന്‍ സദാ ഓര്‍ക്കുമെന്നും അങ്ങേ സ്തുതികളെ ലോകത്തെങ്ങും അറിയിക്കുമെന്നും ഞാന്‍ വാഗ്ദാനം ചെയ്യുന്നു. <b>ആമ്മേന്‍</b>",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/stjude.jpg",
+      "link": ""
+    },
+
+    {
+      "id": "999",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "നിര്യാതനായി",
+        "en": "obit"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "950",
+      "type": "news",
+      "order": 32,
+      "category": {
+        "ml": "ന്യൂസ്",
+        "en": "paper"
+      },
+      "title": {
+        "ml": "<b>📰</b> പ്രമുഖ പത്രങ്ങളിലൂടെ..................",
+        "en": ""
+      },
+      "summary": {
+        "ml": "<ul><li><a href='https://keralakaumudi.com/' target='_blank'>കേരള കൌമുദി</a> </li><li> <a href='https://www.mathrubhumi.com/' target='_blank'>മാതൃഭൂമി</a> </li><li> <a href='https://www.deepika.com/' target='_blank'>ദീപിക</a></li><li><a href='https://www.manoramaonline.com/' target='_blank'>മലയാള മനോരമ</a></li></ul><br>🌐 Web Sites.<br><ul><li><a href='https://www.reporterlive.com/' target='_blank'> റിപ്പോര്‍ട്ടര്‍ ടി.വി.</a> </li><li><a href='https://www.asianetnews.com/' target='_blank'> ഏഷ്യനെറ്റ് ന്യൂസ് </a> </li><li><a href='https://www.twentyfournews.com/' target='_blank'> ട്വിന്‍റി ഫോര്‍ ന്യൂസ് </a> </li></ul>",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "907",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സുര്യനു കീഴില്‍ ഏതൊരു ഓണ്‍ലൈന്‍ സേവനങ്ങള്‍ക്കും.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "ഞങ്ങളെ ബന്ധപ്പെടുക. Experienced Professionals since 1986.",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/anyservices.jpeg",
+      "link": "https://onlineserviceshub.in/"
+    },
+    {
+      "id": "907",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "ആശംസകള്‍",
+        "en": "gret"
+      },
+      "title": {
+        "ml": "",
+        "en": ""
+      },
+      "summary": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "",
+      "link": ""
+    },
+
+    {
+      "id": "905",
+      "type": "news",
+      "order": 31,
+      "category": {
+        "ml": "പരസ്യം",
+        "en": "Advertisement"
+      },
+      "title": {
+        "ml": "സ്വന്തം വെബ് സൈറ്റ് നിർമ്മിക്കുക.",
+        "en": "Create your own Websie"
+      },
+      "summary": {
+        "ml": "99.00 രൂപക്ക് സ്വന്തം വെബ് സൈറ്റ് ഉണ്ടാക്കുക. ",
+        "en": ""
+      },
+      "image": "https://bennykavil-hue.github.io/Eveningpaper/images/learnhtml.jpg",
+      "link": "https://onlineserviceshub.in/"
+    }
+  ]
+}
